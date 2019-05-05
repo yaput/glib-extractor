@@ -1,0 +1,72 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "yes",
+            "intent": "yes",
+            "entities": []
+         },
+         {
+            "text": "yeah",
+            "intent": "yes",
+            "entities": []
+         },
+         {
+            "text": "yea",
+            "intent": "yes",
+            "entities": []
+         },
+         {
+            "text": "of  course",
+            "intent": "yes",
+            "entities": []
+         },
+         {
+            "text": "why not",
+            "intent": "yes",
+            "entities": []
+         },
+         {
+            "text": "sure",
+            "intent": "yes",
+            "entities": []
+         },
+         {
+            "text": "yes please",
+            "intent": "yes",
+            "entities": []
+         },
+         {
+            "text": "oh yeah",
+            "intent": "yes",
+            "entities": []
+         },
+         {
+            "text": "yep",
+            "intent": "yes",
+            "entities": []
+         },
+         {
+            "text": "yah",
+            "intent": "yes",
+            "entities": []
+         },
+         {
+            "text": "ok",
+            "intent": "yes",
+            "entities": []
+         },
+         {
+            "text": "yes of course",
+            "intent": "yes",
+            "entities": []
+         },
+         {
+            "text": "yes",
+            "intent": "yes",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

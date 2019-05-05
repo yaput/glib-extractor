@@ -1,0 +1,147 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "i don't like you",
+            "intent": "feelings_negative",
+            "entities": []
+         },
+         {
+            "text": "i hate you",
+            "intent": "feelings_negative",
+            "entities": []
+         },
+         {
+            "text": "you are boring",
+            "intent": "feelings_negative",
+            "entities": []
+         },
+         {
+            "text": "you are bad",
+            "intent": "feelings_negative",
+            "entities": []
+         },
+         {
+            "text": "you are terrible",
+            "intent": "feelings_negative",
+            "entities": []
+         },
+         {
+            "text": "you are not good",
+            "intent": "feelings_negative",
+            "entities": []
+         },
+         {
+            "text": "you are not all that",
+            "intent": "feelings_negative",
+            "entities": []
+         },
+         {
+            "text": "you are not amazing",
+            "intent": "feelings_negative",
+            "entities": []
+         },
+         {
+            "text": "you suck",
+            "intent": "feelings_negative",
+            "entities": []
+         },
+         {
+            "text": "youre so mean",
+            "intent": "feelings_negative",
+            "entities": []
+         },
+         {
+            "text": "you're super annoying",
+            "intent": "feelings_negative",
+            "entities": []
+         },
+         {
+            "text": "very irritating",
+            "intent": "feelings_negative",
+            "entities": []
+         },
+         {
+            "text": "I am not happy with your services",
+            "intent": "feelings_negative",
+            "entities": []
+         },
+         {
+            "text": "i dont like your services",
+            "intent": "feelings_negative",
+            "entities": []
+         },
+         {
+            "text": "you're so irritating",
+            "intent": "feelings_negative",
+            "entities": []
+         },
+         {
+            "text": "you annoy me",
+            "intent": "feelings_negative",
+            "entities": []
+         },
+         {
+            "text": "you're sick",
+            "intent": "feelings_negative",
+            "entities": []
+         },
+         {
+            "text": "screw you",
+            "intent": "feelings_negative",
+            "entities": []
+         },
+         {
+            "text": "fuck you",
+            "intent": "feelings_negative",
+            "entities": []
+         },
+         {
+            "text": "you suck!",
+            "intent": "feelings_negative",
+            "entities": []
+         },
+         {
+            "text": "you are the worst",
+            "intent": "feelings_negative",
+            "entities": []
+         },
+         {
+            "text": "go to hell",
+            "intent": "feelings_negative",
+            "entities": []
+         },
+         {
+            "text": "you're horrible",
+            "intent": "feelings_negative",
+            "entities": []
+         },
+         {
+            "text": "you're sick",
+            "intent": "feelings_negative",
+            "entities": []
+         },
+         {
+            "text": "you're disgusting",
+            "intent": "feelings_negative",
+            "entities": []
+         },
+         {
+            "text": "you're so not helpful",
+            "intent": "feelings_negative",
+            "entities": []
+         },
+         {
+            "text": "youre such a disaster",
+            "intent": "feelings_negative",
+            "entities": []
+         },
+         {
+            "text": "Don't like chatbots",
+            "intent": "feelings_negative",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

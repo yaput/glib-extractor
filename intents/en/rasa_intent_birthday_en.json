@@ -1,0 +1,57 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "it's my birthday today",
+            "intent": "birthday",
+            "entities": []
+         },
+         {
+            "text": "wish me a happy birthday today",
+            "intent": "birthday",
+            "entities": []
+         },
+         {
+            "text": "can you wish me a happy birthday",
+            "intent": "birthday",
+            "entities": []
+         },
+         {
+            "text": "today's my birthday",
+            "intent": "birthday",
+            "entities": []
+         },
+         {
+            "text": "i want you to wish a happy birthday",
+            "intent": "birthday",
+            "entities": []
+         },
+         {
+            "text": "today's my birthday let's celebrate",
+            "intent": "birthday",
+            "entities": []
+         },
+         {
+            "text": "celebrate my birthday with me",
+            "intent": "birthday",
+            "entities": []
+         },
+         {
+            "text": "you are invited to celebrate my birthday with me",
+            "intent": "birthday",
+            "entities": []
+         },
+         {
+            "text": "i want to invite you to my birthday party",
+            "intent": "birthday",
+            "entities": []
+         },
+         {
+            "text": "birthday",
+            "intent": "birthday",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

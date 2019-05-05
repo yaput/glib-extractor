@@ -1,0 +1,237 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "هل أنت حقيقي؟",
+            "intent": "about_sam",
+            "entities": []
+         },
+         {
+            "text": "انت حقيقى؟",
+            "intent": "about_sam",
+            "entities": []
+         },
+         {
+            "text": "هل أنت انسان؟",
+            "intent": "about_sam",
+            "entities": []
+         },
+         {
+            "text": "أنت انسان؟",
+            "intent": "about_sam",
+            "entities": []
+         },
+         {
+            "text": "هل انت آلة؟",
+            "intent": "about_sam",
+            "entities": []
+         },
+         {
+            "text": "انت آلة؟",
+            "intent": "about_sam",
+            "entities": []
+         },
+         {
+            "text": "هل انت انسان آلى ؟",
+            "intent": "about_sam",
+            "entities": []
+         },
+         {
+            "text": "هل انت روبوت؟ ما اسمك؟",
+            "intent": "about_sam",
+            "entities": []
+         },
+         {
+            "text": "شو اسمك؟",
+            "intent": "about_sam",
+            "entities": []
+         },
+         {
+            "text": "ما هو اسمك؟",
+            "intent": "about_sam",
+            "entities": []
+         },
+         {
+            "text": "عند كام سنة ؟",
+            "intent": "about_sam",
+            "entities": []
+         },
+         {
+            "text": "من أنت ؟",
+            "intent": "about_sam",
+            "entities": []
+         },
+         {
+            "text": "أنت مين ؟",
+            "intent": "about_sam",
+            "entities": []
+         },
+         {
+            "text": "مين انت ؟",
+            "intent": "about_sam",
+            "entities": []
+         },
+         {
+            "text": "اين تسكن ؟",
+            "intent": "about_sam",
+            "entities": []
+         },
+         {
+            "text": "وين ساكن؟",
+            "intent": "about_sam",
+            "entities": []
+         },
+         {
+            "text": "انت ساكن فين؟",
+            "intent": "about_sam",
+            "entities": []
+         },
+         {
+            "text": "هل انت شات بوت؟",
+            "intent": "about_sam",
+            "entities": []
+         },
+         {
+            "text": "هل انت بوت؟",
+            "intent": "about_sam",
+            "entities": []
+         },
+         {
+            "text": "انت تشات بوت؟",
+            "intent": "about_sam",
+            "entities": []
+         },
+         {
+            "text": "مين اللى بيكلمنى؟",
+            "intent": "about_sam",
+            "entities": []
+         },
+         {
+            "text": "من الذى يتحدث الى؟",
+            "intent": "about_sam",
+            "entities": []
+         },
+         {
+            "text": "ماذا تكون؟",
+            "intent": "about_sam",
+            "entities": []
+         },
+         {
+            "text": "انت ايه؟",
+            "intent": "about_sam",
+            "entities": []
+         },
+         {
+            "text": "هل انت كائن حى ؟",
+            "intent": "about_sam",
+            "entities": []
+         },
+         {
+            "text": "انت حى ؟",
+            "intent": "about_sam",
+            "entities": []
+         },
+         {
+            "text": "حدثنى عن نفسك",
+            "intent": "about_sam",
+            "entities": []
+         },
+         {
+            "text": "كلمنى عن نفسك",
+            "intent": "about_sam",
+            "entities": []
+         },
+         {
+            "text": "هل أعرفك ؟",
+            "intent": "about_sam",
+            "entities": []
+         },
+         {
+            "text": "انا أعرفك ؟",
+            "intent": "about_sam",
+            "entities": []
+         },
+         {
+            "text": "هل نت موظف لدى الصكوك الوطنية؟",
+            "intent": "about_sam",
+            "entities": []
+         },
+         {
+            "text": "هل تعمل لدى الصكوك الوطنية؟",
+            "intent": "about_sam",
+            "entities": []
+         },
+         {
+            "text": "الذكاء الإصطناعى",
+            "intent": "about_sam",
+            "entities": []
+         },
+         {
+            "text": "هل انت عميل ؟",
+            "intent": "about_sam",
+            "entities": []
+         },
+         {
+            "text": "هل انت موظف؟",
+            "intent": "about_sam",
+            "entities": []
+         },
+         {
+            "text": "هل انت حقيقي؟",
+            "intent": "about_sam",
+            "entities": []
+         },
+         {
+            "text": "أنت حقيقي؟",
+            "intent": "about_sam",
+            "entities": []
+         },
+         {
+            "text": "هل انت زائف؟",
+            "intent": "about_sam",
+            "entities": []
+         },
+         {
+            "text": "انت مزيف؟",
+            "intent": "about_sam",
+            "entities": []
+         },
+         {
+            "text": "ما اسمك",
+            "intent": "about_sam",
+            "entities": []
+         },
+         {
+            "text": "اسمك ايه",
+            "intent": "about_sam",
+            "entities": []
+         },
+         {
+            "text": "من انت",
+            "intent": "about_sam",
+            "entities": []
+         },
+         {
+            "text": "انت بوت",
+            "intent": "about_sam",
+            "entities": []
+         },
+         {
+            "text": "هل انت بوت",
+            "intent": "about_sam",
+            "entities": []
+         },
+         {
+            "text": "انت تشات بوت",
+            "intent": "about_sam",
+            "entities": []
+         },
+         {
+            "text": "انت شات بوت",
+            "intent": "about_sam",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

@@ -1,0 +1,102 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "is there a national bonds app?",
+            "intent": "mobile_app",
+            "entities": []
+         },
+         {
+            "text": "iphone app for national bonds",
+            "intent": "mobile_app",
+            "entities": []
+         },
+         {
+            "text": "does NB have an app",
+            "intent": "mobile_app",
+            "entities": []
+         },
+         {
+            "text": "National bonds mobile app",
+            "intent": "mobile_app",
+            "entities": []
+         },
+         {
+            "text": "app for iphone",
+            "intent": "mobile_app",
+            "entities": []
+         },
+         {
+            "text": "app for mobile",
+            "intent": "mobile_app",
+            "entities": []
+         },
+         {
+            "text": "do you have mobile app",
+            "intent": "mobile_app",
+            "entities": []
+         },
+         {
+            "text": "is there a phone app",
+            "intent": "mobile_app",
+            "entities": []
+         },
+         {
+            "text": "where can i download the mobile app",
+            "intent": "mobile_app",
+            "entities": []
+         },
+         {
+            "text": "national bond android app",
+            "intent": "mobile_app",
+            "entities": []
+         },
+         {
+            "text": "i want to download the app",
+            "intent": "mobile_app",
+            "entities": []
+         },
+         {
+            "text": "NB iphone app",
+            "intent": "mobile_app",
+            "entities": []
+         },
+         {
+            "text": "links to mobile app",
+            "intent": "mobile_app",
+            "entities": []
+         },
+         {
+            "text": "where is the mobile app",
+            "intent": "mobile_app",
+            "entities": []
+         },
+         {
+            "text": "app",
+            "intent": "mobile_app",
+            "entities": []
+         },
+         {
+            "text": "is there a way to check services on phone?",
+            "intent": "mobile_app",
+            "entities": []
+         },
+         {
+            "text": "do you have a seperate app for mobiles?",
+            "intent": "mobile_app",
+            "entities": []
+         },
+         {
+            "text": "do you have app in play store?",
+            "intent": "mobile_app",
+            "entities": []
+         },
+         {
+            "text": "can i download your app from app store",
+            "intent": "mobile_app",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

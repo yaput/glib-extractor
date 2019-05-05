@@ -1,0 +1,67 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "لقد عدت",
+            "intent": "user_back",
+            "entities": []
+         },
+         {
+            "text": "انا هنا",
+            "intent": "user_back",
+            "entities": []
+         },
+         {
+            "text": "عدت",
+            "intent": "user_back",
+            "entities": []
+         },
+         {
+            "text": "عدت مرة أخرى",
+            "intent": "user_back",
+            "entities": []
+         },
+         {
+            "text": "لقد عدت مرة أخرى",
+            "intent": "user_back",
+            "entities": []
+         },
+         {
+            "text": "حسنا لقد عدت",
+            "intent": "user_back",
+            "entities": []
+         },
+         {
+            "text": "انا جيت",
+            "intent": "user_back",
+            "entities": []
+         },
+         {
+            "text": "هل ترانى لقد عدت",
+            "intent": "user_back",
+            "entities": []
+         },
+         {
+            "text": "هل ترى من عاد",
+            "intent": "user_back",
+            "entities": []
+         },
+         {
+            "text": "هل ترى من عاد من جديد",
+            "intent": "user_back",
+            "entities": []
+         },
+         {
+            "text": "اوك انا جيت تانى",
+            "intent": "user_back",
+            "entities": []
+         },
+         {
+            "text": "اوك انا جيت",
+            "intent": "user_back",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

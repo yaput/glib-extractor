@@ -1,0 +1,112 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "هل أنت حقيقي؟",
+            "intent": "are_you_real",
+            "entities": []
+         },
+         {
+            "text": "من أنت؟",
+            "intent": "are_you_real",
+            "entities": []
+         },
+         {
+            "text": "من أنت",
+            "intent": "are_you_real",
+            "entities": []
+         },
+         {
+            "text": "هل أنت روبوت دردشة",
+            "intent": "are_you_real",
+            "entities": []
+         },
+         {
+            "text": "هل أنت إنسان",
+            "intent": "are_you_real",
+            "entities": []
+         },
+         {
+            "text": "هل أتحدث إلى شخص حقيقي",
+            "intent": "are_you_real",
+            "entities": []
+         },
+         {
+            "text": "هل هذا حقيقي؟",
+            "intent": "are_you_real",
+            "entities": []
+         },
+         {
+            "text": "هل هذا حقيقي؟",
+            "intent": "are_you_real",
+            "entities": []
+         },
+         {
+            "text": "من أنت؟",
+            "intent": "are_you_real",
+            "entities": []
+         },
+         {
+            "text": "من أنت",
+            "intent": "are_you_real",
+            "entities": []
+         },
+         {
+            "text": "ما هذا",
+            "intent": "are_you_real",
+            "entities": []
+         },
+         {
+            "text": "هل هذا روبوت دردشة",
+            "intent": "are_you_real",
+            "entities": []
+         },
+         {
+            "text": "هل أنت شخص حقيقي؟",
+            "intent": "are_you_real",
+            "entities": []
+         },
+         {
+            "text": "هل أنت روبوت دردشة",
+            "intent": "are_you_real",
+            "entities": []
+         },
+         {
+            "text": "روبوت دردشة؟",
+            "intent": "are_you_real",
+            "entities": []
+         },
+         {
+            "text": "روبوت دردشة؟",
+            "intent": "are_you_real",
+            "entities": []
+         },
+         {
+            "text": "هل هذا حقيقي؟",
+            "intent": "are_you_real",
+            "entities": []
+         },
+         {
+            "text": "حقيقي",
+            "intent": "are_you_real",
+            "entities": []
+         },
+         {
+            "text": "روبوت دردشة",
+            "intent": "are_you_real",
+            "entities": []
+         },
+         {
+            "text": "حقيقي",
+            "intent": "are_you_real",
+            "entities": []
+         },
+         {
+            "text": "شات بوت",
+            "intent": "are_you_real",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

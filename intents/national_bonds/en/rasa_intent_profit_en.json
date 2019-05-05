@@ -1,0 +1,187 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "What is the profit rate of NB?",
+            "intent": "profit",
+            "entities": []
+         },
+         {
+            "text": "How is the profit distributed?",
+            "intent": "profit",
+            "entities": []
+         },
+         {
+            "text": "What happens if I don’t top up my Profit Residue?",
+            "intent": "profit",
+            "entities": []
+         },
+         {
+            "text": "What happens if I don’t withdraw my Profit Residue?",
+            "intent": "profit",
+            "entities": []
+         },
+         {
+            "text": "What is Residue Profit?",
+            "intent": "profit",
+            "entities": []
+         },
+         {
+            "text": "What will be my eligibility for Profit distribution?",
+            "intent": "profit",
+            "entities": []
+         },
+         {
+            "text": "How can I know the amount of Profit earned on my Savings with National Bonds?",
+            "intent": "profit",
+            "entities": []
+         },
+         {
+            "text": "How much profit did i make ?",
+            "intent": "profit",
+            "entities": []
+         },
+         {
+            "text": "Where can I receive my Profit Certificates?",
+            "intent": "profit",
+            "entities": []
+         },
+         {
+            "text": "how can I receive my Profit Certificates?",
+            "intent": "profit",
+            "entities": []
+         },
+         {
+            "text": "How is my profit distributed?",
+            "intent": "profit",
+            "entities": []
+         },
+         {
+            "text": "What is reserved profit?",
+            "intent": "profit",
+            "entities": []
+         },
+         {
+            "text": "How much profit have i earned?",
+            "intent": "profit",
+            "entities": []
+         },
+         {
+            "text": "How much have the customers earned?",
+            "intent": "profit",
+            "entities": []
+         },
+         {
+            "text": "What is the profit rate?",
+            "intent": "profit",
+            "entities": []
+         },
+         {
+            "text": "How can I convert my Residue Profit to additional Savings Bonds?",
+            "intent": "profit",
+            "entities": []
+         },
+         {
+            "text": "How Can I withdraw my Profit Residue amount?",
+            "intent": "profit",
+            "entities": []
+         },
+         {
+            "text": "How do I know my current Residue Profit amount?",
+            "intent": "profit",
+            "entities": []
+         },
+         {
+            "text": "What is residue savings?",
+            "intent": "profit",
+            "entities": []
+         },
+         {
+            "text": "Are my bonds eligible for profit distribution?",
+            "intent": "profit",
+            "entities": []
+         },
+         {
+            "text": "How is the yield on national bonds decided?",
+            "intent": "profit",
+            "entities": []
+         },
+         {
+            "text": "What kind of investments or what sectors is National Bonds investing in this year?",
+            "intent": "profit",
+            "entities": []
+         },
+         {
+            "text": "Required details on  profit sharing",
+            "intent": "profit",
+            "entities": []
+         },
+         {
+            "text": "What is the profit rate announced by National Bonds for 2017?",
+            "intent": "profit",
+            "entities": []
+         },
+         {
+            "text": "How is Profit distributed for the Year?",
+            "intent": "profit",
+            "entities": []
+         },
+         {
+            "text": "What are the cumulative earnings that customers made from the date of joining National Bonds?",
+            "intent": "profit",
+            "entities": []
+         },
+         {
+            "text": "Can I withdraw my Profit Residue amount?",
+            "intent": "profit",
+            "entities": []
+         },
+         {
+            "text": "What happens if I don’t top up or withdraw my Profit Residue?",
+            "intent": "profit",
+            "entities": []
+         },
+         {
+            "text": "How do I know my current Residue Profit amount?",
+            "intent": "profit",
+            "entities": []
+         },
+         {
+            "text": "What is Residue Profit?",
+            "intent": "profit",
+            "entities": []
+         },
+         {
+            "text": "Where and how can I receive my Profit Certificates?",
+            "intent": "profit",
+            "entities": []
+         },
+         {
+            "text": "How can I know the amount of Profit earned on my Savings with National Bonds?",
+            "intent": "profit",
+            "entities": []
+         },
+         {
+            "text": "What is the \"Reserved profit\" and when does it reflect in my account balance?",
+            "intent": "profit",
+            "entities": []
+         },
+         {
+            "text": "tell me about profit rates in nb",
+            "intent": "profit",
+            "entities": []
+         },
+         {
+            "text": "what is your profit scheme like",
+            "intent": "profit",
+            "entities": []
+         },
+         {
+            "text": "where does all the money go?",
+            "intent": "profit",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

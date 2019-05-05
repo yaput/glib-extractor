@@ -1,0 +1,97 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "do you have home service?",
+            "intent": "home_services",
+            "entities": []
+         },
+         {
+            "text": "could you come home for treatment?",
+            "intent": "home_services",
+            "entities": []
+         },
+         {
+            "text": "can a doctor visit my house?",
+            "intent": "home_services",
+            "entities": []
+         },
+         {
+            "text": "i want a doc at home",
+            "intent": "home_services",
+            "entities": []
+         },
+         {
+            "text": "could you send a doctor to my place",
+            "intent": "home_services",
+            "entities": []
+         },
+         {
+            "text": "would like to avail your home services",
+            "intent": "home_services",
+            "entities": []
+         },
+         {
+            "text": "What are your home services",
+            "intent": "home_services",
+            "entities": []
+         },
+         {
+            "text": "give me home service",
+            "intent": "home_services",
+            "entities": []
+         },
+         {
+            "text": "HOME",
+            "intent": "home_services",
+            "entities": []
+         },
+         {
+            "text": "can someone come home & give me a treatment",
+            "intent": "home_services",
+            "entities": []
+         },
+         {
+            "text": "i need treatment at home",
+            "intent": "home_services",
+            "entities": []
+         },
+         {
+            "text": "home avaliability",
+            "intent": "home_services",
+            "entities": []
+         },
+         {
+            "text": "home services",
+            "intent": "home_services",
+            "entities": []
+         },
+         {
+            "text": "do doctors pay home visits",
+            "intent": "home_services",
+            "entities": []
+         },
+         {
+            "text": "do doctors do visits at home",
+            "intent": "home_services",
+            "entities": []
+         },
+         {
+            "text": "home care",
+            "intent": "home_services",
+            "entities": []
+         },
+         {
+            "text": "homecare",
+            "intent": "home_services",
+            "entities": []
+         },
+         {
+            "text": "home visit",
+            "intent": "home_services",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

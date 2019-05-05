@@ -1,0 +1,87 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "tell me about idikhari",
+            "intent": "idhikari",
+            "entities": []
+         },
+         {
+            "text": "tell me more about idikhari",
+            "intent": "idhikari",
+            "entities": []
+         },
+         {
+            "text": "government saving plan",
+            "intent": "idhikari",
+            "entities": []
+         },
+         {
+            "text": "saving plan for government employee",
+            "intent": "idhikari",
+            "entities": []
+         },
+         {
+            "text": "government saving plan",
+            "intent": "idhikari",
+            "entities": []
+         },
+         {
+            "text": "saving bonds for government employee",
+            "intent": "idhikari",
+            "entities": []
+         },
+         {
+            "text": "dubai government employee",
+            "intent": "idhikari",
+            "entities": []
+         },
+         {
+            "text": "financial management for government employee",
+            "intent": "idhikari",
+            "entities": []
+         },
+         {
+            "text": "bonds for government employee",
+            "intent": "idhikari",
+            "entities": []
+         },
+         {
+            "text": "can i apply for idikhari",
+            "intent": "idhikari",
+            "entities": []
+         },
+         {
+            "text": "benefits of idhikhari",
+            "intent": "idhikari",
+            "entities": []
+         },
+         {
+            "text": "government employee saving plan",
+            "intent": "idhikari",
+            "entities": []
+         },
+         {
+            "text": "is there a saving plan for government employees?",
+            "intent": "idhikari",
+            "entities": []
+         },
+         {
+            "text": "idikhari service",
+            "intent": "idhikari",
+            "entities": []
+         },
+         {
+            "text": "is there any extra benefits of idhikari",
+            "intent": "idhikari",
+            "entities": []
+         },
+         {
+            "text": "who all are benefited from idhikari",
+            "intent": "idhikari",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

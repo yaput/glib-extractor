@@ -1,0 +1,22 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "about us",
+            "intent": "about_us_button",
+            "entities": []
+         },
+         {
+            "text": "about national bonds",
+            "intent": "about_us_button",
+            "entities": []
+         },
+         {
+            "text": "about",
+            "intent": "about_us_button",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

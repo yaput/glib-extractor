@@ -1,0 +1,197 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "Hi",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "Hello",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "Hey there!",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "Halo",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "Heyya",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "Good to meet you",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "nice to meet you",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "Is anybody there?",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "Is anyone there?",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "Good morning",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "Good evening",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "Good afternoon",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "Whats up?",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "sup?",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "help me",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "howdy",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "I have something to ask",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "can i ask a question?",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "hola",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "salam",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "Salaam Alaikum",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "yo",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "wassup",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "Will you talk to me?",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "Can you chat with me?",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "Can you speak with me?",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "Can you talk to me?",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "Speak to me",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "Chat with me",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "Talk to me",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "hi naboco",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "hi national bonds",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "hi sam!",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "hi sam",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "hi sammy",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "hey noura",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "hi noura",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "hey noora",
+            "intent": "greetings",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

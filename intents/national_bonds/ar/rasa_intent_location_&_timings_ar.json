@@ -1,0 +1,1817 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "أين تقع فروع الشركة؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "وين أماكن فروع الشركة؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أين توجد أفرع الشركة؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أين تتواجد أفرع الشركة؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أماكن فروع الشركة؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أين تقع عناوين أفرع الشركة؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "كيف أجد عناوين الفروع؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "عناوين الفروع؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أين تقع أفرع الشركة؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أماكن تواجد فروع الشركة؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أين توجد الشركة؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "وين مكان الشركة؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "عنوان الشركة؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أين تتواجد الشركة بالتحديد؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أين تقع الشركة؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "الشركة بأى منطقة؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أريد عنوان الشركة؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أين يقع عنوان الشركة؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "بأى مكان توجد الشركة؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "العنوان؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أين يوجد عنوان الشركة؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أين يقع البنك بالتحديد؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أريد عنوان البنك؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "خريطة موقع البنك؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "عنوان البنك؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "خارطة طريق البنك؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أين يوجد البنك ؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "وين مكان البنك؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أين يتواجد البنك؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "مكان البنك ؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أين يقع البنك؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "كيف أصل إلى موقعكم؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكننى الوصول إلى الموقع؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكننى الوصول إلى موقعكم؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أريد خريطة الوصول إلى الموقع؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "خارطة الطريق؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "كيفية الوصول إلى الموقع؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكننى الوصول إلى الموقع؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "الموقع على الخريطة؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "خريطة الموقع؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "هل يمكننى الحصول على موقعكم؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "هل يمكننى الحصول على خريطة الموقع؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكننى أن أجدكم؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكننى الوصول إليكم؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "كيف أوصل لكم؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أريد أن أصل لكم؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أريد الحصول على موقعكم؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "كيفية الوصول إليكم؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "ماهى كيفية الوصول إليكم؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "كيف أتواصل معكم؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "كيف أوصلكم؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "كيف بوصلكم؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "كيفية التواصل معكم؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "ما هى كيفية التواصل معكم؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "ما هو موقعكم؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أريد موقعكم؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أريد الحصول على الموقع؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "كيف بحصل الموقع؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "كيف بحصل موقعكم؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "كيف بحصل المكان؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "كيف أحصل مكانكم؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أين يمكن أن أجدكم؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "ما هى أماكن تواجدكم؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "وين أماكن تواجدكم؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "كيفية الوصول إليكم؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "كيف أصل إليكم؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "كيف أحصل مكانكم؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "كيف أحصل أماكنكم؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أين يمكن أن أجدكم؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "ما هو موقعكم؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أريد العنوان؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أريد الوصول إلى الموقع الخاص بكم؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "كيف أصل إلى موقعكم؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أريد الحصول على الموقع؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "كيفية الحصول على الموقع؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "كيفية الحصول على خريطة الموقع؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أريد خريطة الموقع؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أبغى الحصول على خريطة الموقع؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "كيف بحصل الموقع؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "كيف بحصل المكان؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "بأى مكان توجد الشركة؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "بأى مكان تتواجد الشركة؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أين يوجد مكان الشركة؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "وين مكان الشركة؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "بأى منطقة توجد الشركة؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "بأى منطقة تتواجد الشركة؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "الشركة بأى منطقة؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "منطقة تواجد الشركة؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "وين بحصل مكان الشركة؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "بأى مدينة تعمل شركتكم؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "ما هى الدول التى تعمل بها شركتكم؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "بأى البلدان تعمل شركتكم؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "بأى بلد تعمل شركتكم؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "ماهى البلاد التى تعمل بها شركتكم؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "بأى البلاد تعمل شركتكم؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "ماهى البلاد التى تتعامل مع شركتكم؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أى بلد شركتكم تشتغل بيها؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "شركتكم تشتغل بأى بلد؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "ماهى الإمارة التى تعمل بها شركتكم؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "بأى إمارة تعمل شركتكم؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "بأى الإمارات تعمل شركتكم؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أين توجد؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أين تتواجد؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "وين مكانك؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "وين المكان؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "وينكم؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "وين مكانكم؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أين توجد الشركة ؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "وين مكان الشركة؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "وين بحصل الشركة؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "كيف بحصلكم؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "كيف بحصل الشركة؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أين تتواجد الشركة؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "خريطة موقع الشركة؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "إلى أى بلد تنتمى الشركة؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "تنتمى الشركة إلى أى بلد؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "بلد الشركة؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "البلد الأم للشركة؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "الشركة من أى بلد؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "بلد نشأة الشركة؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "ما هى البلد الأم للشركة ؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "فى أى بلد انشأت الشركة؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "الشركة من أى بلد؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "ما هى بلدة تأسيس الشركة؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أين تأسست الشركة؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أين نشأت الشركة؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "بلد نشأة الشركة؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "إنتماء الشركة إلى أى بلد؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "الشركة من أى بلد؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "ما هى فروع الصكوك الوطنية؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أين توجد فروع الصكوك الوطنية؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أين تتواجد فروع الصكوك الوطنية؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "وين أماكن فروع الصكوك الوطنية؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أماكن فروع الصكوك الوطنية؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "وين بحصل فروع الصكوك الوطنية؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "كيف بحصل فروع الصكوك الوطنية؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أين تقع فروع الصكوك الوطنية؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أين توجد الصكوك الوطنية؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أين تتواجد الصكوك الوطنية؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أين تقع الصكوك الوطنية؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أماكن تواجد الصكوك الوطنية؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "وين بحصل الصكوك الوطنية؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "كيف بحصل الصكوك الوطنية؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أماكن تواجد الصكوك الوطنية؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "كيف أجد أماكن الصكوك الوطنية؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أماكن الصكوك الوطنية؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "خرائط مواقع الصكوك الوطنية؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "خريطة موقع الصكوك الوطنية؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أماكن فروع دبى؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أماكن الفروع بدبى؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أماكن فروع الصكوك الوطنية دبي؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أماكن تواجد فروع الصكوك الوطنية بدبى؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أماكن تواجد فروع الصكوك الوطنية بإمارة دبي؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "فروع الصكوك الوطنية دبى؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "فروع الصكوك الوطنية بإمارة دبي؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أين توجد فروع الصكوك الوطنية بإمارة أبوظبي؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أين تتواجد الصكوك الوطنية بأبوظبى؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أماكن تواجد مكاتب الصكوك الوطنية بأبوظبى",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "وين بحصل مكاتب الصكوك الوطنية بأبوظبي؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أين توجد مكاتب الصكوك الوطنية بإمارة أبوظبي؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "وين بحصل الصكوك الوطنية بأبوظبي؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "كيف بحصل الصكوك الوطنية بأبوظبى؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "وين مكاتب الصكوك الوطنية بأبوظبي؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "مكاتب الصكوك الوطنية إمارة أبوظبي؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أين توجد أماكن الفروع؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "وين أماكن الفروع؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أين توجد مكاتبكم؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أين توجد فروع الصكوك الوطنية؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أين توجد مكاتب الصكوك الوطنية؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أين توجد مكاتبكم؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "وين بنحصل مكاتبكم؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أين تتواجد فروع مكاتب الصكوك الوطنية؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أين تتواجد أماكن فروعكم؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "كيف بحصل شاشات الخدمة الذاتية؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أين توجد أماكن شاشات الخدمات الذاتية؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "كيف بحصل شاشات الخدمات الذكية؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "مواقع شاشات الخدمة الذاتية؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أين تتواجد شاشات الخدمات الذكية؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أماكن تواجد شاشات الخدمة الذاتية؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أين تتواجد أماكن شاشات الخدمة الذاتية؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "كيف بقدر لاقى شاشات الخدمة الذاتية؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "مواقع تواجد شاشات الخدمة الذاتية؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أين توجد ماكينات الشراء؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أين تتواجد ماكينات الشراء؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أين تتواجد أماكن ماكينات شراء الصكوك؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أين تتواجد ماكينات شراء الصكوك؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "وين بحصل ماكينات شراء الصكوك؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أين توجد ماكينات شراء الصكوك؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أماكن تواجد ماكينات شراء الصكوك؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "وين بحصل ماكينات الشراء؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "مواقع تواجد ماكينات الشراء؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أماكن تواجد ماكينات الشراء؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أين توجد ماكينات الشراء؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أين توجد مكاتب البيع؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أين توجد منافذ البيع؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أماكن منافذ المبيعات؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أماكن تواجد مكاتب المبيعات؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أماكن تواجد قسم المبيعات؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "وين بحصل مكاتب البيع؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "وين بحصل منافذ البيع؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "كيف أصل لقسم المبيعات؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "كيفية التواصل مع قسم المبيعات؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أماكن تواجد قسم المبيعات؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "مكان مكاتب البيع؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "مكان منافذ البيع؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "مكان قسم المبيعات؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أماكن المبيعات؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أين توجد أماكن المبيعات؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أين تتواجد منافذ المبيعات؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أين تتواجد مكاتب المبيعات؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "هل توجد لكم فروع بإمارة العين؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "هل لكم فروع بإمارة العين؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "هل توجد لديكم فروع بإمارة العين؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "هل لديكم أى فروع بالعين؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "هل لديكم فروع بالعين؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "هل لديكم فروع بإمارة العين؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "هل تتواجدون بالعين؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "هل تتواجدون بإمارة العين؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "لكم أى فروع بإمارة العين؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "بقدر أحصلكم بإمارة العين؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أين توجد أماكنكم بدبى؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أين تتواجد أماكنكم بإمارة دبي؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "وين بحصل أماكنكم بإمارة دبي؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "وين بحصل فروعكم بدبى؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "وين بحصل أماكن فروعكم بدبى؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أين تتواجد فروعكم بإمارة دبي؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "ماهى أماكن فروعكم بإمارة دبي؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أين أجد أماكن فروعكم بدبى؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "وين بحصل شركتكم بإمارة دبي؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أين تقع أماكن فروعكم بإمارة دبي؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "مواعيد عمل الشركة؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "مواعيد العمل بالفروع؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "ماهى مواعيد عمل الفروع؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "ماهى أوقات العمل بالشركة؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "ما هى أوقات العمل بالفروع؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أوقات عمل الشركة؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أوقات عمل الفروع؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "ما هى مواقيت العمل بالفروع؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "ماهى مواقيت العمل بالمكاتب؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "ما هى مواقيت العمل بالشركة؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "مواقيت عمل الشركة؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "مواقيت عمل المكاتب؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "مواقيت عمل الفروع؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "إلى أى وقت مواعيد العمل ؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "لمتى فاتحين؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "متى بتبند الفروع؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "متى بتسكر الفروع؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "مواعيد إنتهاء العمل بالفروع؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "ماهى مواعيد إنتهاء العمل بالفروع؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "ماهو معاد الإغلاق؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "ماهو وقت الإغلاق؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "متى تبندون؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "متى تسكرون؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أى وقت تبند الشركة؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أو وقت تبند الفروع؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أى وقت تسكر الشركة؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أى وقت تسكر الفروع؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "معاد إنتهاء العمل بالشركة؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "ما هو معاد إنتهاء العمل بالشركة؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "ماهو وقت إغلاق الشركة؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "وقت إغلاق الشركة؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "وقت إغلاق الفروع؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "ماهو وقت إغلاق الفروع؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "وقت إغلاق المكاتب؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "موعد إغلاق المكاتب؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "ماهو موعد إغلاق المكاتب؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "ماهو موعد إغلاق مكاتبكم؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "متى تبند المكاتب؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "متى تسكر المكاتب؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أى وقت تبند المكاتب؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أى وقت تسكر المكاتب؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "ما هو وقت إبتداء العمل بالشركة؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "ماهو معاد إبتداء العمل بالشركة؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "وقت إبتداء العمل بالشركة؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "وقت إبتداء العمل بالفروع؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "وقت إبتداء العمل بالمكاتب؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "ماهو وقت إبتداء العمل بالمكاتب؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أوقات إبتداء العمل؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أوقات إبتداء عملكم؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "وقت بداية العمل ؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "ماهو وقت بداية العمل بالفروع؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "ما هو وقت بداية العمل بالمكاتب؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "موعد بداية العمل بالشركة؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "موعد بداية العمل بالفروع؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "موعد بداية العمل بالمكاتب؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "توقيت بداية العمل بالشركة؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "توقيت بداية العمل بالفروع؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "توقيت بداية العمل بالمكاتب؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "ماهو عدد ساعات العمل بالشركة؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "ماهو عدد ساعات العمل بالفروع؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "ما هو عدد ساعات العمل بالمكاتب؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "ما هو عدد ساعات عملكم؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "عدد ساعات العمل بالشركة؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "عدد ساعات العمل بالفروع؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "عدد ساعات العمل بالمكاتب؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "ماهى أوقات العمل الرسمية؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "عدد ساعات العمل الرسمية؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "ماهو عدد ساعات العمل؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "متى تفتحون و متى تبندون؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أوقات العمل؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "عدد ساعات العمل؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "ساعات العمل؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "مواعيد العمل؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "مواعيد العمل الرسمية؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أى وقت يمكننى زيارتكم؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "متى يمكننى زيارتكم؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أى وقت أتمكن من زيارتكم؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "ماهى مواعيد الزيارة المتاحة؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أى وقت يمكننى زيارة الفرع؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أى وقت يمكننى زيارة الشركة؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أى وقت يمكننى زيارة المكتب؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أى وقت يمكننى الزيارة؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "فى أى وقت يمكننى المرور لزيارة الفرع؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "فى أى وقت يمكننى المرور لزيارة الشركة؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "فى أى وقت يمكننى المرور لزيارة المكتب؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "مواعيد عمل خدمة العملاء؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "ماهى مواعيد عمل خدمة العملاء؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "مواعيد عمل مراكز الخدمة؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "ما هى مواعيد عمل مراكز الخدمة؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أوقات عمل خدمة العملاء؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "ما هى أوقات عمل خدمة العملاء؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "ما هى أوقات عمل مراكز الخدمة؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أوقات عمل مراكز الخدمة؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "هل تعمل مكاتبكم يوم الجمعة؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "هل تعمل فروعكم يوم الجمعة؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "هل تعمل شركتكم يوم الجمعة؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "هل تعملون فى يوم الجمعة؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "هل لديكم أى فروع تعمل يوم الجمعة؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "هل لديكم أى فروع تعمل فى العطلات؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "فاتحين يوم الجمعة؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "شغالين يوم الجمعة؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "هل تداومون يوم الجمعة؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "تداومون الجمعة؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "مداومين اليوم؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "فاتحين اليوم؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "هل المكتب مفتوح اليوم؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "هل يعمل المكتب اليوم؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "هل الشركة مفتوحة اليوم ؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "هل تعمل الشركة اليوم؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "هل الفرع مفتوح اليوم؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "هل تعمل الفروع اليوم؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "هل يعمل الفرع اليوم؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "مواعيد عمل فرع دبي؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أوقات عمل فرع دبى؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "ماهى مواعيد عمل فرع دبي؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "ماهى أوقات عمل فرع دبي؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "مواعيد عمل فروع أبوظبي",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "ماهى مواعيد عمل فروع أبوظبي",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أوقات عمل فروع أبوظبي",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "ماهى أوقات عمل فروع أبوظبي",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أوقات دوام فروع دبي؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "ما هى أوقات دوام فروع دبى؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أوقات دوام فروع أبوظبي؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "ما هى أوقات دوام فروع أبوظبي؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أوقات دوام الفرع الرئيسى؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "أوقات عمل الفرع الرئيسي؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "مواعيد عمل الفرع الرئيسي؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "هل تعمل الآن مكاتب دبي؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "مكاتب دبي يداومون الحين؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "هل مكتب دبي مفتوح الأن؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "مكتب دبي مفتوح الحين؟",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "مكاتب دبي يشتغلون الحين؟",
+            "intent": "location_&_timings",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

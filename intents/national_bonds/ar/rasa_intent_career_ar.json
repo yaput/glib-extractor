@@ -1,0 +1,202 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "هل هناك وظائف شاغره ؟",
+            "intent": "career",
+            "entities": []
+         },
+         {
+            "text": "هل هناك فرص عمل شاغره ؟",
+            "intent": "career",
+            "entities": []
+         },
+         {
+            "text": "هل هناك وظائف متاحة ؟",
+            "intent": "career",
+            "entities": []
+         },
+         {
+            "text": "هل هناك وظائف ؟",
+            "intent": "career",
+            "entities": []
+         },
+         {
+            "text": "هل يمكننى التقدم بطلب للحصول على وظيفة؟",
+            "intent": "career",
+            "entities": []
+         },
+         {
+            "text": "هل يمكننى التقدم للحصول على وظيفة؟",
+            "intent": "career",
+            "entities": []
+         },
+         {
+            "text": "فرص عمل ؟",
+            "intent": "career",
+            "entities": []
+         },
+         {
+            "text": "أى فرص عمل ؟",
+            "intent": "career",
+            "entities": []
+         },
+         {
+            "text": "وظائف متاحة؟",
+            "intent": "career",
+            "entities": []
+         },
+         {
+            "text": "هل توجد أى وظائف متاحة؟",
+            "intent": "career",
+            "entities": []
+         },
+         {
+            "text": "اريد التقدم للحصول على وظيفة",
+            "intent": "career",
+            "entities": []
+         },
+         {
+            "text": "اريد وظيفة",
+            "intent": "career",
+            "entities": []
+         },
+         {
+            "text": "أرغب بالحصول على وظيفة",
+            "intent": "career",
+            "entities": []
+         },
+         {
+            "text": "فرص العمل المتاحة",
+            "intent": "career",
+            "entities": []
+         },
+         {
+            "text": "ما هى فرص العمل المتاحة",
+            "intent": "career",
+            "entities": []
+         },
+         {
+            "text": "ما هى الوظائف المتاحة",
+            "intent": "career",
+            "entities": []
+         },
+         {
+            "text": "ما هى اختيارات فرص العمل المتاحة",
+            "intent": "career",
+            "entities": []
+         },
+         {
+            "text": "ما هى الوظائف المختلفة المتاحة",
+            "intent": "career",
+            "entities": []
+         },
+         {
+            "text": "الجوانب الوظيفية",
+            "intent": "career",
+            "entities": []
+         },
+         {
+            "text": "وظائف الصكوك الوطنية",
+            "intent": "career",
+            "entities": []
+         },
+         {
+            "text": "هل هناك وظائف فى الصكوك الوطنية",
+            "intent": "career",
+            "entities": []
+         },
+         {
+            "text": "هل توجد اى وظائف فى الصكوك الوطنية",
+            "intent": "career",
+            "entities": []
+         },
+         {
+            "text": "أنا ابحث عن عمل",
+            "intent": "career",
+            "entities": []
+         },
+         {
+            "text": "أريد تقديم سيرتى الذاتية",
+            "intent": "career",
+            "entities": []
+         },
+         {
+            "text": "أريد تقديم السيرة الذاتية",
+            "intent": "career",
+            "entities": []
+         },
+         {
+            "text": "أريد تقديم السيرة الذاتية الخاصة بي",
+            "intent": "career",
+            "entities": []
+         },
+         {
+            "text": "هل توجد أى وظائف متاحة؟",
+            "intent": "career",
+            "entities": []
+         },
+         {
+            "text": "أبحث عن وظيفة فى شركتكم",
+            "intent": "career",
+            "entities": []
+         },
+         {
+            "text": "أبحث عن وظيفة فى مؤسستكم",
+            "intent": "career",
+            "entities": []
+         },
+         {
+            "text": "أبحث عن وظيفة فى الصكوك الوطنية",
+            "intent": "career",
+            "entities": []
+         },
+         {
+            "text": "أريد العمل بمؤسستكم",
+            "intent": "career",
+            "entities": []
+         },
+         {
+            "text": "اريد العمل بشركتكم",
+            "intent": "career",
+            "entities": []
+         },
+         {
+            "text": "اريد ان اعمل بالصكوك الوطنية",
+            "intent": "career",
+            "entities": []
+         },
+         {
+            "text": "هل توجد فرص عمل شاغرة حاليا فى الصكوك الوطنية",
+            "intent": "career",
+            "entities": []
+         },
+         {
+            "text": "هل توجد فرص عمل حاليا فى الصكوك الوطنية",
+            "intent": "career",
+            "entities": []
+         },
+         {
+            "text": "هل توجد فرص عمل شاغرة حاليا فى مؤسستكم",
+            "intent": "career",
+            "entities": []
+         },
+         {
+            "text": "كيف أحصل على وظيفة بالصكوك الوطنية",
+            "intent": "career",
+            "entities": []
+         },
+         {
+            "text": "كيف أحصل على وظيفة بمؤسستكم",
+            "intent": "career",
+            "entities": []
+         },
+         {
+            "text": "كيف أحصل على وظيفة فى شركتكم",
+            "intent": "career",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

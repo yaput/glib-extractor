@@ -1,0 +1,272 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "ما هو صكوك اكسبريس؟",
+            "intent": "sukuk_express",
+            "entities": []
+         },
+         {
+            "text": "ما المقصود بصكوك اكسبريس؟",
+            "intent": "sukuk_express",
+            "entities": []
+         },
+         {
+            "text": "معنى صكوك اكسبريس؟",
+            "intent": "sukuk_express",
+            "entities": []
+         },
+         {
+            "text": "ما هى أكشاك MBME?",
+            "intent": "sukuk_express",
+            "entities": []
+         },
+         {
+            "text": "ما المقصود بأكشاك MBME?",
+            "intent": "sukuk_express",
+            "entities": []
+         },
+         {
+            "text": "ما هى الفائدة من استخدام الصكوك؟",
+            "intent": "sukuk_express",
+            "entities": []
+         },
+         {
+            "text": "ما هى فائدة استخدام الصكوك؟",
+            "intent": "sukuk_express",
+            "entities": []
+         },
+         {
+            "text": "فوائد استخدام الصكوك؟",
+            "intent": "sukuk_express",
+            "entities": []
+         },
+         {
+            "text": "ما هى فائدة إستخدام الصكوك؟",
+            "intent": "sukuk_express",
+            "entities": []
+         },
+         {
+            "text": "ما هى كلمة السر لمرة واحدة؟",
+            "intent": "sukuk_express",
+            "entities": []
+         },
+         {
+            "text": "ما هى كلمة السر لإستخدام واحد؟",
+            "intent": "sukuk_express",
+            "entities": []
+         },
+         {
+            "text": "ما هى كلمة مرور المرة الواحدة؟",
+            "intent": "sukuk_express",
+            "entities": []
+         },
+         {
+            "text": "ما هى كلمة المرور لإستخدام واحد؟",
+            "intent": "sukuk_express",
+            "entities": []
+         },
+         {
+            "text": "كلمة مرور المرة الواحدة؟",
+            "intent": "sukuk_express",
+            "entities": []
+         },
+         {
+            "text": "كلمة السر لمرة واحدة؟",
+            "intent": "sukuk_express",
+            "entities": []
+         },
+         {
+            "text": "كيف أحصل على كلمة السر لمرة واحدة؟",
+            "intent": "sukuk_express",
+            "entities": []
+         },
+         {
+            "text": "كيف أحصل على كلمة المرور لمرة واحدة؟",
+            "intent": "sukuk_express",
+            "entities": []
+         },
+         {
+            "text": "كيف بحصل كلمة المرور لمرة واحدة؟",
+            "intent": "sukuk_express",
+            "entities": []
+         },
+         {
+            "text": "كيف بحصل كلمة السر لمرة واحدة؟",
+            "intent": "sukuk_express",
+            "entities": []
+         },
+         {
+            "text": "ما هى طريقة عمل كلمة السر لمرة واحدة؟",
+            "intent": "sukuk_express",
+            "entities": []
+         },
+         {
+            "text": "ما هى طريقة عمل كلمة المرور لمرة واحدة؟",
+            "intent": "sukuk_express",
+            "entities": []
+         },
+         {
+            "text": "ما الذى سيحصل اذا انتهت صلاحية كلمة المرور لمرة واحدة؟",
+            "intent": "sukuk_express",
+            "entities": []
+         },
+         {
+            "text": "ما الذى سيحصل اذا انتهت صلاحية كلمة السر لمرة واحدة؟",
+            "intent": "sukuk_express",
+            "entities": []
+         },
+         {
+            "text": "ماذا يحدث اذا انتهت صلاحية كلمة السر لمرة واحدة؟",
+            "intent": "sukuk_express",
+            "entities": []
+         },
+         {
+            "text": "ماذا يحدث اذا انتهت صلاحية كلمة المرور لمرة واحدة؟",
+            "intent": "sukuk_express",
+            "entities": []
+         },
+         {
+            "text": "ما الذى يجب عليا فعله اذا واجهت مشكلة خلال عملية الشراء من خلال أحد أكشاك MBME?",
+            "intent": "sukuk_express",
+            "entities": []
+         },
+         {
+            "text": "ماذا افعل اذا واجهت مشكلة فى عملية الشراء من اكشاك MBME?",
+            "intent": "sukuk_express",
+            "entities": []
+         },
+         {
+            "text": "ما الذى يمكننى أن أفعله بصكوك اكسبريس؟",
+            "intent": "sukuk_express",
+            "entities": []
+         },
+         {
+            "text": "ما الذى يمكننى فعله بصكوك اكسبريس؟",
+            "intent": "sukuk_express",
+            "entities": []
+         },
+         {
+            "text": "أكشاك MBME",
+            "intent": "sukuk_express",
+            "entities": []
+         },
+         {
+            "text": "قدم على صكوك اكسبريس",
+            "intent": "sukuk_express",
+            "entities": []
+         },
+         {
+            "text": "التقديم على صكوك اكسبريس",
+            "intent": "sukuk_express",
+            "entities": []
+         },
+         {
+            "text": "صكوك اكسبريس أون لاين",
+            "intent": "sukuk_express",
+            "entities": []
+         },
+         {
+            "text": "صكوك اكسبريس عبر الانترنت",
+            "intent": "sukuk_express",
+            "entities": []
+         },
+         {
+            "text": "أين تتواجد صكوك اكسبريس",
+            "intent": "sukuk_express",
+            "entities": []
+         },
+         {
+            "text": "أين توجد صكوك اكسبريس",
+            "intent": "sukuk_express",
+            "entities": []
+         },
+         {
+            "text": "صكوك اكسبريس",
+            "intent": "sukuk_express",
+            "entities": []
+         },
+         {
+            "text": "كيف أزيد مدخراتى؟",
+            "intent": "sukuk_express",
+            "entities": []
+         },
+         {
+            "text": "كيفية زيادة المدخرات؟",
+            "intent": "sukuk_express",
+            "entities": []
+         },
+         {
+            "text": "أكشاك صكوك",
+            "intent": "sukuk_express",
+            "entities": []
+         },
+         {
+            "text": "هل هناك طريقة لزيادة مدخراتى؟",
+            "intent": "sukuk_express",
+            "entities": []
+         },
+         {
+            "text": "هل هناك طريقة لتعلية مدخراتى؟",
+            "intent": "sukuk_express",
+            "entities": []
+         },
+         {
+            "text": "كيف أعلى مدخراتى؟",
+            "intent": "sukuk_express",
+            "entities": []
+         },
+         {
+            "text": "زيادة المدخرات",
+            "intent": "sukuk_express",
+            "entities": []
+         },
+         {
+            "text": "تعلية المدخرات",
+            "intent": "sukuk_express",
+            "entities": []
+         },
+         {
+            "text": "أين يمكننى أن ازيد مدخراتى؟",
+            "intent": "sukuk_express",
+            "entities": []
+         },
+         {
+            "text": "أين يمكننى تعلية مدخراتى؟",
+            "intent": "sukuk_express",
+            "entities": []
+         },
+         {
+            "text": "أين يمكننى تعبئة رصيد مدخراتى؟",
+            "intent": "sukuk_express",
+            "entities": []
+         },
+         {
+            "text": "من أين يمكننى أن ازيد رصيد مدخراتى؟",
+            "intent": "sukuk_express",
+            "entities": []
+         },
+         {
+            "text": "أين يمكننى أن أعلى رصيد مدخراتى؟",
+            "intent": "sukuk_express",
+            "entities": []
+         },
+         {
+            "text": "هل توفر صكوك خدمات طارئة؟",
+            "intent": "sukuk_express",
+            "entities": []
+         },
+         {
+            "text": "هل توجد خدمات طارئة لدى صكوك؟",
+            "intent": "sukuk_express",
+            "entities": []
+         },
+         {
+            "text": "هل هناك أى خدمات طارئة من قبل صكوك؟",
+            "intent": "sukuk_express",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

@@ -1,0 +1,237 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "i want to see a public health doctor",
+            "intent": "specializations_not_offered",
+            "entities": []
+         },
+         {
+            "text": "do you have a public health doctor",
+            "intent": "specializations_not_offered",
+            "entities": []
+         },
+         {
+            "text": "i want to see a pulmonologist",
+            "intent": "specializations_not_offered",
+            "entities": []
+         },
+         {
+            "text": "i want to see a nephrologist",
+            "intent": "specializations_not_offered",
+            "entities": []
+         },
+         {
+            "text": "i want to see a doctor in sports medicine",
+            "intent": "specializations_not_offered",
+            "entities": []
+         },
+         {
+            "text": "i want to see an endocrinologist",
+            "intent": "specializations_not_offered",
+            "entities": []
+         },
+         {
+            "text": "i want to see an endocrinology doctor",
+            "intent": "specializations_not_offered",
+            "entities": []
+         },
+         {
+            "text": "i want to see a doctor in medical genetics",
+            "intent": "specializations_not_offered",
+            "entities": []
+         },
+         {
+            "text": "i want to see a doctor in nuclear medicine",
+            "intent": "specializations_not_offered",
+            "entities": []
+         },
+         {
+            "text": "i want to see an occupational medicine doctor",
+            "intent": "specializations_not_offered",
+            "entities": []
+         },
+         {
+            "text": "i want to see a doctor in occupational medicine",
+            "intent": "specializations_not_offered",
+            "entities": []
+         },
+         {
+            "text": "i want to see an immunology doctor",
+            "intent": "specializations_not_offered",
+            "entities": []
+         },
+         {
+            "text": "i want to see an immunologist",
+            "intent": "specializations_not_offered",
+            "entities": []
+         },
+         {
+            "text": "i want to see a podiatry doctor",
+            "intent": "specializations_not_offered",
+            "entities": []
+         },
+         {
+            "text": "i want to see a podiatrist",
+            "intent": "specializations_not_offered",
+            "entities": []
+         },
+         {
+            "text": "i want to see a hepatologist",
+            "intent": "specializations_not_offered",
+            "entities": []
+         },
+         {
+            "text": "i want to see a toxicologist",
+            "intent": "specializations_not_offered",
+            "entities": []
+         },
+         {
+            "text": "i want to see an addiction doctor",
+            "intent": "specializations_not_offered",
+            "entities": []
+         },
+         {
+            "text": "i want to see a doctor in addiction medicine",
+            "intent": "specializations_not_offered",
+            "entities": []
+         },
+         {
+            "text": "i want to see a doctor in psychosomatic medicine",
+            "intent": "specializations_not_offered",
+            "entities": []
+         },
+         {
+            "text": "i want to see a medical genetics doctor",
+            "intent": "specializations_not_offered",
+            "entities": []
+         },
+         {
+            "text": "do you do hiv test",
+            "intent": "specializations_not_offered",
+            "entities": []
+         },
+         {
+            "text": "is there hiv test",
+            "intent": "specializations_not_offered",
+            "entities": []
+         },
+         {
+            "text": "do you provide hiv test?",
+            "intent": "specializations_not_offered",
+            "entities": []
+         },
+         {
+            "text": "i want to see a angiologist",
+            "intent": "specializations_not_offered",
+            "entities": []
+         },
+         {
+            "text": "i want to see a geriatrician",
+            "intent": "specializations_not_offered",
+            "entities": []
+         },
+         {
+            "text": "I want to know is there 3 d anomali scanning available",
+            "intent": "specializations_not_offered",
+            "entities": []
+         },
+         {
+            "text": "Public health",
+            "intent": "specializations_not_offered",
+            "entities": []
+         },
+         {
+            "text": "Pulmonology",
+            "intent": "specializations_not_offered",
+            "entities": []
+         },
+         {
+            "text": "Nephrology",
+            "intent": "specializations_not_offered",
+            "entities": []
+         },
+         {
+            "text": "Geriatrics",
+            "intent": "specializations_not_offered",
+            "entities": []
+         },
+         {
+            "text": "Sports medicine",
+            "intent": "specializations_not_offered",
+            "entities": []
+         },
+         {
+            "text": "Endocrinology",
+            "intent": "specializations_not_offered",
+            "entities": []
+         },
+         {
+            "text": "Medical genetics",
+            "intent": "specializations_not_offered",
+            "entities": []
+         },
+         {
+            "text": "Nuclear medicine",
+            "intent": "specializations_not_offered",
+            "entities": []
+         },
+         {
+            "text": "Occupational medicine",
+            "intent": "specializations_not_offered",
+            "entities": []
+         },
+         {
+            "text": "Immunology",
+            "intent": "specializations_not_offered",
+            "entities": []
+         },
+         {
+            "text": "Podiatry",
+            "intent": "specializations_not_offered",
+            "entities": []
+         },
+         {
+            "text": "Hepatology",
+            "intent": "specializations_not_offered",
+            "entities": []
+         },
+         {
+            "text": "Angiology",
+            "intent": "specializations_not_offered",
+            "entities": []
+         },
+         {
+            "text": "Toxicology",
+            "intent": "specializations_not_offered",
+            "entities": []
+         },
+         {
+            "text": "Addiction medicine",
+            "intent": "specializations_not_offered",
+            "entities": []
+         },
+         {
+            "text": "Psychosomatic medicine",
+            "intent": "specializations_not_offered",
+            "entities": []
+         },
+         {
+            "text": "HIV test",
+            "intent": "specializations_not_offered",
+            "entities": []
+         },
+         {
+            "text": "hiv",
+            "intent": "specializations_not_offered",
+            "entities": []
+         },
+         {
+            "text": "double chin treatment",
+            "intent": "specializations_not_offered",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

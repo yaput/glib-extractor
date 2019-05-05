@@ -1,0 +1,67 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "اين يمكنني العثور على الدكتوره لينا شار",
+            "intent": "doctors_name_questions",
+            "entities": []
+         },
+         {
+            "text": "اين يمكنني العثور على الدكتور لينا شار",
+            "intent": "doctors_name_questions",
+            "entities": []
+         },
+         {
+            "text": "اين يمكنني العثور على اطبيبه لينا شار",
+            "intent": "doctors_name_questions",
+            "entities": []
+         },
+         {
+            "text": "أريد أن أرى الدكتور لينا شار",
+            "intent": "doctors_name_questions",
+            "entities": []
+         },
+         {
+            "text": "أريد أن أرى الدكتوره لينا شار",
+            "intent": "doctors_name_questions",
+            "entities": []
+         },
+         {
+            "text": "أريد أن أرى الطبيبه لينا شار",
+            "intent": "doctors_name_questions",
+            "entities": []
+         },
+         {
+            "text": "أبحث عن الدكتوره لينا شار",
+            "intent": "doctors_name_questions",
+            "entities": []
+         },
+         {
+            "text": "أبحث عن الطبيبة لينا شار",
+            "intent": "doctors_name_questions",
+            "entities": []
+         },
+         {
+            "text": "أبحث عن الطبيبه لينا شار",
+            "intent": "doctors_name_questions",
+            "entities": []
+         },
+         {
+            "text": "أريد ان احجز موعد مع الدكتوره لينا شار",
+            "intent": "doctors_name_questions",
+            "entities": []
+         },
+         {
+            "text": "أريد حجز موعد مع الطبيبة لينا شار",
+            "intent": "doctors_name_questions",
+            "entities": []
+         },
+         {
+            "text": "أريد حجز موعد مع الطبيبه لينا شار",
+            "intent": "doctors_name_questions",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

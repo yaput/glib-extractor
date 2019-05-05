@@ -1,0 +1,97 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "Are you real?",
+            "intent": "are_you_real",
+            "entities": []
+         },
+         {
+            "text": "Who are you?",
+            "intent": "are_you_real",
+            "entities": []
+         },
+         {
+            "text": "what are you",
+            "intent": "are_you_real",
+            "entities": []
+         },
+         {
+            "text": "are you a chatbot",
+            "intent": "are_you_real",
+            "entities": []
+         },
+         {
+            "text": "are you a human",
+            "intent": "are_you_real",
+            "entities": []
+         },
+         {
+            "text": "am i talking to a real person",
+            "intent": "are_you_real",
+            "entities": []
+         },
+         {
+            "text": "what is this",
+            "intent": "are_you_real",
+            "entities": []
+         },
+         {
+            "text": "is this a chatbot",
+            "intent": "are_you_real",
+            "entities": []
+         },
+         {
+            "text": "are you a real person?",
+            "intent": "are_you_real",
+            "entities": []
+         },
+         {
+            "text": "are you a chatbot",
+            "intent": "are_you_real",
+            "entities": []
+         },
+         {
+            "text": "Chatbot?",
+            "intent": "are_you_real",
+            "entities": []
+         },
+         {
+            "text": "chat bot?",
+            "intent": "are_you_real",
+            "entities": []
+         },
+         {
+            "text": "is this real?",
+            "intent": "are_you_real",
+            "entities": []
+         },
+         {
+            "text": "are you a bot",
+            "intent": "are_you_real",
+            "entities": []
+         },
+         {
+            "text": "are you a chatbot",
+            "intent": "are_you_real",
+            "entities": []
+         },
+         {
+            "text": "are you a boat",
+            "intent": "are_you_real",
+            "entities": []
+         },
+         {
+            "text": "real",
+            "intent": "are_you_real",
+            "entities": []
+         },
+         {
+            "text": "chatbot",
+            "intent": "are_you_real",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

@@ -1,0 +1,107 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "i love you",
+            "intent": "feelings_positive",
+            "entities": []
+         },
+         {
+            "text": "i am in love with you",
+            "intent": "feelings_positive",
+            "entities": []
+         },
+         {
+            "text": "can you love me",
+            "intent": "feelings_positive",
+            "entities": []
+         },
+         {
+            "text": "Youre awesomeeeee",
+            "intent": "feelings_positive",
+            "entities": []
+         },
+         {
+            "text": "you are amazing",
+            "intent": "feelings_positive",
+            "entities": []
+         },
+         {
+            "text": "you are the best",
+            "intent": "feelings_positive",
+            "entities": []
+         },
+         {
+            "text": "you are  perfect",
+            "intent": "feelings_positive",
+            "entities": []
+         },
+         {
+            "text": "you are amazing",
+            "intent": "feelings_positive",
+            "entities": []
+         },
+         {
+            "text": "you are a star",
+            "intent": "feelings_positive",
+            "entities": []
+         },
+         {
+            "text": "I like talking to you",
+            "intent": "feelings_positive",
+            "entities": []
+         },
+         {
+            "text": "BEST BOT!",
+            "intent": "feelings_positive",
+            "entities": []
+         },
+         {
+            "text": "love you",
+            "intent": "feelings_positive",
+            "entities": []
+         },
+         {
+            "text": "amazing",
+            "intent": "feelings_positive",
+            "entities": []
+         },
+         {
+            "text": "awesome",
+            "intent": "feelings_positive",
+            "entities": []
+         },
+         {
+            "text": "cool",
+            "intent": "feelings_positive",
+            "entities": []
+         },
+         {
+            "text": "nice",
+            "intent": "feelings_positive",
+            "entities": []
+         },
+         {
+            "text": "Rock",
+            "intent": "feelings_positive",
+            "entities": []
+         },
+         {
+            "text": "Best",
+            "intent": "feelings_positive",
+            "entities": []
+         },
+         {
+            "text": "best bot",
+            "intent": "feelings_positive",
+            "entities": []
+         },
+         {
+            "text": "you're the best",
+            "intent": "feelings_positive",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

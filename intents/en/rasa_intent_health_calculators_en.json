@@ -1,0 +1,127 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "I want to calculate my bmi",
+            "intent": "health_calculators",
+            "entities": []
+         },
+         {
+            "text": "i want a health calculator",
+            "intent": "health_calculators",
+            "entities": []
+         },
+         {
+            "text": "please help me calculate my bmi",
+            "intent": "health_calculators",
+            "entities": []
+         },
+         {
+            "text": "i would like to calculate my bmi",
+            "intent": "health_calculators",
+            "entities": []
+         },
+         {
+            "text": "which of your centres help me calculate my bmi",
+            "intent": "health_calculators",
+            "entities": []
+         },
+         {
+            "text": "which hospital makes you calculate your bmi",
+            "intent": "health_calculators",
+            "entities": []
+         },
+         {
+            "text": "what is a BMI calculator?",
+            "intent": "health_calculators",
+            "entities": []
+         },
+         {
+            "text": "how do you calculate BMi",
+            "intent": "health_calculators",
+            "entities": []
+         },
+         {
+            "text": "what details are needed to calculate BMI?",
+            "intent": "health_calculators",
+            "entities": []
+         },
+         {
+            "text": "BMI calculator",
+            "intent": "health_calculators",
+            "entities": []
+         },
+         {
+            "text": "can i calculate my bmi",
+            "intent": "health_calculators",
+            "entities": []
+         },
+         {
+            "text": "how to calculate bmi",
+            "intent": "health_calculators",
+            "entities": []
+         },
+         {
+            "text": "do you have bmi calculator",
+            "intent": "health_calculators",
+            "entities": []
+         },
+         {
+            "text": "please show me bmi calculator",
+            "intent": "health_calculators",
+            "entities": []
+         },
+         {
+            "text": "i want bmi calculator",
+            "intent": "health_calculators",
+            "entities": []
+         },
+         {
+            "text": "help me find my bmi",
+            "intent": "health_calculators",
+            "entities": []
+         },
+         {
+            "text": "can i calculate body mass index",
+            "intent": "health_calculators",
+            "entities": []
+         },
+         {
+            "text": "show me my body mass index",
+            "intent": "health_calculators",
+            "entities": []
+         },
+         {
+            "text": "show bmi",
+            "intent": "health_calculators",
+            "entities": []
+         },
+         {
+            "text": "is there a way to calculate my bmi",
+            "intent": "health_calculators",
+            "entities": []
+         },
+         {
+            "text": "can you let me know my body mass index",
+            "intent": "health_calculators",
+            "entities": []
+         },
+         {
+            "text": "can you let me know my bmi",
+            "intent": "health_calculators",
+            "entities": []
+         },
+         {
+            "text": "BMI calculator",
+            "intent": "health_calculators",
+            "entities": []
+         },
+         {
+            "text": "bmi",
+            "intent": "health_calculators",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

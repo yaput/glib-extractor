@@ -1,0 +1,182 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "هل يمكنني كسب بعض المال عن طريق ترشيح الصكوك الوطنية الى شخص ما ؟",
+            "intent": "referral",
+            "entities": []
+         },
+         {
+            "text": "هل يمكنني كسب بعض المال عن طريق إحالة الصكوك الوطنية الى شخص ما ؟",
+            "intent": "referral",
+            "entities": []
+         },
+         {
+            "text": "أموال الإحالة",
+            "intent": "referral",
+            "entities": []
+         },
+         {
+            "text": "أموال الترشيح",
+            "intent": "referral",
+            "entities": []
+         },
+         {
+            "text": "اريد تقديم طلب للعمل كمقاول لإحالة الصكوك الوطنية",
+            "intent": "referral",
+            "entities": []
+         },
+         {
+            "text": "اريد تقديم طلب للعمل كمقاول لترشيح الصكوك الوطنية",
+            "intent": "referral",
+            "entities": []
+         },
+         {
+            "text": "حوافز الإحالة",
+            "intent": "referral",
+            "entities": []
+         },
+         {
+            "text": "حوافز الترشيح",
+            "intent": "referral",
+            "entities": []
+         },
+         {
+            "text": "عمولة الإحالة",
+            "intent": "referral",
+            "entities": []
+         },
+         {
+            "text": "الترشيح الى صديق",
+            "intent": "referral",
+            "entities": []
+         },
+         {
+            "text": "الإحالة الى صديق",
+            "intent": "referral",
+            "entities": []
+         },
+         {
+            "text": "كسب المال عن طريق الترشيح",
+            "intent": "referral",
+            "entities": []
+         },
+         {
+            "text": "كسب المال عن طريق الإحالة",
+            "intent": "referral",
+            "entities": []
+         },
+         {
+            "text": "التوصية لعملاء جدد بالصكوك الوطنية",
+            "intent": "referral",
+            "entities": []
+         },
+         {
+            "text": "ترشيح الصكوك الوطنية للعملاء الجدد",
+            "intent": "referral",
+            "entities": []
+         },
+         {
+            "text": "ترشيح الصكوك الوطنية لعملاء جدد",
+            "intent": "referral",
+            "entities": []
+         },
+         {
+            "text": "ترشيح الصكوك الوطنية لأفراد العائلة",
+            "intent": "referral",
+            "entities": []
+         },
+         {
+            "text": "ترشيح الصكوك الوطنية لفرد من أفراد العائلة",
+            "intent": "referral",
+            "entities": []
+         },
+         {
+            "text": "أريد ان اوصي العملاء الجدد بالصكوك الوطنية",
+            "intent": "referral",
+            "entities": []
+         },
+         {
+            "text": "اريد ان ارشح الصكوك الوطنية للعملاء الجدد",
+            "intent": "referral",
+            "entities": []
+         },
+         {
+            "text": "هل يمكن ان أصبح مقاول مستقل",
+            "intent": "referral",
+            "entities": []
+         },
+         {
+            "text": "هل يمكن أن اصبح مقاول لترشيح او احالة الصكوك الوطنية",
+            "intent": "referral",
+            "entities": []
+         },
+         {
+            "text": "هل سأحصل على بعض المال اذا قمت بترشيح الصكوك الوطنية لشخص ما؟",
+            "intent": "referral",
+            "entities": []
+         },
+         {
+            "text": "ما هى كيفية تقديم طلب للحصول علي أموال التوصية",
+            "intent": "referral",
+            "entities": []
+         },
+         {
+            "text": "ما هى كيفية تقديم طلب للحصول علي أموال الترشيح",
+            "intent": "referral",
+            "entities": []
+         },
+         {
+            "text": "ما هى كيفية تقديم طلب للحصول علي أموال الإحالة",
+            "intent": "referral",
+            "entities": []
+         },
+         {
+            "text": "اريد تحصيل أموالى عن التوصية",
+            "intent": "referral",
+            "entities": []
+         },
+         {
+            "text": "اريد تحصيل أموالى عن الترشيح",
+            "intent": "referral",
+            "entities": []
+         },
+         {
+            "text": "اريد تحصيل أموالى عن الإحالة",
+            "intent": "referral",
+            "entities": []
+         },
+         {
+            "text": "كم من الناس يمكننى ان ارشح لهم الصكوك الوطنية",
+            "intent": "referral",
+            "entities": []
+         },
+         {
+            "text": "كم من الناس يمكننى ان ادلهم على الصكوك الوطنية",
+            "intent": "referral",
+            "entities": []
+         },
+         {
+            "text": "كم من الناس يمكننى ان اوصيهم بالصكوك الوطنية",
+            "intent": "referral",
+            "entities": []
+         },
+         {
+            "text": "هل هناك حد لتوصية الناس",
+            "intent": "referral",
+            "entities": []
+         },
+         {
+            "text": "هل هناك حد لترشيح الناس",
+            "intent": "referral",
+            "entities": []
+         },
+         {
+            "text": "هل هناك حد لإحالة الناس",
+            "intent": "referral",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

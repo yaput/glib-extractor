@@ -1,0 +1,72 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "هل لدى أفيفو حاليا وظائف شاغرة",
+            "intent": "vacancy",
+            "entities": []
+         },
+         {
+            "text": "اريد عمل",
+            "intent": "vacancy",
+            "entities": []
+         },
+         {
+            "text": "أريد أن أعطي طلب وظيفة",
+            "intent": "vacancy",
+            "entities": []
+         },
+         {
+            "text": "أريد أن اقدم طلب وظيفة",
+            "intent": "vacancy",
+            "entities": []
+         },
+         {
+            "text": "طلب وظيفة",
+            "intent": "vacancy",
+            "entities": []
+         },
+         {
+            "text": "السيرة الذاتية",
+            "intent": "vacancy",
+            "entities": []
+         },
+         {
+            "text": "انا ابحث عن وظيفة مع افيفو",
+            "intent": "vacancy",
+            "entities": []
+         },
+         {
+            "text": "هل هناك وظائف",
+            "intent": "vacancy",
+            "entities": []
+         },
+         {
+            "text": "وظائف شاغرة",
+            "intent": "vacancy",
+            "entities": []
+         },
+         {
+            "text": "اريد عمل",
+            "intent": "vacancy",
+            "entities": []
+         },
+         {
+            "text": "وظائف",
+            "intent": "vacancy",
+            "entities": []
+         },
+         {
+            "text": "وظيفة",
+            "intent": "vacancy",
+            "entities": []
+         },
+         {
+            "text": "تحتاج إلى مساعدة للمهن مع أفيفو",
+            "intent": "vacancy",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

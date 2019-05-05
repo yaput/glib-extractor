@@ -1,0 +1,232 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "أريد حساب مؤشر كتلة الجسم لدي",
+            "intent": "health_calculators",
+            "entities": []
+         },
+         {
+            "text": "أريد حساب مستوى الصحة",
+            "intent": "health_calculators",
+            "entities": []
+         },
+         {
+            "text": "أريد جدول التطعيمات لطفلي",
+            "intent": "health_calculators",
+            "entities": []
+         },
+         {
+            "text": "جدول التطعيمات",
+            "intent": "health_calculators",
+            "entities": []
+         },
+         {
+            "text": "أريد حساب مؤشر كتلة الجسم",
+            "intent": "health_calculators",
+            "entities": []
+         },
+         {
+            "text": "يرجى مساعدتي في حساب مؤشر كتلة الجسم",
+            "intent": "health_calculators",
+            "entities": []
+         },
+         {
+            "text": "يرجى مساعدتي في الحصول على جدول التطعيمات",
+            "intent": "health_calculators",
+            "entities": []
+         },
+         {
+            "text": "أريد تطعيم طفلي",
+            "intent": "health_calculators",
+            "entities": []
+         },
+         {
+            "text": "أريد تطعيم لطفلي",
+            "intent": "health_calculators",
+            "entities": []
+         },
+         {
+            "text": "أريد تطعيم لصغيري",
+            "intent": "health_calculators",
+            "entities": []
+         },
+         {
+            "text": "أود حساب مؤشر كتلة الجسم لدي",
+            "intent": "health_calculators",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكنني حساب مؤشر كتلة الجسم",
+            "intent": "health_calculators",
+            "entities": []
+         },
+         {
+            "text": "ما المراكز التي تساعدني في حساب مؤشر كتلة الجسم",
+            "intent": "health_calculators",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكنني حساب مؤشر كتلة الجسم",
+            "intent": "health_calculators",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكنني الحصول على جدول التطعيمات",
+            "intent": "health_calculators",
+            "entities": []
+         },
+         {
+            "text": "ما المستشفى التي تساعدك في حساب مؤشر كتلة الجسم",
+            "intent": "health_calculators",
+            "entities": []
+         },
+         {
+            "text": "ما المستشفى التي تقدم جدول وخطة التطعيمات",
+            "intent": "health_calculators",
+            "entities": []
+         },
+         {
+            "text": "أين يمكنني الحصول على تفاصيل بشأن مكان تطعيم طفلي",
+            "intent": "health_calculators",
+            "entities": []
+         },
+         {
+            "text": "هل يمكنك مساعدتي في العثور على مكان للحصول على التطعيم",
+            "intent": "health_calculators",
+            "entities": []
+         },
+         {
+            "text": "ما هو جدول التطعيمات",
+            "intent": "health_calculators",
+            "entities": []
+         },
+         {
+            "text": "ما هو حساب مؤشر كتلة الجسم؟",
+            "intent": "health_calculators",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكنك حساب مؤشر كتلة الجسم",
+            "intent": "health_calculators",
+            "entities": []
+         },
+         {
+            "text": "ما التفاصيل اللازمة لحساب مؤشر كتلة الجسم",
+            "intent": "health_calculators",
+            "entities": []
+         },
+         {
+            "text": "ما التفاصيل اللازمة لمعرفة التطعيمات",
+            "intent": "health_calculators",
+            "entities": []
+         },
+         {
+            "text": "ما سعر التطعيم للأطفال؟",
+            "intent": "health_calculators",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكنني الحصول على تطعيم لطفلي؟",
+            "intent": "health_calculators",
+            "entities": []
+         },
+         {
+            "text": "أين يمكنني الحصول على تطعيم لطفلي؟",
+            "intent": "health_calculators",
+            "entities": []
+         },
+         {
+            "text": "أود الاطلاع على جدول التطعيمات",
+            "intent": "health_calculators",
+            "entities": []
+         },
+         {
+            "text": "قدم لي موعد التطعيم",
+            "intent": "health_calculators",
+            "entities": []
+         },
+         {
+            "text": "قدم لي جدول التطعيمات لطفلي",
+            "intent": "health_calculators",
+            "entities": []
+         },
+         {
+            "text": "جدول التطعيمات من فضلك",
+            "intent": "health_calculators",
+            "entities": []
+         },
+         {
+            "text": "أريد دليل التطعيمات",
+            "intent": "health_calculators",
+            "entities": []
+         },
+         {
+            "text": "تطعيم",
+            "intent": "health_calculators",
+            "entities": []
+         },
+         {
+            "text": "لقاحات",
+            "intent": "health_calculators",
+            "entities": []
+         },
+         {
+            "text": "جداول التطعيمات",
+            "intent": "health_calculators",
+            "entities": []
+         },
+         {
+            "text": "خطة التطعيمات",
+            "intent": "health_calculators",
+            "entities": []
+         },
+         {
+            "text": "حساب مؤشر كتلة الجسم",
+            "intent": "health_calculators",
+            "entities": []
+         },
+         {
+            "text": "مؤشر كتلة الجسم",
+            "intent": "health_calculators",
+            "entities": []
+         },
+         {
+            "text": "مؤشر كتلة الجسم",
+            "intent": "health_calculators",
+            "entities": []
+         },
+         {
+            "text": "مؤشر كتلة الجسم",
+            "intent": "health_calculators",
+            "entities": []
+         },
+         {
+            "text": "حساب",
+            "intent": "health_calculators",
+            "entities": []
+         },
+         {
+            "text": "دليل التطعيمات",
+            "intent": "health_calculators",
+            "entities": []
+         },
+         {
+            "text": "التلقيح",
+            "intent": "health_calculators",
+            "entities": []
+         },
+         {
+            "text": "التحصين",
+            "intent": "health_calculators",
+            "entities": []
+         },
+         {
+            "text": "الحقن",
+            "intent": "health_calculators",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

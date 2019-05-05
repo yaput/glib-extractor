@@ -1,0 +1,157 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "هل يمكننى معرفة المزيد عن خدمات المؤسسات",
+            "intent": "business",
+            "entities": []
+         },
+         {
+            "text": "اريد بعض المعلومات عن خدمات المؤسسات",
+            "intent": "business",
+            "entities": []
+         },
+         {
+            "text": "خدمات المؤسسات؟",
+            "intent": "business",
+            "entities": []
+         },
+         {
+            "text": "ما هى الخدمات المقدمة للمؤسسات؟",
+            "intent": "business",
+            "entities": []
+         },
+         {
+            "text": "هل يمكننى معرفة شئ عن خدمات المؤسسات",
+            "intent": "business",
+            "entities": []
+         },
+         {
+            "text": "خطط ادخار الشركات",
+            "intent": "business",
+            "entities": []
+         },
+         {
+            "text": "خطط ادخار المؤسسات",
+            "intent": "business",
+            "entities": []
+         },
+         {
+            "text": "هل لديك اي خيارات ادخار للمؤسسات",
+            "intent": "business",
+            "entities": []
+         },
+         {
+            "text": "اود معرفة المزيد عن خيارات ادخار المؤسسات",
+            "intent": "business",
+            "entities": []
+         },
+         {
+            "text": "هل يمكنك اعطائى خطط ادخار للمؤسسات",
+            "intent": "business",
+            "entities": []
+         },
+         {
+            "text": "خطط ادخار للمؤسسات",
+            "intent": "business",
+            "entities": []
+         },
+         {
+            "text": "برنامج ادخار للمؤسسات",
+            "intent": "business",
+            "entities": []
+         },
+         {
+            "text": "برنامج ادخار للشركات",
+            "intent": "business",
+            "entities": []
+         },
+         {
+            "text": "الخدمات المقدمة للمؤسسات",
+            "intent": "business",
+            "entities": []
+         },
+         {
+            "text": "صكوك المؤسسات",
+            "intent": "business",
+            "entities": []
+         },
+         {
+            "text": "صكوك الشركات",
+            "intent": "business",
+            "entities": []
+         },
+         {
+            "text": "صكوك ادخار لشركتى",
+            "intent": "business",
+            "entities": []
+         },
+         {
+            "text": "صكوك ادخار لمؤسستى",
+            "intent": "business",
+            "entities": []
+         },
+         {
+            "text": "ما الذى يمكن ان تقدمه لمؤسستى",
+            "intent": "business",
+            "entities": []
+         },
+         {
+            "text": "ما هى البرامج الخاصة بالمؤسسات",
+            "intent": "business",
+            "entities": []
+         },
+         {
+            "text": "خطة لصاحب العمل",
+            "intent": "business",
+            "entities": []
+         },
+         {
+            "text": "مخططات لصاحب العمل",
+            "intent": "business",
+            "entities": []
+         },
+         {
+            "text": "صكوك للمؤسسات",
+            "intent": "business",
+            "entities": []
+         },
+         {
+            "text": "صكوك للشركات",
+            "intent": "business",
+            "entities": []
+         },
+         {
+            "text": "السندات الوطنية للمؤسسات",
+            "intent": "business",
+            "entities": []
+         },
+         {
+            "text": "السندات الوطنية للشركات",
+            "intent": "business",
+            "entities": []
+         },
+         {
+            "text": "هل لديكم برامج ادخار للمؤسسات",
+            "intent": "business",
+            "entities": []
+         },
+         {
+            "text": "هل لديكم برامج ادخار للشركات",
+            "intent": "business",
+            "entities": []
+         },
+         {
+            "text": "هل لديكم برامج ادخار للأعمال",
+            "intent": "business",
+            "entities": []
+         },
+         {
+            "text": "خدمات المؤسسات",
+            "intent": "business",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

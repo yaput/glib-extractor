@@ -1,0 +1,682 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "كيف يمكننى التقدم بطلب شراء الصكوك الوطنية؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكنني التقدم بطلب للحصول علي الصكوك الوطنية ؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "أين يمكنني التقدم بطلب للحصول علي الصكوك الوطنية ؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "أين يمكننى التقدم بطلب شراء الصكوك الوطنية؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "هل يمكننى شراء الصكوك الوطنية؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "ما هو الحد الأدنى لسن شراء الصكوك؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "ما هو الحد الأدنى للعمر لشراء الصكوك الوطنية؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "هل هناك حد أدنى للعمر لشراء الصكوك الوطنية؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "هل هناك حد أدنى للسن لشراء الصكوك الوطنية؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "الحد الأدنى للسن لشراء الصكوك الوطنية؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "الحد الأدنى للعمر لشراء الصكوك الوطنية؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "ما هو عدد شهادات إدخار الصكوك الوطنية التى يمكننى شراؤها؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "ما هو عدد الصكوك الوطنية التى يمكننى شراؤها؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "هل يمكننى شراء شهادات ادخار الصكوك الوطنية؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "هل يمكننى شراء شهادات الصكوك الوطنية؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "هل يمكن للجميع شراء الصكوك الوطنية؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "من الذى يمكنه شراء الصكوك الوطنية؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "هل أنا مؤهل لشراء الصكوك؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "هل أنا مؤهل لشراء الصكوك الوطنية؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكنني الدخول إلى حساب الصكوك الوطنية عبر الإنترنت ؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكنني الدخول إلى حساب الصكوك الوطنية أون لاين ؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكنني الدخول إلى حساب الصكوك الوطنية أونلاين ؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "حد شراء الصكوك الوطنية؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "ما هو حد شراء الصكوك الوطنية؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "حد شراء الصكوك الوطنية",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "ما هو الحد الأدنى للرصيد المطلوب ؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "هل هناك حد أدنى للرصيد؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "هل هناك حد أدنى للرصيد لشراء الصكوك الوطنية؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "هل توجد رسوم إشتراك تطبق على شراء السندات؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "هل توجد رسوم إشتراك تطبق على شراء الصكوك؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "هل تطبق رسوم إشتراك على شراء السندات؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "هل تطبق رسوم إشتراك على شراء الصكوك؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "هل هناك اي رسوم اثناء شراء الصكوك ؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "هل هناك اي رسوم اثناء شراء السندات ؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "هل تطبق أى رسوم على شراء الصكوك؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "هل تطبق أى رسوم على شراء السندات؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "ما هى مستندات إثبات الهوية المطلوبة للتقدم لشراء الصكوك الوطنية؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "ما هى إثبات الهوية المطلوبة للتقدم لشراء الصكوك الوطنية؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "ما هى مستندات إثبات الهوية المطلوبة للتقدم لشراء السندات الوطنية؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "ما هى مستندات إثبات الهوية المطلوبة لشراء الصكوك الوطنية؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "ما هي المستندات المطلوبة لشراء الصكوك ؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "ما هي المستندات المطلوبة لشراء الصكوك الوطنية؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "ما هي المستندات المطلوبة لشراء السندات ؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "ما هي الوثائق المطلوبة لشراء الصكوك ؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "ما هي الوثائق المطلوبة لشراء السندات ؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "هل يمكن لغير المقيمين في الامارات شراء الصكوك ؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "هل يمكن لغير المقيمين في دولة الامارات شراء الصكوك ؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "هل يمكن لغير المقيمين في الامارات شراء السندات ؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "هل يمكن لغير المقيمين في دولة الامارات شراء السندات ؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "هل يمكن لغير المقيمين في دولة الامارات شراء الصكوك الوطنية ؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "هل يمكن لغير المقيمين في الامارات شراء الصكوك الوطنية ؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "ما هو الحد الأدنى للرسوم؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "ما هو الحد الأدنى لمبلغ الرسوم؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "كم عدد الصكوك التى يمكننى شراؤها؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "كم عدد السندات التى يمكننى شراؤها؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "كم عدد الصكوك الوطنية التى يمكننى شراؤها؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "كم عدد شهادات إدخار الصكوك الوطنية التى يمكننى شراؤها؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "من أين يمكننى شراء الصكوك الوطنية؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "من أين يمكننى شراء الصكوك؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "من أين يمكننى شراء السندات؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "من أين يمكننى شراء السندات الوطنية؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "هل يستطيع والدي شراء الصكوك بإسمي ؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "هل يستطيع والدي شراء الصكوك الوطنية بإسمي ؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "هل يستطيع والدي شراء السندات بإسمي ؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "هل يستطيع والدي شراء السندات الوطنية بإسمي ؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "هل يستطيع والدي شراء الصكوك الوطنية نيابة عني؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "هل يستطيع والدي شراء السندات الوطنية نيابة عني؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "هل يستطيع والدي شراء الصكوك نيابة عني؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "هل يستطيع والدي شراء السندات نيابة عني؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "ما هى المتطلبات العمرية لشراء الصكوك؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "ما هى المتطلبات العمرية لشراء الصكوك الوطنية؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "كم يجب أن يكون سنى لأستطيع شراء الصكوك الوطنية؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "كم يجب أن يكون عمرى لأستطيع شراء الصكوك الوطنية؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "كم يجب أن يكون سنى لأتمكن من شراء الصكوك الوطنية؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "كم يجب أن يكون عمرى لأتمكن من شراء الصكوك الوطنية؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "أريد التقدم بطلب شراء شهادات إدخار الصكوك الوطنية يمكنك ان تعلمني ؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "يمكنك ان تعلمني كيفية التقدم بطلب شراء شهادات إدخار الصكوك الوطنية ؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "يمكنك ان تعلمني كيفية التقدم بطلب شراء الصكوك الوطنية ؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "أريد التقدم بطلب شراء الصكوك الوطنية يمكنك ان تعلمني ؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكننى القيام ببرنامج الإدخار؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكننى المشاركة ببرنامج الإدخار؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكننى الإشتراك ببرنامج الإدخار؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكنني التقدم بطلب للحصول على الصكوك الوطنية؟ هل يمكنك أن تخبرني ما هى الإجراءات؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكنني التقدم بطلب للحصول على شهادات إدخار الصكوك الوطنية؟ هل يمكنك أن تخبرني ما هى الإجراءات؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكنني التقدم بطلب للحصول على السندات الوطنية؟ هل يمكنك أن تخبرني ما هى الإجراءات؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "هل يجب ان يكون لدي تصريح إقامة فى إمارة دبي من أجل الاستثمار ؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "هل يجب ان تكون لدي إقامة فى إمارة دبي من أجل الاستثمار ؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "هل يجب ان يكون لدي تصريح إقامة فى دبي من أجل الاستثمار ؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "هل يجب ان تكون لدي إقامة فى دبي من أجل الاستثمار ؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "متى أتلقي شهادات إدخار الصكوك الوطنية؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "متى أتسلم شهادات إدخار الصكوك الوطنية؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "متى أستلم شهادات إدخار الصكوك الوطنية؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "متى أحصل على شهادات إدخار الصكوك الوطنية؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "كيف أتلقي شهادات إدخار الصكوك الوطنية؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "كيف أحصل على شهادات إدخار الصكوك الوطنية؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "كيف أستلم شهادات إدخار الصكوك الوطنية؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "كيف أتسلم شهادات إدخار الصكوك الوطنية؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكننى إستلام شهادات إدخار الصكوك الوطنية؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "كم عدد شهادات إدخار الصكوك الوطنية التى يمكننى شراؤها ؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "كم عدد الصكوك الوطنية التى يمكننى شراؤها ؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "كم عدد السندات الوطنية التى يمكننى شراؤها ؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "كم عدد شهادات إدخار السندات الوطنية التى يمكننى شراؤها ؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "هل هناك اي شرط للحد الأدنى للرصيد والرسوم ؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "هل هناك اي شروط للحد الأدنى للرصيد والرسوم ؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "هل هناك حد أدنى للرصيد و هل يتم فرض رسوم ؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "هل هناك حد أدنى للرصيد و الرسوم ؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "متى يتم خصم الحد الأدنى للرسوم ؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "متى يتم خصم الحد الأدنى للرسوم من رصيدى ؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "هل هناك اي رسوم اشتراك مطبقة علي شراء الصكوك ؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "هل هناك اي رسوم اشتراك مطبقة علي شراء السندات ؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "هل تطبق اي رسوم اشتراك علي شراء الصكوك ؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "هل تطبق أي رسوم اشتراك علي شراء السندات ؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "هل توجد رسوم اشتراك تطبق على شراء الصكوك؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "هل توجد رسوم اشتراك تطبق على شراء السندات؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "متى أتلقى شهادات ادخار الصكوك الوطنية ؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكنني تجنب الحد الأدنى للرسوم؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "متى يتم خصم الحد الأدنى للرسوم  ؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "متى يتم خصم الحد الأدنى للرسوم من رصيدى ؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "هل يمكننى الشراء بالدرهم الإماراتى؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "هل أستطيع الشراء بالدرهم الإماراتى؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "هل يمكننى شراء الصكوك بالدرهم الإماراتى؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "هل يمكننى شراء الصكوك الوطنية بالدرهم الإماراتى؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "هل يمكننى شراء السندات بالدرهم الإماراتى؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكننى الدفع؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكن أن أدفع؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "هل استطيع الدفع أونلاين؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "هل أستطيع الدفع أون لاين؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "هل أستطيع الدفع عبر الإنترنت؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "هل يمكننى دفع ثمن الصكوك عبر الإنترنت؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "هل يمكننى دفع ثمن الصكوك أونلاين؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "هل يمكننى دفع ثمن الصكوك أون لاين؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "هل يمكننى دفع رسوم الصكوك عبر الإنترنت؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "هل يمكننى دفع رسوم الصكوك الوطنية عبر الإنترنت؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "هل يمكننى دفع رسوم الصكوك الوطنية أون لاين؟",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "هل يمكننى دفع رسوم الصكوك الوطنية أونلاين؟",
+            "intent": "how_to_apply",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

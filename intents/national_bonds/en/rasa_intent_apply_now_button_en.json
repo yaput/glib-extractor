@@ -1,0 +1,32 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "apply now",
+            "intent": "apply_now_button",
+            "entities": []
+         },
+         {
+            "text": "Apply now",
+            "intent": "apply_now_button",
+            "entities": []
+         },
+         {
+            "text": "Apply",
+            "intent": "apply_now_button",
+            "entities": []
+         },
+         {
+            "text": "apply",
+            "intent": "apply_now_button",
+            "entities": []
+         },
+         {
+            "text": "I want to apply",
+            "intent": "apply_now_button",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

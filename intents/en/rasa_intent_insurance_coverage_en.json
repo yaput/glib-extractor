@@ -1,0 +1,217 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "i have policy where is it accepted?",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "where is my policy accepted?",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "i want to know where my policy is accepted",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "which insurance is accepted in General hospital?",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "where is my insurance accepted",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "I want to know where my insurance policy accepted",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "what insurance does the AVIVO group accept?",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "i have orient insurance, where all is it accepted?",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "where is my insurance accepted",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "what all policies do hospitals with avivo accept?",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "give me a list of policies accepted by avivo",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "does german hospital accept a policy from orient insurance?",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "what are the different insurances that are suited to avivo",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "how do i know which insurance is accepted in the hospital?",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "is there an insurance checker?",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "can i check if my insurance is accepted before visiting a hospital?",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "what can i do to know if my policy is accepted?",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "where is my policy accepted",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "is my policy accepted in all parts of the UAE?",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "what coverage does my insurance provide?",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "what insuance cards do you take",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "do you accept nextcare insurance",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "would you accept my insurance card",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "what insurance card would the hospital accept",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "are you in collaboration with any insuranc network",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "is my insurance card acceptable",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "can you please let me know about my insurance approval",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "has my insurance been approved",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "i want to check my insurance approval status",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "give me insurance",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "Insurance collaboration",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "Insurance Policy",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "insurance approval",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "insurance policy accepted",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "insurance approval status",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "Insurance coverage",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "insurance policies",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "Insurance Card",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "Insurance",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "Policy",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "coverage",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "policies",
+            "intent": "insurance_coverage",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

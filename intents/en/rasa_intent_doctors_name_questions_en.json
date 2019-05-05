@@ -1,0 +1,92 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "where can i find dr lina shaar",
+            "intent": "doctors_name_questions",
+            "entities": []
+         },
+         {
+            "text": "i want to see dr lina shaar",
+            "intent": "doctors_name_questions",
+            "entities": []
+         },
+         {
+            "text": "i am looking for dr lina shaar",
+            "intent": "doctors_name_questions",
+            "entities": []
+         },
+         {
+            "text": "i want to book an appointment with dr lina shaar",
+            "intent": "doctors_name_questions",
+            "entities": []
+         },
+         {
+            "text": "how can i see dr lina shaar",
+            "intent": "doctors_name_questions",
+            "entities": []
+         },
+         {
+            "text": "is dr lina shaar available?",
+            "intent": "doctors_name_questions",
+            "entities": []
+         },
+         {
+            "text": "is dr lina shaar available day after",
+            "intent": "doctors_name_questions",
+            "entities": []
+         },
+         {
+            "text": "i want to meet dr lina shaar",
+            "intent": "doctors_name_questions",
+            "entities": []
+         },
+         {
+            "text": "Hello, I would like to book appointment with Dr. John Marshall",
+            "intent": "doctors_name_questions",
+            "entities": []
+         },
+         {
+            "text": "book an appointment with Dr. John Marshall",
+            "intent": "doctors_name_questions",
+            "entities": []
+         },
+         {
+            "text": "I would like to book an appointment with Dr. John Marshall",
+            "intent": "doctors_name_questions",
+            "entities": []
+         },
+         {
+            "text": "how can i book an appointment with Dr. John Marshall",
+            "intent": "doctors_name_questions",
+            "entities": []
+         },
+         {
+            "text": "hello, can you help me book an appointment with Dr. John Marshall",
+            "intent": "doctors_name_questions",
+            "entities": []
+         },
+         {
+            "text": "is drr lina shaar available at 2pm today",
+            "intent": "doctors_name_questions",
+            "entities": []
+         },
+         {
+            "text": "will dr lina shaar be available today at 2pm",
+            "intent": "doctors_name_questions",
+            "entities": []
+         },
+         {
+            "text": "Hi Dr. Soman s available for.tomorrow",
+            "intent": "doctors_name_questions",
+            "entities": []
+         },
+         {
+            "text": "Hi Dr. Soman s available tomorrow?",
+            "intent": "doctors_name_questions",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

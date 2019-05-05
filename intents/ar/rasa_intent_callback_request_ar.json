@@ -1,0 +1,257 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "أريد أن يتصل بي شخص في أقرب وقت ممكن",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "أريد إعادة الاتصال",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "هل يمكن أن يتصل بي أحد مرة أخرى",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "أين يمكنني الاتصال",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "من الذي أتصل به",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "أريد طلب إعادة الاتصال",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "يرجى توجيه شخص للاتصال بي في أقرب وقت ممكن",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "يرجى الاتصال بي مرة أخرى من فضلك",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "يرجى الاتصال بي على رقم 054535632 من فضلك",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "أريد أن يتصل بي شخص مرة أخرى الآن",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "يرجى الاتصال بي في أقرب وقت ممكن",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "أين يمكنني الاتصال",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "أود التحدث إلى أحد أعضاء الفريق",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "أريد التحدث إلى شخص من الفريق",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكنني الاتصال بأحد أعضاء الفريق",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "هل يمكنني الحصول على اتصال آخر",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "هل يمكنني طلب إعادة الاتصال",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "يرجى توجيه شخص للاتصال بي في أقرب وقت ممكن من فضلك",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "أريد أن يتصل بي شخص مرة أخرى",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "أحتاج إلى الحديث مع أحد أعضاء الفريق",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "أود إعادة الاتصال",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "أحتاج إلى إعادة الاتصال",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "أود الحصول على الاتصال من الوكيل",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكنني التواصل مع الوكيل",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "هل يمكنني التواصل مع وكيل دعم العملاء",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكنني التواصل مع وكيل دعم العملاء",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "ساعدني في التواصل مع الوكيل",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "يرجى مساعدتي في التواصل مع مسؤول دعم العملاء",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "أود إجراء اتصال هاتفي مع شخص من الفريق",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "أريد الحديث مع شخص من الفريق",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "هل يمكنك مساعدتي في الحصول على اتصال؟",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "هل لديكم دعم عملاء",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "كيف أتواصل مع الوكيل",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "هل يمكنك توجيهي لدعم العملاء",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "يرجى توجيهي لدعم العملاء",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "إعادة الاتصال",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "إعادة الاتصال بي",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "إعادة الاتصال بي",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "أرغب في إعادة الاتصال",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "إعادة الاتصال",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "عضو الفريق",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "رعاية العملاء",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "دعم العملاء",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "اتصل بي مرة أخرى",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "اتصل",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "خدمة العملاء",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "مساعدة العملاء",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "تقرير المريض",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "وضع التقرير",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "تقرير المعمل",
+            "intent": "callback_request",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

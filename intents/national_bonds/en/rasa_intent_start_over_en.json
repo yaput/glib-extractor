@@ -1,0 +1,97 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "start over",
+            "intent": "start_over",
+            "entities": []
+         },
+         {
+            "text": "please start over",
+            "intent": "start_over",
+            "entities": []
+         },
+         {
+            "text": "i want to start over",
+            "intent": "start_over",
+            "entities": []
+         },
+         {
+            "text": "how can I start over",
+            "intent": "start_over",
+            "entities": []
+         },
+         {
+            "text": "is there a way i can start over",
+            "intent": "start_over",
+            "entities": []
+         },
+         {
+            "text": "is there a way I can start over",
+            "intent": "start_over",
+            "entities": []
+         },
+         {
+            "text": "take me back to the start",
+            "intent": "start_over",
+            "entities": []
+         },
+         {
+            "text": "I want to go back to the start",
+            "intent": "start_over",
+            "entities": []
+         },
+         {
+            "text": "take me back to start",
+            "intent": "start_over",
+            "entities": []
+         },
+         {
+            "text": "start again",
+            "intent": "start_over",
+            "entities": []
+         },
+         {
+            "text": "I want to start again",
+            "intent": "start_over",
+            "entities": []
+         },
+         {
+            "text": "how can I start again",
+            "intent": "start_over",
+            "entities": []
+         },
+         {
+            "text": "can I start again",
+            "intent": "start_over",
+            "entities": []
+         },
+         {
+            "text": "start over",
+            "intent": "start_over",
+            "entities": []
+         },
+         {
+            "text": "Start over",
+            "intent": "start_over",
+            "entities": []
+         },
+         {
+            "text": "Start Over",
+            "intent": "start_over",
+            "entities": []
+         },
+         {
+            "text": "startover",
+            "intent": "start_over",
+            "entities": []
+         },
+         {
+            "text": "start",
+            "intent": "start_over",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

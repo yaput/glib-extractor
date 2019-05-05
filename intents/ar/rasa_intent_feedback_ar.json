@@ -1,0 +1,192 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "أرغب في تقديم تعقيب",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "يرجى مساعدتي في تقديم تعقيب",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "أريد تقديم شكوى",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "أريد تقديم شكوى",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "أريد رفع شكوى",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "يرجى مساعدتي في رفع شكوى",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "أريد تقديم شكوى",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "لا أحب الخدمة التي أشتكي بشأنها",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "يرجى مساعدتي في تقديم شكوى",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "يرجى مساعدتي في تقديم اقتراح",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "أريد اقتراح",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "لدي تعقيب",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "أرغب في تقديم تعقيب",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "تعقيب",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "لدي اقتراح",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "أرغب في تقديم تعقيب",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "أود تقديم بعض النصائح",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "أود تقديم بعض النصائح لتحسين الخدمة",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "لدي مشكلات بشأن خدمات محددة",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "لدي مشكلة مع طبيب معين",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "لدي مشكلة مع طبيب",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "لدي شكوى عن مستشفى",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "أرغب في تقديم تعقيب إلى أفيفو",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "ساعدني في تقديم تعقيب",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "هل يمكنك توجيهي لرفع شكوى",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "ما الإجراءات المتخذة بشأن الشكوى",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "ما الذي يحدث عند تقديم شكوى",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "ما الذي يحدث عند تقديم تعقيب",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكن تقديم تعقيب؟",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "تعقيب",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "شكوى",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "اقتراح",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "شكوى",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "اقتراح",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "ملاحظات",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "شكوى",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "اقتراح",
+            "intent": "feedback",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

@@ -1,0 +1,177 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "How can i redeem my funds?",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "What is the maximum amount of redemption ?",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "How long before i redeem my fund?",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "I want information on the redemption",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "Where can redeem my funds?",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "How much amount can i redeem?",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "Can i redeem my funds internationally?",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "Where can i redeem my fund internationally?",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "I want to apply for redemption",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "I want to apply for redemption services",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "Can i redeem online?",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "Cheque redemption",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "Can i redeem using cheque?",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "request for redemption",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "Is there any charges on check redemption?",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "redemption form",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "I need information on redemption",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "Can I redeem part of my savings?",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "I want to redeem my savings",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "How do I redeem my National Bonds saving certificates?",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "Where to claim my money?",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "Are there any redemption fees applicable at the time of redemption?",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "What is the redemption fees?",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "How can i redeem my money?",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "Is there a minimum holding period before I can redeem my National Bonds saving certificates?",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "Where can i collect my money",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "Where can i collect 1 million AED",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "How do I redeem my National Bonds certificates?",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "When do I receive my National Bonds certificates?",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "How can they claim the prize?",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "How do you give the winners the money?",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "i want to redeem the price i won",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "i want to take out my savings",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "i want to take out by savings",
+            "intent": "redemption",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

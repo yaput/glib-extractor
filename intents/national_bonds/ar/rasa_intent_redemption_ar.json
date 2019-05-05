@@ -1,0 +1,497 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "كيف يمكننى استرداد مدخراتى؟",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكننى استرداد أموالى؟",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "ما هو الحد الأقصي لمقدار الاسترداد؟",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "ما هو أقصي حد للإسترداد؟",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "ما هو أقصي حد لاسترداد المدخرات؟",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "كم من الوقت يلزمنى لأسترد مدخراتى؟",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "كم من الوقت يلزمنى قبل أن أسترد مدخراتى؟",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "كم من الوقت يلزمنى لأسترد أموالى؟",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "كم من الوقت يلزمنى قبل أن استرد أموالى؟",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "اريد معلومات عن الاسترداد",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "اريد معلومات عن كيفية الاسترداد",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "أين يمكننى استرداد مدخراتى؟",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "من أين يمكننى استرداد مدخراتى؟",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "اين يمكننى استرداد أموالى؟",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "من أين يمكننى إسترداد أموالى؟",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "كم المبلغ الذى يمكننى استرداده؟",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "هل يمكننى استرداد أموالى دوليا؟",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "هل يمكننى استرداد مدخراتى دوليا؟",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "من أين يمكننى استرداد مدخراتى دوليا؟",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "من أين يمكننى استرداد أموالى دوليا؟",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "اريد ان اتقدم بطلب الاسترداد",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "ارغب فى التقدم بطلب الاسترداد",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "ارغب في التقدم بطلب للحصول على خدمات الاسترداد",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "اريد التقدم بطلب للحصول على خدمات الاسترداد",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "هل يمكننى الاسترداد عبر الانترنت؟",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "هل يمكننى الاسترداد اون لاين؟",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "هل يمكننى الاسترداد عن طريق الانترنت؟",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "هل يمكننى الاسترداد باستخدام شيك؟",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "هل يمكننى الاسترداد باستخدام الشيكات؟",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "طلب استرداد",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "طلب للاسترداد",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "هل هناك أى رسوم تطبق على استرداد الشيكات؟",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "هل توجد هناك اى رسوم على استرداد الشيكات؟",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "هل تطبق اى رسوم على استرداد الشيكات؟",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "نموذج الاسترداد",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "قسيمة الاسترداد",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "اريد معلومات عن الاسترداد",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "ارغب بمعلومات عن الاسترداد",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "الرجاء تزويدي بمعلومات عن الاسترداد",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "هل يمكننى استرداد جزء من مدخراتى؟",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "ارغب باسترداد مدخراتى",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "اريد استرداد مدخراتى",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "اود ان استرد مدخراتى",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكننى استرداد قيمة شهادات ادخارالصكوك الوطنية؟",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكن أن استرد قيمة شهادات ادخار الصكوك الوطنية؟",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "أين يمكننى المطالبة بأموالى؟",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "من اى مكان يمكننى المطالبة بأموالى؟",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "من وين أقدر اطالب بأموالى؟",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "من أين يمكننى المطالبة بأموالى؟",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "هل توجد رسوم استرداد تطبق فى وقت الاسترداد؟",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "هل هناك اى رسوم استرداد تطبق فى وقت الاسترداد؟",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "هل سيتم تطبيق اى رسوم فى وقت الاسترداد؟",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "ماهى رسوم الاسترداد ؟",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "كم تبلغ رسوم الاسترداد؟",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكننى استرداد أموالى؟",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكننى ان استرد اموالى؟",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكننى الحصول على اموالى؟",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "هل هناك حد ادنى لفترة الاحتفاظ بالصكوك قبل امكانية استرداد قيمتها؟",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "ما هو الحد الادنى للاحتفاظ بالصكوك قبل امكانية استرداد قيمتها ؟",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "من أين يمكننى تحصيل أموالى ؟",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "اين يمكننى تحصيل اموالى؟",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "من وين احصل اموالى؟",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "اين يمكننى ان استرد اموالى؟",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "من اين يمكننى استرداد اموالى؟",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "من اين يمكننى تحصيل المليون درهم",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "من اين يمكننى تحصيل جائزة المليون درهم؟",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "من أين يمكننى الحصول على المليون درهم",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "من وين بحصل المليون درهم",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكننى استرداد قيمة شهادات الصكوك الوطنية؟",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكننى استرداد قيمة شهادات ادخار الصكوك الوطنية؟",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "متى أستلم شهادات الصكوك الوطنية؟",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "متى أتلقى شهادات الصكوك الوطنية؟",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "ما هو موعد استلام شهادات الصكوك الوطنية؟",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكنهم المطالبة بالجائزة؟",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكننى المطالبة بالجائزة؟",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكننى الحصول على الجائزة؟",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكنهم الحصول على الجائزة؟",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "كيف يتم منح المال للفائزين؟",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "كيف يتم إعطاء المال للفائزين؟",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "كيف يتم منح الاموال للرابحين؟",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "كيف يتم إعطاء الأموال للرابحين؟",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "اريد الحصول على المال الذى ربحته",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "اريد الحصول على الاموال التى فزت بها",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "اريد احصل الاموال التى فزت بها",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "اريد احصل الاموال التى ربحتها",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "اريد تحصيل الاموال التى ربحتها",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "اريد الحصول على المبلغ الذى ربحته",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "اريد ان اخرج مدخراتى",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "اريد الخروج من المدخرات",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "اريد سحب اموالى",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "اريد ان اسحب مدخراتى",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "اريد سحب مدخراتى",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "اريد ان استرد مدخراتى",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "اريد سحب اموالى من الصكوك",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "اريد سحب اموالى من الصكوك الوطنية",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "استرداد الاموال",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "استرداد المدخرات",
+            "intent": "redemption",
+            "entities": []
+         },
+         {
+            "text": "استرداد مدخراتى",
+            "intent": "redemption",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

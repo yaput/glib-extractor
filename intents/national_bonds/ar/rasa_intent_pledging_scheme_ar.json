@@ -1,0 +1,132 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "ما هى خطة الرهن",
+            "intent": "pledging_scheme",
+            "entities": []
+         },
+         {
+            "text": "هل انا مؤهل لخطة الرهن",
+            "intent": "pledging_scheme",
+            "entities": []
+         },
+         {
+            "text": "المستندات المطلوبة لخطة الرهن",
+            "intent": "pledging_scheme",
+            "entities": []
+         },
+         {
+            "text": "التقديم على خطة الرهن",
+            "intent": "pledging_scheme",
+            "entities": []
+         },
+         {
+            "text": "قدم على خطة الرهن",
+            "intent": "pledging_scheme",
+            "entities": []
+         },
+         {
+            "text": "ما هى فوائد خطة الرهن",
+            "intent": "pledging_scheme",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكننى ان ارهن مدخراتى",
+            "intent": "pledging_scheme",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكننى الانضمام لخطة الرهن",
+            "intent": "pledging_scheme",
+            "entities": []
+         },
+         {
+            "text": "اريد ان ارهن صكوكى",
+            "intent": "pledging_scheme",
+            "entities": []
+         },
+         {
+            "text": "اريد ان ارهن شهاداتى",
+            "intent": "pledging_scheme",
+            "entities": []
+         },
+         {
+            "text": "ما هى اجراءات رهن الصكوك",
+            "intent": "pledging_scheme",
+            "entities": []
+         },
+         {
+            "text": "ما هى خطة الرهن",
+            "intent": "pledging_scheme",
+            "entities": []
+         },
+         {
+            "text": "اريد معلومات اكثر عن خطة الرهن",
+            "intent": "pledging_scheme",
+            "entities": []
+         },
+         {
+            "text": "اريد المزيد من المعلومات عن خطة الرهن",
+            "intent": "pledging_scheme",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكنني التسجيل في خطة الرهن",
+            "intent": "pledging_scheme",
+            "entities": []
+         },
+         {
+            "text": "اريد الحصول على خطة الرهن",
+            "intent": "pledging_scheme",
+            "entities": []
+         },
+         {
+            "text": "اريد خطة الرهن",
+            "intent": "pledging_scheme",
+            "entities": []
+         },
+         {
+            "text": "ما هى شروط الانضمام الى خطة الرهن",
+            "intent": "pledging_scheme",
+            "entities": []
+         },
+         {
+            "text": "اريد الاشتراك فى خطة الرهن",
+            "intent": "pledging_scheme",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكننى ان ارهن صكوكى ؟",
+            "intent": "pledging_scheme",
+            "entities": []
+         },
+         {
+            "text": "اريد ان ارهن صكوكى",
+            "intent": "pledging_scheme",
+            "entities": []
+         },
+         {
+            "text": "اريد ان ارهن شهاداتى",
+            "intent": "pledging_scheme",
+            "entities": []
+         },
+         {
+            "text": "ما هى خطة الرهن",
+            "intent": "pledging_scheme",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكننى ان ارهن",
+            "intent": "pledging_scheme",
+            "entities": []
+         },
+         {
+            "text": "كيفية رهن الصكوك",
+            "intent": "pledging_scheme",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

@@ -1,0 +1,112 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "برنامج ادخار الموظفين",
+            "intent": "employee_savings",
+            "entities": []
+         },
+         {
+            "text": "خطة ادخار الموظفين",
+            "intent": "employee_savings",
+            "entities": []
+         },
+         {
+            "text": "صكوك الموظفين",
+            "intent": "employee_savings",
+            "entities": []
+         },
+         {
+            "text": "سندات الموظفين",
+            "intent": "employee_savings",
+            "entities": []
+         },
+         {
+            "text": "فوائد برنامج ادخار الموظفين",
+            "intent": "employee_savings",
+            "entities": []
+         },
+         {
+            "text": "هل يمكننى التقدم بطلب للإنضمام الى برنامج ادخار الموظفين",
+            "intent": "employee_savings",
+            "entities": []
+         },
+         {
+            "text": "هل يمكننى الإنضمام الى برنامج ادخار الموظفين",
+            "intent": "employee_savings",
+            "entities": []
+         },
+         {
+            "text": "الإدارة المالية للموظفين",
+            "intent": "employee_savings",
+            "entities": []
+         },
+         {
+            "text": "انا ابحث عن خطط ادخار للموظفين",
+            "intent": "employee_savings",
+            "entities": []
+         },
+         {
+            "text": "صكوك ادخار للموظفين",
+            "intent": "employee_savings",
+            "entities": []
+         },
+         {
+            "text": "خطة ادخار الموظفين",
+            "intent": "employee_savings",
+            "entities": []
+         },
+         {
+            "text": "اريد معرفة المزيد عن  برنامج ادخار الموظفين",
+            "intent": "employee_savings",
+            "entities": []
+         },
+         {
+            "text": "اريد معلومات عن  برنامج ادخار الموظفين",
+            "intent": "employee_savings",
+            "entities": []
+         },
+         {
+            "text": "هل هناك خطة ادخار للموظفين؟",
+            "intent": "employee_savings",
+            "entities": []
+         },
+         {
+            "text": "نموذج طلب ادخار الموظفين",
+            "intent": "employee_savings",
+            "entities": []
+         },
+         {
+            "text": "استمارة طلب ادخار الموظفين",
+            "intent": "employee_savings",
+            "entities": []
+         },
+         {
+            "text": "اريد التقدم بطلب للإنضمام الى برنامج ادخار الموظفين",
+            "intent": "employee_savings",
+            "entities": []
+         },
+         {
+            "text": "اريد الإنضمام الى برنامج ادخار الموظفين",
+            "intent": "employee_savings",
+            "entities": []
+         },
+         {
+            "text": "ما الذى سأحصل عليه اذا انضممت الى برنامج ادخار الموظفين",
+            "intent": "employee_savings",
+            "entities": []
+         },
+         {
+            "text": "ما هى كل المميزات التى سأحصل عليها اذا انضممت الى برنامج ادخار الموظفين",
+            "intent": "employee_savings",
+            "entities": []
+         },
+         {
+            "text": "ما هى المميزات التى سأتمتع بها اذا انضممت الى برنامج ادخار الموظفين",
+            "intent": "employee_savings",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

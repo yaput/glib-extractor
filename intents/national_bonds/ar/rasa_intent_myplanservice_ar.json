@@ -1,0 +1,107 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "ما هي خطتي؟",
+            "intent": "myplanservice",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكننى الانضمام الى برنامج خطتى؟",
+            "intent": "myplanservice",
+            "entities": []
+         },
+         {
+            "text": "تقدم بطلب للإنضمام الى برنامج خطتى",
+            "intent": "myplanservice",
+            "entities": []
+         },
+         {
+            "text": "تقدم بطلب للإنضمام الى خطتى",
+            "intent": "myplanservice",
+            "entities": []
+         },
+         {
+            "text": "ما هي خطط الادخار المختلفة المتاحة؟",
+            "intent": "myplanservice",
+            "entities": []
+         },
+         {
+            "text": "ما هى خطط ادخار خطتى المختلفة؟",
+            "intent": "myplanservice",
+            "entities": []
+         },
+         {
+            "text": "ما هى رسوم الاشتراك فى خطتى؟",
+            "intent": "myplanservice",
+            "entities": []
+         },
+         {
+            "text": "الاشتراك فى خطتى",
+            "intent": "myplanservice",
+            "entities": []
+         },
+         {
+            "text": "اريد الاشتراك فى خطتى",
+            "intent": "myplanservice",
+            "entities": []
+         },
+         {
+            "text": "اريد الانضمام الى برنامج خطتى",
+            "intent": "myplanservice",
+            "entities": []
+         },
+         {
+            "text": "ما الذى على فعله للانضمام الى برنامج خطتى؟",
+            "intent": "myplanservice",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكننى الانضمام الى برنامج خطتى؟",
+            "intent": "myplanservice",
+            "entities": []
+         },
+         {
+            "text": "اريد الحصول على برنامج خطتى",
+            "intent": "myplanservice",
+            "entities": []
+         },
+         {
+            "text": "اريد التقدم بطلب للإنضمام الى برنامج خطتى",
+            "intent": "myplanservice",
+            "entities": []
+         },
+         {
+            "text": "اريد ان احظى بخيارات خطتى",
+            "intent": "myplanservice",
+            "entities": []
+         },
+         {
+            "text": "ما هى خدمات برنامج خطتى",
+            "intent": "myplanservice",
+            "entities": []
+         },
+         {
+            "text": "ما هى خدمات خطتى",
+            "intent": "myplanservice",
+            "entities": []
+         },
+         {
+            "text": "خطتى",
+            "intent": "myplanservice",
+            "entities": []
+         },
+         {
+            "text": "خدمات خطتى",
+            "intent": "myplanservice",
+            "entities": []
+         },
+         {
+            "text": "خدمات برنامج خطتى",
+            "intent": "myplanservice",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

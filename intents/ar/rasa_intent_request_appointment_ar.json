@@ -1,0 +1,412 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "أريد طلب موعد",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "أريد البحث عن طبيب",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "أتطلع إلى طبيب في الطب العام",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "أريد البحث عن طبيب أمراض النساء",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "أريد حجز موعد",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "ساعدني في البحث عن طبيب",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "أعرف التخصص ولكن لا أعرف الطبيب",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "هل يمكنك مساعدتي في البحث عن طبيب؟",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "هل يمكنك مساعدتي في البحث عن تشخيص؟",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "أريد البحث عن تشخيص",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "أريد مساعدة في البحث عن طبيب",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "يرجى تقديم طبيب لي",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "الطبيب",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "ابحث لي عن طبيب",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "بحث عن طبيب",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "بحث عن تخصص ومستشفى",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "لا أعرف أي شيء عن الأطباء أو التخصصات المختلفة",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "ما التخصصات الموجودة في أفيفو؟",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "كم عدد الأطباء تحت كل تخصص لديكم",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "قدم لي فكرة عن التخصصات المختلفة التي أتصفحها",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "قدم لي فكرة عن الأطباء المختلفين",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "أريد حجز موعد",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "حجز موعد مع طبيب",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "أريد الحجز مع طبيب خاص",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "أريد وصفات طبية",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "ما الطبيب الذي أحتاجه للأعراض التي لدي؟",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "ما نوع الطبيب الذي يمكنه مساعدتي؟",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "متى تفتح عيادة الطب العام؟",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "ما تغلق عيادة الطب العام؟",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "هل تعمل العيادة على مدار 24 ساعة في الأسبوع؟",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "هل يجب حجز موعد؟",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "هل يمكنني مقابلة طبيب دون موعد؟",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "هل تعمل مستشفيات أفيفو في مجال العناية بالبشرة",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "ما هي التخصصات المختلفة",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "ما أنواع العلاجات التي تقدمها أفيفو",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "هل يمكنني الحصول على قائمة بالعلاجات المختلفة التي تقدمها أفيفو؟",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "أريد حجز موعد",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكنني حجز موعد؟",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "ما الطرق التي أتبعها لحجز موعد",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "أحتاج للمساعدة لحجز موعد",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "هل يمكنك مساعدتي في حجز موعد؟",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "ما المواعيد المتاحة حالياً لعيادة الطب العام؟",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "هل يمكنني حجز موعد لطبيب",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "أريد حجز موعد مع طبيب",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "هل يمكنك حجز موعد لي مع طبيب",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "هل يمكنك حجز موعد لي مع طبيب",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "يرجى حجز موعد لي",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "حجز موعد",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكنني حجز موعد مع طبيب",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "موعد مع طبيب",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "ساعدني في حجز موعد",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "لدي موعد مع طبيب",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "أريد موعد مع طبيب",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "أريد طبيب",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "قدمت طلب موعد",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "ما مواعيد الطبيب",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "ما مواعيد الطبيب",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "متى يكون الطبيب موجوداً",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "ما الوقت الذي يمكنني فيه رؤية الطبيب",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "متى يمكنني رؤية الطبيب",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "أريد رؤية طبيب",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "توفر الطبيب",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "حجز موعد",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "طلب موعد",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "تثبيت موعد",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "بحث عن طبيب",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "بحث عن طبيب",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "قائمة الأطباء",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "بحث عن تخصص",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "التخصص",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "الطبيب",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "موعد مع طبيب",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "رؤية طبيب",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "زيارة طبيب",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "الطبيب المتفرغ",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "حجز",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "احجز موعدًا",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "موعد الطبيب",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "وقت الطبيب",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "قابل الطبيب",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "استشر الطبيب",
+            "intent": "request_appointment",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

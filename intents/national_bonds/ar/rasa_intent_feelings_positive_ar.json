@@ -1,0 +1,72 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "انا معجب بك",
+            "intent": "feelings_positive",
+            "entities": []
+         },
+         {
+            "text": "انا معجب بك جدا",
+            "intent": "feelings_positive",
+            "entities": []
+         },
+         {
+            "text": "انا احبك",
+            "intent": "feelings_positive",
+            "entities": []
+         },
+         {
+            "text": "انا حقا معجب بك",
+            "intent": "feelings_positive",
+            "entities": []
+         },
+         {
+            "text": "أنت مميز",
+            "intent": "feelings_positive",
+            "entities": []
+         },
+         {
+            "text": "انا مغرم بك",
+            "intent": "feelings_positive",
+            "entities": []
+         },
+         {
+            "text": "أعشقك",
+            "intent": "feelings_positive",
+            "entities": []
+         },
+         {
+            "text": "اجدك رائع",
+            "intent": "feelings_positive",
+            "entities": []
+         },
+         {
+            "text": "انت ببساطة رائع",
+            "intent": "feelings_positive",
+            "entities": []
+         },
+         {
+            "text": "انت الأفضل",
+            "intent": "feelings_positive",
+            "entities": []
+         },
+         {
+            "text": "انت ممتاز",
+            "intent": "feelings_positive",
+            "entities": []
+         },
+         {
+            "text": "انت الأفضل على الاطلاق",
+            "intent": "feelings_positive",
+            "entities": []
+         },
+         {
+            "text": "انت رائع",
+            "intent": "feelings_positive",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

@@ -1,0 +1,52 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "Yes",
+            "intent": "yes_answer",
+            "entities": []
+         },
+         {
+            "text": "yes",
+            "intent": "yes_answer",
+            "entities": []
+         },
+         {
+            "text": "know more",
+            "intent": "yes_answer",
+            "entities": []
+         },
+         {
+            "text": "view more",
+            "intent": "yes_answer",
+            "entities": []
+         },
+         {
+            "text": "more options",
+            "intent": "yes_answer",
+            "entities": []
+         },
+         {
+            "text": "I'll like to see more",
+            "intent": "yes_answer",
+            "entities": []
+         },
+         {
+            "text": "yes, show me more",
+            "intent": "yes_answer",
+            "entities": []
+         },
+         {
+            "text": "yes, please",
+            "intent": "yes_answer",
+            "entities": []
+         },
+         {
+            "text": "yep",
+            "intent": "yes_answer",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

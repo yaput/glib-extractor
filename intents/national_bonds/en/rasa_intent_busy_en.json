@@ -1,0 +1,77 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "Are you busy?",
+            "intent": "busy",
+            "entities": []
+         },
+         {
+            "text": "Do you have a lot of things to do?",
+            "intent": "busy",
+            "entities": []
+         },
+         {
+            "text": "Are you very busy?",
+            "intent": "busy",
+            "entities": []
+         },
+         {
+            "text": "Am I disturbing you?",
+            "intent": "busy",
+            "entities": []
+         },
+         {
+            "text": "Are you working?",
+            "intent": "busy",
+            "entities": []
+         },
+         {
+            "text": "How busy are you?",
+            "intent": "busy",
+            "entities": []
+         },
+         {
+            "text": "How busy you are",
+            "intent": "busy",
+            "entities": []
+         },
+         {
+            "text": "have you got too much to do?",
+            "intent": "busy",
+            "entities": []
+         },
+         {
+            "text": "Are you working now?",
+            "intent": "busy",
+            "entities": []
+         },
+         {
+            "text": "you are busy",
+            "intent": "busy",
+            "entities": []
+         },
+         {
+            "text": "You seem to be busy",
+            "intent": "busy",
+            "entities": []
+         },
+         {
+            "text": "you seem to be very busy",
+            "intent": "busy",
+            "entities": []
+         },
+         {
+            "text": "Are you ready?",
+            "intent": "busy",
+            "entities": []
+         },
+         {
+            "text": "Are you ready now?",
+            "intent": "busy",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

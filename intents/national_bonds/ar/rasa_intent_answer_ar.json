@@ -1,0 +1,97 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "اريدك ان تجاوبنى",
+            "intent": "answer",
+            "entities": []
+         },
+         {
+            "text": "جاوبنى",
+            "intent": "answer",
+            "entities": []
+         },
+         {
+            "text": "من فضلك جاوب",
+            "intent": "answer",
+            "entities": []
+         },
+         {
+            "text": "إجابة",
+            "intent": "answer",
+            "entities": []
+         },
+         {
+            "text": "اعطينى الإجابة",
+            "intent": "answer",
+            "entities": []
+         },
+         {
+            "text": "اعطينى الجواب",
+            "intent": "answer",
+            "entities": []
+         },
+         {
+            "text": "جاوب على سؤالى",
+            "intent": "answer",
+            "entities": []
+         },
+         {
+            "text": "هل يمكنك إجابة سؤالى؟",
+            "intent": "answer",
+            "entities": []
+         },
+         {
+            "text": "اخبرنى الإجابة",
+            "intent": "answer",
+            "entities": []
+         },
+         {
+            "text": "جاوب على السؤال",
+            "intent": "answer",
+            "entities": []
+         },
+         {
+            "text": "لدى سؤال",
+            "intent": "answer",
+            "entities": []
+         },
+         {
+            "text": "اريدك ان تجاوب على سؤالى",
+            "intent": "answer",
+            "entities": []
+         },
+         {
+            "text": "جاوب على سؤالى فقط",
+            "intent": "answer",
+            "entities": []
+         },
+         {
+            "text": "هل يمكنك انت تجاوبنى؟",
+            "intent": "answer",
+            "entities": []
+         },
+         {
+            "text": "الإجابات",
+            "intent": "answer",
+            "entities": []
+         },
+         {
+            "text": "هل يمكنى انت تجاوبنى على سؤال؟",
+            "intent": "answer",
+            "entities": []
+         },
+         {
+            "text": "هل يمكنك الإجابة؟",
+            "intent": "answer",
+            "entities": []
+         },
+         {
+            "text": "اريد الإجابة الآن",
+            "intent": "answer",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

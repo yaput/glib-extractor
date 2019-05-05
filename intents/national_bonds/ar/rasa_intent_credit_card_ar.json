@@ -1,0 +1,127 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "هل لديكم بطاقة ائتمان",
+            "intent": "credit_card",
+            "entities": []
+         },
+         {
+            "text": "هل هناك بطاقة ائتمان",
+            "intent": "credit_card",
+            "entities": []
+         },
+         {
+            "text": "هل يمكننى الحصول على بطاقة ائتمان",
+            "intent": "credit_card",
+            "entities": []
+         },
+         {
+            "text": "بطاقة المصرف",
+            "intent": "credit_card",
+            "entities": []
+         },
+         {
+            "text": "بطاقة البنك",
+            "intent": "credit_card",
+            "entities": []
+         },
+         {
+            "text": "طلب بطاقة الائتمان",
+            "intent": "credit_card",
+            "entities": []
+         },
+         {
+            "text": "اريد الحصول على بطاقة ائتمان",
+            "intent": "credit_card",
+            "entities": []
+         },
+         {
+            "text": "ما هي رسوم بطاقة الائتمان؟",
+            "intent": "credit_card",
+            "entities": []
+         },
+         {
+            "text": "ما هى تكلفة بطاقة الائتمان؟",
+            "intent": "credit_card",
+            "entities": []
+         },
+         {
+            "text": "هل بطاقة الائتمان مجانية؟",
+            "intent": "credit_card",
+            "entities": []
+         },
+         {
+            "text": "ما هى بطاقة الائتمان الادخارية؟",
+            "intent": "credit_card",
+            "entities": []
+         },
+         {
+            "text": "ما هى فوائد بطاقة الائتمان الادخارية؟",
+            "intent": "credit_card",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكننى الحصول على بطاقة الائتمان الادخارية؟",
+            "intent": "credit_card",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكننى التقدم للحصول على بطاقة الائتمان الادخارية؟",
+            "intent": "credit_card",
+            "entities": []
+         },
+         {
+            "text": "هل الصكوك الوطنية لديها بطاقة ائتمان",
+            "intent": "credit_card",
+            "entities": []
+         },
+         {
+            "text": "هل هناك بطاقة ائتمان للصكوك الوطنية",
+            "intent": "credit_card",
+            "entities": []
+         },
+         {
+            "text": "اريد معلومات عن بطاقة الائتمان",
+            "intent": "credit_card",
+            "entities": []
+         },
+         {
+            "text": "اريد معرفة المزيد عن بطاقة الائتمان",
+            "intent": "credit_card",
+            "entities": []
+         },
+         {
+            "text": "بطاقة ائتمان",
+            "intent": "credit_card",
+            "entities": []
+         },
+         {
+            "text": "بطاقة الائتمان",
+            "intent": "credit_card",
+            "entities": []
+         },
+         {
+            "text": "بطاقة ائتمان سهولة",
+            "intent": "credit_card",
+            "entities": []
+         },
+         {
+            "text": "بطاقة سهولة",
+            "intent": "credit_card",
+            "entities": []
+         },
+         {
+            "text": "استفسر عن بطاقة الائتمان",
+            "intent": "credit_card",
+            "entities": []
+         },
+         {
+            "text": "كم تبلغ تكلفة بطاقة الائتمان",
+            "intent": "credit_card",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

@@ -1,0 +1,82 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "القائمة الرئيسية",
+            "intent": "main_menu",
+            "entities": []
+         },
+         {
+            "text": "اريد العودة الى القائمة الرئيسية",
+            "intent": "main_menu",
+            "entities": []
+         },
+         {
+            "text": "العودة الى القائمة الرئيسية",
+            "intent": "main_menu",
+            "entities": []
+         },
+         {
+            "text": "الصفحة الرئيسية",
+            "intent": "main_menu",
+            "entities": []
+         },
+         {
+            "text": "اظهار خيارات البداية",
+            "intent": "main_menu",
+            "entities": []
+         },
+         {
+            "text": "البدأ من جديد",
+            "intent": "main_menu",
+            "entities": []
+         },
+         {
+            "text": "اعادة تشغيل",
+            "intent": "main_menu",
+            "entities": []
+         },
+         {
+            "text": "العودة الى البداية",
+            "intent": "main_menu",
+            "entities": []
+         },
+         {
+            "text": "العودة الى الصفحة الرئيسية",
+            "intent": "main_menu",
+            "entities": []
+         },
+         {
+            "text": "البدأ من جديد",
+            "intent": "main_menu",
+            "entities": []
+         },
+         {
+            "text": "اعادة تحميل",
+            "intent": "main_menu",
+            "entities": []
+         },
+         {
+            "text": "اظهر لى الخيارات الرئيسية مرة اخرى",
+            "intent": "main_menu",
+            "entities": []
+         },
+         {
+            "text": "ما هى الخدمات المقدمة؟",
+            "intent": "main_menu",
+            "entities": []
+         },
+         {
+            "text": "اريد البدأ من جديد",
+            "intent": "main_menu",
+            "entities": []
+         },
+         {
+            "text": "الرئيسية",
+            "intent": "main_menu",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

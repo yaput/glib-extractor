@@ -1,0 +1,786 @@
+intents:
+  - session_started
+  - greeting_introduction
+  - are_you_real
+  - promotions_&_offers
+  - no_promotions_and_offers
+  - locate_a_centre
+  - locate1
+  - share_location
+  - enter_details
+  - emiratead
+  - other_specialization
+  - specialization_selected
+  - doctor
+  - insurance_coverage
+  - emirates
+  - health_calculators
+  - vaccination
+  - bmi
+  - feedback
+  - request_appointment
+  - doctors_name_questions
+  - locate_a_centre_intents
+  - submitform
+  - bmicalculating
+  - request_for_callback
+  - callback_request
+  - yes_callbackrequest
+  - cbno
+  - yes_feedback
+  - no_feedback
+  - user_shared_location
+  - emiratedubai
+  - emiratesharjah
+  - center1ORcenter2ORcenter3ORcenter4ORcenter5ORcenter6ORcenter0ORcenter7ORcenter8ORcenter9ORcenter10ORcenter11ORcenter12ORcenter13ORcenter14ORcenter15ORcenter16ORcenter17ORcenter18ORcenter19ORcenter20ORcenter21ORcenter22ORcenter23ORcenter24ORcenter25
+  - locate2
+  - locate3
+  - locate4
+  - locate5
+  - locate6
+  - getdoctorfor0ORgetdoctorfor1ORgetdoctorfor2ORgetdoctorfor3ORgetdoctorfor4ORgetdoctorfor5ORgetdoctorfor6ORgetdoctorfor7ORgetdoctorfor8ORgetdoctorfor9ORgetdoctorfor10ORgetdoctorfor11ORgetdoctorfor12ORgetdoctorfor13ORgetdoctorfor14ORgetdoctorfor15ORgetdoctorfor16ORgetdoctorfor17ORgetdoctorfor18ORgetdoctorfor19ORgetdoctorfor20ORgetdoctorfor21ORgetdoctorfor22ORgetdoctorfor23
+  - requestappointment
+  - locate7
+  - languages
+  - home_services
+  - locate8
+  - locate9
+  - locate10
+  - sick_leave_medical_certificates
+  - request_appointment
+  - language_en
+  - language_ar
+  - cbyes
+  - specializations_offered
+  - specialization
+  - common_centres_questions
+  - getdirectionsdirect
+  - dr_a_el-gherianiORdr_abdul_malikORdr_achim_luethORdr_tasneem_zoeb_saifORdr_ritamoni_senguptaORprof_zimmermannORdr_matschkeORdr_amaya_ugarteORdr_ashraf_kamelORdr_kai_uwe_khrmannORdr_darya_homayounfarORdr_dushan_motwaniORdr_saji_bawaORdr_soman_pillaiORdr_parul_saxenaORdr_archana_vermaORdr_aruna_rameshORdr_abdul_malikORdr_ragesh_panchikkalORdr_john_marshallORdr_shashikant_shindeORdr_urmimala_sinhaORdr_rupali_ranjithORdr_p_satish_kumarORdr_asma_aktherORdr_pankaj_shrivastavORdr_shahlla_raghibORdr_asma_munirORdr_ghada_omerORdr_shabbir_puthawalaORdr_isha_gopalanORdr_sapna_ahujaORdr_fouzia_unisORdr_pramod_vargheseORdr_rita_parikhORdr_suresh_kochubavaORdr_mohammed_elhsanORdr_richard_tobiasORdr_umer_arfathORdr_anu_ninan_anuORdr_george_vargheseORdr_hussein_ismailORdr_nesreen_ismailORdr_priya__sharmaORdr_rami_abdullatifORdr_reena_cheriyanORdr_sathya_puthranORdr_shilu_philipORdr_subramanyan_nadarORdr_suresh_kochubavaORdr_sivapradsad_reddyORdr_sayeda_bushraORdr_johnORdr_michael_formeniusORdr_marwan_al-obeidiORdr_soren_jensenORdr_christina_moellerORdr_soulaf_shakerORdr_sosan_fatimaORdr_kerry_ahmadiORdr_sarel_lindeORdr_lina_shaarORdr_linda_raskanskyORdr_eman_hagagORdr_thomas_lythORdr_imneet_madanORdr_mai_kamarORdr_carol_onyangoORdr_rafif_tayaraORdr_teertha_karnakarORdr_lina_papikaORdr_argiro_kechagiaORdr_a_el-gherianiORdr_yasmin_zoubaidyORdr_omar_aldaoudiORdr_samy_darwishORdr_walter_goriwodaORdr_felicia_bjurfjallORdr_dulene_swanepoelORdr_alessandro_amadeiORdr_hanan_abdallaORdr_martina_crismaORdr_hilde_brunvoll_lythORdr_martha_duarteORdr_valentina_manolovaORdr_vaishali_satpudkeORdr_regina_curilinaORdr_michael_bossORdr_majd_al_zoughbiORdr_aliya_nurpeissovaORdr_nisha_praveenORdr_khuloud_abdouliORdr_georgia_vadarliORdr_ali_singleORdr_faisal_javed_khanORdr_ajay_kumarORdr_gopakumar_nairORdr_avula_siva_prasadORdr_tasneem_zoeb_saifORdr_ritamoni_senguptaORdr_subha_rita_thomasORdr_meenu_mathewORdr_sharley_sajiORdr_george_josephORdr_preetha_vinojORdr_sameer_tmORdr_subathra_leelaORdr_silji_manojORdr_sheila_j_de_lunaORdr_dalia_zikryORdr_priya_jobyORdr_sreeraj_sreedharanORdr_gopal_mohanORdr_n_d_georgeORdr_philip_mathewORdr_mohammed_badaruzmanORdr_rajani_thachapillyORdr_binu_santhoshORdr_qassim_ahliORdr_rayan_al_abrachORdr_kseniya_kapelkoORdr_pier_manciniORdr_sinem_larsenORdr_mario_russoORdr_marilyn_alexanderORdr_rahleh_mahtabpourORdr_kavita_taraleORdr_fernando_menesesORdr_mohd_atif_shahORdr_sithara_haridasORdr_sree_rajkumarORdr_ravindra_umraoORdr_priya_choudhuryORdr_neeraj_sharmaORdr_mohammed_faizORdr_mohammad_aliORdr_kusumam_thomasORdr_bibek_rameswarORdr_ashraf_khalilORdr_amod_tilakORdr_akhter_ansariORdr_aijaz_loneORdr_kottakulathORdr_shakeel_soomroORdr_khambathyORdr_awad_omerORdr_shindeORdr_farida_faquihORdr_deepa_titoORdr_ali_peralORdr_gilbert_haddadORdr_bassel_noahORdr_saji_pillaiORdr_akbar_badushahORdr_arlene_dagondonORdr_varun_kundraORdr_s_kallivalappilORdr_ashraf_khalilORdr_vandana_waghayeORdr_sajith_nairORdr_z_meletiadisORdr_diethart_bayerORdr_muthanna_alrawiORprof_shabsighORprof_a_ralf_herwigORdr_khaldoun_sharifORprof_mettlerORdr_ahmad_rashidORdr_ahmad_rashidORdr_ahmad_rashidORdr_swarna_kaziORdr_ruma_bhargavaORdr_srinivasORdr_pradeep_srivastavORdr_liselotte_mettlerORdr_vaishali_srinivasORprof_â_ralf_herwigORdr_rohit_gulatiORdr_ashok_vermaORdr_zoeb_kachwalaORdr_deepak_naikORdr_ashifa_noushad_aliORdr_feraida_dardoORdr_roshan_johnORdr_shaymaa_elsayedORdr_baskaran_rajendranORdr_simran_sharmaORdr_mohammad_bin_mansoorORdr_j_rishirajORdr_pawan_babbira_nanaiahORdr_vineeta_guptaORdr_sivapradsad_gongala_reddyORdr_george_vargheseORdr_bibek_chakrabarty_rameswarORdr_sathyashankar_puthran
+  - yes_promotions_and_offers
+  - yes_locate_centre
+  - getspecializationsdirect
+  - getinsurancesdirect
+  - common_questions_insurance
+  - name
+  - emotions_sad
+  - emotions_happy
+  - birthday
+  - feelings_positive
+  - feelings_negative
+  - lab_report_request
+  - customer_care
+  - what_is_avivo
+  - cancel_appointment
+  - yes_address_and_location
+  - no_address_and_location
+  - swear_words
+  - vacancy
+  - complaints
+  - positive_feedback
+  - specializations_not_offered
+  - intents_before_the_introduction_form
+  - no_anwer
+  - yes_answer
+  - woman_thirty_four
+  - woman_day_promotion
+actions:
+  - utter_greeting_introduction
+  - utter_real_human_bot
+  - utter_promotions_&_offers_selected
+  - utter_no_help_promotions_&_offers
+  - utter_no_help_promotions_&_offers_1
+  - utter_locate_a_centre_selected
+  - utter_location_shared_located_a_centre
+  - utter_emirate_selected_manually_locate_a_centre
+  - utter_emirate_selected_manually_locate_a_centre_1
+  - utter_location_entered_carousel_of_hospitals_locate_a_centre_manual
+  - utter_hospital_selected_manual_&_share_locations
+  - utter_hospital_selected_manual_&_share_locations_1
+  - utter_no_help_step_1_feedback_locate_a_centre
+  - utter_no_help_step_1_feedback_locate_a_centre_1
+  - utter_irrelevant_wrong_answer_locate_a_centre
+  - utter_irrelevant_wrong_answer_locate_a_centre_1
+  - utter_2nd_irrelevant_wrong_answer_locate_a_centre
+  - utter_2nd_irrelevant_wrong_answer_locate_a_centre_1
+  - utter_2nd_irrelevant_wrong_answer_locate_a_centre_2
+  - utter_specialization_selected
+  - utter_specialization_selected_1
+  - utter_other_specialization_selected_request_for_appt_specialization
+  - utter_specialization_selected_entered_specialization_request_for_appointment
+  - utter_find_a_doctor_selected_specialization_request_appointment
+  - utter_request_appointment_selected_specialization_doctor_request_for_appointment
+  - utter_request_appointment_selected_specialization_doctor_request_for_appointment_1
+  - utter_email_address_request_for_appointment_specialization
+  - utter_phone_number_request_for_appointment_specialization
+  - utter_appointment_requested_confirmation
+  - utter_appointment_requested_confirmation_1
+  - utter_no_more_help_feedback_provided_closing_message_request_for_appointment
+  - utter_no_more_help_feedback_provided_closing_message_request_for_appointment_1
+  - utter_incorrect_email_address
+  - utter_incorrect_email_address_1
+  - utter_incorrect_phone_number
+  - utter_incorrect_phone_number_1
+  - utter_doctor_selected_request_for_appointment
+  - utter_incorrect_doctors_name_doctor_request_for_appointment
+  - utter_incorrect_doctors_name_doctor_request_for_appointment_1
+  - utter_valid_doctors_name_entered_doctor_request_for_appointment
+  - utter_callback_request_selected
+  - utter_callback_request_selected_1
+  - utter_phone_number_reason_for_call_back_selected_callback
+  - utter_date_ph.no_entered_callback_request
+  - utter_date_ph.no_entered_callback_request_1
+  - utter_apt_time_to_call_date_entered_callback_request
+  - utter_request_made_apt_time_entered_callback_request
+  - utter_no_more_help_callback_request
+  - utter_insurance_coverage_selected
+  - utter_area_location_of_hospital_emirate_selected_insurance_coverage
+  - utter_area_location_of_hospital_emirate_selected_insurance_coverage_1
+  - utter_carousel_hospitals_area_entered_insurance_coverage
+  - utter_carousel_hospitals_area_entered_insurance_coverage_1
+  - utter_list_of_policies_hospital_selected_insurance_coverage
+  - utter_no_more_help_level_2_insurance_coverage
+  - utter_no_more_help_level_2_insurance_coverage_1
+  - utter_yes_email_chart_vaccination_calculator_health_calculators
+  - utter_yes_email_chart_vaccination_calculator_health_calculators_1
+  - utter_email_address_entered_email_chart_health_calculator
+  - utter_bmi_calculator_selected
+  - utter_bmi_calculator_selected_1
+  - utter_height_weight_entered_bmi_calculator_health_calculator
+  - utter_height_weight_entered_bmi_calculator_health_calculator_1
+  - utter_bmi_calculated_height_entered_bmi_calculator_health_calculators
+  - utter_bmi_calculated_height_entered_bmi_calculator_health_calculators_1
+  - utter_feedback_selected
+  - utter_phone_number_centre_name_entered_feedback
+  - utter_phone_number_centre_name_entered_feedback_1
+  - utter_full_name_phone_number_entered_feedback
+  - utter_email_address_full_name_entered_feedback
+  - utter_bmicalculated
+  - utter_bmicalculating
+  - utter_callbackform
+  - utter_introductionform
+  - utter_emirate_selected_abu_dhabi
+  - utter_emirate_selected_dubai
+  - utter_emirate_selected_sharjah
+  - utter_request_appointment_form
+  - utter_requestingappointmentwithdoctor
+  - utter_callbackformshort
+  - utter_services_intents
+  - utter_language_intent
+  - utter_language_intent_1
+  - utter_home_services
+  - utter_home_services_1
+  - utter_home_services_2
+  - utter_emirate_selected_abu_dhabi_insurance
+  - utter_sick_leave_and_medical_certificate
+  - utter_sick_leave_and_medical_certificate_1
+  - utter_sick_leave_and_medical_certificate_2
+  - utter_forceuserreg
+  - utter_processinglanguage
+  - utter_greeting_intent_response
+  - utter_fallback_response
+  - utter_fallback_response_1
+  - utter_fallback_response_2
+  - utter_more_help
+  - utter_name
+  - utter_emotions_sad
+  - utter_emotions_happy
+  - utter_birthday
+  - utter_feelings_positive
+  - utter_feelings_negative
+  - utter_contact_customer_care
+  - utter_contact_customer_care_1
+  - utter_contact_customer_care_2
+  - utter_what_is_avivo
+  - utter_what_is_avivo_1
+  - utter_cancel_appointment
+  - utter_cancel_appointment_1
+  - utter_cancel_appointment_2
+  - utter_primacare_speciality_clinic_address
+  - utter_primacare_speciality_clinic_address_1
+  - utter_musalla_centre_al_barsha_branch_address
+  - utter_musalla_centre_al_barsha_branch_address_1
+  - utter_doctors_clinic_address
+  - utter_doctors_clinic_address_1
+  - utter_german_medical_center_address
+  - utter_german_medical_center_address_1
+  - utter_conceive_gynaecology_and_fertility_hospital_shj_address
+  - utter_conceive_gynaecology_and_fertility_hospital_shj_address_1
+  - utter_conceive_gynaecology_and_fertility_centre_address
+  - utter_conceive_gynaecology_and_fertility_centre_address_1
+  - utter_nnmc_primacare_clinics
+  - utter_nnmc_primacare_clinics_1
+  - utter_nnmc_pharmacy_address
+  - utter_nnmc_pharmacy_address_1
+  - utter_nnmc_branch_1_address
+  - utter_nnmc_branch_1_address_1
+  - utter_national_hospital_address
+  - utter_national_hospital_address_1
+  - utter_rima_pharmacy_address
+  - utter_rima_pharmacy_address_1
+  - utter_al_barsha_clinic_address
+  - utter_al_barsha_clinic_address_1
+  - utter_muhaisna_specialist_medical_centre_address
+  - utter_muhaisna_specialist_medical_centre_address_1
+  - utter_dr_michaels_dental_clinic_umm_seqim_address
+  - utter_dr_michaels_dental_clinic_umm_seqim_address_1
+  - utter_dr_michaels_dental_clinic_jumeirah_branch_address
+  - utter_dr_michaels_dental_clinic_jumeirah_branch_address_1
+  - utter_dr_michaels_childrens_dental_center
+  - utter_dr_michaels_childrens_dental_center_1
+  - utter_aesthetica_clinic_healthcare_city_address
+  - utter_aesthetica_clinic_healthcare_city_address_1
+  - utter_aesthetica_clinic_jumeirah_branch_address
+  - utter_aesthetica_clinic_jumeirah_branch_address_1
+  - utter_aesthetica_clinic_address_both
+  - utter_aesthetica_clinic_address_both_1
+  - utter_aesthetica_clinic_address_both_2
+  - utter_aesthetica_clinic_address_both_3
+  - utter_aesthetica_clinic_address_both_4
+  - utter_dermalase_clinic_deira_address
+  - utter_dermalase_clinic_deira_address_1
+  - utter_dermalase_clinic_jumeirah_address
+  - utter_dermalase_clinic_jumeirah_address_1
+  - utter_dermalase_clinics
+  - utter_dermalase_clinics_1
+  - utter_dermalase_clinics_2
+  - utter_dermalase_clinics_3
+  - utter_dermalase_clinics_4
+  - utter_reem_medical_and_diagnostic_centre_address
+  - utter_reem_medical_and_diagnostic_centre_address_1
+  - utter_reem_specialist_medical_centre_address
+  - utter_reem_specialist_medical_centre_address_1
+  - utter_reem_al_nahda_medical_centre
+  - utter_reem_al_nahda_medical_centre_1
+  - utter_reem_medical_centre_addresses
+  - utter_reem_medical_centre_addresses_1
+  - utter_reem_medical_centre_addresses_2
+  - utter_reem_medical_centre_addresses_3
+  - utter_dr_michaels_clinic
+  - utter_dr_michaels_clinic_1
+  - utter_dr_michaels_clinic_2
+  - utter_dr_michaels_clinic_3
+  - utter_dr_michaels_clinic_4
+  - utter_dr_michaels_clinic_5
+  - utter_dr_michaels_orthodontic_centre
+  - utter_dr_michaels_orthodontic_centre_1
+  - utter_dr_michaels_dental_clinic_dhcc_branch_address
+  - utter_dr_michaels_dental_clinic_dhcc_branch_address_1
+  - utter_swear_words
+  - utter_job_vacancy
+  - utter_job_vacancy_1
+  - utter_complaints
+  - utter_positive_feedback
+  - utter_specializations_not_offered
+  - utter_intents_before_the_introduction_form
+  - utter_intents_before_the_introduction_form_1
+  - utter_intents_before_the_introduction_form_2
+  - utter_womens_day_promotion
+  - utter_womens_day_promotion_1
+  - utter_womens_day_promotion_2
+  - utter_womens_day_promotion_3
+  - action_greeting_introduction
+  - action_real_human_bot
+  - action_promotions_&_offers_selected
+  - action_locate_a_centre_selected
+  - action_locate_selected_locate_a_centre
+  - action_share_location_selected_locate_a_centre
+  - action_enter_manually_selected
+  - action_hospital_selected_manual_&_share_locations
+  - action_request_appointment_selected
+  - action_specialization_selected
+  - action_appointment_requested_confirmation
+  - action_doctor_selected_request_for_appointment
+  - action_callback_request_selected
+  - action_request_made_apt_time_entered_callback_request
+  - action_insurance_coverage_selected
+  - action_list_of_policies_hospital_selected_insurance_coverage
+  - action_health_calculator_selected
+  - action_no_email_chartselected_vaccination_calculator_health_calculator
+  - action_email_address_entered_email_chart_health_calculator
+  - action_bmi_calculator_selected
+  - action_bmi_calculated_height_entered_bmi_calculator_health_calculators
+  - action_feedback_selected
+  - action_feedback_accepted_email_address_entered_feedback
+  - action_bmicalculated
+  - action_callbackform
+  - action_callbackformsubmitted
+  - action_sendlocation
+  - action_emirate_selected_abu_dhabi
+  - action_areaformsubmission
+  - action_emirate_selected_dubai
+  - action_emirate_selected_sharjah
+  - action_getdirections
+  - action_request_appointment_form
+  - action_getlocationsfromspecialization
+  - action_getdoctorsfromspecialization
+  - action_requestappointmentfordoctorspecial
+  - action_requestappointmentformcompleted
+  - action_requestappointmentbydoctor
+  - action_callbackformshort
+  - action_getcentersforinsurance
+  - action_checkinsurer
+  - action_emirate_selected_abu_dhabi_insurance
+  - action_forceuserreg
+  - action_languageselection
+  - action_greeting_intent_response
+  - action_more_help_insurance_coverage
+  - action_more_help_request_appointment
+  - action_feedback_more_help
+  - action_additional_help
+  - action_hospital_name_random
+  - action_getlocationsfromspecializationdirect
+  - action_specializationform
+  - action_centernamebuttons
+  - action_getdirectionsdirect
+  - action_getdoctordirect
+  - action_getcenterspecializationsdirect
+  - action_getcenterdirectinsurance
+  - action_getinsurancedirect
+  - action_primacare_speciality_clinic_address
+  - action_musalla_centre_al_barsha_branch_address
+  - action_doctors_clinic_address
+  - action_german_medical_center_address
+  - action_conceive_gynaecology_and_fertility_hospital_shj_address
+  - action_conceive_gynaecology_and_fertility_centre_address
+  - action_nnmc_primacare_clinics
+  - action_nnmc_pharmacy_address
+  - action_nnmc_branch_1_address
+  - action_national_hospital_address
+  - action_rima_pharmacy_address
+  - action_al_barsha_clinic_address
+  - action_muhaisna_specialist_medical_centre_address
+  - action_dr_michaels_dental_clinic_umm_seqim_address
+  - action_dr_michaels_dental_clinic_jumeirah_branch_address
+  - action_dr_michaels_childrens_dental_center
+  - action_aesthetica_clinic_healthcare_city_address
+  - action_aesthetica_clinic_jumeirah_branch_address
+  - action_aesthetica_clinic_address_both
+  - action_dermalase_clinic_deira_address
+  - action_dermalase_clinic_jumeirah_address
+  - action_dermalase_clinics
+  - action_reem_medical_and_diagnostic_centre_address
+  - action_reem_specialist_medical_centre_address
+  - action_reem_al_nahda_medical_centre
+  - action_reem_medical_centre_addresses
+  - action_dr_michaels_clinic
+  - action_dr_michaels_orthodontic_centre
+  - action_dr_michaels_dental_clinic_dhcc_branch_address
+  - action_job_vacancy
+  - action_intents_before_the_introduction_form
+  - action_womens_day_promotion
+ 
+templates:
+  utter_greeting_introduction:
+  - "Hi {{context['name']}}, what can i help you with today? 🙂"
+  utter_real_human_bot:
+  - "I'm a Chatbot for the AVIVO Group. What AVIVO services can I help you with?"
+  - "I'm a Chatbot for the AVIVO Group, a new member of the team 🙂"
+  - "How can I help you?"
+  utter_promotions_&_offers_selected:
+  - "Here are some promotions that the AVIVO Group is currently running."
+  utter_no_help_promotions_&_offers:
+  - "It was great chatting with you! Please don't hesitate to contact me for any further help."
+  - "Please don't hesitate to contact me if you need more information, I'm happy to help!"
+  utter_no_help_promotions_&_offers_1:
+  - "Have a nice day! 🙂"
+  - "Great chatting with you!"
+  - "Have a great day 🙂"
+  utter_locate_a_centre_selected:
+  - "Can you please select the AVIVO Centre that you are looking for?"
+  utter_location_shared_located_a_centre:
+  - "Based on the location you've shared & the selection made, here is a list of the closest AVIVO Centres to you."
+  utter_emirate_selected_manually_locate_a_centre:
+  - "What area or location do you want to find an AVIVO centre around?"
+  utter_emirate_selected_manually_locate_a_centre_1:
+  - "Please type in the name of the area or street you are looking for an AVIVO Centre in. (Example : Jumeirah)"
+  utter_location_entered_carousel_of_hospitals_locate_a_centre_manual:
+  - "According to the location you have entered, here is a list of the closest Centres to you."
+  utter_hospital_selected_manual_&_share_locations:
+  - "The distance between you and the selected AVIVO Centre is XXkms."
+  utter_hospital_selected_manual_&_share_locations_1:
+  - "XX minutes is the approximate time it should take you to reach with current traffic. (Average Travel Time - XX Minutes)"
+  utter_no_help_step_1_feedback_locate_a_centre:
+  - "It was nice to talk to you, please let me know if there is anything else I can help you with."
+  - "Lovely chatting with you! If there is anything else you need, I'm happy to help."
+  utter_no_help_step_1_feedback_locate_a_centre_1:
+  - "Thank you, have a great day!"
+  - "Have a great day!"
+  utter_irrelevant_wrong_answer_locate_a_centre:
+  - "I don't recognize this as an area that we have a centre in."
+  utter_irrelevant_wrong_answer_locate_a_centre_1:
+  - "Would you like to try re-entering an area name like in the example? (Example - Jumeirah)"
+  utter_2nd_irrelevant_wrong_answer_locate_a_centre:
+  - "I still don't understand. For any information you require, you can visit our website  http://www.avivo-group.com/"
+  utter_2nd_irrelevant_wrong_answer_locate_a_centre_1:
+  - "You can also call  800 AVIVO (28486) for more help."
+  utter_2nd_irrelevant_wrong_answer_locate_a_centre_2:
+  - "Thank you, have a nice day."
+  utter_specialization_selected:
+  - "Which of the following specializations are you looking for assistance with?"
+  utter_specialization_selected_1:
+  - "If the specialization you're looking for doesn't fall under the following, click 'other' & enter the specialization."
+  utter_other_specialization_selected_request_for_appt_specialization:
+  - "Please enter the name of the specialization you  want to book an appointment in. (Example : Pediatrics)"
+  utter_specialization_selected_entered_specialization_request_for_appointment:
+  - "Here is a list of the AVIVO centres that have the specialization you have selected."
+  utter_find_a_doctor_selected_specialization_request_appointment:
+  - "I've gathered a list of doctors that work in 'Specialization Selected' in the hospital you have selected."
+  utter_request_appointment_selected_specialization_doctor_request_for_appointment:
+  - "I need some information to help you to request for an appointment."
+  utter_request_appointment_selected_specialization_doctor_request_for_appointment_1:
+  - "Can you please enter your full name?"
+  utter_email_address_request_for_appointment_specialization:
+  - "{{context['name']}}!, can you please provide me with the email address that you want to get a confirmation on? (Example: name@domain.com)"
+  utter_phone_number_request_for_appointment_specialization:
+  - "Can you enter your valid UAE phone number so someone from the team can follow up with you on the same?"
+  utter_appointment_requested_confirmation:
+  - "Thank you, I've just requested for an Appointment for you with the Doctor you've selected."
+  utter_appointment_requested_confirmation_1:
+  - "Someone from the team will be in touch with you shortly in order to confirm your appointment."
+  utter_no_more_help_feedback_provided_closing_message_request_for_appointment:
+  - "It was lovely talking to you, please feel free to contact me if you need more assistance. I'm happy to help!"
+  utter_no_more_help_feedback_provided_closing_message_request_for_appointment_1:
+  - "Have a great day!"
+  utter_incorrect_email_address:
+  - "I don't recognize this as a valid Email Id."
+  - "I don't understand that as a valid email address."
+  utter_incorrect_email_address_1:
+  - "Please type in a valid email address as provided in the example. (Example : name@domain.com)"
+  - "Can you please provide a valid email address like in the example?
+(Example : name@domain.com)"
+  utter_incorrect_phone_number:
+  - "I don't recognize this as a valid UAE phone number."
+  - "I don't recognize this as a valid UAE phone number."
+  utter_incorrect_phone_number_1:
+  - "Please type in a valid phone number as provided in the example. (Example : 056xxxxxxx or +971 56 xxxxxxx))"
+  - "Please type in a valid phone number just like in the example. (Example : 056xxxxxxx or +971 56 xxxxxxx))"
+  utter_doctor_selected_request_for_appointment:
+  - "Can you please enter the doctors name that you are looking for?"
+  - "Can you provide me with the name of the doctor so that I can get his / her details from our database & we can proceed to request an appointment for you?"
+  utter_incorrect_doctors_name_doctor_request_for_appointment:
+  - "I don't recognize this as a doctors name that I know of."
+  - "I don't recognize the name you have entered."
+  utter_incorrect_doctors_name_doctor_request_for_appointment_1:
+  - "Can you try again? Maybe check the re-check the spelling."
+  - "Could you try again? Maybe re-check the spelling you've typed in."
+  utter_valid_doctors_name_entered_doctor_request_for_appointment:
+  - "I've found a list of doctors for you based on the name you have entered above."
+  utter_callback_request_selected:
+  - "I can help you request for a Callback from the AVIVO Group."
+  utter_callback_request_selected_1:
+  - "Please select your reason for receiving a callback."
+  utter_phone_number_reason_for_call_back_selected_callback:
+  - "What number would you like us to reach you on?  Please enter a valid UAE number."
+  utter_date_ph.no_entered_callback_request:
+  - "What date would you like to receive a call on?"
+  utter_date_ph.no_entered_callback_request_1:
+  - "Please enter the date in the given format (dd/mm/yyyy)"
+  utter_apt_time_to_call_date_entered_callback_request:
+  - "What would be an appropriate time for our agent to call you? (Example : 3pm)"
+  utter_request_made_apt_time_entered_callback_request:
+  - "Thank you for that.
+I've requested for a call back, someone from the team will be in touch with you shortly to help you."
+  utter_no_more_help_callback_request:
+  - "Thank you for getting in touch with us, have a great day!"
+  - "Great chatting with you! Do let me know if you need more assistance."
+  - "Hope to chat with you soon, have a great day!"
+  utter_insurance_coverage_selected:
+  - "I can help you find out if your Insurance Policy covers the Centre you want to visit."
+  utter_area_location_of_hospital_emirate_selected_insurance_coverage:
+  - "What area or location is the hospital you want to visit located in?"
+  utter_area_location_of_hospital_emirate_selected_insurance_coverage_1:
+  - "Please type in the name of the area or street of the hospital. (Example: Jumeirah)"
+  utter_carousel_hospitals_area_entered_insurance_coverage:
+  - "Based on the details you have entered above, here is a list of AVIVO Centres."
+  utter_carousel_hospitals_area_entered_insurance_coverage_1:
+  - "Once you select a centre, I will give you a list of insurance policies accepted there."
+  utter_list_of_policies_hospital_selected_insurance_coverage:
+  - "The hospital that you have selected accepts policies from"
+  utter_no_more_help_level_2_insurance_coverage:
+  - "It was lovely talking to you, please feel free to contact me if you need more assistance. I'm happy to help."
+  - "Great chatting with you! If there's anything you need, I'm always here to help."
+  utter_no_more_help_level_2_insurance_coverage_1:
+  - "Have a great day!"
+  utter_yes_email_chart_vaccination_calculator_health_calculators:
+  - "In that case, I will need your email address."
+  utter_yes_email_chart_vaccination_calculator_health_calculators_1:
+  - "Can you please enter the email address that you want to receive the report on?  (Example: name@domain.com)"
+  utter_email_address_entered_email_chart_health_calculator:
+  - "Thank you for that, the document you need will be sent to you shortly."
+  utter_bmi_calculator_selected:
+  - "I can help you calculate your BMI but to do so I'll need some information."
+  utter_bmi_calculator_selected_1:
+  - "Can you please enter your weight and height?"
+  utter_height_weight_entered_bmi_calculator_health_calculator:
+  - "What is your height?  Please make sure you type in your answer in cms. (Example: 160 cms)"
+  utter_height_weight_entered_bmi_calculator_health_calculator_1:
+  - "Remember to type in the word cms after you enter the digits."
+  utter_bmi_calculated_height_entered_bmi_calculator_health_calculators:
+  - "I need just one moment."
+  utter_bmi_calculated_height_entered_bmi_calculator_health_calculators_1:
+  - "Based on the information you have entered, your BMI is XX.X kg/m2"
+  utter_feedback_selected:
+  - "Can you please fill & submit the feedback form below?"
+  utter_phone_number_centre_name_entered_feedback:
+  - "Can you please enter your phone number so that an agent can follow up with you if needed?"
+  utter_phone_number_centre_name_entered_feedback_1:
+  - "Please enter a valid UAE phone number."
+  utter_full_name_phone_number_entered_feedback:
+  - "Can you please enter your full name?"
+  utter_email_address_full_name_entered_feedback:
+  - "'name entered', please enter an email address that we can contact you on. (Example: name@domain.com)"
+  utter_bmicalculated:
+  - "Based on your input, your BMI is {{context['bmi']}}."
+  utter_bmicalculating:
+  - "Calculating your BMI..."
+  utter_callbackform:
+  - "I can help you request for a Call Back from a Customer Service Agent. Can you please fill out the details below?"
+  utter_introductionform:
+  - "Hi {{context['regName']}}!
+I'm AVY from the AVIVO Group."
+  utter_emirate_selected_abu_dhabi:
+  - "AVIVO Centers are available in different locations in Abu Dhabi. Can you select your preferred location from the list below?"
+  utter_emirate_selected_dubai:
+  - "AVIVO Centers are available in different locations in Dubai. Can you select your preferred location from the list below?"
+  utter_emirate_selected_sharjah:
+  - "AVIVO Centers are available in different locations in Sharjah. Can you select your preferred location from the list below?"
+  utter_request_appointment_form:
+  - "Please select a specialization."
+  utter_requestingappointmentwithdoctor:
+  - "Please wait while your request for an appointment is being processed..."
+  utter_callbackformshort:
+  - "I can help you request for a Call Back from a Customer Service Agent. Can you please fill out the details below?"
+  utter_services_intents:
+  - "The services provided by the AVIVO hospital are....."
+  utter_language_intent:
+  - "English is a widely spoken language across our staff & doctors."
+  utter_language_intent_1:
+  - "Arabic, Hindi, Malyalam are some of the other languages spoken by our doctors."
+  utter_home_services:
+  - "The AVIVO Group does have home services."
+  utter_home_services_1:
+  - "For any information you require, you can visit our website  http://www.avivo-group.com/"
+  utter_home_services_2:
+  - "You can also call  800 AVIVO (28486) for more help."
+  utter_emirate_selected_abu_dhabi_insurance:
+  - "AVIVO Centers are available in different locations in Abu Dhabi. Can you select your preferred location from the list below?"
+  utter_sick_leave_and_medical_certificate:
+  - "You may consult our doctors who could advice you regarding your certificate."
+  utter_sick_leave_and_medical_certificate_1:
+  - "Our Customer Care would be the ideal guide to give you information on sick leaves, medical certificates and medical history records."
+  utter_sick_leave_and_medical_certificate_2:
+  - "You can call 800 AVIVO (28486) for more help. Have a nice day!"
+  utter_forceuserreg:
+  - "Can you fill up this form in order to proceed?"
+  utter_processinglanguage:
+  - "Great, I will make sure I remember the language you've selected for future communication."
+  utter_greeting_intent_response:
+  - "Thank you {{context['name']}}, please select the service you are looking for."
+  utter_fallback_response:
+  - "I don't understand what you mean."
+  utter_fallback_response_1:
+  - "For any information you need, you can visit our website http://www.avivo-group.com/"
+  utter_fallback_response_2:
+  - "You can also call 800 AVIVO (28486) for more help."
+  utter_more_help:
+  - "Hey there! What can I do for you?"
+  - "Hello again! What can I help you with?"
+  - "Welcome back, which of the below options can I help you with?"
+  - "Nice to see you again! What more can I help you with?"
+  - "Hi again! What more can I help you with?"
+  utter_name:
+  - "I am AVY, a chatbot from the AVIVO group."
+  utter_emotions_sad:
+  - "I really hope you feel better soon."
+  - "I'm sorry to hear that, I'm always here to help."
+  - "I wonder what made you feel that way, I do hope you feel better."
+  utter_emotions_happy:
+  - "That's great to hear!"
+  utter_birthday:
+  - "Happy birthday! Have a great day ahead."
+  utter_feelings_positive:
+  - "Thank you for that!"
+  utter_feelings_negative:
+  - "I would suggest you to place your comments under our feedback form."
+  utter_contact_customer_care:
+  - "You can contact our customer care agents for all your enquiries."
+  utter_contact_customer_care_1:
+  - "Please call 800 AVIVO (28486) for more help."
+  utter_contact_customer_care_2:
+  - "Thank you, have a nice day."
+  utter_what_is_avivo:
+  - "The word AVIVO is derived from the latin word 'avivar' which means to brighten and enliven."
+  utter_what_is_avivo_1:
+  - "AVIVO Group is a brand of exceptional medical practices offering a wide range of specialized healthcare services."
+  utter_cancel_appointment:
+  - "I'd recommend you contact our Customer Care if you want to cancel your appointment or change it."
+  utter_cancel_appointment_1:
+  - "You can call 800 AVIVO (28486) for more help."
+  utter_cancel_appointment_2:
+  - "Thank you, have a nice day"
+  utter_primacare_speciality_clinic_address:
+  - "The address to the PrimaCare Speciality Clinic is Mezzanine Floor, Musalla Tower, Near Al Fahidi Metro Station, Bur Dubai, Dubai."
+  utter_primacare_speciality_clinic_address_1:
+  - "Phone Number : (+971) 4396 6123"
+  utter_musalla_centre_al_barsha_branch_address:
+  - "The address to the Musalla Centre - Al Barsha Branch is Musalla Tower, 6th floor Khalid Bin Waleed Road, Bur Dubai, Dubai, P. O. Box - 26238"
+  utter_musalla_centre_al_barsha_branch_address_1:
+  - "Phone Number : (+971) 4396 6123"
+  utter_doctors_clinic_address:
+  - "The address for Doctors Clinic is Baniyas Metro Station, Opp. Al Futtaim Masjid, Sultan Al Owais Building, Al Nasser Square, Flat No. 206, Deira, Dubai."
+  utter_doctors_clinic_address_1:
+  - "Phone Number :  (+971) 4224 6688"
+  utter_german_medical_center_address:
+  - "The address for the German Medical Center is Dubai Healthcare City, Ibn Sina Building 27, Block B, Clinic 302 & 404, Dubai."
+  utter_german_medical_center_address_1:
+  - "Phone number: (+971) 4432 2989"
+  utter_conceive_gynaecology_and_fertility_hospital_shj_address:
+  - "The address of Conceive Gynaecology & Fertility Hospital in Sharjah is diagonally across the roundabout from Sharjah Arab Mall, Al Taawun Area, Sharjah."
+  utter_conceive_gynaecology_and_fertility_hospital_shj_address_1:
+  - "Phone Number : (+971) 6577 1822"
+  utter_conceive_gynaecology_and_fertility_centre_address:
+  - "The address to the Concieve Gynaecology and Fertility Centre is Red Diamond Building, 1st floor, Jumeirah Lake Towers, Dubai."
+  utter_conceive_gynaecology_and_fertility_centre_address_1:
+  - "Phone Number : (+971) 4554 5820"
+  utter_nnmc_primacare_clinics:
+  - "The address for NNMC PrimaCare Clinics is Building No. 37, Sector 10, Sabiyah Khalifah, Mussafah, Abu Dhabi."
+  utter_nnmc_primacare_clinics_1:
+  - "Phone Number : (+971) 2552 0100"
+  utter_nnmc_pharmacy_address:
+  - "The address for the NNMC Pharmacy is Building No. 37, Sector 10, Sabiyah Khalifah, Mussafah, Abu Dhabi."
+  utter_nnmc_pharmacy_address_1:
+  - "Phone Number : (+971) 2552 0100"
+  utter_nnmc_branch_1_address:
+  - "The address for NNMC Branch 1 is H1C3-3, Hameem Bridge area, Al Dhafra, Abu Dhabi."
+  utter_nnmc_branch_1_address_1:
+  - "Phone Number : (+971) 2552 0100"
+  utter_national_hospital_address:
+  - "The address for National Hospital is Najdah Street, Behind Honda Showroom, Electra Street, Abu Dhabi."
+  utter_national_hospital_address_1:
+  - "Phone Number : (+971) 2671 1000"
+  utter_rima_pharmacy_address:
+  - "The address for Rima Pharmacy is Najdah Street, Behind Honda Showroom, Electra Street, Abu Dhabi."
+  utter_rima_pharmacy_address_1:
+  - "Phone Number : (+971) 2671 1000"
+  utter_al_barsha_clinic_address:
+  - "The address for Al Barsha Clinic is Bin Galitha Building, Al Barsha Clinic – Street Number 8, Al Quoz, Dubai."
+  utter_al_barsha_clinic_address_1:
+  - "Phone Number : (+971) 4347 8285"
+  utter_muhaisna_specialist_medical_centre_address:
+  - "The address of the Muhaisna Specialist Medical Centre is Al Ansari Exchange Building, Muhaisna - 2 (Sonapur), Dubai."
+  utter_muhaisna_specialist_medical_centre_address_1:
+  - "Phone Number : (+971) 4264 4155"
+  utter_dr_michaels_dental_clinic_umm_seqim_address:
+  - "The address to Dr Michael's Dental Clinic is Villa 1016, Al Wasl Road, Umm Suqeim 1, P.O. Box 213720, Dubai."
+  utter_dr_michaels_dental_clinic_umm_seqim_address_1:
+  - "Phone Number : (+971) 4394 9433"
+  utter_dr_michaels_dental_clinic_jumeirah_branch_address:
+  - "The address for Dr Michael's Clinic Jumeirah Branch is Villa 418, Al Wasl Road, Jumeirah 2, P.O. Box 12372, Dubai."
+  utter_dr_michaels_dental_clinic_jumeirah_branch_address_1:
+  - "Phone Number : (+971) 4349 5900"
+  utter_dr_michaels_childrens_dental_center:
+  - "The address for Dr Michael's Children's Dental Center is Villa 1020, Al Wasl Road, Umm Suqeim 1, P.O. Box 12372, Dubai."
+  utter_dr_michaels_childrens_dental_center_1:
+  - "Phone Number : (+971) 4339 7700"
+  utter_aesthetica_clinic_healthcare_city_address:
+  - "The address for the Aesthetica Clinic in Dubai Healthcare City is Building Number. 39, Dubai Healthcare City, Dubai."
+  utter_aesthetica_clinic_healthcare_city_address_1:
+  - "Phone Number : (+971) 4429 8533"
+  utter_aesthetica_clinic_jumeirah_branch_address:
+  - "The address for the Aesthetica Clinic Jumeirah Branch is Jumeirah Beach Road, Villa 359,  Dubai."
+  utter_aesthetica_clinic_jumeirah_branch_address_1:
+  - "Phone Number : (+971) 4342 8383"
+  utter_aesthetica_clinic_address_both:
+  - "AVIVO has got 2 branches for Aesthetica Clinics one in Jumeirah & the other in Dubai Healthcare City."
+  utter_aesthetica_clinic_address_both_1:
+  - "Dubai Healthcare City Branch :  Building Number. 39, Dubai Healthcare City, Dubai."
+  utter_aesthetica_clinic_address_both_2:
+  - "Phone Number : (+971) 4429 8533"
+  utter_aesthetica_clinic_address_both_3:
+  - "Jumeirah Branch : Jumeirah Beach Road, Villa 359, Dubai."
+  utter_aesthetica_clinic_address_both_4:
+  - "Phone Number : (+971) 4342 8383"
+  utter_dermalase_clinic_deira_address:
+  - "The address for the Dermalase Clinic in Deira is  Hamarain Center, Gate 7, 1st Floor, Deira, Dubai."
+  utter_dermalase_clinic_deira_address_1:
+  - "Phone Number - (+971) 4269 8005"
+  utter_dermalase_clinic_jumeirah_address:
+  - "The address for the Dermalase Clinic in Jumeirah is Villa No 399A, Jumeirah 2, P.O. Box 127681,  Dubai."
+  utter_dermalase_clinic_jumeirah_address_1:
+  - "Phone Number : (+971) 4349 7880"
+  utter_dermalase_clinics:
+  - "There are two branches for Dermalase Clinics first in one in Deira & the other in Jumeirah."
+  utter_dermalase_clinics_1:
+  - "Jumeirah :  Villa No 399A, Jumeirah 2, P.O. Box 127681, Dubai."
+  utter_dermalase_clinics_2:
+  - "Phone Number :  (+971) 4349 7880"
+  utter_dermalase_clinics_3:
+  - "Deira : Hamarain Center, Gate 7, 1st Floor, Deira, Dubai."
+  utter_dermalase_clinics_4:
+  - "Phone Number : (+971) 4269 8005"
+  utter_reem_medical_and_diagnostic_centre_address:
+  - "The address for the Reem Medical and Diagnostic Centre is P.O. Box 21764, Ahalia Exchange Building, 1st Floor, Near Rolla Park, Sharjah."
+  utter_reem_medical_and_diagnostic_centre_address_1:
+  - "Phone Number : (+971) 6562 0831"
+  utter_reem_specialist_medical_centre_address:
+  - "The address for the Reem Specialist Medical Centre is  P.O. Box 21764, 1st Floor, Juice World Building, Near Rolla Park, Sharjah."
+  utter_reem_specialist_medical_centre_address_1:
+  - "Phone Number : (+971) 6562 5422"
+  utter_reem_al_nahda_medical_centre:
+  - "The address of the Reem Al Nahda Medical Centre is Al Shiba Building, 1st Floor, Al Nahda, Sharjah."
+  utter_reem_al_nahda_medical_centre_1:
+  - "Phone Number : (+971) 6530 4864"
+  utter_reem_medical_centre_addresses:
+  - "There are 3 Reem Medical Centres for which I have placed the addresses below."
+  utter_reem_medical_centre_addresses_1:
+  - "Reem Specialist Medical Centre : P.O. Box 21764, 1st Floor, Juice World Building, Near Rolla Park, Sharjah.   [Phone Number :  (+971) 6562 5422]"
+  utter_reem_medical_centre_addresses_2:
+  - "Reem Al Nahda Medical Centre : Al Shiba Building, 1st Floor, Al Nahda, Sharjah. [Phone Number : (+971) 6530 4864]"
+  utter_reem_medical_centre_addresses_3:
+  - "Reem Medical & Diagnostic Centre : P.O. Box 21764, Ahalia Exchange Building, 1st Floor, Near Rolla Park, Sharjah. [Phone Number : (+971) 6562 0831]"
+  utter_dr_michaels_clinic:
+  - "I have found you the addresses for 5 of our Dr Michael's Clinics."
+  utter_dr_michaels_clinic_1:
+  - "Dr Michael's Children's Dental Center :  Villa 1020, Al Wasl Road, Umm Suqeim 1, P.O. Box 12372, Dubai. [Phone Number : (+971) 4358 7788]"
+  utter_dr_michaels_clinic_2:
+  - "Dr Michael's Clinic (Jumeirah Branch) : Villa 418, Al Wasl Road, Jumeirah 2, P.O. Box 12372, Dubai.[Phone Number : (+971) 4426 9966]"
+  utter_dr_michaels_clinic_3:
+  - "Dr Michael's Clinic (Dubai Healthcare City Branch) : Building No. 39, Unit 107 & 108, Dubai Healthcare City, Dubai. [Phone Number : (+971) 4426 9966]"
+  utter_dr_michaels_clinic_4:
+  - "Dr Michael's Clinic (Umm Seqim Address) : Villa 1016, Al Wasl Road, Umm Suqeim 1, P.O. Box 213720, Dubai. [Phone Number : (+971) 4394 9433]"
+  utter_dr_michaels_clinic_5:
+  - "Dr Michael's Orthodontic Center : Villa 1012, Al Wasl Road, Umm Suqeim 1, P.O. Box 213720, Dubai. [Phone Number : (+971) 4358 7788]"
+  utter_dr_michaels_orthodontic_centre:
+  - "The address for Dr Michael's Orthodontic Center is Villa 1012, Al Wasl Road, Umm Suqeim 1, P.O. Box 213720, Dubai."
+  utter_dr_michaels_orthodontic_centre_1:
+  - "Phone Number : (+971) 4358 7788"
+  utter_dr_michaels_dental_clinic_dhcc_branch_address:
+  - "The address for Dr Michael's Clinic in Dubai Healthcare City is Building No. 39, Unit 107 & 108, Dubai Healthcare City, Dubai."
+  utter_dr_michaels_dental_clinic_dhcc_branch_address_1:
+  - "Phone Number : (+971) 4426 9966"
+  utter_swear_words:
+  - "I don't understand what you mean, I am guiding you to feedback in order for you to place your comments."
+  utter_job_vacancy:
+  - "AVIVO aims for excellence in each of our employees."
+  utter_job_vacancy_1:
+  - "You can submit your job application to: hr@avivo-group.com"
+  utter_complaints:
+  - "I am sorry to hear that. I'd suggest you to fill out our Feedback form so the necessary action can be taken."
+  utter_positive_feedback:
+  - "Thank you for that compliment. We would love to make your experience even better, please fill out the Feedback form and tell us about your experience."
+  utter_specializations_not_offered:
+  - "Looks like we do not have a doctor or centre for the specialization you have entered."
+  utter_intents_before_the_introduction_form:
+  - "This is part of a compulsory verification process."
+  utter_intents_before_the_introduction_form_1:
+  - "We provide important information that needs to be protected by proprietary considerations."
+  utter_intents_before_the_introduction_form_2:
+  - "I request you please fill out the form below to proceed."
+  utter_womens_day_promotion:
+  - "This Women's Day, Avivo Group launched Woman 34 Clinic, the first initiative in the country aimed at raising awareness around 34 menopausal symptoms!"
+  utter_womens_day_promotion_1:
+  - "Surprisingly, of these 34, only 3-4 symptoms are generally spoken about and are addressed amongst women."
+  utter_womens_day_promotion_2:
+  - "But thanks to AVIVO group, this comprehensive campaign addresses this problem via state-of-the-art screenings, medical therapies as well as one-on-one counselling."
+  utter_womens_day_promotion_3:
+  - "Women 34 clinic was launched at PrimaCare Dubai, Reem Medical Group Sharjah and National Hospital Abu Dhabi with free Gynaecology consultations and tailor-made packages for women in their 40s."

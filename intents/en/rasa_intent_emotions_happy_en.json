@@ -1,0 +1,57 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "i am excited",
+            "intent": "emotions_happy",
+            "entities": []
+         },
+         {
+            "text": "i am so happy",
+            "intent": "emotions_happy",
+            "entities": []
+         },
+         {
+            "text": "i feel so happy",
+            "intent": "emotions_happy",
+            "entities": []
+         },
+         {
+            "text": "i am so so sooo happy today",
+            "intent": "emotions_happy",
+            "entities": []
+         },
+         {
+            "text": "i don't know why i feel so happy",
+            "intent": "emotions_happy",
+            "entities": []
+         },
+         {
+            "text": "ask me why i'm happy",
+            "intent": "emotions_happy",
+            "entities": []
+         },
+         {
+            "text": "do you know why i'm happy today",
+            "intent": "emotions_happy",
+            "entities": []
+         },
+         {
+            "text": "i can't help it,i'm tooo happy",
+            "intent": "emotions_happy",
+            "entities": []
+         },
+         {
+            "text": "can you share in my hapiness",
+            "intent": "emotions_happy",
+            "entities": []
+         },
+         {
+            "text": "I am so excited today",
+            "intent": "emotions_happy",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

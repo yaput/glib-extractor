@@ -1,0 +1,347 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "هل لديك أي عروض حصرية",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "عروض حصرية",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "عروض ترويجية",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "هل لديك أي عروض ترويجية",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "ما هي أحدث عروضك الترويجية والحصرية",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "عروض ترويجية",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "عروض حصرية",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "العروض الترويجية والحصرية",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "العروض الترويجية والحصرية",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "أريد أحدث العروض الترويجية",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "قدم لي قائمة بأحدث العروض الترويجية",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "ما هي أحدث العروض الترويجية في أفيفو",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "أريد أحدث العروض الترويجية",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "هل لديك أي خصومات",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "هل هناك أي عروض حصرية",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "ما العروض الحصرية الرئيسية",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "أريد أحدث العروض الحصرية الرئيسية",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "قدم لي العروض الحصرية الرئيسية",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "العروض الحصرية الرئيسية من فضلك",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "أحدث العروض الحصرية",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "هل لديك أي امتيازات حالية",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "العروض الترويجية والحصرية",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "ما العروض الترويجية الحالية التي تديرها؟",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "أريد فكرة حول العروض الترويجية الحالية",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "أريد خصم على الخدمات لأفيفو",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "هل يوجد لديكم أي أطباء مميزين زائرين هذا الشهر",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "أريد أن اعرف هل لديكم أي خبراء زائرين هذا الشهر",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "ما العروض الترويجية والحصرية الحالية",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "قدم لي قائمة بأحدث العروض الترويجية",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "قدم لي قائمة بالعروض الحصرية الحالية",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "قدم لي فكرة عن العروض الترويجية",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "ما هي أحدث العروض الحصرية التي تديرها أفيفو",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "قدم لي فكرة عن العروض الترويجية في أفيفو",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "ما المستشفيات التي تدير العروض الترويجية والحصرية حالياً؟",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "أحدث الخصومات",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "أي علاجات خاصة في هذا الشهر؟",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "أين أجد العروض الحالية؟",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "عروض",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "أي خصومات خاصة؟",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "هل هناك أي أطباء زائرين للجلسات الخاصة؟",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "أين يمكنني حجز موعد للحصول على العرض الترويجي؟",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "ما عرض اليوم؟",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "ما العروض الترويجية الحالية؟",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "هل يوجد لدى أفيفو أي عروض ترويجية؟",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "ما هي أحدث العروض الحصرية؟",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "ما هي أحدث العروض الترويجية لديكم",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "ما هي أحدث العروض الترويجية",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "ما هي أحدث العروض الحصرية؟",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "أريد خصم على علاجي",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "هل يمكنني الحصول على خصم على الفاتورة؟",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "هل يوجد لديكم أي خطط للرعاية الصحية",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "هل يوجد لديكم باقة صحية لكبار السن؟",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "هل يوجد لديكم باقات للعناية بالبشرة",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "هل يوجد لديكم أي باقات صحية للسيدات",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "باقات للحوامل",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "باقات لكبار السن",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "باقات لحديثي الولادة",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "العروض الترويجية",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "العروض الحصرية",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "خصومات",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "امتياز",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "العروض الترويجية",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "خصومات",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "العروض الحصرية",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "باقات الرعاية الصحية",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "عروض حصرية",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "عروض ترويجية",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "خصومات",
+            "intent": "promotions_&_offers",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

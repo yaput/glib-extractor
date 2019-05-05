@@ -1,0 +1,402 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "هل يمكن لاحد الاتصال بي؟",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "هل يمكنني التحدث إلى احد ممثليكم ؟",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "طلب إعاده الاتصال",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "هل تعتبر صكوك دبي الوطنية استثمارا جيدا ؟",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "ماذا يحدث إذا إنهار سوق الصكوك ؟",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "ما هى سندات الإغاثة؟",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "ما مدي جودة صكوك الامارات الوطنية للادخار الشخصي ؟",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "ما الذي يجعل السندات الوطنية جيده جدا ؟",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "هل يمكنك مساعدتي في تلقي مكالمة ؟",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "اريد اعادة اتصال",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "اريد التحدث الى احد الموظفين",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "هل يمكن لاحد اعادة الاتصال بي؟",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "هل يمكنك جعل شخص يتصل بي مره أخرى في أسرع وقت ممكن",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "هل يمكننى طلب إعاده الاتصال",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "اريد التحدث الى احد الموظفين",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "من فضلك اعد الاتصال بي فى اسرع وقت",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "اريد اعادة الاتصال الان",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "هل الصكوك الوطنية أمنة",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "هل الاستثمار في الصكوك خيار جيد",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "هل ستخضع الصكوك لضريبة القيمة المضافة في 2018 ؟",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "إذا هل الصكوك لديها ضريبة القيمة المضافة أيضا ؟",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "هل يتم تطبيق رسوم ضريبة القيمة المضافة اثناء إلغاء الحساب وسحب المبلغ بالكامل ؟",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "هل تطبق ضريبة على الصكوك؟",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "هل ستطبق الضريبة",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "هل هناك 5% ضريبة على الصكوك ايضا؟",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "طلب إعاده الاتصال",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "هل تطبق ضريبة على الصكوك؟",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "لا استطيع تحمل اكثر من ذلك",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "انا مشغول جدا",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "لدى الكثير لأفعله",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "انا مشغول للغاية",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "لا يوجد لدى وقت لك",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "لا اريد التحدث اليك",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "لست بمزاج جيد للتحدث",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "اتصل بي",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "خدمة العملاء",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "اتصال",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "اتصل بي",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "من فضلك اتصل بي؟",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "من فضلك اتصل بي",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "ما هو رقم تليفونك؟",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "ما هو بريدك الالكترونى",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "ما هو ايميلك",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "بيانات الاتصال",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكننى التواصل مع الشركة",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "هل يمكنك اعطائى رقم الشركة",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "هل يمكنك اعطائي البريد الالكترونى الخاص بالشركة",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "ما هو رقم الاتصال؟",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "بيانات المتصل",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "ما هى بيانات الاتصال؟",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "ما هى بيانات اتصال الشركة؟",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "ما هى بيانات اتصال الصكوك الوطنية؟",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "ما هى بيانات اتصال الصكوك الوطنية؟",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "ما هى بيانات اتصال الصكوك الوطنية؟",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "اخبرنى برقم الهاتف",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "اريد رقمك",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "اعطنى رقم الاتصال بخدمة العملاء",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "من الذى يمكننى الاتصال به؟",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "هل هناك طريقة للاتصال بك؟",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "ما هو الرقم الارضي؟",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "ما هو رقم المكتب؟",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "ما هو رقم مركز الاتصال ؟",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "رقم مركز خدمة العملاء",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "رقم خدمة العملاء",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "اريد التحدث الى احد ممثلى خدمة العملاء",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكننى التواصل معك؟",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "اريد معرفة رقم الاتصال الخاص بالصكوك الوطنية",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "اريد ان اقدم استفسار",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكننى تقديم استفسارى",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "اين اقدم استفسارى",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "اريد التقدم باستفسار",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "لدى سؤال",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "لدي شك",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "اريد التحدث الى شخص ما",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "اود التحدث الى شخص ما",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "اريد التحدث الى خدمة العملاء",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "خدمة العملاء",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "دعم العملاء",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "اين اقدم استفسارى",
+            "intent": "call_back_and_contact",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

@@ -1,0 +1,6134 @@
+{
+    "-L1pu3n1TrX-lu94SYin":{
+        "data":{
+        "ar":[
+            {
+                "content":"مرحباً",
+                "type":"text"
+            },
+            {
+                "content":"مرحباً",
+                "type":"text"
+            },
+            {
+                "content":"!مرحباً بك",
+                "type":"text"
+            },
+            {
+                "content":"مرحباً",
+                "type":"text"
+            },
+            {
+                "content":"مرحباً",
+                "type":"text"
+            },
+            {
+                "content":"كيف الحال؟",
+                "type":"text"
+            },
+            {
+                "content":"أحتاج لمساعدة",
+                "type":"text"
+            },
+            {
+                "content":"ساعدني",
+                "type":"text"
+            },
+            {
+                "content":"أحتاج لمساعدة!",
+                "type":"text"
+            },
+            {
+                "content":"ساعدني الآن",
+                "type":"text"
+            },
+            {
+                "content":"أحتاج لمساعدة",
+                "type":"text"
+            },
+            {
+                "content":"هل يمكنك مساعدتي؟",
+                "type":"text"
+            },
+            {
+                "content":"أحتاج إلى التحدث مع أحد",
+                "type":"text"
+            },
+            {
+                "content":"ساعدني من فضلك",
+                "type":"text"
+            },
+            {
+                "content":"مرحباً",
+                "type":"pattern"
+            },
+            {
+                "content":"كيف الحال؟",
+                "type":"pattern"
+            },
+            {
+                "content":"ساعدني",
+                "type":"pattern"
+            },
+            {
+                "content":"أحتاج لمساعدة",
+                "type":"pattern"
+            },
+            {
+                "content":"كيف الحال؟",
+                "type":"pattern"
+            }
+        ],
+        "en":[
+            {
+                "content":"Hey there!",
+                "type":"text"
+            },
+            {
+                "content":"Howdy",
+                "type":"text"
+            },
+            {
+                "content":"How's it going?",
+                "type":"text"
+            },
+            {
+                "content":"Help me",
+                "type":"text"
+            },
+            {
+                "content":"I need help!",
+                "type":"text"
+            },
+            {
+                "content":"I need assistance",
+                "type":"text"
+            },
+            {
+                "content":"can you assist me?",
+                "type":"text"
+            },
+            {
+                "content":"i need to talk to someone",
+                "type":"text"
+            },
+            {
+                "content":"please help me",
+                "type":"text"
+            },
+            {
+                "content":"what kind of services you offer",
+                "type":"text"
+            },
+            {
+                "content":"i want help",
+                "type":"text"
+            },
+            {
+                "content":"I need help",
+                "type":"text"
+            },
+            {
+                "content":"help",
+                "type":"text"
+            },
+            {
+                "content":"hello",
+                "type":"text"
+            },
+            {
+                "content":"hi",
+                "type":"text"
+            },
+            {
+                "content":"Whats up?",
+                "type":"text"
+            },
+            {
+                "content":"sup?",
+                "type":"text"
+            },
+            {
+                "content":"good morning",
+                "type":"text"
+            },
+            {
+                "content":"good day",
+                "type":"text"
+            },
+            {
+                "content":"good afternoon",
+                "type":"text"
+            },
+            {
+                "content":"morning!",
+                "type":"text"
+            },
+            {
+                "content":"afternoon!",
+                "type":"text"
+            },
+            {
+                "content":"evening",
+                "type":"text"
+            },
+            {
+                "content":"help me now",
+                "type":"text"
+            },
+            {
+                "content":"i want help",
+                "type":"text"
+            },
+            {
+                "content":"please help me",
+                "type":"text"
+            },
+            {
+                "content":"Hi avi",
+                "type":"text"
+            },
+            {
+                "content":"hi avy",
+                "type":"text"
+            },
+            {
+                "content":"hi annapoorani here",
+                "type":"text"
+            },
+            {
+                "content":"hi kainush here",
+                "type":"text"
+            },
+            {
+                "content":"Hai",
+                "type":"text"
+            },
+            {
+                "content":"I am dr fahad",
+                "type":"text"
+            }
+        ]
+        },
+        "learning":true,
+        "moduleID":"-L2uExIyJvbcPShOXmQY",
+        "title":"Greeting (Introduction)"
+    },
+    "-L1q2tKJuBKrNH2kcgdr":{
+        "data":{
+        "ar":[
+            {
+                "content":"هل أنت حقيقي؟",
+                "type":"text"
+            },
+            {
+                "content":"من أنت؟",
+                "type":"text"
+            },
+            {
+                "content":"من أنت",
+                "type":"text"
+            },
+            {
+                "content":"هل أنت روبوت دردشة",
+                "type":"text"
+            },
+            {
+                "content":"هل أنت إنسان",
+                "type":"text"
+            },
+            {
+                "content":"هل أتحدث إلى شخص حقيقي",
+                "type":"text"
+            },
+            {
+                "content":"هل هذا حقيقي؟",
+                "type":"text"
+            },
+            {
+                "content":"هل هذا حقيقي؟",
+                "type":"text"
+            },
+            {
+                "content":"من أنت؟",
+                "type":"text"
+            },
+            {
+                "content":"من أنت",
+                "type":"text"
+            },
+            {
+                "content":"ما هذا",
+                "type":"text"
+            },
+            {
+                "content":"هل هذا روبوت دردشة",
+                "type":"text"
+            },
+            {
+                "content":"هل أنت شخص حقيقي؟",
+                "type":"text"
+            },
+            {
+                "content":"هل أنت روبوت دردشة",
+                "type":"text"
+            },
+            {
+                "content":"روبوت دردشة؟",
+                "type":"text"
+            },
+            {
+                "content":"روبوت دردشة؟",
+                "type":"text"
+            },
+            {
+                "content":"هل هذا حقيقي؟",
+                "type":"text"
+            },
+            {
+                "content":"حقيقي",
+                "type":"text"
+            },
+            {
+                "content":"روبوت دردشة",
+                "type":"text"
+            },
+            {
+                "content":"حقيقي",
+                "type":"pattern"
+            },
+            {
+                "content":"شات بوت",
+                "type":"pattern"
+            }
+        ],
+        "en":[
+            {
+                "content":"Are you real?",
+                "type":"text"
+            },
+            {
+                "content":"Who are you?",
+                "type":"text"
+            },
+            {
+                "content":"what are you",
+                "type":"text"
+            },
+            {
+                "content":"are you a chatbot",
+                "type":"text"
+            },
+            {
+                "content":"are you a human",
+                "type":"text"
+            },
+            {
+                "content":"am i talking to a real person",
+                "type":"text"
+            },
+            {
+                "content":"what is this",
+                "type":"text"
+            },
+            {
+                "content":"is this a chatbot",
+                "type":"text"
+            },
+            {
+                "content":"are you a real person?",
+                "type":"text"
+            },
+            {
+                "content":"are you a chatbot",
+                "type":"text"
+            },
+            {
+                "content":"Chatbot?",
+                "type":"text"
+            },
+            {
+                "content":"chat bot?",
+                "type":"text"
+            },
+            {
+                "content":"is this real?",
+                "type":"text"
+            },
+            {
+                "content":"are you a bot",
+                "type":"text"
+            },
+            {
+                "content":"are you a chatbot",
+                "type":"text"
+            },
+            {
+                "content":"are you a boat",
+                "type":"text"
+            },
+            {
+                "content":"real",
+                "type":"pattern"
+            },
+            {
+                "content":"chatbot",
+                "type":"pattern"
+            }
+        ]
+        },
+        "learning":true,
+        "moduleID":"-L2uExIyJvbcPShOXmQY",
+        "title":"Are you real"
+    },
+    "-L1rHFodIcFJ9qAyGDM6":{
+        "data":{
+        "ar":[
+            {
+                "content":"هل لديك أي عروض حصرية",
+                "type":"text"
+            },
+            {
+                "content":"عروض حصرية",
+                "type":"text"
+            },
+            {
+                "content":"عروض ترويجية",
+                "type":"text"
+            },
+            {
+                "content":"هل لديك أي عروض ترويجية",
+                "type":"text"
+            },
+            {
+                "content":"ما هي أحدث عروضك الترويجية والحصرية",
+                "type":"text"
+            },
+            {
+                "content":"عروض ترويجية",
+                "type":"text"
+            },
+            {
+                "content":"عروض حصرية",
+                "type":"text"
+            },
+            {
+                "content":"العروض الترويجية والحصرية",
+                "type":"text"
+            },
+            {
+                "content":"العروض الترويجية والحصرية",
+                "type":"text"
+            },
+            {
+                "content":"أريد أحدث العروض الترويجية",
+                "type":"text"
+            },
+            {
+                "content":"قدم لي قائمة بأحدث العروض الترويجية",
+                "type":"text"
+            },
+            {
+                "content":"ما هي أحدث العروض الترويجية في أفيفو",
+                "type":"text"
+            },
+            {
+                "content":"أريد أحدث العروض الترويجية",
+                "type":"text"
+            },
+            {
+                "content":"هل لديك أي خصومات",
+                "type":"text"
+            },
+            {
+                "content":"هل هناك أي عروض حصرية",
+                "type":"text"
+            },
+            {
+                "content":"ما العروض الحصرية الرئيسية",
+                "type":"text"
+            },
+            {
+                "content":"أريد أحدث العروض الحصرية الرئيسية",
+                "type":"text"
+            },
+            {
+                "content":"قدم لي العروض الحصرية الرئيسية",
+                "type":"text"
+            },
+            {
+                "content":"العروض الحصرية الرئيسية من فضلك",
+                "type":"text"
+            },
+            {
+                "content":"أحدث العروض الحصرية",
+                "type":"text"
+            },
+            {
+                "content":"هل لديك أي امتيازات حالية",
+                "type":"text"
+            },
+            {
+                "content":"العروض الترويجية والحصرية",
+                "type":"text"
+            },
+            {
+                "content":"ما العروض الترويجية الحالية التي تديرها؟",
+                "type":"text"
+            },
+            {
+                "content":"أريد فكرة حول العروض الترويجية الحالية",
+                "type":"text"
+            },
+            {
+                "content":"أريد خصم على الخدمات لأفيفو",
+                "type":"text"
+            },
+            {
+                "content":"هل يوجد لديكم أي أطباء مميزين زائرين هذا الشهر",
+                "type":"text"
+            },
+            {
+                "content":"أريد أن اعرف هل لديكم أي خبراء زائرين هذا الشهر",
+                "type":"text"
+            },
+            {
+                "content":"ما العروض الترويجية والحصرية الحالية",
+                "type":"text"
+            },
+            {
+                "content":"قدم لي قائمة بأحدث العروض الترويجية",
+                "type":"text"
+            },
+            {
+                "content":"قدم لي قائمة بالعروض الحصرية الحالية",
+                "type":"text"
+            },
+            {
+                "content":"قدم لي فكرة عن العروض الترويجية",
+                "type":"text"
+            },
+            {
+                "content":"ما هي أحدث العروض الحصرية التي تديرها أفيفو",
+                "type":"text"
+            },
+            {
+                "content":"قدم لي فكرة عن العروض الترويجية في أفيفو",
+                "type":"text"
+            },
+            {
+                "content":"ما المستشفيات التي تدير العروض الترويجية والحصرية حالياً؟",
+                "type":"text"
+            },
+            {
+                "content":"أحدث الخصومات",
+                "type":"text"
+            },
+            {
+                "content":"أي علاجات خاصة في هذا الشهر؟",
+                "type":"text"
+            },
+            {
+                "content":"أين أجد العروض الحالية؟",
+                "type":"text"
+            },
+            {
+                "content":"عروض",
+                "type":"text"
+            },
+            {
+                "content":"أي خصومات خاصة؟",
+                "type":"text"
+            },
+            {
+                "content":"هل هناك أي أطباء زائرين للجلسات الخاصة؟",
+                "type":"text"
+            },
+            {
+                "content":"أين يمكنني حجز موعد للحصول على العرض الترويجي؟",
+                "type":"text"
+            },
+            {
+                "content":"ما عرض اليوم؟",
+                "type":"text"
+            },
+            {
+                "content":"ما العروض الترويجية الحالية؟",
+                "type":"text"
+            },
+            {
+                "content":"هل يوجد لدى أفيفو أي عروض ترويجية؟",
+                "type":"text"
+            },
+            {
+                "content":"ما هي أحدث العروض الحصرية؟",
+                "type":"text"
+            },
+            {
+                "content":"ما هي أحدث العروض الترويجية لديكم",
+                "type":"text"
+            },
+            {
+                "content":"ما هي أحدث العروض الترويجية",
+                "type":"text"
+            },
+            {
+                "content":"ما هي أحدث العروض الحصرية؟",
+                "type":"text"
+            },
+            {
+                "content":"أريد خصم على علاجي",
+                "type":"text"
+            },
+            {
+                "content":"هل يمكنني الحصول على خصم على الفاتورة؟",
+                "type":"text"
+            },
+            {
+                "content":"هل يوجد لديكم أي خطط للرعاية الصحية",
+                "type":"text"
+            },
+            {
+                "content":"هل يوجد لديكم باقة صحية لكبار السن؟",
+                "type":"text"
+            },
+            {
+                "content":"هل يوجد لديكم باقات للعناية بالبشرة",
+                "type":"text"
+            },
+            {
+                "content":"هل يوجد لديكم أي باقات صحية للسيدات",
+                "type":"text"
+            },
+            {
+                "content":"باقات للحوامل",
+                "type":"text"
+            },
+            {
+                "content":"باقات لكبار السن",
+                "type":"text"
+            },
+            {
+                "content":"باقات لحديثي الولادة",
+                "type":"text"
+            },
+            {
+                "content":"العروض الترويجية",
+                "type":"text"
+            },
+            {
+                "content":"العروض الحصرية",
+                "type":"text"
+            },
+            {
+                "content":"خصومات",
+                "type":"text"
+            },
+            {
+                "content":"امتياز",
+                "type":"text"
+            },
+            {
+                "content":"العروض الترويجية",
+                "type":"text"
+            },
+            {
+                "content":"خصومات",
+                "type":"text"
+            },
+            {
+                "content":"العروض الحصرية",
+                "type":"text"
+            },
+            {
+                "content":"باقات الرعاية الصحية",
+                "type":"text"
+            },
+            {
+                "content":"عروض حصرية",
+                "type":"pattern"
+            },
+            {
+                "content":"عروض ترويجية",
+                "type":"pattern"
+            },
+            {
+                "content":"خصومات",
+                "type":"pattern"
+            }
+        ],
+        "en":[
+            {
+                "content":"Do you have any offers",
+                "type":"text"
+            },
+            {
+                "content":"promotions",
+                "type":"text"
+            },
+            {
+                "content":"do you have any promotions",
+                "type":"text"
+            },
+            {
+                "content":"what are your latest promotions and offers",
+                "type":"text"
+            },
+            {
+                "content":"Offers",
+                "type":"text"
+            },
+            {
+                "content":"Promotions & Offers",
+                "type":"text"
+            },
+            {
+                "content":"I want the latest promotions",
+                "type":"text"
+            },
+            {
+                "content":"give me a list of the latest promotions",
+                "type":"text"
+            },
+            {
+                "content":"what are avivos latest promotions",
+                "type":"text"
+            },
+            {
+                "content":"i want the latest promotions",
+                "type":"text"
+            },
+            {
+                "content":"do you have any discounts",
+                "type":"text"
+            },
+            {
+                "content":"are there any offers",
+                "type":"text"
+            },
+            {
+                "content":"what are the main offers",
+                "type":"text"
+            },
+            {
+                "content":"main offers please",
+                "type":"text"
+            },
+            {
+                "content":"latest offers",
+                "type":"text"
+            },
+            {
+                "content":"do you have any current concessions",
+                "type":"text"
+            },
+            {
+                "content":"Promotions & offers",
+                "type":"text"
+            },
+            {
+                "content":"what are the current promotions you are running?",
+                "type":"text"
+            },
+            {
+                "content":"i want an idea on current promotions",
+                "type":"text"
+            },
+            {
+                "content":"i want a discount on the services for avivo",
+                "type":"text"
+            },
+            {
+                "content":"do you have any special doctors visiting this month",
+                "type":"text"
+            },
+            {
+                "content":"i want to know if there are any experts visiting this month",
+                "type":"text"
+            },
+            {
+                "content":"what are the current promotions & offers",
+                "type":"text"
+            },
+            {
+                "content":"give me a list of the latest promotions",
+                "type":"text"
+            },
+            {
+                "content":"give me an idea on promotions",
+                "type":"text"
+            },
+            {
+                "content":"what are the latest offers the AVIVO group is running",
+                "type":"text"
+            },
+            {
+                "content":"give me an idea of the promotions with AVIVO",
+                "type":"text"
+            },
+            {
+                "content":"which hospitals are currently running offers and promotions?",
+                "type":"text"
+            },
+            {
+                "content":"which hospitals are running discounts",
+                "type":"text"
+            },
+            {
+                "content":"give me a list of the discounts you'll are currently runningt",
+                "type":"text"
+            },
+            {
+                "content":"latest discounts",
+                "type":"text"
+            },
+            {
+                "content":"any special treatments for the month?",
+                "type":"text"
+            },
+            {
+                "content":"where can i view current offers?",
+                "type":"text"
+            },
+            {
+                "content":"any special discounts?",
+                "type":"text"
+            },
+            {
+                "content":"are there any doctors visiting for special sessions?",
+                "type":"text"
+            },
+            {
+                "content":"where can i book an appointment for a promotion?",
+                "type":"text"
+            },
+            {
+                "content":"what is your deal of the day?",
+                "type":"text"
+            },
+            {
+                "content":"what are the current promotions?",
+                "type":"text"
+            },
+            {
+                "content":"does avivo have promotions?",
+                "type":"text"
+            },
+            {
+                "content":"what are your latest promotions",
+                "type":"text"
+            },
+            {
+                "content":"what are the latest promotions",
+                "type":"text"
+            },
+            {
+                "content":"i want a discount on my treatment",
+                "type":"text"
+            },
+            {
+                "content":"can i get a discount on my bill?",
+                "type":"text"
+            },
+            {
+                "content":"Do you have any health care plans",
+                "type":"text"
+            },
+            {
+                "content":"do you have a health package for the elderly people?",
+                "type":"text"
+            },
+            {
+                "content":"do you have any skin care packages",
+                "type":"text"
+            },
+            {
+                "content":"for you have any health packages for ladies",
+                "type":"text"
+            },
+            {
+                "content":"packages for new infants",
+                "type":"text"
+            },
+            {
+                "content":"Anenatal Packages?",
+                "type":"text"
+            },
+            {
+                "content":"What are the anemata package?",
+                "type":"text"
+            },
+            {
+                "content":"i want anenatal package",
+                "type":"text"
+            },
+            {
+                "content":"help me with anenatal packages?",
+                "type":"text"
+            },
+            {
+                "content":"packages for pregnant ladies",
+                "type":"text"
+            },
+            {
+                "content":"Concession",
+                "type":"pattern"
+            },
+            {
+                "content":"promotions",
+                "type":"pattern"
+            },
+            {
+                "content":"discounts",
+                "type":"pattern"
+            },
+            {
+                "content":"offers",
+                "type":"pattern"
+            },
+            {
+                "content":"health care packages",
+                "type":"pattern"
+            }
+        ]
+        },
+        "learning":true,
+        "moduleID":"-L2uExIyJvbcPShOXmQY",
+        "title":"Promotions & Offers"
+    },
+    "-L1vdOVfUn23X30aTcLL":{
+        "data":{
+        "ar":[
+            {
+                "content":"ساعدني في تحديد موقع مركز",
+                "type":"text"
+            },
+            {
+                "content":"أريد البحث عن مستشفى",
+                "type":"text"
+            },
+            {
+                "content":"أريد البحث عن عيادة",
+                "type":"text"
+            },
+            {
+                "content":"أريد البحث عن عيادة",
+                "type":"text"
+            },
+            {
+                "content":"هل يمكنك مساعدتي في البحث عن عيادة؟",
+                "type":"text"
+            },
+            {
+                "content":"يرجى مساعدتي للبحث عن عيادة؟",
+                "type":"text"
+            },
+            {
+                "content":"أريد البحث عن مستشفى",
+                "type":"text"
+            },
+            {
+                "content":"ساعدني في الوصول لعيادة ديرمالاز",
+                "type":"text"
+            },
+            {
+                "content":"أريد الوصول لعيادة بريما كير",
+                "type":"text"
+            },
+            {
+                "content":"أحتاج إلى الوصول لمركز تشخيص",
+                "type":"text"
+            },
+            {
+                "content":"ساعدني في الوصول لاتجاهات عيادة",
+                "type":"text"
+            },
+            {
+                "content":"قدم لي اتجاهات مركز أفيفو",
+                "type":"text"
+            },
+            {
+                "content":"وجهني إلى عيادة",
+                "type":"text"
+            },
+            {
+                "content":"ابحث لي عن أقرب مستشفى",
+                "type":"text"
+            },
+            {
+                "content":"أريد البحث عن أقرب مستشفى",
+                "type":"text"
+            },
+            {
+                "content":"ساعدني في البحث عن أقرب مستشفى",
+                "type":"text"
+            },
+            {
+                "content":"عيادة أفيفو",
+                "type":"text"
+            },
+            {
+                "content":"بحث عن مستشفى",
+                "type":"text"
+            },
+            {
+                "content":"عيادة بريما كير",
+                "type":"text"
+            },
+            {
+                "content":"ساعدني في البحث عن مركز تشخيص",
+                "type":"text"
+            },
+            {
+                "content":"مركز تشخيص",
+                "type":"text"
+            },
+            {
+                "content":"كم تبعد أقرب عيادة",
+                "type":"text"
+            },
+            {
+                "content":"أين توجد أقرب عيادة؟",
+                "type":"text"
+            },
+            {
+                "content":"أريد البحث عن أقرب عيادة",
+                "type":"text"
+            },
+            {
+                "content":"أنا في الجميرا ابحث لي عن مستشفى",
+                "type":"text"
+            },
+            {
+                "content":"ابحث لي عن مستشفى في الجميرا",
+                "type":"text"
+            },
+            {
+                "content":"ابحث لي عن مستشفى في أبوظبي",
+                "type":"text"
+            },
+            {
+                "content":"ساعدني في البحث عن مستشفى",
+                "type":"text"
+            },
+            {
+                "content":"هل يوجد لديكم عيادات تجميل؟",
+                "type":"text"
+            },
+            {
+                "content":"أريد عيادة ديرمالاز",
+                "type":"text"
+            },
+            {
+                "content":"هل لديكم قائمة بالعيادات؟",
+                "type":"text"
+            },
+            {
+                "content":"هل لديكم عيادات في دبي؟",
+                "type":"text"
+            },
+            {
+                "content":"هل لديكم عيادات في أبوظبي",
+                "type":"text"
+            },
+            {
+                "content":"هل لديكم عيادات في رأس الخيمة",
+                "type":"text"
+            },
+            {
+                "content":"هل لديكم عيادات في رأس الخيمة",
+                "type":"text"
+            },
+            {
+                "content":"أخبرني عن مواقع مستشفيات أفيفو",
+                "type":"text"
+            },
+            {
+                "content":"قدم لي قائمة بالمستشفيات",
+                "type":"text"
+            },
+            {
+                "content":"أريد أن أعرف أقرب عيادة مني",
+                "type":"text"
+            },
+            {
+                "content":"هل يمكن أن تخبرني عن المسافة التي سأستغرقها للوصول إلى أقرب عيادة؟",
+                "type":"text"
+            },
+            {
+                "content":"ما المناطق المختلفة التي توجد بها مستشفياتكم",
+                "type":"text"
+            },
+            {
+                "content":"ما مواقع مراكز أفيفو المختلفة؟",
+                "type":"text"
+            },
+            {
+                "content":"ما الإمارات التي توجد بها أفيفو؟",
+                "type":"text"
+            },
+            {
+                "content":"أين توجد أفيفو؟",
+                "type":"text"
+            },
+            {
+                "content":"هل يمكنكم تقديم قائمة بالمناطق التي توجد فيها عيادات أفيفو؟",
+                "type":"text"
+            },
+            {
+                "content":"هل يمكنني معرفة موقعكم من فضلكم",
+                "type":"text"
+            },
+            {
+                "content":"ما موقعكم من فضلكم",
+                "type":"text"
+            },
+            {
+                "content":"هل يمكنني الحصول على موقعكم",
+                "type":"text"
+            },
+            {
+                "content":"أي يوجد موقعكم",
+                "type":"text"
+            },
+            {
+                "content":"كيف أصل إلى المستشفى",
+                "type":"text"
+            },
+            {
+                "content":"كيف أعثر على المستشفى",
+                "type":"text"
+            },
+            {
+                "content":"هل يمكنني الحصول على الاتجاهات للمستشفى",
+                "type":"text"
+            },
+            {
+                "content":"الاتجاهات من فضلك",
+                "type":"text"
+            },
+            {
+                "content":"الموقع من فضلك",
+                "type":"text"
+            },
+            {
+                "content":"بحث عن مستشفى",
+                "type":"text"
+            },
+            {
+                "content":"تحديد موقع عيادة",
+                "type":"text"
+            },
+            {
+                "content":"الاتجاهات",
+                "type":"text"
+            },
+            {
+                "content":"كم يستغرق من الوقت للوصول إلى",
+                "type":"text"
+            },
+            {
+                "content":"أقرب عيادة",
+                "type":"text"
+            },
+            {
+                "content":"مركز أفيفو",
+                "type":"text"
+            },
+            {
+                "content":"وجهني",
+                "type":"text"
+            },
+            {
+                "content":"بحث",
+                "type":"text"
+            },
+            {
+                "content":"اعثر على",
+                "type":"pattern"
+            },
+            {
+                "content":"حددْ موقع",
+                "type":"pattern"
+            },
+            {
+                "content":"انصحني",
+                "type":"pattern"
+            },
+            {
+                "content":"توجيهات",
+                "type":"pattern"
+            },
+            {
+                "content":"مركز أفيفو",
+                "type":"pattern"
+            },
+            {
+                "content":"كم يلزم من الوقت للوصول",
+                "type":"pattern"
+            }
+        ],
+        "en":[
+            {
+                "content":"i want to find a hospital",
+                "type":"text"
+            },
+            {
+                "content":"can you help me find a clinic?",
+                "type":"text"
+            },
+            {
+                "content":"help me find a dermalase clinic",
+                "type":"text"
+            },
+            {
+                "content":"i want to find a primacare clinic",
+                "type":"text"
+            },
+            {
+                "content":"please help me find directions to a clinic",
+                "type":"text"
+            },
+            {
+                "content":"direct me to a clinic",
+                "type":"text"
+            },
+            {
+                "content":"find me the nearest hospital",
+                "type":"text"
+            },
+            {
+                "content":"find a hospital",
+                "type":"text"
+            },
+            {
+                "content":"avivo clinic",
+                "type":"text"
+            },
+            {
+                "content":"how far is the nearest clinic",
+                "type":"text"
+            },
+            {
+                "content":"i want to find the nearest clinic",
+                "type":"text"
+            },
+            {
+                "content":"I'm located in jumeirah find me a hospital",
+                "type":"text"
+            },
+            {
+                "content":"find me a hospital in jumeirah",
+                "type":"text"
+            },
+            {
+                "content":"Help me find a hospital",
+                "type":"text"
+            },
+            {
+                "content":"do you have aesthetics clinics?",
+                "type":"text"
+            },
+            {
+                "content":"i want a dermalase clinic",
+                "type":"text"
+            },
+            {
+                "content":"do you have a list of clinics?",
+                "type":"text"
+            },
+            {
+                "content":"do you have clinics in abu dhabi",
+                "type":"text"
+            },
+            {
+                "content":"tell me where avivo hospitals are located",
+                "type":"text"
+            },
+            {
+                "content":"give me a list of hospitals",
+                "type":"text"
+            },
+            {
+                "content":"i want to know what the closest clinic is from me",
+                "type":"text"
+            },
+            {
+                "content":"can you tell me how long it will take for me to reach the nearest clinic?",
+                "type":"text"
+            },
+            {
+                "content":"how far is the closest clinic?",
+                "type":"text"
+            },
+            {
+                "content":"what are the different areas your hospitals are located in",
+                "type":"text"
+            },
+            {
+                "content":"what are the emirates that Avivo is based in?",
+                "type":"text"
+            },
+            {
+                "content":"where all is avivo based?",
+                "type":"text"
+            },
+            {
+                "content":"can you give me a list of areas that avivo clinics are  located in?",
+                "type":"text"
+            },
+            {
+                "content":"Can i know where you are located please",
+                "type":"text"
+            },
+            {
+                "content":"can i get your location",
+                "type":"text"
+            },
+            {
+                "content":"where are you located",
+                "type":"text"
+            },
+            {
+                "content":"how can i get to the hospital",
+                "type":"text"
+            },
+            {
+                "content":"how can i find the hospital",
+                "type":"text"
+            },
+            {
+                "content":"please give me directions",
+                "type":"text"
+            },
+            {
+                "content":"can i get directions to the hospital",
+                "type":"text"
+            },
+            {
+                "content":"directions please",
+                "type":"text"
+            },
+            {
+                "content":"location please",
+                "type":"text"
+            },
+            {
+                "content":"I am looking for a clinic",
+                "type":"text"
+            },
+            {
+                "content":"find a hospital",
+                "type":"text"
+            },
+            {
+                "content":"locate a clinic",
+                "type":"text"
+            },
+            {
+                "content":"looking for a clinic",
+                "type":"text"
+            },
+            {
+                "content":"locating a centre",
+                "type":"text"
+            },
+            {
+                "content":"looking for a centre",
+                "type":"text"
+            },
+            {
+                "content":"locating a hospital",
+                "type":"text"
+            },
+            {
+                "content":"looking for a hospital",
+                "type":"text"
+            },
+            {
+                "content":"how much time to reach",
+                "type":"text"
+            },
+            {
+                "content":"address",
+                "type":"text"
+            },
+            {
+                "content":"what is your address?",
+                "type":"text"
+            },
+            {
+                "content":"where are you located?",
+                "type":"text"
+            },
+            {
+                "content":"directions",
+                "type":"pattern"
+            },
+            {
+                "content":"nearest clinic",
+                "type":"pattern"
+            },
+            {
+                "content":"direct me",
+                "type":"pattern"
+            },
+            {
+                "content":"Locate",
+                "type":"pattern"
+            }
+        ]
+        },
+        "learning":true,
+        "moduleID":"-L2uExIyJvbcPShOXmQY",
+        "title":"Locate a Centre Intents"
+    },
+    "-L1wPHSCgqq3XK-j8DE3":{
+        "data":{
+        "ar":[
+            {
+                "content":"أريد طلب موعد",
+                "type":"text"
+            },
+            {
+                "content":"أريد البحث عن طبيب",
+                "type":"text"
+            },
+            {
+                "content":"أتطلع إلى طبيب في الطب العام",
+                "type":"text"
+            },
+            {
+                "content":"أريد البحث عن طبيب أمراض النساء",
+                "type":"text"
+            },
+            {
+                "content":"أريد حجز موعد",
+                "type":"text"
+            },
+            {
+                "content":"ساعدني في البحث عن طبيب",
+                "type":"text"
+            },
+            {
+                "content":"أعرف التخصص ولكن لا أعرف الطبيب",
+                "type":"text"
+            },
+            {
+                "content":"هل يمكنك مساعدتي في البحث عن طبيب؟",
+                "type":"text"
+            },
+            {
+                "content":"هل يمكنك مساعدتي في البحث عن تشخيص؟",
+                "type":"text"
+            },
+            {
+                "content":"أريد البحث عن تشخيص",
+                "type":"text"
+            },
+            {
+                "content":"أريد مساعدة في البحث عن طبيب",
+                "type":"text"
+            },
+            {
+                "content":"يرجى تقديم طبيب لي",
+                "type":"text"
+            },
+            {
+                "content":"الطبيب",
+                "type":"text"
+            },
+            {
+                "content":"ابحث لي عن طبيب",
+                "type":"text"
+            },
+            {
+                "content":"بحث عن طبيب",
+                "type":"text"
+            },
+            {
+                "content":"بحث عن تخصص ومستشفى",
+                "type":"text"
+            },
+            {
+                "content":"لا أعرف أي شيء عن الأطباء أو التخصصات المختلفة",
+                "type":"text"
+            },
+            {
+                "content":"ما التخصصات الموجودة في أفيفو؟",
+                "type":"text"
+            },
+            {
+                "content":"كم عدد الأطباء تحت كل تخصص لديكم",
+                "type":"text"
+            },
+            {
+                "content":"قدم لي فكرة عن التخصصات المختلفة التي أتصفحها",
+                "type":"text"
+            },
+            {
+                "content":"قدم لي فكرة عن الأطباء المختلفين",
+                "type":"text"
+            },
+            {
+                "content":"أريد حجز موعد",
+                "type":"text"
+            },
+            {
+                "content":"حجز موعد مع طبيب",
+                "type":"text"
+            },
+            {
+                "content":"أريد الحجز مع طبيب خاص",
+                "type":"text"
+            },
+            {
+                "content":"أريد وصفات طبية",
+                "type":"text"
+            },
+            {
+                "content":"ما الطبيب الذي أحتاجه للأعراض التي لدي؟",
+                "type":"text"
+            },
+            {
+                "content":"ما نوع الطبيب الذي يمكنه مساعدتي؟",
+                "type":"text"
+            },
+            {
+                "content":"متى تفتح عيادة الطب العام؟",
+                "type":"text"
+            },
+            {
+                "content":"ما تغلق عيادة الطب العام؟",
+                "type":"text"
+            },
+            {
+                "content":"هل تعمل العيادة على مدار 24 ساعة في الأسبوع؟",
+                "type":"text"
+            },
+            {
+                "content":"هل يجب حجز موعد؟",
+                "type":"text"
+            },
+            {
+                "content":"هل يمكنني مقابلة طبيب دون موعد؟",
+                "type":"text"
+            },
+            {
+                "content":"هل تعمل مستشفيات أفيفو في مجال العناية بالبشرة",
+                "type":"text"
+            },
+            {
+                "content":"ما هي التخصصات المختلفة",
+                "type":"text"
+            },
+            {
+                "content":"ما أنواع العلاجات التي تقدمها أفيفو",
+                "type":"text"
+            },
+            {
+                "content":"هل يمكنني الحصول على قائمة بالعلاجات المختلفة التي تقدمها أفيفو؟",
+                "type":"text"
+            },
+            {
+                "content":"أريد حجز موعد",
+                "type":"text"
+            },
+            {
+                "content":"كيف يمكنني حجز موعد؟",
+                "type":"text"
+            },
+            {
+                "content":"ما الطرق التي أتبعها لحجز موعد",
+                "type":"text"
+            },
+            {
+                "content":"أحتاج للمساعدة لحجز موعد",
+                "type":"text"
+            },
+            {
+                "content":"هل يمكنك مساعدتي في حجز موعد؟",
+                "type":"text"
+            },
+            {
+                "content":"ما المواعيد المتاحة حالياً لعيادة الطب العام؟",
+                "type":"text"
+            },
+            {
+                "content":"هل يمكنني حجز موعد لطبيب",
+                "type":"text"
+            },
+            {
+                "content":"أريد حجز موعد مع طبيب",
+                "type":"text"
+            },
+            {
+                "content":"هل يمكنك حجز موعد لي مع طبيب",
+                "type":"text"
+            },
+            {
+                "content":"هل يمكنك حجز موعد لي مع طبيب",
+                "type":"text"
+            },
+            {
+                "content":"يرجى حجز موعد لي",
+                "type":"text"
+            },
+            {
+                "content":"حجز موعد",
+                "type":"text"
+            },
+            {
+                "content":"كيف يمكنني حجز موعد مع طبيب",
+                "type":"text"
+            },
+            {
+                "content":"موعد مع طبيب",
+                "type":"text"
+            },
+            {
+                "content":"ساعدني في حجز موعد",
+                "type":"text"
+            },
+            {
+                "content":"لدي موعد مع طبيب",
+                "type":"text"
+            },
+            {
+                "content":"أريد موعد مع طبيب",
+                "type":"text"
+            },
+            {
+                "content":"أريد طبيب",
+                "type":"text"
+            },
+            {
+                "content":"قدمت طلب موعد",
+                "type":"text"
+            },
+            {
+                "content":"ما مواعيد الطبيب",
+                "type":"text"
+            },
+            {
+                "content":"ما مواعيد الطبيب",
+                "type":"text"
+            },
+            {
+                "content":"متى يكون الطبيب موجوداً",
+                "type":"text"
+            },
+            {
+                "content":"ما الوقت الذي يمكنني فيه رؤية الطبيب",
+                "type":"text"
+            },
+            {
+                "content":"متى يمكنني رؤية الطبيب",
+                "type":"text"
+            },
+            {
+                "content":"أريد رؤية طبيب",
+                "type":"text"
+            },
+            {
+                "content":"توفر الطبيب",
+                "type":"text"
+            },
+            {
+                "content":"حجز موعد",
+                "type":"text"
+            },
+            {
+                "content":"طلب موعد",
+                "type":"text"
+            },
+            {
+                "content":"تثبيت موعد",
+                "type":"text"
+            },
+            {
+                "content":"بحث عن طبيب",
+                "type":"text"
+            },
+            {
+                "content":"بحث عن طبيب",
+                "type":"text"
+            },
+            {
+                "content":"قائمة الأطباء",
+                "type":"text"
+            },
+            {
+                "content":"بحث عن تخصص",
+                "type":"text"
+            },
+            {
+                "content":"التخصص",
+                "type":"text"
+            },
+            {
+                "content":"الطبيب",
+                "type":"text"
+            },
+            {
+                "content":"موعد مع طبيب",
+                "type":"text"
+            },
+            {
+                "content":"رؤية طبيب",
+                "type":"text"
+            },
+            {
+                "content":"زيارة طبيب",
+                "type":"text"
+            },
+            {
+                "content":"الطبيب المتفرغ",
+                "type":"pattern"
+            },
+            {
+                "content":"حجز",
+                "type":"pattern"
+            },
+            {
+                "content":"احجز موعدًا",
+                "type":"pattern"
+            },
+            {
+                "content":"موعد الطبيب",
+                "type":"pattern"
+            },
+            {
+                "content":"وقت الطبيب",
+                "type":"pattern"
+            },
+            {
+                "content":"قابل الطبيب",
+                "type":"pattern"
+            },
+            {
+                "content":"استشر الطبيب",
+                "type":"pattern"
+            }
+        ],
+        "en":[
+            {
+                "content":"I need to request for an appointment.",
+                "type":"text"
+            },
+            {
+                "content":"I want to find a doctor",
+                "type":"text"
+            },
+            {
+                "content":"I want to book an appointment",
+                "type":"text"
+            },
+            {
+                "content":"help me find a doctor",
+                "type":"text"
+            },
+            {
+                "content":"can you help me find a doctor?",
+                "type":"text"
+            },
+            {
+                "content":"i need help with finding a doctor",
+                "type":"text"
+            },
+            {
+                "content":"please get me a doctor",
+                "type":"text"
+            },
+            {
+                "content":"give me an idea of the different doctors",
+                "type":"text"
+            },
+            {
+                "content":"i wanna book an appointment",
+                "type":"text"
+            },
+            {
+                "content":"book a doctor's appointment",
+                "type":"text"
+            },
+            {
+                "content":"I want to book a specific doctor",
+                "type":"text"
+            },
+            {
+                "content":"how can i book a doctor's appointment?",
+                "type":"text"
+            },
+            {
+                "content":"I need prescriptions",
+                "type":"text"
+            },
+            {
+                "content":"what doctor do i need for my symptoms?",
+                "type":"text"
+            },
+            {
+                "content":"what kind of doctor can help me?",
+                "type":"text"
+            },
+            {
+                "content":"what time does general medicine open?",
+                "type":"text"
+            },
+            {
+                "content":"is the clinic open 24/7?",
+                "type":"text"
+            },
+            {
+                "content":"Should I book an appointment?",
+                "type":"text"
+            },
+            {
+                "content":"can i see a doctor without an appointment?",
+                "type":"text"
+            },
+            {
+                "content":"how can i book an appointment?",
+                "type":"text"
+            },
+            {
+                "content":"what are the ways in which i can book an appointment",
+                "type":"text"
+            },
+            {
+                "content":"i need help to book an appointment",
+                "type":"text"
+            },
+            {
+                "content":"is it possible for you to help me to book an appointment?",
+                "type":"text"
+            },
+            {
+                "content":"what are the current available appointments for general medicine?",
+                "type":"text"
+            },
+            {
+                "content":"i want an appointment with doctor",
+                "type":"text"
+            },
+            {
+                "content":"can you book an appointment for me with doctor",
+                "type":"text"
+            },
+            {
+                "content":"can you please get me a doctor's appouintment",
+                "type":"text"
+            },
+            {
+                "content":"please book an appointment for me",
+                "type":"text"
+            },
+            {
+                "content":"book an appointment",
+                "type":"text"
+            },
+            {
+                "content":"how i can  i book an appointment with doctor",
+                "type":"text"
+            },
+            {
+                "content":"doctor's appointment",
+                "type":"text"
+            },
+            {
+                "content":"help  me book an appointment",
+                "type":"text"
+            },
+            {
+                "content":"i have a doctor's appointment",
+                "type":"text"
+            },
+            {
+                "content":"I need a doctor",
+                "type":"text"
+            },
+            {
+                "content":"I have requested for an appointment",
+                "type":"text"
+            },
+            {
+                "content":"What are the timings for doctor",
+                "type":"text"
+            },
+            {
+                "content":"what are the doctor's timings",
+                "type":"text"
+            },
+            {
+                "content":"What time is doctor in",
+                "type":"text"
+            },
+            {
+                "content":"what time can i see a doctor",
+                "type":"text"
+            },
+            {
+                "content":"When can i see doctor",
+                "type":"text"
+            },
+            {
+                "content":"When is doctor avaliable",
+                "type":"text"
+            },
+            {
+                "content":"i want to know doctors availability",
+                "type":"text"
+            },
+            {
+                "content":"give me the doctors availability",
+                "type":"text"
+            },
+            {
+                "content":"Where can i see a doctor?",
+                "type":"text"
+            },
+            {
+                "content":"where can i meet a physician?",
+                "type":"text"
+            },
+            {
+                "content":"what are your timings",
+                "type":"text"
+            },
+            {
+                "content":"timings",
+                "type":"text"
+            },
+            {
+                "content":"your timings",
+                "type":"text"
+            },
+            {
+                "content":"Book an Appointment",
+                "type":"text"
+            },
+            {
+                "content":"Request appointment",
+                "type":"text"
+            },
+            {
+                "content":"doctors availability",
+                "type":"text"
+            },
+            {
+                "content":"meet a doctor",
+                "type":"text"
+            },
+            {
+                "content":"consult a doctor",
+                "type":"text"
+            },
+            {
+                "content":"Fix an appointment",
+                "type":"text"
+            },
+            {
+                "content":"Doctor Availability",
+                "type":"text"
+            },
+            {
+                "content":"doctor's appointment",
+                "type":"text"
+            },
+            {
+                "content":"visit a doctor",
+                "type":"text"
+            },
+            {
+                "content":"find doctor",
+                "type":"text"
+            },
+            {
+                "content":"doc availability",
+                "type":"text"
+            },
+            {
+                "content":"see a doctor",
+                "type":"text"
+            },
+            {
+                "content":"doctors time",
+                "type":"text"
+            },
+            {
+                "content":"Doctor",
+                "type":"text"
+            },
+            {
+                "content":"Dr",
+                "type":"text"
+            }
+        ]
+        },
+        "learning":true,
+        "moduleID":"-L2uExIyJvbcPShOXmQY",
+        "title":"Request Appointment"
+    },
+    "-L20hrISJMG8LzCybyUs":{
+        "data":{
+        "ar":[
+            {
+                "content":"أريد أن يتصل بي شخص في أقرب وقت ممكن",
+                "type":"text"
+            },
+            {
+                "content":"أريد إعادة الاتصال",
+                "type":"text"
+            },
+            {
+                "content":"هل يمكن أن يتصل بي أحد مرة أخرى",
+                "type":"text"
+            },
+            {
+                "content":"أين يمكنني الاتصال",
+                "type":"text"
+            },
+            {
+                "content":"من الذي أتصل به",
+                "type":"text"
+            },
+            {
+                "content":"أريد طلب إعادة الاتصال",
+                "type":"text"
+            },
+            {
+                "content":"يرجى توجيه شخص للاتصال بي في أقرب وقت ممكن",
+                "type":"text"
+            },
+            {
+                "content":"يرجى الاتصال بي مرة أخرى من فضلك",
+                "type":"text"
+            },
+            {
+                "content":"يرجى الاتصال بي على رقم 054535632 من فضلك",
+                "type":"text"
+            },
+            {
+                "content":"أريد أن يتصل بي شخص مرة أخرى الآن",
+                "type":"text"
+            },
+            {
+                "content":"يرجى الاتصال بي في أقرب وقت ممكن",
+                "type":"text"
+            },
+            {
+                "content":"أين يمكنني الاتصال",
+                "type":"text"
+            },
+            {
+                "content":"أود التحدث إلى أحد أعضاء الفريق",
+                "type":"text"
+            },
+            {
+                "content":"أريد التحدث إلى شخص من الفريق",
+                "type":"text"
+            },
+            {
+                "content":"كيف يمكنني الاتصال بأحد أعضاء الفريق",
+                "type":"text"
+            },
+            {
+                "content":"هل يمكنني الحصول على اتصال آخر",
+                "type":"text"
+            },
+            {
+                "content":"هل يمكنني طلب إعادة الاتصال",
+                "type":"text"
+            },
+            {
+                "content":"يرجى توجيه شخص للاتصال بي في أقرب وقت ممكن من فضلك",
+                "type":"text"
+            },
+            {
+                "content":"أريد أن يتصل بي شخص مرة أخرى",
+                "type":"text"
+            },
+            {
+                "content":"أحتاج إلى الحديث مع أحد أعضاء الفريق",
+                "type":"text"
+            },
+            {
+                "content":"أود إعادة الاتصال",
+                "type":"text"
+            },
+            {
+                "content":"أحتاج إلى إعادة الاتصال",
+                "type":"text"
+            },
+            {
+                "content":"أود الحصول على الاتصال من الوكيل",
+                "type":"text"
+            },
+            {
+                "content":"كيف يمكنني التواصل مع الوكيل",
+                "type":"text"
+            },
+            {
+                "content":"هل يمكنني التواصل مع وكيل دعم العملاء",
+                "type":"text"
+            },
+            {
+                "content":"كيف يمكنني التواصل مع وكيل دعم العملاء",
+                "type":"text"
+            },
+            {
+                "content":"ساعدني في التواصل مع الوكيل",
+                "type":"text"
+            },
+            {
+                "content":"يرجى مساعدتي في التواصل مع مسؤول دعم العملاء",
+                "type":"text"
+            },
+            {
+                "content":"أود إجراء اتصال هاتفي مع شخص من الفريق",
+                "type":"text"
+            },
+            {
+                "content":"أريد الحديث مع شخص من الفريق",
+                "type":"text"
+            },
+            {
+                "content":"هل يمكنك مساعدتي في الحصول على اتصال؟",
+                "type":"text"
+            },
+            {
+                "content":"هل لديكم دعم عملاء",
+                "type":"text"
+            },
+            {
+                "content":"كيف أتواصل مع الوكيل",
+                "type":"text"
+            },
+            {
+                "content":"هل يمكنك توجيهي لدعم العملاء",
+                "type":"text"
+            },
+            {
+                "content":"يرجى توجيهي لدعم العملاء",
+                "type":"text"
+            },
+            {
+                "content":"إعادة الاتصال",
+                "type":"text"
+            },
+            {
+                "content":"إعادة الاتصال بي",
+                "type":"text"
+            },
+            {
+                "content":"إعادة الاتصال بي",
+                "type":"text"
+            },
+            {
+                "content":"أرغب في إعادة الاتصال",
+                "type":"text"
+            },
+            {
+                "content":"إعادة الاتصال",
+                "type":"text"
+            },
+            {
+                "content":"عضو الفريق",
+                "type":"text"
+            },
+            {
+                "content":"رعاية العملاء",
+                "type":"text"
+            },
+            {
+                "content":"دعم العملاء",
+                "type":"text"
+            },
+            {
+                "content":"اتصل بي مرة أخرى",
+                "type":"pattern"
+            },
+            {
+                "content":"اتصل",
+                "type":"pattern"
+            },
+            {
+                "content":"خدمة العملاء",
+                "type":"pattern"
+            },
+            {
+                "content":"مساعدة العملاء",
+                "type":"pattern"
+            },
+            {
+                "content":"تقرير المريض",
+                "type":"pattern"
+            },
+            {
+                "content":"وضع التقرير",
+                "type":"pattern"
+            },
+            {
+                "content":"تقرير المعمل",
+                "type":"pattern"
+            }
+        ],
+        "en":[
+            {
+                "content":"I want someone to call me back asap",
+                "type":"text"
+            },
+            {
+                "content":"I want a call back",
+                "type":"text"
+            },
+            {
+                "content":"can someone call me back",
+                "type":"text"
+            },
+            {
+                "content":"i need a call back request",
+                "type":"text"
+            },
+            {
+                "content":"please get someone to call me back asap",
+                "type":"text"
+            },
+            {
+                "content":"call me back please",
+                "type":"text"
+            },
+            {
+                "content":"give me a call on 054535632 asap",
+                "type":"text"
+            },
+            {
+                "content":"i want someone to call me back right now.",
+                "type":"text"
+            },
+            {
+                "content":"Please give me a call asap",
+                "type":"text"
+            },
+            {
+                "content":"where shall i call",
+                "type":"text"
+            },
+            {
+                "content":"i'd like to speak to a member of the team",
+                "type":"text"
+            },
+            {
+                "content":"i want to talk to someone from the team",
+                "type":"text"
+            },
+            {
+                "content":"how do i contact a member of the team",
+                "type":"text"
+            },
+            {
+                "content":"can i get a call back",
+                "type":"text"
+            },
+            {
+                "content":"can i request for a call back",
+                "type":"text"
+            },
+            {
+                "content":"get someone to call me back asap please",
+                "type":"text"
+            },
+            {
+                "content":"Can someone give me back a call",
+                "type":"text"
+            },
+            {
+                "content":"i need to have a word with a member of the team",
+                "type":"text"
+            },
+            {
+                "content":"i need a call back",
+                "type":"text"
+            },
+            {
+                "content":"i would like to receive a call from an agent",
+                "type":"text"
+            },
+            {
+                "content":"how do i get in touch with an agent",
+                "type":"text"
+            },
+            {
+                "content":"may i get in touch with a customer support agent",
+                "type":"text"
+            },
+            {
+                "content":"how can i get in touch with a customer support agent",
+                "type":"text"
+            },
+            {
+                "content":"help me get in touch with an agent",
+                "type":"text"
+            },
+            {
+                "content":"please help me get in touch with a customer support person",
+                "type":"text"
+            },
+            {
+                "content":"i would like to have a phone call with someone from the team",
+                "type":"text"
+            },
+            {
+                "content":"i want to have a word with someone from the team",
+                "type":"text"
+            },
+            {
+                "content":"can you help me receive a call?",
+                "type":"text"
+            },
+            {
+                "content":"do you have customer support?",
+                "type":"text"
+            },
+            {
+                "content":"how do i get in touch with an agent",
+                "type":"text"
+            },
+            {
+                "content":"can you direct me to customer support",
+                "type":"text"
+            },
+            {
+                "content":"please guide me to customer support",
+                "type":"text"
+            },
+            {
+                "content":"What happened to my approval?",
+                "type":"text"
+            },
+            {
+                "content":"I need my approval",
+                "type":"text"
+            },
+            {
+                "content":"what is the status of my appointment",
+                "type":"text"
+            },
+            {
+                "content":"i have placed an appointment now what?",
+                "type":"text"
+            },
+            {
+                "content":"Call Back",
+                "type":"pattern"
+            },
+            {
+                "content":"callback",
+                "type":"pattern"
+            },
+            {
+                "content":"Team member",
+                "type":"pattern"
+            },
+            {
+                "content":"Approval status",
+                "type":"pattern"
+            }
+        ]
+        },
+        "learning":true,
+        "moduleID":"-L2uExIyJvbcPShOXmQY",
+        "title":"Callback request"
+    },
+    "-L20igY151AoxMWBsw-N":{
+        "data":{
+        "ar":[
+            {
+                "content":"أرغب في تقديم تعقيب",
+                "type":"text"
+            },
+            {
+                "content":"يرجى مساعدتي في تقديم تعقيب",
+                "type":"text"
+            },
+            {
+                "content":"أريد تقديم شكوى",
+                "type":"text"
+            },
+            {
+                "content":"أريد تقديم شكوى",
+                "type":"text"
+            },
+            {
+                "content":"أريد رفع شكوى",
+                "type":"text"
+            },
+            {
+                "content":"يرجى مساعدتي في رفع شكوى",
+                "type":"text"
+            },
+            {
+                "content":"أريد تقديم شكوى",
+                "type":"text"
+            },
+            {
+                "content":"لا أحب الخدمة التي أشتكي بشأنها",
+                "type":"text"
+            },
+            {
+                "content":"يرجى مساعدتي في تقديم شكوى",
+                "type":"text"
+            },
+            {
+                "content":"يرجى مساعدتي في تقديم اقتراح",
+                "type":"text"
+            },
+            {
+                "content":"أريد اقتراح",
+                "type":"text"
+            },
+            {
+                "content":"لدي تعقيب",
+                "type":"text"
+            },
+            {
+                "content":"أرغب في تقديم تعقيب",
+                "type":"text"
+            },
+            {
+                "content":"تعقيب",
+                "type":"text"
+            },
+            {
+                "content":"لدي اقتراح",
+                "type":"text"
+            },
+            {
+                "content":"أرغب في تقديم تعقيب",
+                "type":"text"
+            },
+            {
+                "content":"أود تقديم بعض النصائح",
+                "type":"text"
+            },
+            {
+                "content":"أود تقديم بعض النصائح لتحسين الخدمة",
+                "type":"text"
+            },
+            {
+                "content":"لدي مشكلات بشأن خدمات محددة",
+                "type":"text"
+            },
+            {
+                "content":"لدي مشكلة مع طبيب معين",
+                "type":"text"
+            },
+            {
+                "content":"لدي مشكلة مع طبيب",
+                "type":"text"
+            },
+            {
+                "content":"لدي شكوى عن مستشفى",
+                "type":"text"
+            },
+            {
+                "content":"أرغب في تقديم تعقيب إلى أفيفو",
+                "type":"text"
+            },
+            {
+                "content":"ساعدني في تقديم تعقيب",
+                "type":"text"
+            },
+            {
+                "content":"هل يمكنك توجيهي لرفع شكوى",
+                "type":"text"
+            },
+            {
+                "content":"ما الإجراءات المتخذة بشأن الشكوى",
+                "type":"text"
+            },
+            {
+                "content":"ما الذي يحدث عند تقديم شكوى",
+                "type":"text"
+            },
+            {
+                "content":"ما الذي يحدث عند تقديم تعقيب",
+                "type":"text"
+            },
+            {
+                "content":"كيف يمكن تقديم تعقيب؟",
+                "type":"text"
+            },
+            {
+                "content":"تعقيب",
+                "type":"text"
+            },
+            {
+                "content":"شكوى",
+                "type":"text"
+            },
+            {
+                "content":"اقتراح",
+                "type":"text"
+            },
+            {
+                "content":"شكوى",
+                "type":"text"
+            },
+            {
+                "content":"اقتراح",
+                "type":"text"
+            },
+            {
+                "content":"ملاحظات",
+                "type":"pattern"
+            },
+            {
+                "content":"شكوى",
+                "type":"pattern"
+            },
+            {
+                "content":"اقتراح",
+                "type":"pattern"
+            }
+        ],
+        "en":[
+            {
+                "content":"I want to provide my feedback",
+                "type":"text"
+            },
+            {
+                "content":"please help me give my feedback",
+                "type":"text"
+            },
+            {
+                "content":"i want to complain",
+                "type":"text"
+            },
+            {
+                "content":"i want to make a complaint",
+                "type":"text"
+            },
+            {
+                "content":"please help me place a complaint",
+                "type":"text"
+            },
+            {
+                "content":"i wanna complain",
+                "type":"text"
+            },
+            {
+                "content":"i dont like the service i wanna complain",
+                "type":"text"
+            },
+            {
+                "content":"please help me complain",
+                "type":"text"
+            },
+            {
+                "content":"i want a suggestion",
+                "type":"text"
+            },
+            {
+                "content":"i have feedback",
+                "type":"text"
+            },
+            {
+                "content":"id like to give my feedback",
+                "type":"text"
+            },
+            {
+                "content":"i have a suggestion",
+                "type":"text"
+            },
+            {
+                "content":"i want to give feedback",
+                "type":"text"
+            },
+            {
+                "content":"id like to provide some tips",
+                "type":"text"
+            },
+            {
+                "content":"i need to give some tips to improve service",
+                "type":"text"
+            },
+            {
+                "content":"i have issues regarding certain services",
+                "type":"text"
+            },
+            {
+                "content":"i have an issue with a particular doctor",
+                "type":"text"
+            },
+            {
+                "content":"i have a problem with a doctor",
+                "type":"text"
+            },
+            {
+                "content":"i want to complian about a hospital",
+                "type":"text"
+            },
+            {
+                "content":"i want to give my feedback for Avivo",
+                "type":"text"
+            },
+            {
+                "content":"help me give my feedback",
+                "type":"text"
+            },
+            {
+                "content":"can you guide me on how to place a complaint",
+                "type":"text"
+            },
+            {
+                "content":"what action is taken against a complaint",
+                "type":"text"
+            },
+            {
+                "content":"what happens when one places a complaint",
+                "type":"text"
+            },
+            {
+                "content":"how can one provide feedback?",
+                "type":"text"
+            },
+            {
+                "content":"Feedback",
+                "type":"pattern"
+            },
+            {
+                "content":"Complaint",
+                "type":"pattern"
+            },
+            {
+                "content":"Suggestion",
+                "type":"pattern"
+            },
+            {
+                "content":"suggest",
+                "type":"pattern"
+            },
+            {
+                "content":"tips",
+                "type":"pattern"
+            }
+        ]
+        },
+        "learning":true,
+        "moduleID":"-L2uExIyJvbcPShOXmQY",
+        "title":"Feedback"
+    },
+    "-L20kWnYmQpmjfIAhe2x":{
+        "data":{
+        "ar":[
+            {
+                "content":"لدي وثيقة، أين يمكن قبولها؟",
+                "type":"text"
+            },
+            {
+                "content":"أين يمكن قبول وثيقتي؟",
+                "type":"text"
+            },
+            {
+                "content":"أريد أن أعرف أين يمكن قبول وثيقتي",
+                "type":"text"
+            },
+            {
+                "content":"أين يمكن قبول وثيقتي",
+                "type":"text"
+            },
+            {
+                "content":"ما التأمين المقبول في المستشفى العام؟",
+                "type":"text"
+            },
+            {
+                "content":"أين يمكن قبول تأميني",
+                "type":"text"
+            },
+            {
+                "content":"قائمة وثائق التأمين المقبولة لدى أفيفو",
+                "type":"text"
+            },
+            {
+                "content":"أريد أن أعرف أين يمكن قبول وثيقة تأميني",
+                "type":"text"
+            },
+            {
+                "content":"ما الوثائق التي تقبلها مجموعة أفيفو",
+                "type":"text"
+            },
+            {
+                "content":"ما التأمين الذي تقبله مجموعة أفيفو؟",
+                "type":"text"
+            },
+            {
+                "content":"لدي تأمين أورينت، ما الأماكن التي تقبله؟",
+                "type":"text"
+            },
+            {
+                "content":"أين يمكن قبول تأميني",
+                "type":"text"
+            },
+            {
+                "content":"ما الوثائق التي تقبلها مستشفيات أفيفو؟",
+                "type":"text"
+            },
+            {
+                "content":"قدم لي قائمة بالوثائق التي تقبلها أفيفو",
+                "type":"text"
+            },
+            {
+                "content":"هل تقبل المستشفى الألماني وثيقة من أورينت للتأمين؟",
+                "type":"text"
+            },
+            {
+                "content":"ما التأمينات المختلفة المناسبة لأفيفو",
+                "type":"text"
+            },
+            {
+                "content":"كيف يمكنني معرفة التأمين المقبول في المستشفى؟",
+                "type":"text"
+            },
+            {
+                "content":"كيف يمكنني معرفة التأمين المقبول في المستشفى؟",
+                "type":"text"
+            },
+            {
+                "content":"هل هناك مسؤول عن فحص التأمين؟",
+                "type":"text"
+            },
+            {
+                "content":"هل يمكنني التأكد إذا كان تأميني مقبولاً أم لا قبل زيارة المستشفى؟",
+                "type":"text"
+            },
+            {
+                "content":"ما الذي يمكنني فعله لمعرفة ما إذا كان تأميني مقبولاً أم لا؟",
+                "type":"text"
+            },
+            {
+                "content":"ما الذي يمكنني فعله لمعرفة ما إذا كان تأميني مقبولاً أم لا؟",
+                "type":"text"
+            },
+            {
+                "content":"أين يمكن قبول وثيقتي",
+                "type":"text"
+            },
+            {
+                "content":"هل وثيقتي مقبولة في جميع أنحاء دولة الإمارات العربية المتحدة؟",
+                "type":"text"
+            },
+            {
+                "content":"ما التغطية التي يوفرها تأميني؟",
+                "type":"text"
+            },
+            {
+                "content":"ما البطاقات التأمينية التي تأخذونها",
+                "type":"text"
+            },
+            {
+                "content":"هل تقبلون تأمين نكست كير",
+                "type":"text"
+            },
+            {
+                "content":"هل تقبلون تأمين عناية",
+                "type":"text"
+            },
+            {
+                "content":"ما تأمينكم",
+                "type":"text"
+            },
+            {
+                "content":"هل تقبلون بطاقة تأميني",
+                "type":"text"
+            },
+            {
+                "content":"ما بطاقة التأمين التي تقبلها المستشفى",
+                "type":"text"
+            },
+            {
+                "content":"هل تتعاونون مع أي شبكة تأمين",
+                "type":"text"
+            },
+            {
+                "content":"هل بطاقة تأميني مقبولة",
+                "type":"text"
+            },
+            {
+                "content":"هل يمكنكم إخباري بشأن الموافقة على تأميني",
+                "type":"text"
+            },
+            {
+                "content":"هل تم الموافقة على تأميني",
+                "type":"text"
+            },
+            {
+                "content":"أريد فحص حالة الموافقة على تأميني",
+                "type":"text"
+            },
+            {
+                "content":"حالة الموافقة على التأمين",
+                "type":"text"
+            },
+            {
+                "content":"التأمين",
+                "type":"text"
+            },
+            {
+                "content":"الوثيقة",
+                "type":"text"
+            },
+            {
+                "content":"وثيقة التأمين",
+                "type":"text"
+            },
+            {
+                "content":"تم قبول وثيقة التأمين",
+                "type":"text"
+            },
+            {
+                "content":"بطاقة التأمين",
+                "type":"text"
+            },
+            {
+                "content":"وثيقة التأمين",
+                "type":"text"
+            },
+            {
+                "content":"التعاون في التأمين",
+                "type":"text"
+            },
+            {
+                "content":"الموافقة على التأمين",
+                "type":"text"
+            },
+            {
+                "content":"التأمين",
+                "type":"pattern"
+            },
+            {
+                "content":"وثيقة التأمين",
+                "type":"pattern"
+            },
+            {
+                "content":"بطاقة التأمين",
+                "type":"pattern"
+            },
+            {
+                "content":"الموافقة على التأمين",
+                "type":"pattern"
+            }
+        ],
+        "en":[
+            {
+                "content":"i have policy where is it accepted?",
+                "type":"text"
+            },
+            {
+                "content":"where is my policy accepted?",
+                "type":"text"
+            },
+            {
+                "content":"i want to know where my policy is accepted",
+                "type":"text"
+            },
+            {
+                "content":"which insurance is accepted in General hospital?",
+                "type":"text"
+            },
+            {
+                "content":"where is my insurance accepted",
+                "type":"text"
+            },
+            {
+                "content":"I want to know where my insurance policy accepted",
+                "type":"text"
+            },
+            {
+                "content":"what insurance does the AVIVO group accept?",
+                "type":"text"
+            },
+            {
+                "content":"i have orient insurance, where all is it accepted?",
+                "type":"text"
+            },
+            {
+                "content":"where is my insurance accepted",
+                "type":"text"
+            },
+            {
+                "content":"what all policies do hospitals with avivo accept?",
+                "type":"text"
+            },
+            {
+                "content":"give me a list of policies accepted by avivo",
+                "type":"text"
+            },
+            {
+                "content":"does german hospital accept a policy from orient insurance?",
+                "type":"text"
+            },
+            {
+                "content":"what are the different insurances that are suited to avivo",
+                "type":"text"
+            },
+            {
+                "content":"how do i know which insurance is accepted in the hospital?",
+                "type":"text"
+            },
+            {
+                "content":"is there an insurance checker?",
+                "type":"text"
+            },
+            {
+                "content":"can i check if my insurance is accepted before visiting a hospital?",
+                "type":"text"
+            },
+            {
+                "content":"what can i do to know if my policy is accepted?",
+                "type":"text"
+            },
+            {
+                "content":"where is my policy accepted",
+                "type":"text"
+            },
+            {
+                "content":"is my policy accepted in all parts of the UAE?",
+                "type":"text"
+            },
+            {
+                "content":"what coverage does my insurance provide?",
+                "type":"text"
+            },
+            {
+                "content":"what insuance cards do you take",
+                "type":"text"
+            },
+            {
+                "content":"do you accept nextcare insurance",
+                "type":"text"
+            },
+            {
+                "content":"would you accept my insurance card",
+                "type":"text"
+            },
+            {
+                "content":"what insurance card would the hospital accept",
+                "type":"text"
+            },
+            {
+                "content":"are you in collaboration with any insuranc network",
+                "type":"text"
+            },
+            {
+                "content":"is my insurance card acceptable",
+                "type":"text"
+            },
+            {
+                "content":"can you please let me know about my insurance approval",
+                "type":"text"
+            },
+            {
+                "content":"has my insurance been approved",
+                "type":"text"
+            },
+            {
+                "content":"i want to check my insurance approval status",
+                "type":"text"
+            },
+            {
+                "content":"give me insurance",
+                "type":"text"
+            },
+            {
+                "content":"Insurance collaboration",
+                "type":"text"
+            },
+            {
+                "content":"Insurance Policy",
+                "type":"text"
+            },
+            {
+                "content":"insurance approval",
+                "type":"text"
+            },
+            {
+                "content":"insurance policy accepted",
+                "type":"text"
+            },
+            {
+                "content":"insurance approval status",
+                "type":"text"
+            },
+            {
+                "content":"Insurance coverage",
+                "type":"text"
+            },
+            {
+                "content":"insurance policies",
+                "type":"text"
+            },
+            {
+                "content":"Insurance Card",
+                "type":"text"
+            },
+            {
+                "content":"Insurance",
+                "type":"pattern"
+            },
+            {
+                "content":"Policy",
+                "type":"pattern"
+            },
+            {
+                "content":"coverage",
+                "type":"pattern"
+            },
+            {
+                "content":"policies",
+                "type":"pattern"
+            }
+        ]
+        },
+        "learning":true,
+        "moduleID":"-L2uExIyJvbcPShOXmQY",
+        "title":"Insurance Coverage"
+    },
+    "-L20ls1i0MuUp8oBUfol":{
+        "data":{
+        "ar":[
+            {
+                "content":"أريد حساب مؤشر كتلة الجسم لدي",
+                "type":"text"
+            },
+            {
+                "content":"أريد حساب مستوى الصحة",
+                "type":"text"
+            },
+            {
+                "content":"أريد جدول التطعيمات لطفلي",
+                "type":"text"
+            },
+            {
+                "content":"جدول التطعيمات",
+                "type":"text"
+            },
+            {
+                "content":"أريد حساب مؤشر كتلة الجسم",
+                "type":"text"
+            },
+            {
+                "content":"يرجى مساعدتي في حساب مؤشر كتلة الجسم",
+                "type":"text"
+            },
+            {
+                "content":"يرجى مساعدتي في الحصول على جدول التطعيمات",
+                "type":"text"
+            },
+            {
+                "content":"أريد تطعيم طفلي",
+                "type":"text"
+            },
+            {
+                "content":"أريد تطعيم لطفلي",
+                "type":"text"
+            },
+            {
+                "content":"أريد تطعيم لصغيري",
+                "type":"text"
+            },
+            {
+                "content":"أود حساب مؤشر كتلة الجسم لدي",
+                "type":"text"
+            },
+            {
+                "content":"كيف يمكنني حساب مؤشر كتلة الجسم",
+                "type":"text"
+            },
+            {
+                "content":"ما المراكز التي تساعدني في حساب مؤشر كتلة الجسم",
+                "type":"text"
+            },
+            {
+                "content":"كيف يمكنني حساب مؤشر كتلة الجسم",
+                "type":"text"
+            },
+            {
+                "content":"كيف يمكنني الحصول على جدول التطعيمات",
+                "type":"text"
+            },
+            {
+                "content":"ما المستشفى التي تساعدك في حساب مؤشر كتلة الجسم",
+                "type":"text"
+            },
+            {
+                "content":"ما المستشفى التي تقدم جدول وخطة التطعيمات",
+                "type":"text"
+            },
+            {
+                "content":"أين يمكنني الحصول على تفاصيل بشأن مكان تطعيم طفلي",
+                "type":"text"
+            },
+            {
+                "content":"هل يمكنك مساعدتي في العثور على مكان للحصول على التطعيم",
+                "type":"text"
+            },
+            {
+                "content":"ما هو جدول التطعيمات",
+                "type":"text"
+            },
+            {
+                "content":"ما هو حساب مؤشر كتلة الجسم؟",
+                "type":"text"
+            },
+            {
+                "content":"كيف يمكنك حساب مؤشر كتلة الجسم",
+                "type":"text"
+            },
+            {
+                "content":"ما التفاصيل اللازمة لحساب مؤشر كتلة الجسم",
+                "type":"text"
+            },
+            {
+                "content":"ما التفاصيل اللازمة لمعرفة التطعيمات",
+                "type":"text"
+            },
+            {
+                "content":"ما سعر التطعيم للأطفال؟",
+                "type":"text"
+            },
+            {
+                "content":"كيف يمكنني الحصول على تطعيم لطفلي؟",
+                "type":"text"
+            },
+            {
+                "content":"أين يمكنني الحصول على تطعيم لطفلي؟",
+                "type":"text"
+            },
+            {
+                "content":"أود الاطلاع على جدول التطعيمات",
+                "type":"text"
+            },
+            {
+                "content":"قدم لي موعد التطعيم",
+                "type":"text"
+            },
+            {
+                "content":"قدم لي جدول التطعيمات لطفلي",
+                "type":"text"
+            },
+            {
+                "content":"جدول التطعيمات من فضلك",
+                "type":"text"
+            },
+            {
+                "content":"أريد دليل التطعيمات",
+                "type":"text"
+            },
+            {
+                "content":"تطعيم",
+                "type":"text"
+            },
+            {
+                "content":"لقاحات",
+                "type":"text"
+            },
+            {
+                "content":"جداول التطعيمات",
+                "type":"text"
+            },
+            {
+                "content":"خطة التطعيمات",
+                "type":"text"
+            },
+            {
+                "content":"حساب مؤشر كتلة الجسم",
+                "type":"text"
+            },
+            {
+                "content":"مؤشر كتلة الجسم",
+                "type":"text"
+            },
+            {
+                "content":"مؤشر كتلة الجسم",
+                "type":"text"
+            },
+            {
+                "content":"مؤشر كتلة الجسم",
+                "type":"text"
+            },
+            {
+                "content":"حساب",
+                "type":"text"
+            },
+            {
+                "content":"دليل التطعيمات",
+                "type":"text"
+            },
+            {
+                "content":"التلقيح",
+                "type":"pattern"
+            },
+            {
+                "content":"التحصين",
+                "type":"pattern"
+            },
+            {
+                "content":"الحقن",
+                "type":"pattern"
+            }
+        ],
+        "en":[
+            {
+                "content":"I want to calculate my bmi",
+                "type":"text"
+            },
+            {
+                "content":"i want a health calculator",
+                "type":"text"
+            },
+            {
+                "content":"please help me calculate my bmi",
+                "type":"text"
+            },
+            {
+                "content":"i would like to calculate my bmi",
+                "type":"text"
+            },
+            {
+                "content":"which of your centres help me calculate my bmi",
+                "type":"text"
+            },
+            {
+                "content":"which hospital makes you calculate your bmi",
+                "type":"text"
+            },
+            {
+                "content":"what is a BMI calculator?",
+                "type":"text"
+            },
+            {
+                "content":"how do you calculate BMi",
+                "type":"text"
+            },
+            {
+                "content":"what details are needed to calculate BMI?",
+                "type":"text"
+            },
+            {
+                "content":"BMI calculator",
+                "type":"text"
+            },
+            {
+                "content":"can i calculate my bmi",
+                "type":"text"
+            },
+            {
+                "content":"how to calculate bmi",
+                "type":"text"
+            },
+            {
+                "content":"do you have bmi calculator",
+                "type":"text"
+            },
+            {
+                "content":"please show me bmi calculator",
+                "type":"text"
+            },
+            {
+                "content":"i want bmi calculator",
+                "type":"text"
+            },
+            {
+                "content":"help me find my bmi",
+                "type":"text"
+            },
+            {
+                "content":"can i calculate body mass index",
+                "type":"text"
+            },
+            {
+                "content":"show me my body mass index",
+                "type":"text"
+            },
+            {
+                "content":"show bmi",
+                "type":"text"
+            },
+            {
+                "content":"is there a way to calculate my bmi",
+                "type":"text"
+            },
+            {
+                "content":"can you let me know my body mass index",
+                "type":"text"
+            },
+            {
+                "content":"can you let me know my bmi",
+                "type":"text"
+            },
+            {
+                "content":"BMI calculator",
+                "type":"pattern"
+            },
+            {
+                "content":"bmi",
+                "type":"pattern"
+            }
+        ]
+        },
+        "learning":true,
+        "moduleID":"-L2uExIyJvbcPShOXmQY",
+        "title":"Health Calculators"
+    },
+    "-L2teOgTLm5PyfLznhcI":{
+        "data":{
+        "ar":[
+            {
+                "content":"ما هي اللغات التي يتحدثها طاقم العاملين",
+                "type":"text"
+            },
+            {
+                "content":"هل يتحدث الأطباء اللغة العربية؟",
+                "type":"text"
+            },
+            {
+                "content":"هل يتحدث الأطباء اللغة الهندية؟",
+                "type":"text"
+            },
+            {
+                "content":"هل يتحدث الأطباء المتواجدن في أفيفو اللغة الماليالامية؟",
+                "type":"text"
+            },
+            {
+                "content":"الأطباء الهنود",
+                "type":"text"
+            },
+            {
+                "content":"هل يستطيع أي أحد تحدث اللغة العربية؟",
+                "type":"text"
+            },
+            {
+                "content":"ما هي اللغات التي تتحدثها أفيفو؟",
+                "type":"text"
+            },
+            {
+                "content":"هل لديكم أطباء عرب؟",
+                "type":"text"
+            },
+            {
+                "content":"اللغة",
+                "type":"pattern"
+            }
+        ],
+        "en":[
+            {
+                "content":"do you have arabic doctors?",
+                "type":"text"
+            },
+            {
+                "content":"what languages the doctors speak",
+                "type":"text"
+            },
+            {
+                "content":"what are the languages spoken my staff",
+                "type":"text"
+            },
+            {
+                "content":"is arabic spoken by doctors?",
+                "type":"text"
+            },
+            {
+                "content":"Is hindi spoken by doctors?",
+                "type":"text"
+            },
+            {
+                "content":"Is malyalam spoken by doctors at AVIVO?",
+                "type":"text"
+            },
+            {
+                "content":"hindi doctors",
+                "type":"text"
+            },
+            {
+                "content":"can somebody speak in arabic",
+                "type":"text"
+            },
+            {
+                "content":"what languages does AVIVO speak?",
+                "type":"text"
+            },
+            {
+                "content":"what language can your doctors speak",
+                "type":"text"
+            },
+            {
+                "content":"do you have arabic speaking doctors",
+                "type":"text"
+            },
+            {
+                "content":"do you have french speaking doctors",
+                "type":"text"
+            },
+            {
+                "content":"what languages can your doctors speak",
+                "type":"text"
+            },
+            {
+                "content":"Languages",
+                "type":"pattern"
+            },
+            {
+                "content":"speak language",
+                "type":"pattern"
+            },
+            {
+                "content":"speak arabic",
+                "type":"pattern"
+            },
+            {
+                "content":"speak tagalog",
+                "type":"pattern"
+            },
+            {
+                "content":"spoken",
+                "type":"pattern"
+            },
+            {
+                "content":"Arabic",
+                "type":"pattern"
+            },
+            {
+                "content":"language",
+                "type":"pattern"
+            }
+        ]
+        },
+        "learning":true,
+        "moduleID":"-L2uExIyJvbcPShOXmQY",
+        "title":"languages"
+    },
+    "-L2tj-4mCZ_ROwmaAQ-i":{
+        "data":{
+        "ar":[
+            {
+                "content":"هل لديكم خدمة منازل؟",
+                "type":"text"
+            },
+            {
+                "content":"هل يمكنكم القدوم إلى المنزل من أجل العلاج؟",
+                "type":"text"
+            },
+            {
+                "content":"هل يمكن لطبيب زيارة منزلي؟",
+                "type":"text"
+            },
+            {
+                "content":"أريد طبيباً في المنزل.",
+                "type":"text"
+            },
+            {
+                "content":"هل يمكنكم إرسال طبيب إلى منزلي",
+                "type":"text"
+            },
+            {
+                "content":"أرغب في الاستفادة من خدماتكم المنزلية",
+                "type":"text"
+            },
+            {
+                "content":"الخدمة المنزلية",
+                "type":"pattern"
+            }
+        ],
+        "en":[
+            {
+                "content":"do you have home service?",
+                "type":"text"
+            },
+            {
+                "content":"could you come home for treatment?",
+                "type":"text"
+            },
+            {
+                "content":"can a doctor visit my house?",
+                "type":"text"
+            },
+            {
+                "content":"i want a doc at home",
+                "type":"text"
+            },
+            {
+                "content":"could you send a doctor to my place",
+                "type":"text"
+            },
+            {
+                "content":"would like to avail your home services",
+                "type":"text"
+            },
+            {
+                "content":"What are your home services",
+                "type":"text"
+            },
+            {
+                "content":"give me home service",
+                "type":"text"
+            },
+            {
+                "content":"HOME",
+                "type":"text"
+            },
+            {
+                "content":"can someone come home & give me a treatment",
+                "type":"text"
+            },
+            {
+                "content":"i need treatment at home",
+                "type":"text"
+            },
+            {
+                "content":"home avaliability",
+                "type":"text"
+            },
+            {
+                "content":"home services",
+                "type":"text"
+            },
+            {
+                "content":"do doctors pay home visits",
+                "type":"text"
+            },
+            {
+                "content":"do doctors do visits at home",
+                "type":"text"
+            },
+            {
+                "content":"home care",
+                "type":"pattern"
+            },
+            {
+                "content":"homecare",
+                "type":"pattern"
+            },
+            {
+                "content":"home visit",
+                "type":"pattern"
+            }
+        ]
+        },
+        "learning":true,
+        "moduleID":"-L2uExIyJvbcPShOXmQY",
+        "title":"Home services"
+    },
+    "-L2zRjrDhX33e_Dj4gHX":{
+        "data":{
+        "ar":[
+            {
+                "content":"هل يمكنني الحصول على شهادة طبية",
+                "type":"text"
+            },
+            {
+                "content":"أين يمكنني الحصول على شهادة طبية",
+                "type":"text"
+            },
+            {
+                "content":"متى يمكنني الحصول على شهادة طبية",
+                "type":"text"
+            },
+            {
+                "content":"إلى من ألجأ من أجل الحصول على شهادة إجازة مرضية",
+                "type":"text"
+            },
+            {
+                "content":"من يمكنني اللجوء إليه من أجل الحصول على شهادة إجازة مرضية",
+                "type":"text"
+            },
+            {
+                "content":"أريد معرفة من أين أحصل على شهادة إجازة مرضية",
+                "type":"text"
+            },
+            {
+                "content":"أين يمكنني الحصول على شهادة إجازة مرضية",
+                "type":"text"
+            },
+            {
+                "content":"أحتاج إلى المساعدة في الحصول على شهادة إجازة مرضية",
+                "type":"text"
+            },
+            {
+                "content":"ساعدوني في الحصول على شهادة إجازة مرضية",
+                "type":"text"
+            },
+            {
+                "content":"من أين أستلم الشهادة الطبية الخاصة بي",
+                "type":"text"
+            },
+            {
+                "content":"ن أين أستلم شهادة الإجازة المرضية الخاصة بي",
+                "type":"text"
+            },
+            {
+                "content":"إجازة مرضية",
+                "type":"pattern"
+            },
+            {
+                "content":"شهادة مرضية",
+                "type":"pattern"
+            }
+        ],
+        "en":[
+            {
+                "content":"I'd like a medical certificate",
+                "type":"text"
+            },
+            {
+                "content":"can i get a medical certificate",
+                "type":"text"
+            },
+            {
+                "content":"where can i get a medical certificate",
+                "type":"text"
+            },
+            {
+                "content":"who can i approach for a sick leave certificate",
+                "type":"text"
+            },
+            {
+                "content":"i want to know where to get a medical certificate",
+                "type":"text"
+            },
+            {
+                "content":"where can i get a sick leave certificate",
+                "type":"text"
+            },
+            {
+                "content":"i need help with getting a sick leave certificate",
+                "type":"text"
+            },
+            {
+                "content":"help me get a sick leave certificate",
+                "type":"text"
+            },
+            {
+                "content":"where shall i collect my medical certificate",
+                "type":"text"
+            },
+            {
+                "content":"i would like to get my medical history",
+                "type":"text"
+            },
+            {
+                "content":"how can i get my medical history",
+                "type":"text"
+            },
+            {
+                "content":"i would like to get my clinical history",
+                "type":"text"
+            },
+            {
+                "content":"can i get my clinical history",
+                "type":"text"
+            },
+            {
+                "content":"I need a medical certificate",
+                "type":"text"
+            },
+            {
+                "content":"Medical Certificate",
+                "type":"pattern"
+            },
+            {
+                "content":"SIck leave",
+                "type":"pattern"
+            },
+            {
+                "content":"medical history",
+                "type":"pattern"
+            },
+            {
+                "content":"cinical history",
+                "type":"pattern"
+            }
+        ]
+        },
+        "learning":true,
+        "moduleID":"-L2uExIyJvbcPShOXmQY",
+        "title":"Sick Leave Medical Certificates"
+    },
+    "-L3c6N45gMNeYb3UE1_D":{
+        "data":{
+        "en":[
+            {
+                "content":"what is your name?",
+                "type":"text"
+            },
+            {
+                "content":"can i know your name",
+                "type":"text"
+            },
+            {
+                "content":"what name can i call you",
+                "type":"text"
+            },
+            {
+                "content":"what can i refer to you as",
+                "type":"text"
+            },
+            {
+                "content":"please give me a name to call you",
+                "type":"text"
+            },
+            {
+                "content":"do you have a name",
+                "type":"text"
+            },
+            {
+                "content":"can you tell me your name",
+                "type":"text"
+            },
+            {
+                "content":"please tell me your name",
+                "type":"text"
+            },
+            {
+                "content":"tell me what to call you",
+                "type":"text"
+            },
+            {
+                "content":"can i give you a name",
+                "type":"text"
+            },
+            {
+                "content":"do you have a nickname",
+                "type":"text"
+            },
+            {
+                "content":"your name",
+                "type":"text"
+            },
+            {
+                "content":"name",
+                "type":"pattern"
+            }
+        ]
+        },
+        "learning":true,
+        "moduleID":"-L2uExIyJvbcPShOXmQY",
+        "title":"Name"
+    },
+    "-L3c78QlvDJl1h433IX6":{
+        "data":{
+        "en":[
+            {
+                "content":"I feel sad",
+                "type":"text"
+            },
+            {
+                "content":"i feel down",
+                "type":"text"
+            },
+            {
+                "content":"i feel like crying",
+                "type":"text"
+            },
+            {
+                "content":"i don't feel good",
+                "type":"text"
+            },
+            {
+                "content":"i am bored",
+                "type":"text"
+            },
+            {
+                "content":"i feel lonely",
+                "type":"text"
+            },
+            {
+                "content":"i feel lonely, can you keep me company",
+                "type":"text"
+            },
+            {
+                "content":"i am so sad",
+                "type":"text"
+            },
+            {
+                "content":"I think i am upset",
+                "type":"text"
+            },
+            {
+                "content":"i think i feel lost",
+                "type":"text"
+            },
+            {
+                "content":"i am confused",
+                "type":"text"
+            },
+            {
+                "content":"i feel hopeless",
+                "type":"text"
+            },
+            {
+                "content":"i am afraid",
+                "type":"text"
+            },
+            {
+                "content":"i feel afraid",
+                "type":"text"
+            },
+            {
+                "content":"i am hurt",
+                "type":"text"
+            },
+            {
+                "content":"i feel indifferent",
+                "type":"text"
+            },
+            {
+                "content":"i'm afraid",
+                "type":"text"
+            },
+            {
+                "content":"i'm hopeless",
+                "type":"text"
+            },
+            {
+                "content":"i'm depressed",
+                "type":"text"
+            },
+            {
+                "content":"i'm angry",
+                "type":"text"
+            },
+            {
+                "content":"i'm lonely",
+                "type":"text"
+            },
+            {
+                "content":"I hate my life",
+                "type":"text"
+            },
+            {
+                "content":"sad",
+                "type":"text"
+            },
+            {
+                "content":"depressed",
+                "type":"text"
+            },
+            {
+                "content":"upset",
+                "type":"text"
+            },
+            {
+                "content":"angry",
+                "type":"text"
+            },
+            {
+                "content":"pissed off",
+                "type":"text"
+            },
+            {
+                "content":"annoyed",
+                "type":"text"
+            },
+            {
+                "content":"feeling bad",
+                "type":"text"
+            }
+        ]
+        },
+        "learning":true,
+        "moduleID":"-L2uExIyJvbcPShOXmQY",
+        "title":"Emotions Sad"
+    },
+    "-L3c8-nuKlUxpAq0eY7O":{
+        "data":{
+        "en":[
+            {
+                "content":"i am excited",
+                "type":"text"
+            },
+            {
+                "content":"i am so happy",
+                "type":"text"
+            },
+            {
+                "content":"i feel so happy",
+                "type":"text"
+            },
+            {
+                "content":"i am so so sooo happy today",
+                "type":"text"
+            },
+            {
+                "content":"i don't know why i feel so happy",
+                "type":"text"
+            },
+            {
+                "content":"ask me why i'm happy",
+                "type":"text"
+            },
+            {
+                "content":"do you know why i'm happy today",
+                "type":"text"
+            },
+            {
+                "content":"i can't help it,i'm tooo happy",
+                "type":"text"
+            },
+            {
+                "content":"can you share in my hapiness",
+                "type":"text"
+            },
+            {
+                "content":"I am so excited today",
+                "type":"text"
+            }
+        ]
+        },
+        "learning":true,
+        "moduleID":"-L2uExIyJvbcPShOXmQY",
+        "title":"Emotions Happy"
+    },
+    "-L3c9w8AT_CDYZw5PBYl":{
+        "data":{
+        "en":[
+            {
+                "content":"it's my birthday today",
+                "type":"text"
+            },
+            {
+                "content":"wish me a happy birthday today",
+                "type":"text"
+            },
+            {
+                "content":"can you wish me a happy birthday",
+                "type":"text"
+            },
+            {
+                "content":"today's my birthday",
+                "type":"text"
+            },
+            {
+                "content":"i want you to wish a happy birthday",
+                "type":"text"
+            },
+            {
+                "content":"today's my birthday let's celebrate",
+                "type":"text"
+            },
+            {
+                "content":"celebrate my birthday with me",
+                "type":"text"
+            },
+            {
+                "content":"you are invited to celebrate my birthday with me",
+                "type":"text"
+            },
+            {
+                "content":"i want to invite you to my birthday party",
+                "type":"text"
+            },
+            {
+                "content":"birthday",
+                "type":"pattern"
+            }
+        ]
+        },
+        "learning":true,
+        "moduleID":"-L2uExIyJvbcPShOXmQY",
+        "title":"Birthday"
+    },
+    "-L3cAQnACxoNzZzmwQOH":{
+        "data":{
+        "en":[
+            {
+                "content":"i love you",
+                "type":"text"
+            },
+            {
+                "content":"i am in love with you",
+                "type":"text"
+            },
+            {
+                "content":"can you love me",
+                "type":"text"
+            },
+            {
+                "content":"Youre awesomeeeee",
+                "type":"text"
+            },
+            {
+                "content":"you are amazing",
+                "type":"text"
+            },
+            {
+                "content":"you are the best",
+                "type":"text"
+            },
+            {
+                "content":"you are  perfect",
+                "type":"text"
+            },
+            {
+                "content":"you are amazing",
+                "type":"text"
+            },
+            {
+                "content":"you are a star",
+                "type":"text"
+            },
+            {
+                "content":"I like talking to you",
+                "type":"text"
+            },
+            {
+                "content":"BEST BOT!",
+                "type":"text"
+            },
+            {
+                "content":"love you",
+                "type":"text"
+            },
+            {
+                "content":"amazing",
+                "type":"text"
+            },
+            {
+                "content":"awesome",
+                "type":"text"
+            },
+            {
+                "content":"cool",
+                "type":"text"
+            },
+            {
+                "content":"nice",
+                "type":"text"
+            },
+            {
+                "content":"Rock",
+                "type":"text"
+            },
+            {
+                "content":"Best",
+                "type":"text"
+            },
+            {
+                "content":"best bot",
+                "type":"text"
+            },
+            {
+                "content":"you're the best",
+                "type":"text"
+            }
+        ]
+        },
+        "learning":true,
+        "moduleID":"-L2uExIyJvbcPShOXmQY",
+        "title":"Feelings Positive"
+    },
+    "-L3cBGEEyeJQd-RemtZG":{
+        "data":{
+        "en":[
+            {
+                "content":"i don't like you",
+                "type":"text"
+            },
+            {
+                "content":"i hate you",
+                "type":"text"
+            },
+            {
+                "content":"you are boring",
+                "type":"text"
+            },
+            {
+                "content":"you are bad",
+                "type":"text"
+            },
+            {
+                "content":"you are terrible",
+                "type":"text"
+            },
+            {
+                "content":"you are not good",
+                "type":"text"
+            },
+            {
+                "content":"you are not all that",
+                "type":"text"
+            },
+            {
+                "content":"you are not amazing",
+                "type":"text"
+            },
+            {
+                "content":"you suck",
+                "type":"text"
+            },
+            {
+                "content":"youre so mean",
+                "type":"text"
+            },
+            {
+                "content":"you're super annoying",
+                "type":"text"
+            },
+            {
+                "content":"very irritating",
+                "type":"text"
+            },
+            {
+                "content":"I am not happy with your services",
+                "type":"text"
+            },
+            {
+                "content":"i dont like your services",
+                "type":"text"
+            },
+            {
+                "content":"you're so irritating",
+                "type":"text"
+            },
+            {
+                "content":"you annoy me",
+                "type":"text"
+            },
+            {
+                "content":"you're sick",
+                "type":"text"
+            },
+            {
+                "content":"screw you",
+                "type":"text"
+            },
+            {
+                "content":"fuck you",
+                "type":"text"
+            },
+            {
+                "content":"you suck!",
+                "type":"text"
+            },
+            {
+                "content":"you are the worst",
+                "type":"text"
+            },
+            {
+                "content":"go to hell",
+                "type":"text"
+            },
+            {
+                "content":"you're horrible",
+                "type":"text"
+            },
+            {
+                "content":"you're sick",
+                "type":"text"
+            },
+            {
+                "content":"you're disgusting",
+                "type":"text"
+            },
+            {
+                "content":"you're so not helpful",
+                "type":"text"
+            },
+            {
+                "content":"youre such a disaster",
+                "type":"text"
+            },
+            {
+                "content":"Don't like chatbots",
+                "type":"text"
+            }
+        ]
+        },
+        "learning":true,
+        "moduleID":"-L2uExIyJvbcPShOXmQY",
+        "title":"Feelings Negative"
+    },
+    "-L3cRkY9HHSkJRGlDl1g":{
+        "data":{
+        "en":[
+            {
+                "content":"I want of know the status of my lab report",
+                "type":"text"
+            },
+            {
+                "content":"can i get my lab report",
+                "type":"text"
+            },
+            {
+                "content":"how can i get my lab test report",
+                "type":"text"
+            },
+            {
+                "content":"how can i get my lab report",
+                "type":"text"
+            },
+            {
+                "content":"what is the status of my lab test",
+                "type":"text"
+            },
+            {
+                "content":"is my lab test report ready",
+                "type":"text"
+            },
+            {
+                "content":"can you tell me if my lab report is ready for collection",
+                "type":"text"
+            },
+            {
+                "content":"i wan to collect my lab tests",
+                "type":"text"
+            },
+            {
+                "content":"how can i get my lab test results",
+                "type":"text"
+            },
+            {
+                "content":"i want my lab results",
+                "type":"text"
+            },
+            {
+                "content":"when are my lab test results ready",
+                "type":"text"
+            },
+            {
+                "content":"are my lab results ready",
+                "type":"text"
+            },
+            {
+                "content":"YESTERDAY I GAVE SAMPLE FOR TEST HOW WE GET THE REPORT",
+                "type":"text"
+            },
+            {
+                "content":"I gave my blood sample for test, how to collect the report",
+                "type":"text"
+            },
+            {
+                "content":"how can i collect report for blood test?",
+                "type":"text"
+            },
+            {
+                "content":"how can i collect my blood test report?",
+                "type":"text"
+            },
+            {
+                "content":"how to collect report?",
+                "type":"text"
+            },
+            {
+                "content":"lab reports",
+                "type":"pattern"
+            },
+            {
+                "content":"lab test report",
+                "type":"pattern"
+            },
+            {
+                "content":"laboratory tests",
+                "type":"pattern"
+            },
+            {
+                "content":"laboratory report",
+                "type":"pattern"
+            }
+        ]
+        },
+        "learning":true,
+        "moduleID":"-L2uExIyJvbcPShOXmQY",
+        "title":"Lab Report Request"
+    },
+    "-L3ccBlIS9lkeo6n14Y6":{
+        "data":{
+        "en":[
+            {
+                "content":"i am looking for a particular specialization",
+                "type":"text"
+            },
+            {
+                "content":"i want a doctor in a specialization",
+                "type":"text"
+            },
+            {
+                "content":"i want a specialized doctor",
+                "type":"text"
+            },
+            {
+                "content":"what specializations in the hospital do you have",
+                "type":"text"
+            },
+            {
+                "content":"what specializations do you have",
+                "type":"text"
+            },
+            {
+                "content":"i want a doctor in a particular specialization",
+                "type":"text"
+            },
+            {
+                "content":"i am looking for a specialist",
+                "type":"text"
+            },
+            {
+                "content":"i want a specialist",
+                "type":"text"
+            },
+            {
+                "content":"help me find a specialist",
+                "type":"text"
+            },
+            {
+                "content":"help me find a doctor in a specialization",
+                "type":"text"
+            },
+            {
+                "content":"can you help me get a doctor under  particular specialization",
+                "type":"text"
+            },
+            {
+                "content":"can you tell me what specializations the hospital has",
+                "type":"text"
+            },
+            {
+                "content":"pediatrician",
+                "type":"text"
+            },
+            {
+                "content":"book an appointment with a pediatrician today",
+                "type":"text"
+            },
+            {
+                "content":"please book me for pediatrician",
+                "type":"text"
+            },
+            {
+                "content":"specialisation",
+                "type":"pattern"
+            },
+            {
+                "content":"specializations",
+                "type":"pattern"
+            },
+            {
+                "content":"specialization",
+                "type":"pattern"
+            },
+            {
+                "content":"specialist",
+                "type":"pattern"
+            }
+        ]
+        },
+        "learning":true,
+        "moduleID":"-L2uExIyJvbcPShOXmQY",
+        "title":"Specialization"
+    },
+    "-L3cfPGIDHT5Jq9hUasc":{
+        "data":{
+        "en":[
+            {
+                "content":"can i cancel my appointment",
+                "type":"text"
+            },
+            {
+                "content":"how can i cancel an appointment",
+                "type":"text"
+            },
+            {
+                "content":"i want to cancel my booking",
+                "type":"text"
+            },
+            {
+                "content":"please cancel my doctor's appointment",
+                "type":"text"
+            },
+            {
+                "content":"how to cancel my appointment",
+                "type":"text"
+            },
+            {
+                "content":"please help me cancel my doctor's appointment",
+                "type":"text"
+            },
+            {
+                "content":"can you cancel a doctor's appointment for me",
+                "type":"text"
+            },
+            {
+                "content":"i want to change my appointment",
+                "type":"text"
+            },
+            {
+                "content":"can i change my appointment",
+                "type":"text"
+            },
+            {
+                "content":"how can i change my booking",
+                "type":"text"
+            },
+            {
+                "content":"i want to change my booking timing",
+                "type":"text"
+            },
+            {
+                "content":"help me cancel my appointment",
+                "type":"text"
+            },
+            {
+                "content":"cancel booking",
+                "type":"text"
+            },
+            {
+                "content":"cancel doctor's appointment",
+                "type":"text"
+            },
+            {
+                "content":"change",
+                "type":"text"
+            }
+        ]
+        },
+        "learning":true,
+        "moduleID":"-L2uExIyJvbcPShOXmQY",
+        "title":"Cancel Appointment"
+    },
+    "-L3cjVLMvn_mXEJO51DW":{
+        "data":{
+        "en":[
+            {
+                "content":"what is avivo",
+                "type":"text"
+            },
+            {
+                "content":"can you define avivo",
+                "type":"text"
+            },
+            {
+                "content":"what is the definition of avivo",
+                "type":"text"
+            },
+            {
+                "content":"can you tell me what avivo means",
+                "type":"text"
+            },
+            {
+                "content":"what does avivo mean",
+                "type":"text"
+            },
+            {
+                "content":"what is the meaning of avivo",
+                "type":"text"
+            },
+            {
+                "content":"tell me what avivo means",
+                "type":"text"
+            },
+            {
+                "content":"meaning",
+                "type":"text"
+            },
+            {
+                "content":"mean",
+                "type":"text"
+            },
+            {
+                "content":"define",
+                "type":"text"
+            },
+            {
+                "content":"definition",
+                "type":"text"
+            },
+            {
+                "content":"means",
+                "type":"text"
+            }
+        ]
+        },
+        "learning":true,
+        "moduleID":"-L2uExIyJvbcPShOXmQY",
+        "title":"What is AVIVO"
+    },
+    "-L40FlK_D2yVUboYOf0a":{
+        "data":{
+        "en":[
+            {
+                "content":"fuck off",
+                "type":"text"
+            },
+            {
+                "content":"piss off",
+                "type":"text"
+            },
+            {
+                "content":"dick",
+                "type":"text"
+            },
+            {
+                "content":"dick head",
+                "type":"text"
+            },
+            {
+                "content":"you are full of shit",
+                "type":"text"
+            },
+            {
+                "content":"you piece of shit",
+                "type":"text"
+            },
+            {
+                "content":"you are just a ball of crap",
+                "type":"text"
+            },
+            {
+                "content":"fuck you",
+                "type":"text"
+            },
+            {
+                "content":"fuck this shit",
+                "type":"text"
+            },
+            {
+                "content":"Gandu",
+                "type":"text"
+            },
+            {
+                "content":"Chutiya",
+                "type":"text"
+            },
+            {
+                "content":"you're a pain in the ass",
+                "type":"text"
+            },
+            {
+                "content":"go fuck yourself",
+                "type":"text"
+            },
+            {
+                "content":"gigantic pain in the ass",
+                "type":"text"
+            },
+            {
+                "content":"asshole",
+                "type":"text"
+            },
+            {
+                "content":"go to hell",
+                "type":"text"
+            }
+        ]
+        },
+        "learning":true,
+        "moduleID":"-L2uExIyJvbcPShOXmQY",
+        "title":"Swear words"
+    },
+    "-L4C14ByqflwD0cfZouR":{
+        "data":{
+        "ar":[
+            {
+                "content":"أين يمكنني استخدام تأمين عمان",
+                "type":"text"
+            },
+            {
+                "content":"أريد استخدام تأمين عمان",
+                "type":"text"
+            },
+            {
+                "content":"ما هي المراكز التي تقبل تأمين عمان",
+                "type":"text"
+            },
+            {
+                "content":"لدي تأمين عمان اين يقبل",
+                "type":"text"
+            },
+            {
+                "content":"أي مركز يقبل تأمين عمان",
+                "type":"text"
+            },
+            {
+                "content":"هل يمكنك أن تخبرني أين يمكنني استخدام تأمين عمان",
+                "type":"text"
+            },
+            {
+                "content":"اي مستشفى تقبل تأمين عمان",
+                "type":"text"
+            },
+            {
+                "content":"اين يقبل تأمين عمان؟",
+                "type":"text"
+            }
+        ],
+        "en":[
+            {
+                "content":"Where can i use oman insurance?",
+                "type":"text"
+            },
+            {
+                "content":"i want to use oman insurance",
+                "type":"text"
+            },
+            {
+                "content":"where does oman insurance work?",
+                "type":"text"
+            },
+            {
+                "content":"what centers accept oman insurance",
+                "type":"text"
+            },
+            {
+                "content":"i have oman insurance where can it work",
+                "type":"text"
+            },
+            {
+                "content":"where would my oman insurance be accepted",
+                "type":"text"
+            },
+            {
+                "content":"where can my oman insurance be accepted?",
+                "type":"text"
+            },
+            {
+                "content":"which centre would accept oman insurance",
+                "type":"text"
+            },
+            {
+                "content":"can you tell me where i can use oman insurance",
+                "type":"text"
+            },
+            {
+                "content":"what clinic can i use oman insurance",
+                "type":"text"
+            },
+            {
+                "content":"what hospitals accepts oman insurance",
+                "type":"text"
+            },
+            {
+                "content":"where is oman insurance accepted?",
+                "type":"text"
+            },
+            {
+                "content":"does anyone accept aafiya insurance",
+                "type":"text"
+            },
+            {
+                "content":"ALICO insurance acceptance",
+                "type":"text"
+            }
+        ]
+        },
+        "learning":true,
+        "moduleID":"-L2uExIyJvbcPShOXmQY",
+        "title":"Common questions insurance"
+    },
+    "-L4C4TWfeLGgbgvny95l":{
+        "data":{
+        "ar":[
+            {
+                "content":"اين يمكنني العثور على الدكتوره لينا شار",
+                "type":"text"
+            },
+            {
+                "content":"اين يمكنني العثور على الدكتور لينا شار",
+                "type":"text"
+            },
+            {
+                "content":"اين يمكنني العثور على اطبيبه لينا شار",
+                "type":"text"
+            },
+            {
+                "content":"أريد أن أرى الدكتور لينا شار",
+                "type":"text"
+            },
+            {
+                "content":"أريد أن أرى الدكتوره لينا شار",
+                "type":"text"
+            },
+            {
+                "content":"أريد أن أرى الطبيبه لينا شار",
+                "type":"text"
+            },
+            {
+                "content":"أبحث عن الدكتوره لينا شار",
+                "type":"text"
+            },
+            {
+                "content":"أبحث عن الطبيبة لينا شار",
+                "type":"text"
+            },
+            {
+                "content":"أبحث عن الطبيبه لينا شار",
+                "type":"text"
+            },
+            {
+                "content":"أريد ان احجز موعد مع الدكتوره لينا شار",
+                "type":"text"
+            },
+            {
+                "content":"أريد حجز موعد مع الطبيبة لينا شار",
+                "type":"text"
+            },
+            {
+                "content":"أريد حجز موعد مع الطبيبه لينا شار",
+                "type":"text"
+            }
+        ],
+        "en":[
+            {
+                "content":"where can i find dr lina shaar",
+                "type":"text"
+            },
+            {
+                "content":"i want to see dr lina shaar",
+                "type":"text"
+            },
+            {
+                "content":"i am looking for dr lina shaar",
+                "type":"text"
+            },
+            {
+                "content":"i want to book an appointment with dr lina shaar",
+                "type":"text"
+            },
+            {
+                "content":"how can i see dr lina shaar",
+                "type":"text"
+            },
+            {
+                "content":"is dr lina shaar available?",
+                "type":"text"
+            },
+            {
+                "content":"is dr lina shaar available day after",
+                "type":"text"
+            },
+            {
+                "content":"i want to meet dr lina shaar",
+                "type":"text"
+            },
+            {
+                "content":"Hello, I would like to book appointment with Dr. John Marshall",
+                "type":"text"
+            },
+            {
+                "content":"book an appointment with Dr. John Marshall",
+                "type":"text"
+            },
+            {
+                "content":"I would like to book an appointment with Dr. John Marshall",
+                "type":"text"
+            },
+            {
+                "content":"how can i book an appointment with Dr. John Marshall",
+                "type":"text"
+            },
+            {
+                "content":"hello, can you help me book an appointment with Dr. John Marshall",
+                "type":"text"
+            },
+            {
+                "content":"is drr lina shaar available at 2pm today",
+                "type":"text"
+            },
+            {
+                "content":"will dr lina shaar be available today at 2pm",
+                "type":"text"
+            },
+            {
+                "content":"Hi Dr. Soman s available for.tomorrow",
+                "type":"text"
+            },
+            {
+                "content":"Hi Dr. Soman s available tomorrow?",
+                "type":"text"
+            }
+        ]
+        },
+        "learning":true,
+        "moduleID":"-L2uExIyJvbcPShOXmQY",
+        "title":"Doctors Name questions"
+    },
+    "-L4CCKcMLAViBySmVZGc":{
+        "data":{
+        "ar":[
+            {
+                "content":"كيف يمكنني الوصول الى المستشفى الوطني",
+                "type":"text"
+            },
+            {
+                "content":"وجهني إلى المستشفى الوطني",
+                "type":"text"
+            },
+            {
+                "content":"اين المستشفى الوطني",
+                "type":"text"
+            },
+            {
+                "content":"أخذني إلى المستشفى الوطني",
+                "type":"text"
+            },
+            {
+                "content":"خذني إلى المستشفى الوطني",
+                "type":"text"
+            },
+            {
+                "content":"هل عيادة ديرمالاس في جميرا؟",
+                "type":"text"
+            }
+        ],
+        "en":[
+            {
+                "content":"how can i get to national hospital",
+                "type":"text"
+            },
+            {
+                "content":"how far away is national hospital",
+                "type":"text"
+            },
+            {
+                "content":"direct me to national hospital",
+                "type":"text"
+            },
+            {
+                "content":"where is national hospital",
+                "type":"text"
+            },
+            {
+                "content":"take me to national hospital",
+                "type":"text"
+            },
+            {
+                "content":"guide me to national hospital",
+                "type":"text"
+            },
+            {
+                "content":"how far is national hospital?",
+                "type":"text"
+            },
+            {
+                "content":"do you have national hospital in dubai?",
+                "type":"text"
+            },
+            {
+                "content":"is dermalase clinic in jumeirah?",
+                "type":"text"
+            },
+            {
+                "content":"where is New National Medical Centre 1",
+                "type":"text"
+            },
+            {
+                "content":"how can i get to New National Medical Centre Branch 1",
+                "type":"text"
+            },
+            {
+                "content":"location of New National Medical Centre",
+                "type":"text"
+            },
+            {
+                "content":"how can I get to nnmc",
+                "type":"text"
+            },
+            {
+                "content":"national hospital abu dhabi please",
+                "type":"text"
+            },
+            {
+                "content":"national hospital pls",
+                "type":"text"
+            },
+            {
+                "content":"National Hospital Abu Dhabi pl;s",
+                "type":"text"
+            },
+            {
+                "content":"new national medical centre",
+                "type":"text"
+            },
+            {
+                "content":"what is the contact information of national hospital",
+                "type":"text"
+            },
+            {
+                "content":"can I get the contact number for national hospital",
+                "type":"text"
+            },
+            {
+                "content":"can you please pass on the number of national hospital",
+                "type":"text"
+            },
+            {
+                "content":"I need contact details of national hospital",
+                "type":"text"
+            },
+            {
+                "content":"I need the phone umber of national hospital",
+                "type":"text"
+            },
+            {
+                "content":"what is the phone number of national hospital",
+                "type":"text"
+            },
+            {
+                "content":"I mean that the above stated email id is of reem medical?",
+                "type":"text"
+            },
+            {
+                "content":"nnmc",
+                "type":"pattern"
+            }
+        ]
+        },
+        "learning":true,
+        "moduleID":"-L2uExIyJvbcPShOXmQY",
+        "title":"Common Centres Questions"
+    },
+    "-L4j9hHlhYMm0YR6BJMc":{
+        "data":{
+        "ar":[
+            {
+                "content":"هل لدى أفيفو حاليا وظائف شاغرة",
+                "type":"text"
+            },
+            {
+                "content":"اريد عمل",
+                "type":"text"
+            },
+            {
+                "content":"أريد أن أعطي طلب وظيفة",
+                "type":"text"
+            },
+            {
+                "content":"أريد أن اقدم طلب وظيفة",
+                "type":"text"
+            },
+            {
+                "content":"طلب وظيفة",
+                "type":"text"
+            },
+            {
+                "content":"السيرة الذاتية",
+                "type":"text"
+            },
+            {
+                "content":"انا ابحث عن وظيفة مع افيفو",
+                "type":"text"
+            },
+            {
+                "content":"هل هناك وظائف",
+                "type":"text"
+            },
+            {
+                "content":"وظائف شاغرة",
+                "type":"pattern"
+            },
+            {
+                "content":"اريد عمل",
+                "type":"pattern"
+            },
+            {
+                "content":"وظائف",
+                "type":"pattern"
+            },
+            {
+                "content":"وظيفة",
+                "type":"pattern"
+            },
+            {
+                "content":"تحتاج إلى مساعدة للمهن مع أفيفو",
+                "type":"pattern"
+            }
+        ],
+        "en":[
+            {
+                "content":"does avivo currently have job vacancies",
+                "type":"text"
+            },
+            {
+                "content":"i want a job",
+                "type":"text"
+            },
+            {
+                "content":"i want to give a job application",
+                "type":"text"
+            },
+            {
+                "content":"job application",
+                "type":"text"
+            },
+            {
+                "content":"how can i submit a job application",
+                "type":"text"
+            },
+            {
+                "content":"help me with a job application",
+                "type":"text"
+            },
+            {
+                "content":"what shall i do to apply for a job",
+                "type":"text"
+            },
+            {
+                "content":"need to apply for a  job",
+                "type":"text"
+            },
+            {
+                "content":"i want to apply for a job",
+                "type":"text"
+            },
+            {
+                "content":"can you help me submit my cv",
+                "type":"text"
+            },
+            {
+                "content":"can you help me submit my resume",
+                "type":"text"
+            },
+            {
+                "content":"careers in avivo",
+                "type":"text"
+            },
+            {
+                "content":"need help for careers with avivo",
+                "type":"text"
+            },
+            {
+                "content":"i am looking for a job",
+                "type":"text"
+            },
+            {
+                "content":"do you have vacancy job?",
+                "type":"text"
+            },
+            {
+                "content":"are you in need of staff",
+                "type":"text"
+            },
+            {
+                "content":"are there any vacant positions",
+                "type":"text"
+            },
+            {
+                "content":"how can i apply",
+                "type":"text"
+            },
+            {
+                "content":"I want to become a part of your company",
+                "type":"text"
+            },
+            {
+                "content":"I want to be a worker with your company",
+                "type":"text"
+            },
+            {
+                "content":"I want to work in your ccompany",
+                "type":"text"
+            },
+            {
+                "content":"I want to work in your hospital",
+                "type":"text"
+            },
+            {
+                "content":"I want to get a job in your company",
+                "type":"text"
+            },
+            {
+                "content":"I am looking for a job in your company",
+                "type":"text"
+            },
+            {
+                "content":"I want a job",
+                "type":"text"
+            },
+            {
+                "content":"I want to get a job",
+                "type":"text"
+            },
+            {
+                "content":"sumbit cv",
+                "type":"text"
+            },
+            {
+                "content":"submit resume",
+                "type":"text"
+            },
+            {
+                "content":"do you have any internships?",
+                "type":"text"
+            },
+            {
+                "content":"internship",
+                "type":"text"
+            },
+            {
+                "content":"internship in HR",
+                "type":"text"
+            },
+            {
+                "content":"HR internship",
+                "type":"text"
+            },
+            {
+                "content":"human resource internship",
+                "type":"text"
+            },
+            {
+                "content":"internship with human resources",
+                "type":"text"
+            },
+            {
+                "content":"are the applications accepted by HR for a job application?",
+                "type":"text"
+            },
+            {
+                "content":"about career details",
+                "type":"text"
+            },
+            {
+                "content":"career info",
+                "type":"text"
+            },
+            {
+                "content":"career information",
+                "type":"text"
+            },
+            {
+                "content":"Contact Hr for career details",
+                "type":"text"
+            },
+            {
+                "content":"Any Vacancy for General Practitioner Keralite",
+                "type":"text"
+            },
+            {
+                "content":"Can I get hr mail 🆔",
+                "type":"text"
+            },
+            {
+                "content":"Human resources number",
+                "type":"text"
+            },
+            {
+                "content":"cv",
+                "type":"pattern"
+            },
+            {
+                "content":"careers",
+                "type":"pattern"
+            },
+            {
+                "content":"HR",
+                "type":"pattern"
+            },
+            {
+                "content":"submit resume",
+                "type":"pattern"
+            },
+            {
+                "content":"job",
+                "type":"pattern"
+            },
+            {
+                "content":"vacant positions",
+                "type":"pattern"
+            }
+        ]
+        },
+        "learning":true,
+        "moduleID":"-L2uExIyJvbcPShOXmQY",
+        "title":"Vacancy"
+    },
+    "-L4jKXtdhgz0tkv31P82":{
+        "data":{
+        "ar":[
+            {
+                "content":"خدمة العملاء سيئة",
+                "type":"text"
+            },
+            {
+                "content":"التزامات كاذبة",
+                "type":"text"
+            },
+            {
+                "content":"الموظفين غير جادين",
+                "type":"text"
+            },
+            {
+                "content":"أسوأ عيادة للرعاية الصحية زرتها في حياتي",
+                "type":"text"
+            },
+            {
+                "content":"الممرضات مشغولون لاستقبال المرضى",
+                "type":"text"
+            },
+            {
+                "content":"لا يعاودون الاتصال",
+                "type":"text"
+            },
+            {
+                "content":"اليوم اتصلت بالأخت آشا 5 مرات للحصول على تقرير واحد على بريدي الإلكتروني و لم اتلقاه حتى الآن",
+                "type":"text"
+            }
+        ],
+        "en":[
+            {
+                "content":"i have a comlplain to make",
+                "type":"text"
+            },
+            {
+                "content":"unprofessional staff",
+                "type":"text"
+            },
+            {
+                "content":"poor customer service",
+                "type":"text"
+            },
+            {
+                "content":"false commitments",
+                "type":"text"
+            },
+            {
+                "content":"worst healthcare clinic i have ever visited",
+                "type":"text"
+            },
+            {
+                "content":"nurses are too busy to take patients calls",
+                "type":"text"
+            },
+            {
+                "content":"never calls back",
+                "type":"text"
+            },
+            {
+                "content":"today i called sister asher 5 times to get a report on my email and still have not recieved it",
+                "type":"text"
+            },
+            {
+                "content":"no response for report",
+                "type":"text"
+            },
+            {
+                "content":"i am disappointed",
+                "type":"text"
+            },
+            {
+                "content":"your services are the worst",
+                "type":"text"
+            },
+            {
+                "content":"doctor bla bla is not good",
+                "type":"text"
+            },
+            {
+                "content":"doctors are not good",
+                "type":"text"
+            }
+        ]
+        },
+        "learning":true,
+        "moduleID":"-L2uExIyJvbcPShOXmQY",
+        "title":"Complaints"
+    },
+    "-L4jQLrgPuaDwvQjeEW4":{
+        "data":{
+        "ar":[
+            {
+                "content":"الموظفين كانو رائعين",
+                "type":"text"
+            },
+            {
+                "content":"كنت سعيدا بخدماتكم",
+                "type":"text"
+            },
+            {
+                "content":"الموظفين كانو جادين",
+                "type":"text"
+            },
+            {
+                "content":"كانت الخدمة رائعة",
+                "type":"text"
+            },
+            {
+                "content":"أفضل عيادة",
+                "type":"text"
+            },
+            {
+                "content":"أفضل الأطباء",
+                "type":"text"
+            },
+            {
+                "content":"أفضل أطباء",
+                "type":"text"
+            },
+            {
+                "content":"أفضل مستشفى",
+                "type":"text"
+            },
+            {
+                "content":"قام الموظفون بعمل جيد",
+                "type":"text"
+            },
+            {
+                "content":"لطيف جدا",
+                "type":"text"
+            },
+            {
+                "content":"الممرضات كانو رائعين",
+                "type":"text"
+            }
+        ],
+        "en":[
+            {
+                "content":"I was pleased with your services",
+                "type":"text"
+            },
+            {
+                "content":"your staff was professional",
+                "type":"text"
+            },
+            {
+                "content":"the staff was great",
+                "type":"text"
+            },
+            {
+                "content":"the nurses were professional",
+                "type":"text"
+            },
+            {
+                "content":"the staff did a good job",
+                "type":"text"
+            },
+            {
+                "content":"service was great",
+                "type":"text"
+            },
+            {
+                "content":"services were great",
+                "type":"text"
+            },
+            {
+                "content":"very pleasant",
+                "type":"text"
+            },
+            {
+                "content":"best clinic",
+                "type":"text"
+            },
+            {
+                "content":"best doctors",
+                "type":"text"
+            },
+            {
+                "content":"best hospital",
+                "type":"text"
+            },
+            {
+                "content":"very pleseant",
+                "type":"text"
+            },
+            {
+                "content":"great job",
+                "type":"text"
+            },
+            {
+                "content":"your stuff is great",
+                "type":"text"
+            }
+        ]
+        },
+        "learning":true,
+        "moduleID":"-L2uExIyJvbcPShOXmQY",
+        "title":"positive feedback"
+    },
+    "-L8Qyocau7Ka0m3vh7t-":{
+        "data":{
+        "en":[
+            {
+                "content":"i would like to speak with customer care",
+                "type":"text"
+            },
+            {
+                "content":"can i speak to a customer care agent",
+                "type":"text"
+            },
+            {
+                "content":"i would rather speak to a customer care agent",
+                "type":"text"
+            },
+            {
+                "content":"how much is check up",
+                "type":"text"
+            },
+            {
+                "content":"can i know how much check up costs",
+                "type":"text"
+            },
+            {
+                "content":"what is your price for check up",
+                "type":"text"
+            },
+            {
+                "content":"how much for you charge for check up",
+                "type":"text"
+            },
+            {
+                "content":"how much is consultation",
+                "type":"text"
+            },
+            {
+                "content":"how much do you charge for consultation",
+                "type":"text"
+            },
+            {
+                "content":"what are your consultation charges",
+                "type":"text"
+            },
+            {
+                "content":"consutation price",
+                "type":"text"
+            },
+            {
+                "content":"price for consultation",
+                "type":"text"
+            },
+            {
+                "content":"consultation charges",
+                "type":"text"
+            },
+            {
+                "content":"how much for check up",
+                "type":"text"
+            },
+            {
+                "content":"how much check up",
+                "type":"text"
+            },
+            {
+                "content":"price for check up",
+                "type":"text"
+            },
+            {
+                "content":"check up price",
+                "type":"text"
+            },
+            {
+                "content":"how much do you charge for check up",
+                "type":"text"
+            },
+            {
+                "content":"check up charges",
+                "type":"text"
+            },
+            {
+                "content":"how much you are charging for vitamin D test",
+                "type":"text"
+            },
+            {
+                "content":"how much you charge for check up",
+                "type":"text"
+            },
+            {
+                "content":"how much consultation fee",
+                "type":"text"
+            },
+            {
+                "content":"I want to know the price",
+                "type":"text"
+            },
+            {
+                "content":"can you tell me the price for ultrasound",
+                "type":"text"
+            },
+            {
+                "content":"can you tell me price for consultation",
+                "type":"text"
+            },
+            {
+                "content":"how much price for check up",
+                "type":"text"
+            },
+            {
+                "content":"can you share a landline number to talk to your reception",
+                "type":"text"
+            },
+            {
+                "content":"can I get a number to speak to the reception",
+                "type":"text"
+            },
+            {
+                "content":"how much",
+                "type":"text"
+            },
+            {
+                "content":"Hi i want to know consultation fees for non medical insurance patients",
+                "type":"text"
+            },
+            {
+                "content":"what is consultation fee",
+                "type":"text"
+            },
+            {
+                "content":"what is the consultation fees?",
+                "type":"text"
+            },
+            {
+                "content":"what is your maternity package?",
+                "type":"text"
+            },
+            {
+                "content":"do you have maternity packages?",
+                "type":"text"
+            },
+            {
+                "content":"what is the cost of a maternity package?",
+                "type":"text"
+            },
+            {
+                "content":"maternity packages",
+                "type":"text"
+            },
+            {
+                "content":"price of maternity package",
+                "type":"text"
+            },
+            {
+                "content":"may i know the charges?",
+                "type":"text"
+            },
+            {
+                "content":"Can i get your mail id for booking vaccination",
+                "type":"text"
+            },
+            {
+                "content":"could you give me email address for booking a vaccination",
+                "type":"text"
+            },
+            {
+                "content":"where can i book a vaccination",
+                "type":"text"
+            },
+            {
+                "content":"check up",
+                "type":"pattern"
+            },
+            {
+                "content":"consultation",
+                "type":"pattern"
+            },
+            {
+                "content":"customer care",
+                "type":"pattern"
+            },
+            {
+                "content":"charges",
+                "type":"pattern"
+            },
+            {
+                "content":"price",
+                "type":"pattern"
+            }
+        ]
+        },
+        "learning":true,
+        "moduleID":"-L2uExIyJvbcPShOXmQY",
+        "title":"Customer Care"
+    },
+    "-L8R9xRQFh334KhHWSJH":{
+        "data":{
+        "en":[
+            {
+                "content":"i want to see a public health doctor",
+                "type":"text"
+            },
+            {
+                "content":"do you have a public health doctor",
+                "type":"text"
+            },
+            {
+                "content":"i want to see a pulmonologist",
+                "type":"text"
+            },
+            {
+                "content":"i want to see a nephrologist",
+                "type":"text"
+            },
+            {
+                "content":"i want to see a doctor in sports medicine",
+                "type":"text"
+            },
+            {
+                "content":"i want to see an endocrinologist",
+                "type":"text"
+            },
+            {
+                "content":"i want to see an endocrinology doctor",
+                "type":"text"
+            },
+            {
+                "content":"i want to see a doctor in medical genetics",
+                "type":"text"
+            },
+            {
+                "content":"i want to see a doctor in nuclear medicine",
+                "type":"text"
+            },
+            {
+                "content":"i want to see an occupational medicine doctor",
+                "type":"text"
+            },
+            {
+                "content":"i want to see a doctor in occupational medicine",
+                "type":"text"
+            },
+            {
+                "content":"i want to see an immunology doctor",
+                "type":"text"
+            },
+            {
+                "content":"i want to see an immunologist",
+                "type":"text"
+            },
+            {
+                "content":"i want to see a podiatry doctor",
+                "type":"text"
+            },
+            {
+                "content":"i want to see a podiatrist",
+                "type":"text"
+            },
+            {
+                "content":"i want to see a hepatologist",
+                "type":"text"
+            },
+            {
+                "content":"i want to see a toxicologist",
+                "type":"text"
+            },
+            {
+                "content":"i want to see an addiction doctor",
+                "type":"text"
+            },
+            {
+                "content":"i want to see a doctor in addiction medicine",
+                "type":"text"
+            },
+            {
+                "content":"i want to see a doctor in psychosomatic medicine",
+                "type":"text"
+            },
+            {
+                "content":"i want to see a medical genetics doctor",
+                "type":"text"
+            },
+            {
+                "content":"do you do hiv test",
+                "type":"text"
+            },
+            {
+                "content":"is there hiv test",
+                "type":"text"
+            },
+            {
+                "content":"do you provide hiv test?",
+                "type":"text"
+            },
+            {
+                "content":"i want to see a angiologist",
+                "type":"text"
+            },
+            {
+                "content":"i want to see a geriatrician",
+                "type":"text"
+            },
+            {
+                "content":"I want to know is there 3 d anomali scanning available",
+                "type":"text"
+            },
+            {
+                "content":"Public health",
+                "type":"pattern"
+            },
+            {
+                "content":"Pulmonology",
+                "type":"pattern"
+            },
+            {
+                "content":"Nephrology",
+                "type":"pattern"
+            },
+            {
+                "content":"Geriatrics",
+                "type":"pattern"
+            },
+            {
+                "content":"Sports medicine",
+                "type":"pattern"
+            },
+            {
+                "content":"Endocrinology",
+                "type":"pattern"
+            },
+            {
+                "content":"Medical genetics",
+                "type":"pattern"
+            },
+            {
+                "content":"Nuclear medicine",
+                "type":"pattern"
+            },
+            {
+                "content":"Occupational medicine",
+                "type":"pattern"
+            },
+            {
+                "content":"Immunology",
+                "type":"pattern"
+            },
+            {
+                "content":"Podiatry",
+                "type":"pattern"
+            },
+            {
+                "content":"Hepatology",
+                "type":"pattern"
+            },
+            {
+                "content":"Angiology",
+                "type":"pattern"
+            },
+            {
+                "content":"Toxicology",
+                "type":"pattern"
+            },
+            {
+                "content":"Addiction medicine",
+                "type":"pattern"
+            },
+            {
+                "content":"Psychosomatic medicine",
+                "type":"pattern"
+            },
+            {
+                "content":"HIV test",
+                "type":"pattern"
+            },
+            {
+                "content":"hiv",
+                "type":"pattern"
+            },
+            {
+                "content":"double chin treatment",
+                "type":"pattern"
+            }
+        ]
+        },
+        "learning":true,
+        "moduleID":"-L2uExIyJvbcPShOXmQY",
+        "title":"Specializations Not Offered"
+    },
+    "-L9dXpoq8fR2LyQjxGbz":{
+        "data":{
+        "en":[
+            {
+                "content":"Do you have an Dental?",
+                "type":"text"
+            },
+            {
+                "content":"does your hospital support Dental",
+                "type":"text"
+            },
+            {
+                "content":"is there Dental",
+                "type":"text"
+            },
+            {
+                "content":"do you offer Dental",
+                "type":"text"
+            },
+            {
+                "content":"I need to have a root canal",
+                "type":"text"
+            },
+            {
+                "content":"I need a Dental",
+                "type":"text"
+            },
+            {
+                "content":"i am having a tooth ache",
+                "type":"text"
+            },
+            {
+                "content":"i am having a Dental",
+                "type":"text"
+            },
+            {
+                "content":"can you help me with Dental Medicine",
+                "type":"text"
+            },
+            {
+                "content":"I am looking for Dental Medicine",
+                "type":"text"
+            },
+            {
+                "content":"need Dental Medicine",
+                "type":"text"
+            },
+            {
+                "content":"is Rheumatology treated",
+                "type":"text"
+            },
+            {
+                "content":"do you treat Rheumatology",
+                "type":"text"
+            },
+            {
+                "content":"is Rheumatology diagnosed?",
+                "type":"text"
+            },
+            {
+                "content":"is the specialization of Rheumatology there",
+                "type":"text"
+            },
+            {
+                "content":"do you have a doctor that will help me with Rheumatology",
+                "type":"text"
+            },
+            {
+                "content":"I am looking for a Rheumatology doctor",
+                "type":"text"
+            },
+            {
+                "content":"I am looking for a Dermatology",
+                "type":"text"
+            },
+            {
+                "content":"i am looking for a dermatologist",
+                "type":"text"
+            },
+            {
+                "content":"Do you have a dermatologist?",
+                "type":"text"
+            },
+            {
+                "content":"want dermatologist",
+                "type":"text"
+            },
+            {
+                "content":"i want dermatologist",
+                "type":"text"
+            },
+            {
+                "content":"want a dermatologist",
+                "type":"text"
+            },
+            {
+                "content":"I have Dental",
+                "type":"text"
+            },
+            {
+                "content":"Neurology technologist",
+                "type":"text"
+            },
+            {
+                "content":"Paediatrics",
+                "type":"text"
+            },
+            {
+                "content":"Book an appointment with Paediatrics today",
+                "type":"text"
+            }
+        ]
+        },
+        "learning":true,
+        "moduleID":"-L2uExIyJvbcPShOXmQY",
+        "title":"Specializations Offered"
+    },
+    "-LAH1nxXX9CUYAQaHXTN":{
+        "data":{
+        "en":[
+            {
+                "content":"I don't understand",
+                "type":"text"
+            },
+            {
+                "content":"why do i have to fill out the form",
+                "type":"text"
+            },
+            {
+                "content":"is there a reason why I have to fill out this fom",
+                "type":"text"
+            },
+            {
+                "content":"can you tell me why I have to fill out the form",
+                "type":"text"
+            },
+            {
+                "content":"why should I fill out the form",
+                "type":"text"
+            },
+            {
+                "content":"is this form necessary",
+                "type":"text"
+            },
+            {
+                "content":"is it necessary to do this",
+                "type":"text"
+            },
+            {
+                "content":"is it important to fill out this form",
+                "type":"text"
+            },
+            {
+                "content":"i don't understand why I need to fill out this form",
+                "type":"text"
+            },
+            {
+                "content":"i don't understand why I need to do this",
+                "type":"text"
+            },
+            {
+                "content":"why is the form mandatory",
+                "type":"text"
+            },
+            {
+                "content":"is this mandatory",
+                "type":"text"
+            },
+            {
+                "content":"is it mandatory to fill the form",
+                "type":"text"
+            },
+            {
+                "content":"why is this form so important",
+                "type":"text"
+            },
+            {
+                "content":"what is the importance of this form",
+                "type":"text"
+            },
+            {
+                "content":"is this form important",
+                "type":"text"
+            },
+            {
+                "content":"why is this important",
+                "type":"text"
+            },
+            {
+                "content":"is this compulsory",
+                "type":"text"
+            },
+            {
+                "content":"is it compulsory to fill this out",
+                "type":"text"
+            },
+            {
+                "content":"is it compulsory to do this?",
+                "type":"text"
+            },
+            {
+                "content":"i don't understand why this is important",
+                "type":"text"
+            },
+            {
+                "content":"i don't understand why this form is compulsory",
+                "type":"text"
+            },
+            {
+                "content":"i don't get the point of this form",
+                "type":"text"
+            },
+            {
+                "content":"is this form necessary",
+                "type":"text"
+            },
+            {
+                "content":"is this important",
+                "type":"text"
+            },
+            {
+                "content":"don't uderstand",
+                "type":"pattern"
+            },
+            {
+                "content":"do not understand",
+                "type":"pattern"
+            }
+        ]
+        },
+        "learning":true,
+        "moduleID":"-L2uExIyJvbcPShOXmQY",
+        "title":"intents before the introduction form"
+    },
+    "-LFlwe-RNl7AVPhIfRHr":{
+        "data":{
+        "en":[
+            {
+                "content":"Yes",
+                "type":"text"
+            },
+            {
+                "content":"yes",
+                "type":"text"
+            },
+            {
+                "content":"know more",
+                "type":"text"
+            },
+            {
+                "content":"view more",
+                "type":"text"
+            },
+            {
+                "content":"more options",
+                "type":"text"
+            },
+            {
+                "content":"I'll like to see more",
+                "type":"text"
+            },
+            {
+                "content":"yes, show me more",
+                "type":"text"
+            },
+            {
+                "content":"yes, please",
+                "type":"text"
+            },
+            {
+                "content":"yep",
+                "type":"text"
+            }
+        ]
+        },
+        "learning":true,
+        "moduleID":"-L2uExIyJvbcPShOXmQY",
+        "title":"Yes"
+    },
+    "-LFlwxUiN00YfIBy9IDz":{
+        "data":{
+        "en":[
+            {
+                "content":"No",
+                "type":"text"
+            },
+            {
+                "content":"no",
+                "type":"text"
+            },
+            {
+                "content":"no, thank you",
+                "type":"text"
+            },
+            {
+                "content":"no, thanks",
+                "type":"text"
+            },
+            {
+                "content":"stop",
+                "type":"text"
+            },
+            {
+                "content":"cancel",
+                "type":"text"
+            },
+            {
+                "content":"close",
+                "type":"text"
+            },
+            {
+                "content":"exit",
+                "type":"text"
+            },
+            {
+                "content":"I don't want to",
+                "type":"text"
+            },
+            {
+                "content":"I am not interested",
+                "type":"text"
+            }
+        ]
+        },
+        "learning":true,
+        "moduleID":"-L2uExIyJvbcPShOXmQY",
+        "title":"No"
+    },
+    "-Lb1r30Ndi_bworPvlTe":{
+        "data":{
+        "en":[
+            {
+                "content":"Which hospitals is woman 34 promotion available in?",
+                "type":"text"
+            },
+            {
+                "content":"can you tell me the hospital of women 34 clinic",
+                "type":"text"
+            },
+            {
+                "content":"what is woman 34 campaign",
+                "type":"text"
+            },
+            {
+                "content":"whats the womens 34 clinic?",
+                "type":"text"
+            },
+            {
+                "content":"can you tell me about the women 34 campaign?",
+                "type":"text"
+            },
+            {
+                "content":"where is the womens day promotion",
+                "type":"text"
+            },
+            {
+                "content":"what is womens day promotion?",
+                "type":"text"
+            },
+            {
+                "content":"can you tell me about the promotion for womens day please",
+                "type":"text"
+            },
+            {
+                "content":"i want to know about the promotion for woman day",
+                "type":"text"
+            },
+            {
+                "content":"please tell me about the womens day camoaign",
+                "type":"text"
+            },
+            {
+                "content":"campaign for womens day",
+                "type":"text"
+            },
+            {
+                "content":"I want to know about the womens day campaign",
+                "type":"text"
+            },
+            {
+                "content":"please tell me about promotion for womans day",
+                "type":"text"
+            },
+            {
+                "content":"i need to know about menopause symptoms",
+                "type":"text"
+            },
+            {
+                "content":"can you tell me about symptoms for menopause?",
+                "type":"text"
+            },
+            {
+                "content":"menopausal symptoms?",
+                "type":"text"
+            }
+        ]
+        },
+        "learning":true,
+        "moduleID":"-L2uExIyJvbcPShOXmQY",
+        "title":"Woman Day Promotion"
+    }
+}

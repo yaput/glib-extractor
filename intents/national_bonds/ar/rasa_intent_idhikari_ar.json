@@ -1,0 +1,97 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "اريد معلومات عن برنامج ادخارى",
+            "intent": "idhikari",
+            "entities": []
+         },
+         {
+            "text": "اريد المزيد من المعلومات عن برنامج ادخارى",
+            "intent": "idhikari",
+            "entities": []
+         },
+         {
+            "text": "حدثنى عن برنامج ادخارى",
+            "intent": "idhikari",
+            "entities": []
+         },
+         {
+            "text": "خطط ادخار موظفي الحكومة",
+            "intent": "idhikari",
+            "entities": []
+         },
+         {
+            "text": "خطة ادخار موظفي الحكومة",
+            "intent": "idhikari",
+            "entities": []
+         },
+         {
+            "text": "صكوك ادخار لموظفي الحكومة",
+            "intent": "idhikari",
+            "entities": []
+         },
+         {
+            "text": "موظفي حكومة دبي",
+            "intent": "idhikari",
+            "entities": []
+         },
+         {
+            "text": "الإدارة المالية لموظفى الحكومة",
+            "intent": "idhikari",
+            "entities": []
+         },
+         {
+            "text": "صكوك لموظفي الحكومة",
+            "intent": "idhikari",
+            "entities": []
+         },
+         {
+            "text": "هل يمكننى التقد بطلب للإنضمام لبرنامج ادخارى",
+            "intent": "idhikari",
+            "entities": []
+         },
+         {
+            "text": "هل يمكننى الإنضمام الى برنامج ادخارى",
+            "intent": "idhikari",
+            "entities": []
+         },
+         {
+            "text": "فوائد ادخارى",
+            "intent": "idhikari",
+            "entities": []
+         },
+         {
+            "text": "خطة ادخار لموظفي الحكومة",
+            "intent": "idhikari",
+            "entities": []
+         },
+         {
+            "text": "هل هناك اى خطط ادخار لموظفي الحكومة؟",
+            "intent": "idhikari",
+            "entities": []
+         },
+         {
+            "text": "خدمات ادخارى",
+            "intent": "idhikari",
+            "entities": []
+         },
+         {
+            "text": "خدمات برنامج ادخارى",
+            "intent": "idhikari",
+            "entities": []
+         },
+         {
+            "text": "هل هناك اى مميزات اضافية لبرنامج ادخارى",
+            "intent": "idhikari",
+            "entities": []
+         },
+         {
+            "text": "من هم المستفيدون من برنامج ادخارى",
+            "intent": "idhikari",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

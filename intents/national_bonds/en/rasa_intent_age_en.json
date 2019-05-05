@@ -1,0 +1,92 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "What is your age?",
+            "intent": "age",
+            "entities": []
+         },
+         {
+            "text": "What age?",
+            "intent": "age",
+            "entities": []
+         },
+         {
+            "text": "How old are you?",
+            "intent": "age",
+            "entities": []
+         },
+         {
+            "text": "I would like to know your age",
+            "intent": "age",
+            "entities": []
+         },
+         {
+            "text": "I  d like to know your age",
+            "intent": "age",
+            "entities": []
+         },
+         {
+            "text": "What age are you?",
+            "intent": "age",
+            "entities": []
+         },
+         {
+            "text": "your age",
+            "intent": "age",
+            "entities": []
+         },
+         {
+            "text": "age",
+            "intent": "age",
+            "entities": []
+         },
+         {
+            "text": "Are you 10 years old?",
+            "intent": "age",
+            "entities": []
+         },
+         {
+            "text": "How old is your platform?",
+            "intent": "age",
+            "entities": []
+         },
+         {
+            "text": "How old is this bot",
+            "intent": "age",
+            "entities": []
+         },
+         {
+            "text": "can you share your age",
+            "intent": "age",
+            "entities": []
+         },
+         {
+            "text": "i want to know your age",
+            "intent": "age",
+            "entities": []
+         },
+         {
+            "text": "how old are you",
+            "intent": "age",
+            "entities": []
+         },
+         {
+            "text": "what is your age",
+            "intent": "age",
+            "entities": []
+         },
+         {
+            "text": "whats your age",
+            "intent": "age",
+            "entities": []
+         },
+         {
+            "text": "tell me your age",
+            "intent": "age",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

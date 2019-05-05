@@ -1,0 +1,132 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "gift voucher for corporate",
+            "intent": "gift_vouchers",
+            "entities": []
+         },
+         {
+            "text": "business gift vouchers",
+            "intent": "gift_vouchers",
+            "entities": []
+         },
+         {
+            "text": "I want to invest for gift voucher?",
+            "intent": "gift_vouchers",
+            "entities": []
+         },
+         {
+            "text": "What are the different gift voucher?",
+            "intent": "gift_vouchers",
+            "entities": []
+         },
+         {
+            "text": "I want to apply for gift voucher?",
+            "intent": "gift_vouchers",
+            "entities": []
+         },
+         {
+            "text": "Where can i buy gift vouchers?",
+            "intent": "gift_vouchers",
+            "entities": []
+         },
+         {
+            "text": "National bonds gift voucher",
+            "intent": "gift_vouchers",
+            "entities": []
+         },
+         {
+            "text": "What are gift vouchers?",
+            "intent": "gift_vouchers",
+            "entities": []
+         },
+         {
+            "text": "What is the Gift Vouchers Process?",
+            "intent": "gift_vouchers",
+            "entities": []
+         },
+         {
+            "text": "Apply for gift vouchers",
+            "intent": "gift_vouchers",
+            "entities": []
+         },
+         {
+            "text": "Can i purchase vouchers?",
+            "intent": "gift_vouchers",
+            "entities": []
+         },
+         {
+            "text": "What is the limit of gift vouchers?",
+            "intent": "gift_vouchers",
+            "entities": []
+         },
+         {
+            "text": "What is process for obtaining gift vouchers",
+            "intent": "gift_vouchers",
+            "entities": []
+         },
+         {
+            "text": "Personal gift vouchers",
+            "intent": "gift_vouchers",
+            "entities": []
+         },
+         {
+            "text": "gift vouchers for business",
+            "intent": "gift_vouchers",
+            "entities": []
+         },
+         {
+            "text": "Where to purchase gift vouchers",
+            "intent": "gift_vouchers",
+            "entities": []
+         },
+         {
+            "text": "terms and condition of gift vouchers",
+            "intent": "gift_vouchers",
+            "entities": []
+         },
+         {
+            "text": "How to gift bonds to others",
+            "intent": "gift_vouchers",
+            "entities": []
+         },
+         {
+            "text": "Can i gift someone with bonds?",
+            "intent": "gift_vouchers",
+            "entities": []
+         },
+         {
+            "text": "i am looking for gift vouchers",
+            "intent": "gift_vouchers",
+            "entities": []
+         },
+         {
+            "text": "i want to give a gift",
+            "intent": "gift_vouchers",
+            "entities": []
+         },
+         {
+            "text": "i want to give a present",
+            "intent": "gift_vouchers",
+            "entities": []
+         },
+         {
+            "text": "What are Gift Vouchers?",
+            "intent": "gift_vouchers",
+            "entities": []
+         },
+         {
+            "text": "What is the Gift Vouchers Process?",
+            "intent": "gift_vouchers",
+            "entities": []
+         },
+         {
+            "text": "Why do National Bonds Gift Vouchers make the ideal choice for rewards?",
+            "intent": "gift_vouchers",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

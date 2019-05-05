@@ -1,0 +1,157 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "التقدم بطلب للحصول على صكوك ستيب أب",
+            "intent": "step_up_bonds",
+            "entities": []
+         },
+         {
+            "text": "فترة إستثمار الصكوك التصاعدية",
+            "intent": "step_up_bonds",
+            "entities": []
+         },
+         {
+            "text": "اريد معرفة المزيد عن الصكوك التصاعدية",
+            "intent": "step_up_bonds",
+            "entities": []
+         },
+         {
+            "text": "اريد معرفة المزيد عن الصكوك المتصاعدة",
+            "intent": "step_up_bonds",
+            "entities": []
+         },
+         {
+            "text": "اريد نبذة مختصرة عن الصكوك التصاعدية",
+            "intent": "step_up_bonds",
+            "entities": []
+         },
+         {
+            "text": "كيف اتقدم بطلب للحصول على الصكوك المتصاعدة",
+            "intent": "step_up_bonds",
+            "entities": []
+         },
+         {
+            "text": "اريد التقدم بطلب للحصول على الصكوك التصاعدية",
+            "intent": "step_up_bonds",
+            "entities": []
+         },
+         {
+            "text": "اريد معرفة المزيد عن الصكوك التصاعدية",
+            "intent": "step_up_bonds",
+            "entities": []
+         },
+         {
+            "text": "ماهى الصكوك المتصاعدة ؟",
+            "intent": "step_up_bonds",
+            "entities": []
+         },
+         {
+            "text": "ماهى الصكوك التصاعدية ؟",
+            "intent": "step_up_bonds",
+            "entities": []
+         },
+         {
+            "text": "ماهى الصكوك المتصاعدة ؟",
+            "intent": "step_up_bonds",
+            "entities": []
+         },
+         {
+            "text": "ماهى الصكوك التصاعدية ؟",
+            "intent": "step_up_bonds",
+            "entities": []
+         },
+         {
+            "text": "اريد معرفة المزيد من المعلومات عن الصكوك التصاعدية",
+            "intent": "step_up_bonds",
+            "entities": []
+         },
+         {
+            "text": "اريد معرفة بعض المعلومات عن الصكوك المتصاعدة",
+            "intent": "step_up_bonds",
+            "entities": []
+         },
+         {
+            "text": "ماهى الصكوك المتصاعدة ؟",
+            "intent": "step_up_bonds",
+            "entities": []
+         },
+         {
+            "text": "ماهى الصكوك التصاعدية ؟",
+            "intent": "step_up_bonds",
+            "entities": []
+         },
+         {
+            "text": "الصكوك المتصاعدة",
+            "intent": "step_up_bonds",
+            "entities": []
+         },
+         {
+            "text": "الصكوك التصاعدية",
+            "intent": "step_up_bonds",
+            "entities": []
+         },
+         {
+            "text": "اريد معرفة بعض المعلومات عن الصكوك التصاعدية",
+            "intent": "step_up_bonds",
+            "entities": []
+         },
+         {
+            "text": "اريد معرفة بعض المعلومات عن الصكوك التصاعدية",
+            "intent": "step_up_bonds",
+            "entities": []
+         },
+         {
+            "text": "التقدم بطلب للحصول على الصكوك التصاعدية",
+            "intent": "step_up_bonds",
+            "entities": []
+         },
+         {
+            "text": "التقدم بطلب للحصول على الصكوك التصاعدية",
+            "intent": "step_up_bonds",
+            "entities": []
+         },
+         {
+            "text": "فترة إستثمار صكوك ستيب أب",
+            "intent": "step_up_bonds",
+            "entities": []
+         },
+         {
+            "text": "اريد معرفة المزيد عن صكوك ستيب أب",
+            "intent": "step_up_bonds",
+            "entities": []
+         },
+         {
+            "text": "اريد نبذة مختصرة عن صكوك ستيب أب",
+            "intent": "step_up_bonds",
+            "entities": []
+         },
+         {
+            "text": "كيف اتقدم بطلب للحصول على صكوك ستيب أب",
+            "intent": "step_up_bonds",
+            "entities": []
+         },
+         {
+            "text": "اريد التقدم بطلب للحصول على صكوك ستيب أب",
+            "intent": "step_up_bonds",
+            "entities": []
+         },
+         {
+            "text": "اريد معرفة المزيد عن صكوك ستيب أب",
+            "intent": "step_up_bonds",
+            "entities": []
+         },
+         {
+            "text": "ماهى صكوك ستيب أب ؟",
+            "intent": "step_up_bonds",
+            "entities": []
+         },
+         {
+            "text": "صكوك ستيب أب",
+            "intent": "step_up_bonds",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

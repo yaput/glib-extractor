@@ -1,0 +1,77 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "Where can i use oman insurance?",
+            "intent": "common_questions_insurance",
+            "entities": []
+         },
+         {
+            "text": "i want to use oman insurance",
+            "intent": "common_questions_insurance",
+            "entities": []
+         },
+         {
+            "text": "where does oman insurance work?",
+            "intent": "common_questions_insurance",
+            "entities": []
+         },
+         {
+            "text": "what centers accept oman insurance",
+            "intent": "common_questions_insurance",
+            "entities": []
+         },
+         {
+            "text": "i have oman insurance where can it work",
+            "intent": "common_questions_insurance",
+            "entities": []
+         },
+         {
+            "text": "where would my oman insurance be accepted",
+            "intent": "common_questions_insurance",
+            "entities": []
+         },
+         {
+            "text": "where can my oman insurance be accepted?",
+            "intent": "common_questions_insurance",
+            "entities": []
+         },
+         {
+            "text": "which centre would accept oman insurance",
+            "intent": "common_questions_insurance",
+            "entities": []
+         },
+         {
+            "text": "can you tell me where i can use oman insurance",
+            "intent": "common_questions_insurance",
+            "entities": []
+         },
+         {
+            "text": "what clinic can i use oman insurance",
+            "intent": "common_questions_insurance",
+            "entities": []
+         },
+         {
+            "text": "what hospitals accepts oman insurance",
+            "intent": "common_questions_insurance",
+            "entities": []
+         },
+         {
+            "text": "where is oman insurance accepted?",
+            "intent": "common_questions_insurance",
+            "entities": []
+         },
+         {
+            "text": "does anyone accept aafiya insurance",
+            "intent": "common_questions_insurance",
+            "entities": []
+         },
+         {
+            "text": "ALICO insurance acceptance",
+            "intent": "common_questions_insurance",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

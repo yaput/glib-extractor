@@ -1,0 +1,402 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "Can someone call me?",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "Can i speak to some representative?",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "call back request",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "Are Dubai National Bonds a good investment?",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "What happens if the bond market crashes?",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "What is a national relief bond?",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "How good are emirates national bonds for personal savings?",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "What makes National Bonds  so good?",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "can you help me receive a call?",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "i need a call back",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "i need to have a word with a member of the team",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "Can someone give me back a call",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "get someone to call me back asap please",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "can i request for a call back",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "i want to talk to someone from the team",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "Please give me a call asap",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "i want someone to call me back right now.",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "Is national bonds safe",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "Is investing in bonds a good options",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "Are the bonds going to be subjected to vat in 2018?",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "So do the bonds have VAT too?",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "Does VAT charges apply during the cancellation of an account and the full amount withdrawn?",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "Is tax applicable to bonds?",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "Will taxes be applied",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "is there a 5% tax on bonds as well?",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "callback request",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "is vat there for bonds?",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "I am overloaded",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "I am too busy",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "I have got a lot of work to do",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "How busy I am",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "I don’t have time for you",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "I don't want to talk to you",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "I am not in the mood for chatting",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "call me",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "customer care",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "customer service",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "call",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "call me",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "call me please?",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "call me please...",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "what is your phone number?",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "what is your email id?",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "contact info",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "how can I contact the company?",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "can I have the phone number of the company",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "can I have the email id of the company",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "what is the contact number?",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "contact details",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "what are the contact details?",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "what are the contact details of the company?",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "what is national bonds contact info?",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "what is NBcontact information ?",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "what is national bonds contact details?",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "tell me phone number",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "i want your number",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "give me customer care number",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "who can I call ?",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "is there a way to contact you?",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "What is the land line number?",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "What is the office number?",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "What is the call center number?",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "Customer service center number",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "customer care number",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "i want to contact a customer representative",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "How can I contact you?",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "I Want to know  the National Bonds contact Number",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "i want to make an enquiry",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "how can I place an enquiry",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "where do i place an inquiry",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "i need to place an inquiry",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "i have a question",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "i have a doubt",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "i need to talk to someone",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "i'd like to speak with someone",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "i wanna speak to customer care",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "customer service",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "customer support",
+            "intent": "call_back_and_contact",
+            "entities": []
+         },
+         {
+            "text": "where to place inquiry",
+            "intent": "call_back_and_contact",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

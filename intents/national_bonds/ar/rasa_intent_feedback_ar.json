@@ -1,0 +1,792 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "أود أن أضيف إقتراح",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "لدى رأى",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "أود أن أضيف رأى",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "هل يمكن مساعدتى على إضافة إقتراح",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "هل يمكنك مساعدتى فى إضافة إقتراحى",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "هل يمكن أن تساعدنى فى إضافة رأيي",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "هل يمكن أن تساعدنى فى إضافة إقتراح",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "أود أن أضيف تعليق",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "لدى تعليق",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "هل يمكنك مساعدتى فى إضافة تعليقى",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "لدى شكوى",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "أريد أن أقدم شكوى",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "أريد أن أشتكى",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "أبغى أقدم شكوى",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "أبغى أتقدم بشكوى",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "أريد أن أتقدم بشكوى",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكننى التقدم بشكوى",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكننى أن أشتكى",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "كيف أشتكى",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "كيف أقدم شكوى",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "كيف أرسل شكوتى",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "لدى مشكلة",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "لدى بعض المشكلات",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "عندى مشكلة",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "أواجه مشكلة",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "أواجه بعض المشكلات",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "أنا غير راض",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "أنا غير راضى",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "لدى مشكلة مع السحوبات",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "لدى مشكلة مع الجوائز",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "لدى مشكلة مع سحب الجوائز",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "لدى مشكلة مع سحوبات الجوائز",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "أواجه مشكلة مع الجوائز",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "أواجه مشكلة مع سحب الجوائز",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "أواجه مشكلة مع سحوبات الجوائز",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "لدى مشكلة مع القرعة",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "أواجه مشكلة مع القرعة",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "أواجه مشكلة مع سحب القرعة",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "لدى مشكلة مع سحب القرعة",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "يرجى زيادة الحد الأدنى للسن",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "برجاء زيادة الحد الأدنى للسن",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "يرجى زيادة الحد الأدنى للعمر",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "برجاء زيادة الحد الأدنى للعمر",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "خفض الحد الأدنى للسن",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "خفض الحد الأدنى للعمر",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "يرجى خفض الحد الأدنى للسن",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "برجاء خفض الحد الأدنى للسن",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "يرجى خفض الحد الأدنى للعمر",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "برجاء خفض الحد الأدنى للعمر",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "أسواء تطبيق على الإطلاق",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "أسواء برنامج على الإطلاق",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "العديد من الوظائف لا تعمل",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "الكثير من الوظائف لا تعمل",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "العديد من الخصائص لا تعمل",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "الكثير من الخصائص لا تعمل",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "التطبيق سئ للغاية",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "البرنامج سئ للغاية",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "التطبيق سيئ جدا",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "البرنامج سيئ جدا",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "التطبيق سيئ للغاية",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "التطبيق سيئ جدا",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "التطبيق بطئ جدا",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "التطبيق بطئ للغاية",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "البرنامج بطئ جدا",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "البرنامج بطئ للغاية",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "الخدمة سيئة جدا",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "الخدمة فى منتهى السوء",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "الخدمة سيئة للغاية",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "تطبيق الصكوك الوطنية عديم الفائدة",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "تطبيق الصكوك الوطنية عديم النفع",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "تطبيق الصكوك الوطنية غير نافع",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "لا يوجد لزوم لتطبيق الصكوك الوطنية",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "لا توجد لازمة لتطبيق الصكوك الوطنية",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "أكرهك",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "اكرهكم",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "بكرهك",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "أبغضك",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "شئ منفر",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "شئ مقرف",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "برجاء تحسين التطبيق",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "يرجى تحسين التطبيق",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "يرجى جعل التطبيق أفضل من ذلك",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "برجاء محاولة جعل التطبيق أفضل من ذلك",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "يجب زيادة الحد العمرى حتى نتمكن من المشاركة",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "يجب زيادة حد السن حتى نتمكن من المشاركة",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "يجب زيادة الفئة العمرية حتى نتمكن من المشاركة",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "برجاء زيادة الحد العمرى حتى نتمكن من المشاركة",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "برجاء زيادة حد السن حتى نتمكن من المشاركة",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "أين أضع التعليق",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "أين أضع تعليقى",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "أين أضع التعليق",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكننى أن أضع تعليق",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكننى أن أضع تعليقى",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "لدى بعض التعليقات",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "لدى تجربة سيئة",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "لدى تجربة سيئة مع التطبيق",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "لدى تجربة سيئة مع البرنامج",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "تجربتى مع التطبيق سيئة",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "تجربتى مع البرنامج سيئة",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "تجربتى مع التطبيق جيدة",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "لدى تجربة جيدة مع التطبيق",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "تجربتى مع البرنامج جيدة",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "لدى تجربة جيدة مع البرنامج",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "تجربتى مع التطبيق كانت جيدة",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "تجربتى مع الصكوك الوطنية جيدة جدا",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "تجربتى مع الصكوك الوطنية ممتازة",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "تجربتى مع الصكوك الوطنية مرضية للغاية",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "تجربتى مع الصكوك الوطنية مرضية جدا",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "أنا أحب الصكوك الوطنية",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "لقد أحببت الصكوك الوطنية",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "حبيت التعامل مع الصكوك الوطنية",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "أحببت التعامل مع الصكوك الوطنية",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "أحسنت الصكوك الوطنية",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "أحسنتى الصكوك الوطنية",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "عمل رائع الصكوك الوطنية",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "عمل جيد الصكوك الوطنية",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "داوموا على العمل الجيد",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "حافظوا على المستوى الجيد",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "حافظوا على مستواكم الجيد",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "أبقوا جيدين",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "أين يمكننى مشاركة خبرتى",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "أين يمكنى مشاركة تجربتى",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "أين يمكننى مشاركة تجربتى مع التطبيق",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "أين يمكننى مشاركة خبرتى مع التطبيق",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "أين يمكننى وضع تعليقاتى",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "أين أضع تعليقاتى",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "الصكوك الوطنية هى الأفضل",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "الصكوك الوطنية هى الأفضل على الإطلاق",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "أنتم الأسواء",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "أنتم الأسواء على الإطلاق",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "الصكوك الوطنية سيئة جدا",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "الصكوك الوطنية هى الأسواء على الإطلاق",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": ":(",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": ":)",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": ":/",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "أنت عديم النفع",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "أنت غير مساعد على الإطلاق",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "أنت لا تقدم لى المساعدة",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "لم اتلقى أى مساعدة منك",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "أنت سيئ جدا",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "أنت سيئ للغاية",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "أنت بشع",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "أنت مثير للشفقة",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "مجرد مضيعة للوقت",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "أنت مجرد مضيعة للوقت",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "مجرد تضييع وقت",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "أنت سيئ",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "سيئ",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "أنت غير مساعد بالمرة",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "أنت غير مساعد نهائيا",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "أنت مقرف",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "أنت مقزز",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "أنت غير جيد",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "أنت لست جيد",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "أنت لست جيد نهائيا",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "أنت غير جيد على الإطلاق",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "أنت الأسواء على الإطلاق",
+            "intent": "feedback",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

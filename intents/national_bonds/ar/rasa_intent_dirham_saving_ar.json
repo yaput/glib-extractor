@@ -1,0 +1,147 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "صكوك الدرهم الإماراتي",
+            "intent": "dirham_saving",
+            "entities": []
+         },
+         {
+            "text": "الإدخار بالدرهم",
+            "intent": "dirham_saving",
+            "entities": []
+         },
+         {
+            "text": "التقدم للإنضمام إلى برنامج الإدخار بالدرهم",
+            "intent": "dirham_saving",
+            "entities": []
+         },
+         {
+            "text": "التقدم بطلب للإنضمام إلى برنامج الإدخار بالدرهم",
+            "intent": "dirham_saving",
+            "entities": []
+         },
+         {
+            "text": "هل يمكنك ان تحدثنى عن برنامج الإدخار بالدرهم",
+            "intent": "dirham_saving",
+            "entities": []
+         },
+         {
+            "text": "هل يمكنك تزويدى بمعلومات عن برنامج الإدخار بالدرهم",
+            "intent": "dirham_saving",
+            "entities": []
+         },
+         {
+            "text": "هل يمكنك تزويدى ببعض المعلومات عن برنامج الإدخار بالدرهم",
+            "intent": "dirham_saving",
+            "entities": []
+         },
+         {
+            "text": "أخبرني عن مخطط الإدخار بالدرهم",
+            "intent": "dirham_saving",
+            "entities": []
+         },
+         {
+            "text": "اريد معرفة المزيد عن خطة الإدخار بالدرهم",
+            "intent": "dirham_saving",
+            "entities": []
+         },
+         {
+            "text": "خطة الإدخار بالدرهم",
+            "intent": "dirham_saving",
+            "entities": []
+         },
+         {
+            "text": "مخطط الإدخار بالدرهم",
+            "intent": "dirham_saving",
+            "entities": []
+         },
+         {
+            "text": "برنامج الإدخار بالدرهم",
+            "intent": "dirham_saving",
+            "entities": []
+         },
+         {
+            "text": "صكوك الدرهم الإماراتي",
+            "intent": "dirham_saving",
+            "entities": []
+         },
+         {
+            "text": "صكوك للإدخار بالدرهم",
+            "intent": "dirham_saving",
+            "entities": []
+         },
+         {
+            "text": "سندات للإدخار بالدرهم",
+            "intent": "dirham_saving",
+            "entities": []
+         },
+         {
+            "text": "فوائد الإدخار بالدرهم",
+            "intent": "dirham_saving",
+            "entities": []
+         },
+         {
+            "text": "ما هو برنامج الإدخار بالدرهم؟",
+            "intent": "dirham_saving",
+            "entities": []
+         },
+         {
+            "text": "ما هو الإدخار بالدرهم؟",
+            "intent": "dirham_saving",
+            "entities": []
+         },
+         {
+            "text": "أين يمكننى التقدم بطلب للإنضمام إلى برنامج الإدخار بالدرهم",
+            "intent": "dirham_saving",
+            "entities": []
+         },
+         {
+            "text": "خدمات الإدخار بالدرهم",
+            "intent": "dirham_saving",
+            "entities": []
+         },
+         {
+            "text": "كيف اتقدم بطلب للإنضمام إلى برنامج الإدخار بالدرهم",
+            "intent": "dirham_saving",
+            "entities": []
+         },
+         {
+            "text": "ما هى كيفية الإنضمام إلى برنامج الإدخار بالدرهم",
+            "intent": "dirham_saving",
+            "entities": []
+         },
+         {
+            "text": "هل يمكننى رؤية نموذج التقدم الى برنامج الادخار بالدرهم",
+            "intent": "dirham_saving",
+            "entities": []
+         },
+         {
+            "text": "هل يمكننى الإطلاع على نموذج التقدم الى برنامج الادخار بالدرهم",
+            "intent": "dirham_saving",
+            "entities": []
+         },
+         {
+            "text": "نموذج التقدم الى برنامج الادخار بالدرهم",
+            "intent": "dirham_saving",
+            "entities": []
+         },
+         {
+            "text": "إستمارة التقدم الى برنامج الادخار بالدرهم",
+            "intent": "dirham_saving",
+            "entities": []
+         },
+         {
+            "text": "هل يمكننى رؤية إستمارة التقدم الى برنامج الادخار بالدرهم",
+            "intent": "dirham_saving",
+            "entities": []
+         },
+         {
+            "text": "هل يمكننى الإطلاع على إستمارة التقدم الى برنامج الادخار بالدرهم",
+            "intent": "dirham_saving",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

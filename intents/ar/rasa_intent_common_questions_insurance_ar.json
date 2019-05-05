@@ -1,0 +1,47 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "أين يمكنني استخدام تأمين عمان",
+            "intent": "common_questions_insurance",
+            "entities": []
+         },
+         {
+            "text": "أريد استخدام تأمين عمان",
+            "intent": "common_questions_insurance",
+            "entities": []
+         },
+         {
+            "text": "ما هي المراكز التي تقبل تأمين عمان",
+            "intent": "common_questions_insurance",
+            "entities": []
+         },
+         {
+            "text": "لدي تأمين عمان اين يقبل",
+            "intent": "common_questions_insurance",
+            "entities": []
+         },
+         {
+            "text": "أي مركز يقبل تأمين عمان",
+            "intent": "common_questions_insurance",
+            "entities": []
+         },
+         {
+            "text": "هل يمكنك أن تخبرني أين يمكنني استخدام تأمين عمان",
+            "intent": "common_questions_insurance",
+            "entities": []
+         },
+         {
+            "text": "اي مستشفى تقبل تأمين عمان",
+            "intent": "common_questions_insurance",
+            "entities": []
+         },
+         {
+            "text": "اين يقبل تأمين عمان؟",
+            "intent": "common_questions_insurance",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

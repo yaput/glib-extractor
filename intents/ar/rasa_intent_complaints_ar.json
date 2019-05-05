@@ -1,0 +1,42 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "خدمة العملاء سيئة",
+            "intent": "complaints",
+            "entities": []
+         },
+         {
+            "text": "التزامات كاذبة",
+            "intent": "complaints",
+            "entities": []
+         },
+         {
+            "text": "الموظفين غير جادين",
+            "intent": "complaints",
+            "entities": []
+         },
+         {
+            "text": "أسوأ عيادة للرعاية الصحية زرتها في حياتي",
+            "intent": "complaints",
+            "entities": []
+         },
+         {
+            "text": "الممرضات مشغولون لاستقبال المرضى",
+            "intent": "complaints",
+            "entities": []
+         },
+         {
+            "text": "لا يعاودون الاتصال",
+            "intent": "complaints",
+            "entities": []
+         },
+         {
+            "text": "اليوم اتصلت بالأخت آشا 5 مرات للحصول على تقرير واحد على بريدي الإلكتروني و لم اتلقاه حتى الآن",
+            "intent": "complaints",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

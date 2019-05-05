@@ -1,0 +1,27 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "Personal",
+            "intent": "personal_button",
+            "entities": []
+         },
+         {
+            "text": "personal",
+            "intent": "personal_button",
+            "entities": []
+         },
+         {
+            "text": "personal option",
+            "intent": "personal_button",
+            "entities": []
+         },
+         {
+            "text": "select personal",
+            "intent": "personal_button",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

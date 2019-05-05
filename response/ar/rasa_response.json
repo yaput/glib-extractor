@@ -1,0 +1,2663 @@
+{
+   "-L1qqut3sKLUCnRp9Fz5": [
+      {
+         "name": "utter_greeting_introduction",
+         "payload": {
+            "utter_Greeting/Introduction": "شكراً لك، ما الخدمة التي يمكنني مساعدتك فيها هذا اليوم؟"
+         }
+      },
+      {
+         "name": "action_greeting_introduction",
+         "payload": {
+            "type": "carousel",
+            "elements": [
+               {
+                  "label": "طلب موعد",
+                  "description": "البحث عن طبيب أو مستشفى وطلب موعد",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/avivo/MainCarousel/RequestAppointment.png",
+                  "buttons": [
+                     {
+                        "title": "طلب موعد",
+                        "payload": "/request_appointment"
+                     }
+                  ]
+               },
+               {
+                  "label": "تحديد موقع مركز",
+                  "description": "البحث عن أحد مراكز أفيفو ومعرفة المسافة للوصول إليه",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/avivo/MainCarousel/LocateACentre.png",
+                  "buttons": [
+                     {
+                        "title": "تحديد موقع مركز",
+                        "payload": "/locate_a_centre"
+                     }
+                  ]
+               },
+               {
+                  "label": "التغطية التأمينية",
+                  "description": "معرفة ما إذا كانت وثيقة التأمين مقبولة لدى مركز أفيفو أم لا",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/avivo/MainCarousel/InsuranceCoverage.png",
+                  "buttons": [
+                     {
+                        "title": "التغطية التأمينية",
+                        "payload": "/insurance_coverage"
+                     }
+                  ]
+               },
+               {
+                  "label": "طلب إعادة الاتصال",
+                  "description": "طلب إعادة الاتصال من أحد وكلاء دعم العملاء",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/avivo/MainCarousel/CallbackRequest.png",
+                  "buttons": [
+                     {
+                        "title": "طلب إعادة الاتصال",
+                        "payload": "/request_for_callback"
+                     }
+                  ]
+               },
+               {
+                  "label": "العروض الترويجية والحصرية",
+                  "description": "البقاء على اطلاع بأحدث العروض الترويجية والحصرية لمجموعة أفيفو",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/avivo/MainCarousel/PromotionsandOffers.png",
+                  "buttons": [
+                     {
+                        "title": "العروض الترويجية والحصرية",
+                        "payload": "/promotions_&_offers"
+                     }
+                  ]
+               },
+               {
+                  "label": "حساب مستوى الصحة",
+                  "description": "حساب مؤشر كتلة الجسم والحصول على جدول التطعيمات في جزء من الثانية!",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/avivo/MainCarousel/VaccinationCalculators.png",
+                  "buttons": [
+                     {
+                        "title": "حساب مستوى الصحة",
+                        "payload": "/health_calculators"
+                     }
+                  ]
+               },
+               {
+                  "label": "تعقيب",
+                  "description": "تقديم أي تعقيبات أو ملاحظات بشأن مجموعة أفيفو",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/avivo/MainCarousel/Feedback.png",
+                  "buttons": [
+                     {
+                        "title": "تعقيب",
+                        "payload": "/feedback"
+                     }
+                  ]
+               }
+            ]
+         }
+      }
+   ],
+   "-L1qvUSLj3XR_Vsm9NZQ": [
+      {
+         "name": "utter_real_human_bot",
+         "payload": {
+            "utter_Real Human / Bot": "لست بشرياً، أنا روبوت الدردشة الخاص بمجموعة أفيفو. أنا عضو جديد بالفريق"
+         }
+      },
+      {
+         "name": "utter_real_human_bot",
+         "payload": {
+            "utter_Real Human / Bot": "يمكنك \"البدء من جديد\" والاطلاع على الخدمات التي يمكنني مساعدتك فيها"
+         }
+      },
+      {
+         "name": "utter_real_human_bot",
+         "payload": {
+            "utter_Real Human / Bot": "لست بشرياً، أنا روبوت الدردشة الخاص بمجموعة أفيفو. أنا عضو جديد بالفريق"
+         }
+      }
+   ],
+   "-L1r2tEIBsyRIfUzhBV8": [
+      {
+         "name": "utter_promotions_&_offers_(selected)",
+         "payload": {
+            "utter_Promotions & Offers (Selected)": "لدي قائمة بالعروض الترويجية التي تديرها مجموعة أفيفو حالياً"
+         }
+      },
+      {
+         "name": "action_promotions_&_offers_(selected)",
+         "payload": {
+            "type": "carousel",
+            "elements": [
+               {
+                  "label": "Deals at Dermalase",
+                  "description": "Catch a quick 30% discount at our Dermalase Clinic.",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/avivo/promotions/OfferDermalase.jpg",
+                  "buttons": [
+                     {
+                        "title": "Deals at Dermalase",
+                        "payload": "/http:_www.avivo_group.com_"
+                     }
+                  ]
+               }
+            ]
+         }
+      },
+      {
+         "name": "action_promotions_&_offers_(selected)",
+         "payload": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "هل هناك أي شيء آخر يمكنني مساعدتك فيه؟",
+                  "replies": [
+                     {
+                        "title": "نعم",
+                        "payload": "/yes_promotions_and_offers"
+                     },
+                     {
+                        "title": "لا",
+                        "payload": "/no_promotions_and_offers"
+                     }
+                  ]
+               }
+            ]
+         }
+      }
+   ],
+   "-L1rFG0LSADSbyyS4Om7": [
+      {
+         "name": "utter_no_help_promotions_&_offers",
+         "payload": {
+            "utter_No help Promotions & offers": "كان الحديث ممتعاً معك! لا تتردد في الاتصال بي لمزيد من المساعدة"
+         }
+      },
+      {
+         "name": "utter_no_help_promotions_&_offers",
+         "payload": {
+            "utter_No help Promotions & offers": "أتمنى لك يوماً لطيفاً!"
+         }
+      },
+      {
+         "name": "utter_no_help_promotions_&_offers",
+         "payload": {
+            "utter_No help Promotions & offers": "الحديث ممتعاً معك!"
+         }
+      },
+      {
+         "name": "utter_no_help_promotions_&_offers",
+         "payload": {
+            "utter_No help Promotions & offers": "لا تتردد في الاتصال بي إذا احتجت إلى أي معلومات، يسعدني مساعدتك!"
+         }
+      },
+      {
+         "name": "utter_no_help_promotions_&_offers",
+         "payload": {
+            "utter_No help Promotions & offers": "أتمنى لك يوماً طيباً"
+         }
+      }
+   ],
+   "-L1uxH33tb9CHwxrDMMe": [
+      {
+         "name": "utter_locate_a_centre_selected",
+         "payload": {
+            "utter_Locate a Centre Selected": "هل يمكنك تحديد مركز أفيفو الذي تبحث عنه؟"
+         }
+      },
+      {
+         "name": "action_locate_a_centre_selected",
+         "payload": {
+            "type": "carousel",
+            "elements": [
+               {
+                  "label": "مستشفيات أفيفو",
+                  "description": "الحصول على الاتجاهات لمختلف مستشفيات أفيفو",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/avivo/AvivoCentres/AvivoHospitals/AvivoHospital.png",
+                  "buttons": [
+                     {
+                        "title": "مستشفيات أفيفو",
+                        "payload": "/locate1"
+                     }
+                  ]
+               },
+               {
+                  "label": "عيادات أفيفو",
+                  "description": "معرفة الطريق إلى عيادة أفيفو التي تختارها",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/avivo/AvivoCentres/AvivoClinics/AvivoClinics.png",
+                  "buttons": [
+                     {
+                        "title": "عيادات أفيفو",
+                        "payload": "/locate2"
+                     }
+                  ]
+               },
+               {
+                  "label": "عيادات بريما كير",
+                  "description": "أعثر على عيادات بريما كير الأقرب منك!",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/avivo/AvivoCentres/PrimecareClinics/PrimecareClinics.png",
+                  "buttons": [
+                     {
+                        "title": "عيادات بريما كير",
+                        "payload": "/locate3"
+                     }
+                  ]
+               },
+               {
+                  "label": "عيادات أستيتيكا",
+                  "description": "اطّلع على عيادات أستيتيكا كير الأقرب منك!",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/avivo/AvivoCentres/OtherCentres//AestheticaClinic.jpeg",
+                  "buttons": [
+                     {
+                        "title": "عيادات أستيتيكا",
+                        "payload": "/locate4"
+                     }
+                  ]
+               },
+               {
+                  "label": "عيادات ديرماليز",
+                  "description": "حدد مكان أقرب عيادات ديرماليز.",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/avivo/AvivoCentres/OtherCentres/DermalaseClinic.jpeg",
+                  "buttons": [
+                     {
+                        "title": "عيادات ديرماليز",
+                        "payload": "/locate5"
+                     }
+                  ]
+               },
+               {
+                  "label": "عيادة البرشاء",
+                  "description": "خذ فكرة عن المدة المستغرقة للوصول إلى عيادة البرشاء.",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/avivo/AvivoCentres/OtherCentres/AlBarshaClinic.jpg",
+                  "buttons": [
+                     {
+                        "title": "عيادة البرشاء",
+                        "payload": "/locate6"
+                     }
+                  ]
+               },
+               {
+                  "label": "مركز المحيصنة",
+                  "description": "انظر ما هي المدة المستغرقة للوصول إلى مركز المحيصنة الطبي التخصصي.",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/avivo/AvivoCentres/OtherCentres//MuhaisnaSpecialist.jpg",
+                  "buttons": [
+                     {
+                        "title": "مركز المحيصنة",
+                        "payload": "/locate7"
+                     }
+                  ]
+               },
+               {
+                  "label": "صيدليات بريما كير",
+                  "description": "حدد مكان صيدلية بريما كير الأقرب منك.",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/avivo/AvivoCentres/PrimecarePharmacy/PrimecarePharmacy.png",
+                  "buttons": [
+                     {
+                        "title": "صيدليات بريما كير",
+                        "payload": "/locate8"
+                     }
+                  ]
+               },
+               {
+                  "label": "عيادة الدكتور مايكل",
+                  "description": "اكتشف كم تبعد عنك عيادة الدكتور مايكل لطب الأسنان.",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/avivo/AvivoCentres/OtherCentres//DrMichaels.jpeg",
+                  "buttons": [
+                     {
+                        "title": "عيادة الدكتور مايكل",
+                        "payload": "/locate9"
+                     }
+                  ]
+               },
+               {
+                  "label": "فرع ان ان ام سي",
+                  "description": "اكتشف المسافة بينك وبين فرع ان ان ام سي.",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/avivo/AvivoCentres/OtherCentres//NNMC.jpg",
+                  "buttons": [
+                     {
+                        "title": "فرع ان ان ام سي",
+                        "payload": "/locate10"
+                     }
+                  ]
+               }
+            ]
+         }
+      }
+   ],
+   "-L1v5nbDlnLUtYSvMhBE": [
+      {
+         "name": "action_locate_selected_locate_a_centre",
+         "payload": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "هل تفضل إدخال التفاصيل يدوياً أو ترغب في مشاركة موقعك معي؟",
+                  "replies": [
+                     {
+                        "title": "إدخال التفاصيل",
+                        "payload": "/enter_details"
+                     },
+                     {
+                        "title": "مشاركة موقع",
+                        "payload": "/share_location"
+                     }
+                  ]
+               }
+            ]
+         }
+      }
+   ],
+   "-L1v9cgNx-q3j6lsVYL4": [
+      {
+         "name": "action_share_location_selected_locate_a_centre",
+         "payload": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "يرجى مشاركة موقعك الحال",
+                  "replies": [
+                     {
+                        "title": "مشاركة الموقع",
+                        "payload": "/user_shared_location"
+                     }
+                  ]
+               }
+            ]
+         }
+      }
+   ],
+   "-L1vAMESaj3lNgaTKEui": [
+      {
+         "name": "utter_location_shared_located_a_centre",
+         "payload": {
+            "utter_Location SHARED - Located a centre": "فيما يلي قائمة بأقرب مراكز أفيفو لك بناءً على الموقع الذي قمت بمشاركته واختياراتك"
+         }
+      }
+   ],
+   "-L1vRahmKUfahC1ngR7I": [
+      {
+         "name": "action_enter_manually_selected",
+         "payload": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "ما المنطقة أو الموقع الذي تريد البحث عن مركز أفيفو فيه؟",
+                  "replies": [
+                     {
+                        "title": "أبوظبي",
+                        "payload": "/emiratead"
+                     },
+                     {
+                        "title": "دبي",
+                        "payload": "/emiratedubai"
+                     },
+                     {
+                        "title": "الشارقة",
+                        "payload": "/emiratesharjah"
+                     }
+                  ]
+               }
+            ]
+         }
+      }
+   ],
+   "-L1vT_oW7UCGrnhPeXJk": [
+      {
+         "name": "utter_emirate_selected_manually_locate_a_centre",
+         "payload": {
+            "utter_Emirate Selected - Manually - Locate a Centre": "ما المنطقة أو الموقع الذي تريد البحث عن مركز أفيفو فيه؟"
+         }
+      }
+   ],
+   "-L1vVR1NMS-Z2A538a6n": [
+      {
+         "name": "utter_location_entered_carousel_of_hospitals_locate_a_centre_manual",
+         "payload": {
+            "utter_Location Entered - carousel of hospitals - locate a centre - manual": "فيما يلي قائمة بأقرب المراكز لك بناءً على الموقع الذي أدخلته"
+         }
+      }
+   ],
+   "-L1vk3xLgsYwlCziTxxa": [
+      {
+         "name": "utter_hospital_selected_manual_&_share_locations",
+         "payload": {
+            "utter_Hospital Selected - Manual & Share Locations": "المسافة بينك وبين مركز أفيفو المحدد تبلغ ×× كيلومتر"
+         }
+      },
+      {
+         "name": "utter_hospital_selected_manual_&_share_locations",
+         "payload": {
+            "utter_Hospital Selected - Manual & Share Locations": "الوقت التقريبي للوصول بالوسيلة الحالية هو ×× دقيقة"
+         }
+      },
+      {
+         "name": "action_hospital_selected_manual_&_share_locations",
+         "payload": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "يسرني تقديم بعض المساعدة! هل هناك شيء آخر يمكنني مساعدتك فيه؟",
+                  "replies": [
+                     {
+                        "title": "Yes",
+                        "payload": "/yes_locate_centre"
+                     },
+                     {
+                        "title": "No",
+                        "payload": "/no_locate_centre"
+                     }
+                  ]
+               }
+            ]
+         }
+      }
+   ],
+   "-L1w4kdABjv88JwbcVUA": [
+      {
+         "name": "utter_no_help_step_1_feedback_locate_a_centre",
+         "payload": {
+            "utter_No help step 1  feedback  - Locate a centre": "الحديث معك ممتعاً للغاية، يرجى إخباري إذا كان هناك شيء آخر يمكنني مساعدتك فيه"
+         }
+      },
+      {
+         "name": "utter_no_help_step_1_feedback_locate_a_centre",
+         "payload": {
+            "utter_No help step 1  feedback  - Locate a centre": "شكراً لك، أتمنى لك يوماً طيباً!"
+         }
+      },
+      {
+         "name": "utter_no_help_step_1_feedback_locate_a_centre",
+         "payload": {
+            "utter_No help step 1  feedback  - Locate a centre": "الحديث شيقاً معك! يسعدني مساعدتك إذا احتجت إلى شيء آخر"
+         }
+      },
+      {
+         "name": "utter_no_help_step_1_feedback_locate_a_centre",
+         "payload": {
+            "utter_No help step 1  feedback  - Locate a centre": "أتمنى لك يوماً جيداً!"
+         }
+      }
+   ],
+   "-L1w6EvEbgbV13WjTnQ8": [
+      {
+         "name": "utter_irrelevant_wrong_answer_(locate_a_centre)",
+         "payload": {
+            "utter_Irrelevant / Wrong answer (Locate a centre)": "لا أستطيع التعرف على هذه المنطقة التي يوجد بها أحد مراكزنا"
+         }
+      },
+      {
+         "name": "utter_irrelevant_wrong_answer_(locate_a_centre)",
+         "payload": {
+            "utter_Irrelevant / Wrong answer (Locate a centre)": "هل تود محاولة إعادة إدخال اسم المنطقة كما في المثال؟ (مثال - الجميرة)"
+         }
+      }
+   ],
+   "-L1w6UgFhFQ2gDFod-ZI": [
+      {
+         "name": "utter_2nd_irrelevant_wrong_answer_(locate_a_centre)",
+         "payload": {
+            "utter_2nd Irrelevant / Wrong answer (Locate a centre)": "لم أفهم بعد. يمكنك زيارة الموقع الإلكتروني http://www.avivo-group.com/ لمعرفة أي معلومات تحتاجها"
+         }
+      },
+      {
+         "name": "utter_2nd_irrelevant_wrong_answer_(locate_a_centre)",
+         "payload": {
+            "utter_2nd Irrelevant / Wrong answer (Locate a centre)": "يمكنك أيضاً الاتصال على رقم 800 AVIVO (28486)  لمزيد من المساعدة"
+         }
+      },
+      {
+         "name": "utter_2nd_irrelevant_wrong_answer_(locate_a_centre)",
+         "payload": {
+            "utter_2nd Irrelevant / Wrong answer (Locate a centre)": "شكراً لك، أتمنى لك يوماً لطيفاً!"
+         }
+      }
+   ],
+   "-L1wO5oqJkLBJkqiDP_-": [
+      {
+         "name": "action_request_appointment_(selected)",
+         "payload": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "هل تبحث عن طبيب معين أو تخصص معين؟",
+                  "replies": [
+                     {
+                        "title": "طبيب",
+                        "payload": "/doctor"
+                     },
+                     {
+                        "title": "التخصص",
+                        "payload": "/specialization"
+                     }
+                  ]
+               }
+            ]
+         }
+      }
+   ],
+   "-L1wSqH3CIKXKQ5Q7tyV": [
+      {
+         "name": "utter_specialization_(selected)",
+         "payload": {
+            "utter_Specialization (Selected)": "أي من التخصصات التالية تبحث عنها؟"
+         }
+      }
+   ],
+   "-L1wa7dm_NG0pnRfnEi2": [
+      {
+         "name": "utter_other_specialization_(selected)_request_for_appt_specialization",
+         "payload": {
+            "utter_Other specialization (selected) - Request for appt - specialization": "يرجى إدخال اسم التخصص الذي ترغب حجز موعد فيه (مثال: طب الأطفال)"
+         }
+      }
+   ],
+   "-L1watiGQWDoTpi7rJ7p": [
+      {
+         "name": "utter_specialization_selected_entered_specialization_request_for_appointment",
+         "payload": {
+            "utter_Specialization selected entered specialization - request for appointment": "فيما يلي قائمة بمراكز أفيفو التي تعمل في التخصص الذي أدخلته"
+         }
+      },
+      {
+         "name": "action_specialization_selected_entered_specialization_request_for_appointment",
+         "payload": "https://us-central1-glib-platform-bluelogic.cloudfunctions.net/avivoGetDoctors"
+      }
+   ],
+   "-L1wdAbfs-HCK9MFkqkm": [
+      {
+         "name": "utter_find_a_doctor_(selected)_specialization_request_appointment",
+         "payload": {
+            "utter_Find a Doctor (Selected) - specialization - request appointment": "لدي قائمة بالأطباء الذين يعملون في \"التخصص المحدد\" في المستشفى التي حددتها"
+         }
+      },
+      {
+         "name": "action_find_a_doctor_(selected)_specialization_request_appointment",
+         "payload": "https://us-central1-glib-platform-bluelogic.cloudfunctions.net/avivoGetDoctors"
+      }
+   ],
+   "-L1whF35QtLhawVzhcHN": [
+      {
+         "name": "utter_request_appointment_(selected)_specialization_doctor_request_for_appointment",
+         "payload": {
+            "utter_Request Appointment (Selected) - Specialization/Doctor - Request for Appointment": "أحتاج بعض المعلومات لمساعدتك في طلب موعد"
+         }
+      },
+      {
+         "name": "utter_request_appointment_(selected)_specialization_doctor_request_for_appointment",
+         "payload": {
+            "utter_Request Appointment (Selected) - Specialization/Doctor - Request for Appointment": "هل يمكنك إدخال اسمك بالكامل؟"
+         }
+      }
+   ],
+   "-L1whPy9eSOUne04HDGs": [
+      {
+         "name": "utter_email_address_request_for_appointment_specialization",
+         "payload": {
+            "utter_Email address - Request for appointment - specialization": "{{السياق[الاسم]}}!، هل يمكنك إدخال عنوان البريد الإلكتروني الذي ترغب في الحصول على تأكيد عليه؟ (مثال:  name@domain.com)"
+         }
+      }
+   ],
+   "-L1wiHOofY2ki6GTRrKV": [
+      {
+         "name": "utter_phone_number_request_for_appointment_specialization",
+         "payload": {
+            "utter_Phone number - Request for Appointment - Specialization": "هل يمكنك إدخال رقم الهاتف الإماراتي الصحيح حتى يتابع معك أحد أعضاء الفريق في هذا الموضوع؟"
+         }
+      }
+   ],
+   "-L1wiUeORETGc4siuFKg": [
+      {
+         "name": "utter_appointment_requested_(confirmation)",
+         "payload": {
+            "utter_Appointment Requested (Confirmation)": "شكراً لك، لقد طلبت موعداً لك مع الطبيب الذي حددته"
+         }
+      },
+      {
+         "name": "utter_appointment_requested_(confirmation)",
+         "payload": {
+            "utter_Appointment Requested (Confirmation)": "سيتواصل معك أحد أعضاء الفريق خلال فترة قصيرة لتأكيد الموعد"
+         }
+      },
+      {
+         "name": "action_appointment_requested_(confirmation)",
+         "payload": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "هل هناك أي شيء آخر يمكنني مساعدتك فيه؟",
+                  "replies": [
+                     {
+                        "title": "نعم",
+                        "payload": "/yes_request_appointment"
+                     },
+                     {
+                        "title": "لا",
+                        "payload": "/no_request_appointment"
+                     }
+                  ]
+               }
+            ]
+         }
+      }
+   ],
+   "-L1wkZp0k6I-tRNZ1jQx": [
+      {
+         "name": "utter_no_more_help_(feedback_provided)_closing_message_request_for_appointment",
+         "payload": {
+            "utter_no more help (feedback provided) - closing message - Request for Appointment": "كان من الممتع الحديث معك، لا تتردد في الاتصال بي إذا احتجت إلى أي مساعدة. يسرني مساعدتك!"
+         }
+      },
+      {
+         "name": "utter_no_more_help_(feedback_provided)_closing_message_request_for_appointment",
+         "payload": {
+            "utter_no more help (feedback provided) - closing message - Request for Appointment": "أتمنى لك يوماً طيباً!"
+         }
+      }
+   ],
+   "-L1wkrKgR4y4-5MCgyfs": [
+      {
+         "name": "utter_incorrect_email_address",
+         "payload": {
+            "utter_Incorrect Email Address": "لم أتعرف على رقم البريد الإلكتروني الصحيح"
+         }
+      },
+      {
+         "name": "utter_incorrect_email_address",
+         "payload": {
+            "utter_Incorrect Email Address": "يرجى كتابة عنوان بريد إلكتروني صحيح على النحو الموضح في المثال (مثال: name@domain.com)"
+         }
+      },
+      {
+         "name": "utter_incorrect_email_address",
+         "payload": {
+            "utter_Incorrect Email Address": "لم أتعرف على عنوان البريد الإلكتروني الصحيح"
+         }
+      },
+      {
+         "name": "utter_incorrect_email_address",
+         "payload": {
+            "utter_Incorrect Email Address": "هل يمكنك تقديم عنوان بريد إلكتروني صحيح على النحو الموضح في المثال؟ (مثال: name@domain.com)"
+         }
+      }
+   ],
+   "-L1wl3NaxMJsVQ2p2YtF": [
+      {
+         "name": "utter_incorrect_phone_number",
+         "payload": {
+            "utter_Incorrect Phone number": "لم أتعرف على رقم الهاتف الإماراتي الصحيح"
+         }
+      },
+      {
+         "name": "utter_incorrect_phone_number",
+         "payload": {
+            "utter_Incorrect Phone number": "يرجى كتابة رقم هاتف صحيح على النحو الموضح في المثال (مثال: 056xxxxxxx أو +971 56 xxxxxxx)"
+         }
+      },
+      {
+         "name": "utter_incorrect_phone_number",
+         "payload": {
+            "utter_Incorrect Phone number": "لم أتعرف على رقم الهاتف الإماراتي الصحيح"
+         }
+      },
+      {
+         "name": "utter_incorrect_phone_number",
+         "payload": {
+            "utter_Incorrect Phone number": "يرجى كتابة رقم هاتف صحيح كما في المثال (مثال: 056xxxxxxx أو +971 56 xxxxxxx)"
+         }
+      }
+   ],
+   "-L1zsisRceKwo6jUE21q": [
+      {
+         "name": "utter_doctor_(selected)_request_for_appointment",
+         "payload": {
+            "utter_Doctor (Selected) - Request for Appointment": "هل يمكنك إدخال اسم الأطباء الذي تبحث عنه؟"
+         }
+      },
+      {
+         "name": "action_doctor_(selected)_request_for_appointment",
+         "payload": "https://storage.googleapis.com/glib-forms-bluelogic/avivo_validateDoctor.json"
+      }
+   ],
+   "-L1zszN2BmKrSFpHlpD2": [
+      {
+         "name": "utter_incorrect_doctors_name_doctor_request_for_appointment",
+         "payload": {
+            "utter_Incorrect Doctors Name - Doctor - Request for appointment": "لم أتعرف على اسم الطبيب الذي أدخلته"
+         }
+      },
+      {
+         "name": "utter_incorrect_doctors_name_doctor_request_for_appointment",
+         "payload": {
+            "utter_Incorrect Doctors Name - Doctor - Request for appointment": "هل يمكنك المحاولة مرة أخرى؟ يمكنك التأكد من التدقيق الإملائي"
+         }
+      }
+   ],
+   "-L1ztgDtKUkoi5vZ8e_r": [
+      {
+         "name": "utter_valid_doctors_name_entered_doctor_request_for_appointment",
+         "payload": {
+            "utter_Valid Doctors name entered - Doctor - Request for Appointment": "عثرت على قائمة الأطباء لك حسب الاسم الذي أدخلته أعلاه"
+         }
+      }
+   ],
+   "-L2-qjvBzxXIZaznriP9": [
+      {
+         "name": "utter_callback_request_(_selected)",
+         "payload": {
+            "utter_Callback  Request ( Selected)": "يمكنني مساعدتك في طلب إعادة الاتصال من مجموعة أفيفو"
+         }
+      },
+      {
+         "name": "utter_callback_request_(_selected)",
+         "payload": {
+            "utter_Callback  Request ( Selected)": "يرجى تحديد سبب إعادة الاتصال"
+         }
+      }
+   ],
+   "-L2-uljDYQJiFSe3ugwf": [
+      {
+         "name": "utter_phone_number_reason_for_call_back_selected_callback",
+         "payload": {
+            "utter_Phone number - Reason For Call back-selected- Callback": "ما الرقم الذي ترغب أن نتصل بك عليه؟ يرجى إدخال رقم إماراتي صحيح"
+         }
+      }
+   ],
+   "-L2-w32QD4AloCQHN1Uv": [
+      {
+         "name": "utter_date_(ph.no_entered)_callback_request",
+         "payload": {
+            "utter_Date - (Ph.no entered) - Callback Request": "ما التاريخ الذي ترغب في الاتصال بك فيه؟"
+         }
+      },
+      {
+         "name": "utter_date_(ph.no_entered)_callback_request",
+         "payload": {
+            "utter_Date - (Ph.no entered) - Callback Request": "يرجى إدخال التاريخ بالتنسيق التالي (يوم/ شهر/ سنة)"
+         }
+      }
+   ],
+   "-L2-wTc777t9VX1bj47u": [
+      {
+         "name": "utter_apt_time_to_call_(date_entered)_callback_request",
+         "payload": {
+            "utter_Apt Time to call - (date entered) - Callback request": "ما الوقت المناسب لاتصال وكيلنا بك؟ (مثال: الساعة 3 مساءً)"
+         }
+      }
+   ],
+   "-L2-wdJPQF4xM905TMkt": [
+      {
+         "name": "utter_request_made_(apt_time_entered)_callback_request",
+         "payload": {
+            "utter_Request Made - (Apt Time entered) - Callback request": "شكراً لك. لقد قدمت بطلب إعادة الاتصال، وسيقوم أحد أعضاء الفريق بالتواصل معك خلال فترة قصيرة لمساعدتك"
+         }
+      },
+      {
+         "name": "action_request_made_(apt_time_entered)_callback_request",
+         "payload": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "هل هناك أي شيء آخر يمكنني مساعدتك فيه؟",
+                  "replies": [
+                     {
+                        "title": "نعم",
+                        "payload": "/yes_callbackrequest"
+                     },
+                     {
+                        "title": "لا",
+                        "payload": "/no_callbackrequest"
+                     }
+                  ]
+               }
+            ]
+         }
+      }
+   ],
+   "-L209Dz6RT6IsGjaSUfs": [
+      {
+         "name": "utter_no_more_help_callback_request",
+         "payload": {
+            "utter_No more help - Callback request": "شكراً لك على التواصل معنا، يرجى إخباري إذا كان هناك أي شيء آخر لمساعدتك فيه. يسرني مساعدتك"
+         }
+      },
+      {
+         "name": "utter_no_more_help_callback_request",
+         "payload": {
+            "utter_No more help - Callback request": "شكراً لك، أتمنى لك يوماً طيباً!"
+         }
+      },
+      {
+         "name": "utter_no_more_help_callback_request",
+         "payload": {
+            "utter_No more help - Callback request": "سعيد بالحديث معك! أخبرني إذا احتجت لمزيد من المساعدة"
+         }
+      },
+      {
+         "name": "utter_no_more_help_callback_request",
+         "payload": {
+            "utter_No more help - Callback request": "أتطلع للحديث معك عاجلاً، أتمنى لك يوماً طيباً!"
+         }
+      }
+   ],
+   "-L20AMjUWVH1A0dta01k": [
+      {
+         "name": "utter_insurance_coverage_(selected)",
+         "payload": {
+            "utter_Insurance Coverage (Selected)": "يمكنني مساعدتك في معرفة ما إذا كانت وثيقة تأمينك تغطي المستشفى التي ترغب في زيارتها أم لا"
+         }
+      },
+      {
+         "name": "action_insurance_coverage_(selected)",
+         "payload": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "ما الإمارة التي تقع فيها المستشفى التي تريد زيارتها؟",
+                  "replies": [
+                     {
+                        "title": "دبي",
+                        "payload": "/emiratedubai"
+                     },
+                     {
+                        "title": "أبوظبي",
+                        "payload": "/emiratead"
+                     },
+                     {
+                        "title": "الشارقة",
+                        "payload": "/emiratesharjah"
+                     }
+                  ]
+               }
+            ]
+         }
+      }
+   ],
+   "-L20Cj-ML3vl1WWF8iEL": [
+      {
+         "name": "utter_area_location_of_hospital_(emirate_selected)_insurance_coverage",
+         "payload": {
+            "utter_Area / Location of hospital - (Emirate Selected) - Insurance Coverage": "ما منطقة أو موقع المستشفى لتي ترغب في زيارتها؟"
+         }
+      },
+      {
+         "name": "utter_area_location_of_hospital_(emirate_selected)_insurance_coverage",
+         "payload": {
+            "utter_Area / Location of hospital - (Emirate Selected) - Insurance Coverage": "يرجى كتابة اسم منطقة أو شارع المستشفى (مثال: الجميرة)"
+         }
+      }
+   ],
+   "-L20FQfX0-swpckrvtiB": [
+      {
+         "name": "utter_carousel_hospitals_(area_entered)_insurance_coverage",
+         "payload": {
+            "utter_Carousel hospitals - (Area Entered) - Insurance Coverage": "فيما يلي قائمة بمراكز أفيفو حسب التفاصيل التي أدخلتها أعلاه"
+         }
+      },
+      {
+         "name": "utter_carousel_hospitals_(area_entered)_insurance_coverage",
+         "payload": {
+            "utter_Carousel hospitals - (Area Entered) - Insurance Coverage": "بمجرد اختيار مركز، سأقدم لك قائمة بوثائق التأمين المقبولة في هذا المركز"
+         }
+      }
+   ],
+   "-L20H7xLJ5wPbURomvlL": [
+      {
+         "name": "utter_list_of_policies_(_hospital_selected)_insurance_coverage",
+         "payload": {
+            "utter_List of Policies - ( Hospital Selected) - Insurance Coverage": "المستشفى التي اخترتها تقبل الوثائق من"
+         }
+      },
+      {
+         "name": "action_list_of_policies_(_hospital_selected)_insurance_coverage",
+         "payload": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "هل يمكنني مساعدتك في شيء آخر؟",
+                  "replies": [
+                     {
+                        "title": "نعم",
+                        "payload": "/yes_coverage"
+                     },
+                     {
+                        "title": "لا",
+                        "payload": "/no_coverage"
+                     }
+                  ]
+               }
+            ]
+         }
+      }
+   ],
+   "-L20JV1mm7lJofy6wV4U": [
+      {
+         "name": "utter_no_more_help_(level_2)_insurance_coverage",
+         "payload": {
+            "utter_No more help (level 2) - Insurance Coverage": "تخصص آخر (تم التحديد) - طلب موعد - تخصص"
+         }
+      },
+      {
+         "name": "utter_no_more_help_(level_2)_insurance_coverage",
+         "payload": {
+            "utter_No more help (level 2) - Insurance Coverage": "أتمنى لك يوماً طيباً!"
+         }
+      },
+      {
+         "name": "utter_no_more_help_(level_2)_insurance_coverage",
+         "payload": {
+            "utter_No more help (level 2) - Insurance Coverage": "سعيد بالحديث معك! أخبرني إذا احتجت لمزيد من المساعدة"
+         }
+      },
+      {
+         "name": "utter_no_more_help_(level_2)_insurance_coverage",
+         "payload": {
+            "utter_No more help (level 2) - Insurance Coverage": "شكراً لك، أتمنى لك يوماً طيباً!"
+         }
+      }
+   ],
+   "-L20OlFvYAsW8HYpFZxB": [
+      {
+         "name": "action_health_calculator_(selected)",
+         "payload": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": ".أنا يمكنني أن اساعدك على حساب مؤشر كتلة الجسم الخاص بك",
+                  "replies": [
+                     {
+                        "title": "احسب مؤشر كتلة الجسم",
+                        "payload": "/bmi"
+                     }
+                  ]
+               }
+            ]
+         }
+      }
+   ],
+   "-L20THDsanAWVa_0OniP": [
+      {
+         "name": "action_no_email_chart(selected)_vaccination_calculator_health_calculator",
+         "payload": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "هل هناك أي شيء آخر يمكنني مساعدتك فيه؟",
+                  "replies": [
+                     {
+                        "title": "نعم",
+                        "payload": "/yes_health_calculator"
+                     },
+                     {
+                        "title": "لا",
+                        "payload": "/no_health_calculator"
+                     }
+                  ]
+               }
+            ]
+         }
+      }
+   ],
+   "-L20ToqmPEJIdCk4Qel7": [
+      {
+         "name": "utter_yes_email_chart_vaccination_calculator_health_calculators",
+         "payload": {
+            "utter_Yes - Email chart - Vaccination Calculator - Health Calculators": "في هذه الحالة، أحتاج إلى عنوان بريدك الإلكتروني"
+         }
+      },
+      {
+         "name": "utter_yes_email_chart_vaccination_calculator_health_calculators",
+         "payload": {
+            "utter_Yes - Email chart - Vaccination Calculator - Health Calculators": "هل يمكنك إدخال عنوان بريدك الإلكتروني الذي تريد استلام التقرير عليه؟ (مثال: name@domain.com)"
+         }
+      }
+   ],
+   "-L20UZe7rwCf0AXvGH5-": [
+      {
+         "name": "utter_email_address_entered_email_chart_health_calculator",
+         "payload": {
+            "utter_Email Address Entered - email chart - health calculator": "أشكرك على ذلك، سيتم إرسال المستند الذي تحتاجه خلال فترة قصيرة"
+         }
+      },
+      {
+         "name": "action_email_address_entered_email_chart_health_calculator",
+         "payload": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "هل هناك أي شيء آخر يمكنني مساعدتك فيه؟",
+                  "replies": [
+                     {
+                        "title": "نعم",
+                        "payload": "/yes_health_calculator"
+                     },
+                     {
+                        "title": "لا",
+                        "payload": "/no_health_calculator"
+                     }
+                  ]
+               }
+            ]
+         }
+      }
+   ],
+   "-L20W6USKIC3xkU0t8Jf": [
+      {
+         "name": "utter_bmi_calculator_(selected)",
+         "payload": {
+            "utter_BMI Calculator (Selected)": "يمكنني مساعدتك في حساب مؤشر كتلة الجسم لديك ولكن سأحتاج إلى بعض المعلومات لذلك"
+         }
+      },
+      {
+         "name": "utter_bmi_calculator_(selected)",
+         "payload": {
+            "utter_BMI Calculator (Selected)": "هل يمكنك إدخال الوزن والطول؟"
+         }
+      },
+      {
+         "name": "action_bmi_calculator_(selected)",
+         "payload": "https://storage.googleapis.com/glib-forms-bluelogic/avivo_bmi.json"
+      }
+   ],
+   "-L20Wmd-nVUZ_9LYbQjf": [
+      {
+         "name": "utter_bmi_calculated_(height_entered)_bmi_calculator_health_calculators",
+         "payload": {
+            "utter_BMI CalculateD - (Height entered) - BMI Calculator - Health Calculators": "مؤشر كتلة جسمك حسب المعلومات التي أدخلتها هو ××.× كجم/م2"
+         }
+      },
+      {
+         "name": "action_bmi_calculated_(height_entered)_bmi_calculator_health_calculators",
+         "payload": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "هل هناك أي شيء آخر يمكنني مساعدتك فيه؟",
+                  "replies": [
+                     {
+                        "title": "نعم",
+                        "payload": "/yes_health_calculator"
+                     },
+                     {
+                        "title": "لا",
+                        "payload": "/no_health_calculator"
+                     }
+                  ]
+               }
+            ]
+         }
+      }
+   ],
+   "-L20YBIszXWBTI-S1N7v": [
+      {
+         "name": "utter_feedback_(selected)",
+         "payload": {
+            "utter_Feedback (Selected)": "لتقديم تعقيبك حول كل ما تحتاج فعله، يرجى ملء نموذج التعقيب وتقديمه:"
+         }
+      },
+      {
+         "name": "action_feedback_(selected)",
+         "payload": "https://storage.googleapis.com/glib-forms-bluelogic/avivo_feedback.json"
+      }
+   ],
+   "-L20Z4Hns9mnuiz_3s1U": [
+      {
+         "name": "utter_phone_number_(centre_name_entered)_feedback",
+         "payload": {
+            "utter_Phone number - (Centre name entered) - Feedback": "هل يمكنك إدخال رقم هاتفك حتى يستطيع الوكيل التواصل معك عند الحاجة؟"
+         }
+      },
+      {
+         "name": "utter_phone_number_(centre_name_entered)_feedback",
+         "payload": {
+            "utter_Phone number - (Centre name entered) - Feedback": "يرجى إدخال رقم هاتف إماراتي صحيح"
+         }
+      }
+   ],
+   "-L20ZLJ-O7da4obdwovg": [
+      {
+         "name": "utter_full_name_(phone_number_entered)_feedback",
+         "payload": {
+            "utter_Full name - (Phone number entered) - feedback": "هل يمكنك إدخال اسمك بالكامل؟"
+         }
+      }
+   ],
+   "-L20Z_K5se9kZtApZEH8": [
+      {
+         "name": "utter_email_address_(full_name_entered)_feedback",
+         "payload": {
+            "utter_Email address - (full name entered) - Feedback": "\"تم إدخال الاسم\"، يرجى إدخال عنوان البريد الإلكتروني الذي يمكننا التواصل بك من خلاله (مثال: name@domain.com)"
+         }
+      }
+   ],
+   "-L20ZjBmdWS1uui_cVSp": [
+      {
+         "name": "action_feedback_accepted_email_address_entered_feedback",
+         "payload": "https://us-central1-glib-platform-bluelogic.cloudfunctions.net/avivoFeedback"
+      }
+   ],
+   "-L2JWDINC3192_AbqDcf": [
+      {
+         "name": "utter_bmicalculated",
+         "payload": {
+            "utter_bmiCalculated": "مؤشر كتلة جسمك حسب المعلومات التي أدخلتها هو  {{context['bmi']}} kg / m 2"
+         }
+      },
+      {
+         "name": "action_bmicalculated",
+         "payload": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "هل هناك أي شيء آخر يمكنني مساعدتك فيه؟",
+                  "replies": [
+                     {
+                        "title": "نعم",
+                        "payload": "/cbyes"
+                     },
+                     {
+                        "title": "لا",
+                        "payload": "/cbno"
+                     }
+                  ]
+               }
+            ]
+         }
+      }
+   ],
+   "-L2JXGNN0TX8feieGcCv": [
+      {
+         "name": "utter_bmicalculating",
+         "payload": {
+            "utter_bmiCalculating": "احتساب مؤشر كتلة الجسم"
+         }
+      }
+   ],
+   "-L2Jdcn1jxzMmCAszaKO": [
+      {
+         "name": "utter_callbackform",
+         "payload": {
+            "utter_callbackForm": "يمكنني مساعدتك في طلب إعادة الاتصال من أحد وكلاء خدمة العملاء. هل يمكنك استكمال التفاصيل أدناه؟"
+         }
+      },
+      {
+         "name": "action_callbackform",
+         "payload": "https://storage.googleapis.com/glib-forms-bluelogic/avivo_callback.json"
+      }
+   ],
+   "-L2JgGht5q40ZjiF57rv": [
+      {
+         "name": "action_callbackformsubmitted",
+         "payload": "https://us-central1-glib-platform-bluelogic.cloudfunctions.net/avivoCallback"
+      }
+   ],
+   "-L2KoMhE4pPkJ0QNn3KG": [
+      {
+         "name": "utter_introductionform",
+         "payload": {
+            "utter_introductionForm": "Hi {{context['regName']}}! I'm your virtual assistant from the AVIVO Group. Can you fill up this form in order to proceed?"
+         }
+      },
+      {
+         "name": "action_introductionform",
+         "payload": "https://storage.googleapis.com/glib-forms-bluelogic/avivo_register.json"
+      }
+   ],
+   "-L2Z4zwydQ0_p5NcQRgV": [
+      {
+         "name": "action_sendlocation",
+         "payload": "https://us-central1-glib-platform-bluelogic.cloudfunctions.net/avivoDistance/distance"
+      }
+   ],
+   "-L2ZL5G-LRp6Yta4isb2": [
+      {
+         "name": "utter_emirate_selected_abu_dhabi",
+         "payload": {
+            "utter_Emirate Selected Abu Dhabi": "ما المنطقة أو الموقع الذي تريد البحث عن مركز أفيفو فيه؟"
+         }
+      },
+      {
+         "name": "action_emirate_selected_abu_dhabi",
+         "payload": "https://storage.googleapis.com/glib-forms-bluelogic/avivo_areas_abu_dhabi.json"
+      }
+   ],
+   "-L2ZRES8mwvZwub_BI3A": [
+      {
+         "name": "action_areaformsubmission",
+         "payload": "https://us-central1-glib-platform-bluelogic.cloudfunctions.net/avivoDistance/area"
+      }
+   ],
+   "-L2ZXpS8AnoTR7kCZNPh": [
+      {
+         "name": "utter_emirate_selected_dubai",
+         "payload": {
+            "utter_Emirate Selected Dubai": "ما المنطقة أو الموقع الذي تريد البحث عن مركز أفيفو فيه؟"
+         }
+      },
+      {
+         "name": "action_emirate_selected_dubai",
+         "payload": "https://storage.googleapis.com/glib-forms-bluelogic/avivo_areas_dubai.json"
+      }
+   ],
+   "-L2Z_TkiYR9Bq_REiDYx": [
+      {
+         "name": "utter_emirate_selected_sharjah",
+         "payload": {
+            "utter_Emirate Selected Sharjah": "ما المنطقة أو الموقع الذي تريد البحث عن مركز أفيفو فيه؟"
+         }
+      },
+      {
+         "name": "action_emirate_selected_sharjah",
+         "payload": "https://storage.googleapis.com/glib-forms-bluelogic/avivo_areas_sharjah.json"
+      }
+   ],
+   "-L2ZgA6G4ZWmiGGmjQVS": [
+      {
+         "name": "action_postbackdefinitiondummyresponse",
+         "payload": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "Optional text will go here to see if it breaks on any kind of screen small or big just typing some random gibberish",
+                  "replies": [
+                     {
+                        "title": "Reply 1",
+                        "payload": "/center1"
+                     },
+                     {
+                        "title": "Reply 2",
+                        "payload": "/center2"
+                     },
+                     {
+                        "title": "New Button",
+                        "payload": "/center3"
+                     }
+                  ]
+               }
+            ]
+         }
+      },
+      {
+         "name": "action_postbackdefinitiondummyresponse",
+         "payload": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "Optional text will go here to see if it breaks on any kind of screen small or big just typing some random gibberish",
+                  "replies": [
+                     {
+                        "title": "Reply 1",
+                        "payload": "/center4"
+                     },
+                     {
+                        "title": "Reply 2",
+                        "payload": "/center5"
+                     },
+                     {
+                        "title": "New Button",
+                        "payload": "/center6"
+                     }
+                  ]
+               }
+            ]
+         }
+      },
+      {
+         "name": "action_postbackdefinitiondummyresponse",
+         "payload": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "Optional text will go here to see if it breaks on any kind of screen small or big just typing some random gibberish",
+                  "replies": [
+                     {
+                        "title": "Reply 1",
+                        "payload": "/center0"
+                     },
+                     {
+                        "title": "Reply 2",
+                        "payload": "/center7"
+                     },
+                     {
+                        "title": "New Button",
+                        "payload": "/center8"
+                     }
+                  ]
+               }
+            ]
+         }
+      },
+      {
+         "name": "action_postbackdefinitiondummyresponse",
+         "payload": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "Optional text will go here to see if it breaks on any kind of screen small or big just typing some random gibberish",
+                  "replies": [
+                     {
+                        "title": "Reply 1",
+                        "payload": "/center9"
+                     },
+                     {
+                        "title": "Reply 2",
+                        "payload": "/center10"
+                     },
+                     {
+                        "title": "New Button",
+                        "payload": "/center11"
+                     }
+                  ]
+               }
+            ]
+         }
+      },
+      {
+         "name": "action_postbackdefinitiondummyresponse",
+         "payload": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "Optional text will go here to see if it breaks on any kind of screen small or big just typing some random gibberish",
+                  "replies": [
+                     {
+                        "title": "Reply 1",
+                        "payload": "/center12"
+                     },
+                     {
+                        "title": "Reply 2",
+                        "payload": "/center13"
+                     },
+                     {
+                        "title": "New Button",
+                        "payload": "/center14"
+                     }
+                  ]
+               }
+            ]
+         }
+      },
+      {
+         "name": "action_postbackdefinitiondummyresponse",
+         "payload": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "Optional text will go here to see if it breaks on any kind of screen small or big just typing some random gibberish",
+                  "replies": [
+                     {
+                        "title": "Reply 1",
+                        "payload": "/center15"
+                     },
+                     {
+                        "title": "Reply 2",
+                        "payload": "/center16"
+                     },
+                     {
+                        "title": "New Button",
+                        "payload": "/center17"
+                     }
+                  ]
+               }
+            ]
+         }
+      },
+      {
+         "name": "action_postbackdefinitiondummyresponse",
+         "payload": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "Optional text will go here to see if it breaks on any kind of screen small or big just typing some random gibberish",
+                  "replies": [
+                     {
+                        "title": "Reply 1",
+                        "payload": "/center18"
+                     },
+                     {
+                        "title": "Reply 2",
+                        "payload": "/center19"
+                     },
+                     {
+                        "title": "New Button",
+                        "payload": "/center20"
+                     }
+                  ]
+               }
+            ]
+         }
+      },
+      {
+         "name": "action_postbackdefinitiondummyresponse",
+         "payload": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "Optional text will go here to see if it breaks on any kind of screen small or big just typing some random gibberish",
+                  "replies": [
+                     {
+                        "title": "Reply 1",
+                        "payload": "/center21"
+                     },
+                     {
+                        "title": "Reply 2",
+                        "payload": "/center22"
+                     },
+                     {
+                        "title": "New Button",
+                        "payload": "/center23"
+                     }
+                  ]
+               }
+            ]
+         }
+      }
+   ],
+   "-L2ZggrxAsxHfJmgRfQO": [
+      {
+         "name": "action_getdirections",
+         "payload": "https://us-central1-glib-platform-bluelogic.cloudfunctions.net/avivoDistance/directions"
+      }
+   ],
+   "-L2_4ZNz1tjoL6StVRxb": [
+      {
+         "name": "utter_request_appointment_form",
+         "payload": {
+            "utter_Request Appointment Form": "أي من التخصصات التالية تبحث عنها؟"
+         }
+      },
+      {
+         "name": "action_request_appointment_form",
+         "payload": "https://storage.googleapis.com/glib-forms-bluelogic/avivo_speciality_form.json"
+      }
+   ],
+   "-L2dYSvMzQHn1jbkn5GX": [
+      {
+         "name": "action_getlocationsfromspecialization",
+         "payload": "https://us-central1-glib-platform-bluelogic.cloudfunctions.net/avivoSpecialization/specialization"
+      }
+   ],
+   "-L2dg7PpEre-r1oaOS8p": [
+      {
+         "name": "action_postbackdefinitiondummyresponse_1",
+         "payload": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "Optional text will go here to see if it breaks on any kind of screen small or big just typing some random gibberish",
+                  "replies": [
+                     {
+                        "title": "Reply 1",
+                        "payload": "/getdoctorfor1"
+                     },
+                     {
+                        "title": "Reply 2",
+                        "payload": "/getdoctorfor2"
+                     },
+                     {
+                        "title": "New Button",
+                        "payload": "/getdoctorfor3"
+                     }
+                  ]
+               }
+            ]
+         }
+      },
+      {
+         "name": "action_postbackdefinitiondummyresponse_1",
+         "payload": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "Optional text will go here to see if it breaks on any kind of screen small or big just typing some random gibberish",
+                  "replies": [
+                     {
+                        "title": "Reply 1",
+                        "payload": "/getdoctorfor1"
+                     },
+                     {
+                        "title": "Reply 2",
+                        "payload": "/getdoctorfor2"
+                     },
+                     {
+                        "title": "New Button",
+                        "payload": "/getdoctorfor3"
+                     }
+                  ]
+               }
+            ]
+         }
+      },
+      {
+         "name": "action_postbackdefinitiondummyresponse_1",
+         "payload": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "Optional text will go here to see if it breaks on any kind of screen small or big just typing some random gibberish",
+                  "replies": [
+                     {
+                        "title": "Reply 1",
+                        "payload": "/getdoctorfor0"
+                     },
+                     {
+                        "title": "Reply 2",
+                        "payload": "/getdoctorfor7"
+                     },
+                     {
+                        "title": "New Button",
+                        "payload": "/getdoctorfor8"
+                     }
+                  ]
+               }
+            ]
+         }
+      },
+      {
+         "name": "action_postbackdefinitiondummyresponse_1",
+         "payload": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "Optional text will go here to see if it breaks on any kind of screen small or big just typing some random gibberish",
+                  "replies": [
+                     {
+                        "title": "Reply 1",
+                        "payload": "/getdoctorfor9"
+                     },
+                     {
+                        "title": "Reply 2",
+                        "payload": "/getdoctorfor10"
+                     },
+                     {
+                        "title": "New Button",
+                        "payload": "/getdoctorfor11"
+                     }
+                  ]
+               }
+            ]
+         }
+      },
+      {
+         "name": "action_postbackdefinitiondummyresponse_1",
+         "payload": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "Optional text will go here to see if it breaks on any kind of screen small or big just typing some random gibberish",
+                  "replies": [
+                     {
+                        "title": "Reply 1",
+                        "payload": "/getdoctorfor12"
+                     },
+                     {
+                        "title": "Reply 2",
+                        "payload": "/getdoctorfor13"
+                     },
+                     {
+                        "title": "New Button",
+                        "payload": "/getdoctorfor14"
+                     }
+                  ]
+               }
+            ]
+         }
+      },
+      {
+         "name": "action_postbackdefinitiondummyresponse_1",
+         "payload": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "Optional text will go here to see if it breaks on any kind of screen small or big just typing some random gibberish",
+                  "replies": [
+                     {
+                        "title": "Reply 1",
+                        "payload": "/getdoctorfor15"
+                     },
+                     {
+                        "title": "Reply 2",
+                        "payload": "/getdoctorfor16"
+                     },
+                     {
+                        "title": "New Button",
+                        "payload": "/getdoctorfor17"
+                     }
+                  ]
+               }
+            ]
+         }
+      },
+      {
+         "name": "action_postbackdefinitiondummyresponse_1",
+         "payload": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "Optional text will go here to see if it breaks on any kind of screen small or big just typing some random gibberish",
+                  "replies": [
+                     {
+                        "title": "Reply 1",
+                        "payload": "/getdoctorfor18"
+                     },
+                     {
+                        "title": "Reply 2",
+                        "payload": "/getdoctorfor19"
+                     },
+                     {
+                        "title": "New Button",
+                        "payload": "/getdoctorfor20"
+                     }
+                  ]
+               }
+            ]
+         }
+      },
+      {
+         "name": "action_postbackdefinitiondummyresponse_1",
+         "payload": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "Optional text will go here to see if it breaks on any kind of screen small or big just typing some random gibberish",
+                  "replies": [
+                     {
+                        "title": "Reply 1",
+                        "payload": "/getdoctorfor21"
+                     },
+                     {
+                        "title": "Reply 2",
+                        "payload": "/getdoctorfor22"
+                     },
+                     {
+                        "title": "New Button",
+                        "payload": "/getdoctorfor23"
+                     }
+                  ]
+               }
+            ]
+         }
+      },
+      {
+         "name": "action_postbackdefinitiondummyresponse_1",
+         "payload": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "Optional text will go here to see if it breaks on any kind of screen small or big just typing some random gibberish",
+                  "replies": [
+                     {
+                        "title": "Reply 1",
+                        "payload": "/requestappointment"
+                     }
+                  ]
+               }
+            ]
+         }
+      }
+   ],
+   "-L2dhXXFjRf_zSO4H2w6": [
+      {
+         "name": "action_getdoctorsfromspecialization",
+         "payload": "https://us-central1-glib-platform-bluelogic.cloudfunctions.net/avivoGetDoctors"
+      }
+   ],
+   "-L2e8aQpIsQ9SWZFxcub": [
+      {
+         "name": "action_requestappointmentfordoctorspecial",
+         "payload": "https://us-central1-glib-platform-bluelogic.cloudfunctions.net/avivoGetDoctors/requestAppointment"
+      }
+   ],
+   "-L2eKbajIntNtyIXcTBL": [
+      {
+         "name": "action_requestappointmentformcompleted",
+         "payload": "https://us-central1-glib-platform-bluelogic.cloudfunctions.net/avivoAppointmentMailer/requestAppointment"
+      }
+   ],
+   "-L2eQKLVtN2WUBslKTVo": [
+      {
+         "name": "action_requestappointmentbydoctor",
+         "payload": "https://us-central1-glib-platform-bluelogic.cloudfunctions.net/avivoGetDoctors/requestAppointmentDoctor"
+      }
+   ],
+   "-L2hnZRoADa7fBYFtN5x": [
+      {
+         "name": "utter_requestingappointmentwithdoctor",
+         "payload": {
+            "utter_requestingAppointmentWithDoctor": "يُرجى الانتظار أثناء النظر في طلبك لتحديد موعد..."
+         }
+      }
+   ],
+   "-L2hxQWBBHSZVrnVkv_T": [
+      {
+         "name": "utter_callbackformshort",
+         "payload": {
+            "utter_callbackFormShort": "يمكنني مساعدتك في طلب إعادة الاتصال من أحد وكلاء خدمة العملاء. هل يمكنك استكمال التفاصيل أدناه؟"
+         }
+      },
+      {
+         "name": "action_callbackformshort",
+         "payload": "https://storage.googleapis.com/glib-forms-bluelogic/avivo_callback_short2.json"
+      }
+   ],
+   "-L2iZCHyek6dsqmaNEFZ": [
+      {
+         "name": "action_getcentersforinsurance",
+         "payload": "https://us-central1-glib-platform-bluelogic.cloudfunctions.net/avivoInsurance"
+      }
+   ],
+   "-L2iacgD_VmUuqEjgoGg": [
+      {
+         "name": "action_checkinsurer",
+         "payload": "https://us-central1-glib-platform-bluelogic.cloudfunctions.net/avivoInsurance/checkInsurer"
+      }
+   ],
+   "-L2tWW5zB8tXXhwLzpac": [
+      {
+         "name": "utter_services_intents",
+         "payload": {
+            "utter_Services Intents": "The services provided by the AVIVO hospital are....."
+         }
+      }
+   ],
+   "-L2tewcPSPYA97dpcxqh": [
+      {
+         "name": "utter_language_intent",
+         "payload": {
+            "utter_Language intent": "تعد اللغة الإنجليزية هي أكثر لغة مستخدمة بين طاقم العمل والأطباء لدينا."
+         }
+      },
+      {
+         "name": "utter_language_intent",
+         "payload": {
+            "utter_Language intent": "تعد اللغات العربية والهندية والماليالامية هي من بعض اللغات الأخرى التي يتحدثها الأطباء لدينا."
+         }
+      }
+   ],
+   "-L2tj-tG3GAwip8VtnW7": [
+      {
+         "name": "utter_home_services",
+         "payload": {
+            "utter_Home services": "لا تقدم أفيفو غروب الخدمات المنزلية."
+         }
+      }
+   ],
+   "-L2xhFfjL_6DYCGxH6pz": [
+      {
+         "name": "utter_emirate_selected_abu_dhabi_insurance",
+         "payload": {
+            "utter_Emirate Selected Abu Dhabi Insurance": "ما المنطقة أو الموقع الذي تريد البحث عن مركز أفيفو حوله؟"
+         }
+      },
+      {
+         "name": "action_emirate_selected_abu_dhabi_insurance",
+         "payload": "https://storage.googleapis.com/glib-forms-bluelogic/avivo_areas_abu_dhabi_ins.json"
+      }
+   ],
+   "-L2zRkojdFHc-aOnudOe": [
+      {
+         "name": "utter_sick_leave_and_medical_certificate",
+         "payload": {
+            "utter_Sick leave and medical certificate": "You may consult our doctors who could advice you regarding your certificate or report."
+         }
+      }
+   ],
+   "-L32YvPYwaEPZlayJnuD": [
+      {
+         "name": "utter_forceuserreg",
+         "payload": {
+            "utter_forceUserReg": "مرحباً  أنا مساعدك الافتراضي من مجموعة أفيفو. هل يمكنك ملء هذا النموذج للمتابعة؟"
+         }
+      },
+      {
+         "name": "action_forceuserreg",
+         "payload": "https://storage.googleapis.com/glib-forms-bluelogic/avivo_register.json"
+      }
+   ],
+   "-L37ATTZndycnigDWSyA": [
+      {
+         "name": "action_languageselection",
+         "payload": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "Please select your preferred language.",
+                  "replies": [
+                     {
+                        "title": "English",
+                        "payload": "/language_en"
+                     },
+                     {
+                        "title": "عربى",
+                        "payload": "/language_ar"
+                     }
+                  ]
+               }
+            ]
+         }
+      }
+   ],
+   "-L37B1VIy4F0PPPrBVvH": [
+      {
+         "name": "utter_processinglanguage",
+         "payload": {
+            "utter_processingLanguage": "Great, I will make sure I remember the language you've selected for future communication."
+         }
+      }
+   ],
+   "-L38XrtAlEvLmsxHx0qr": [
+      {
+         "name": "utter_greeting_intent_response",
+         "payload": {
+            "utter_Greeting intent response": "شكراً لك، {{context['name']}}ما الخدمة التي يمكنني مساعدتك فيها هذا اليوم؟"
+         }
+      },
+      {
+         "name": "action_greeting_intent_response",
+         "payload": {
+            "type": "carousel",
+            "elements": [
+               {
+                  "label": "طلب موعد",
+                  "description": "البحث عن طبيب أو مستشفى وطلب موعد",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/avivo/MainCarousel/RequestAppointment.png",
+                  "buttons": [
+                     {
+                        "title": "طلب موعد",
+                        "payload": "/request_appointment"
+                     }
+                  ]
+               },
+               {
+                  "label": "تحديد موقع مركز",
+                  "description": "البحث عن أحد مراكز أفيفو ومعرفة المسافة للوصول إليه",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/avivo/MainCarousel/LocateACentre.png",
+                  "buttons": [
+                     {
+                        "title": "تحديد موقع مركز",
+                        "payload": "/locate_a_centre"
+                     }
+                  ]
+               },
+               {
+                  "label": "التغطية التأمينية",
+                  "description": "معرفة ما إذا كانت وثيقة التأمين مقبولة لدى مركز أفيفو أم لا",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/avivo/MainCarousel/InsuranceCoverage.png",
+                  "buttons": [
+                     {
+                        "title": "التغطية التأمينية",
+                        "payload": "/insurance_coverage"
+                     }
+                  ]
+               },
+               {
+                  "label": "طلب إعادة الاتصال",
+                  "description": "طلب إعادة الاتصال من أحد وكلاء دعم العملاء",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/avivo/MainCarousel/CallbackRequest.png",
+                  "buttons": [
+                     {
+                        "title": "طلب إعادة الاتصال",
+                        "payload": "/request_for_callback"
+                     }
+                  ]
+               },
+               {
+                  "label": "العروض الترويجية والحصرية",
+                  "description": "البقاء على اطلاع بأحدث العروض الترويجية والحصرية لمجموعة أفيفو",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/avivo/MainCarousel/PromotionsandOffers.png",
+                  "buttons": [
+                     {
+                        "title": "العروض الترويجية والحصرية",
+                        "payload": "/promotions_&_offers"
+                     }
+                  ]
+               },
+               {
+                  "label": "حساب مستوى الصحة",
+                  "description": "حساب مؤشر كتلة الجسم والحصول على جدول التطعيمات في جزء من الثانية!",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/avivo/MainCarousel/VaccinationCalculators.png",
+                  "buttons": [
+                     {
+                        "title": "حساب مستوى الصحة",
+                        "payload": "/health_calculators"
+                     }
+                  ]
+               },
+               {
+                  "label": "تعقيب",
+                  "description": "تقديم أي تعقيبات أو ملاحظات بشأن مجموعة أفيفو",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/avivo/MainCarousel/Feedback.png",
+                  "buttons": [
+                     {
+                        "title": "تعقيب",
+                        "payload": "/feedback"
+                     }
+                  ]
+               }
+            ]
+         }
+      }
+   ],
+   "-L38gC1spB75OnpQrIDF": [
+      {
+         "name": "utter_more_help_insurance_coverage",
+         "payload": {
+            "utter_More help -Insurance Coverage": "يسرني تقديم بعض المساعدة! هل هناك شيء آخر يمكنني مساعدتك فيه؟"
+         }
+      },
+      {
+         "name": "action_more_help_insurance_coverage",
+         "payload": {
+            "type": "carousel",
+            "elements": [
+               {
+                  "label": "تحديد موقع مركز",
+                  "description": "البحث عن أحد مراكز أفيفو ومعرفة المسافة للوصول إليه",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/avivo/MainCarousel/LocateACentre.png",
+                  "buttons": [
+                     {
+                        "title": "تحديد موقع مركز",
+                        "payload": "/locate_a_centre"
+                     }
+                  ]
+               },
+               {
+                  "label": "طلب موعد",
+                  "description": "البحث عن طبيب أو مستشفى وطلب موعد",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/avivo/MainCarousel/RequestAppointment.png",
+                  "buttons": [
+                     {
+                        "title": "طلب موعد",
+                        "payload": "/request_appointment"
+                     }
+                  ]
+               },
+               {
+                  "label": "طلب إعادة الاتصال",
+                  "description": "طلب إعادة الاتصال من أحد وكلاء دعم العملاء",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/avivo/MainCarousel/CallbackRequest.png",
+                  "buttons": [
+                     {
+                        "title": "طلب إعادة الاتصال",
+                        "payload": "/request_for_callback"
+                     }
+                  ]
+               },
+               {
+                  "label": "التغطية التأمينية",
+                  "description": "معرفة ما إذا كانت وثيقة التأمين مقبولة لدى مركز أفيفو أم لا",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/avivo/MainCarousel/InsuranceCoverage.png",
+                  "buttons": [
+                     {
+                        "title": "التغطية التأمينية",
+                        "payload": "/insurance_coverage"
+                     }
+                  ]
+               },
+               {
+                  "label": "العروض الترويجية والحصرية",
+                  "description": "البقاء على اطلاع بأحدث العروض الترويجية والحصرية لمجموعة أفيفو",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/avivo/MainCarousel/PromotionsandOffers.png",
+                  "buttons": [
+                     {
+                        "title": "العروض الترويجية والحصرية",
+                        "payload": "/promotions_&_offers"
+                     }
+                  ]
+               },
+               {
+                  "label": "حساب مستوى الصحة",
+                  "description": "حساب مؤشر كتلة الجسم والحصول على جدول التطعيمات في جزء من الثانية!",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/avivo/MainCarousel/VaccinationCalculators.png",
+                  "buttons": [
+                     {
+                        "title": "حساب مستوى الصحة",
+                        "payload": "/health_calculators"
+                     }
+                  ]
+               },
+               {
+                  "label": "تعقيب",
+                  "description": "تقديم أي تعقيبات أو ملاحظات بشأن مجموعة أفيفو",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/avivo/MainCarousel/Feedback.png",
+                  "buttons": [
+                     {
+                        "title": "تعقيب",
+                        "payload": "/feedback"
+                     }
+                  ]
+               }
+            ]
+         }
+      }
+   ],
+   "-L38nhC1_PrWqEnCwaLB": [
+      {
+         "name": "utter_more_help_request_appointment",
+         "payload": {
+            "utter_More help - Request Appointment": "سعيد لرؤيتك مرة أخرى! ما الذي يمكنني تقديمه لك؟"
+         }
+      },
+      {
+         "name": "action_more_help_request_appointment",
+         "payload": {
+            "type": "carousel",
+            "elements": [
+               {
+                  "label": "تحديد موقع مركز",
+                  "description": "البحث عن أحد مراكز أفيفو ومعرفة المسافة للوصول إليه",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/avivo/MainCarousel/LocateACentre.png",
+                  "buttons": [
+                     {
+                        "title": "تحديد موقع مركز",
+                        "payload": "/locate_a_centre"
+                     }
+                  ]
+               },
+               {
+                  "label": "طلب موعد",
+                  "description": "البحث عن طبيب أو مستشفى وطلب موعد",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/avivo/MainCarousel/RequestAppointment.png",
+                  "buttons": [
+                     {
+                        "title": "طلب موعد",
+                        "payload": "/request_appointment"
+                     }
+                  ]
+               },
+               {
+                  "label": "طلب إعادة الاتصال",
+                  "description": "طلب إعادة الاتصال من أحد وكلاء دعم العملاء",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/avivo/MainCarousel/CallbackRequest.png",
+                  "buttons": [
+                     {
+                        "title": "طلب إعادة الاتصال",
+                        "payload": "/request_for_callback"
+                     }
+                  ]
+               },
+               {
+                  "label": "التغطية التأمينية",
+                  "description": "معرفة ما إذا كانت وثيقة التأمين مقبولة لدى مركز أفيفو أم لا",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/avivo/MainCarousel/InsuranceCoverage.png",
+                  "buttons": [
+                     {
+                        "title": "التغطية التأمينية",
+                        "payload": "/insurance_coverage"
+                     }
+                  ]
+               },
+               {
+                  "label": "العروض الترويجية والحصرية",
+                  "description": "البقاء على اطلاع بأحدث العروض الترويجية والحصرية لمجموعة أفيفو",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/avivo/MainCarousel/PromotionsandOffers.png",
+                  "buttons": [
+                     {
+                        "title": "العروض الترويجية والحصرية",
+                        "payload": "/promotions_&_offers"
+                     }
+                  ]
+               },
+               {
+                  "label": "حساب مستوى الصحة",
+                  "description": "حساب مؤشر كتلة الجسم والحصول على جدول التطعيمات في جزء من الثانية!",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/avivo/MainCarousel/VaccinationCalculators.png",
+                  "buttons": [
+                     {
+                        "title": "حساب مستوى الصحة",
+                        "payload": "/health_calculators"
+                     }
+                  ]
+               },
+               {
+                  "label": "تعقيب",
+                  "description": "تقديم أي تعقيبات أو ملاحظات بشأن مجموعة أفيفو",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/avivo/MainCarousel/Feedback.png",
+                  "buttons": [
+                     {
+                        "title": "تعقيب",
+                        "payload": "/feedback"
+                     }
+                  ]
+               }
+            ]
+         }
+      }
+   ],
+   "-L38s6lIRH3quWWvlt04": [
+      {
+         "name": "utter_feedback_more_help",
+         "payload": {
+            "utter_Feedback more help": "سعيد لرؤيتك مرة أخرى! ما الذي يمكنني تقديمه لك؟"
+         }
+      },
+      {
+         "name": "action_feedback_more_help",
+         "payload": {
+            "type": "carousel",
+            "elements": [
+               {
+                  "label": "تحديد موقع مركز",
+                  "description": "البحث عن أحد مراكز أفيفو ومعرفة المسافة للوصول إليه",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/avivo/MainCarousel/LocateACentre.png",
+                  "buttons": [
+                     {
+                        "title": "تحديد موقع مركز",
+                        "payload": "/locate_a_centre"
+                     }
+                  ]
+               },
+               {
+                  "label": "طلب موعد",
+                  "description": "البحث عن طبيب أو مستشفى وطلب موعد",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/avivo/MainCarousel/RequestAppointment.png",
+                  "buttons": [
+                     {
+                        "title": "طلب موعد",
+                        "payload": "/request_appointment"
+                     }
+                  ]
+               },
+               {
+                  "label": "طلب إعادة الاتصال",
+                  "description": "طلب إعادة الاتصال من أحد وكلاء دعم العملاء",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/avivo/MainCarousel/CallbackRequest.png",
+                  "buttons": [
+                     {
+                        "title": "طلب إعادة الاتصال",
+                        "payload": "/request_for_callback"
+                     }
+                  ]
+               },
+               {
+                  "label": "التغطية التأمينية",
+                  "description": "معرفة ما إذا كانت وثيقة التأمين مقبولة لدى مركز أفيفو أم لا",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/avivo/MainCarousel/InsuranceCoverage.png",
+                  "buttons": [
+                     {
+                        "title": "التغطية التأمينية",
+                        "payload": "/insurance_coverage"
+                     }
+                  ]
+               },
+               {
+                  "label": "العروض الترويجية والحصرية",
+                  "description": "البقاء على اطلاع بأحدث العروض الترويجية والحصرية لمجموعة أفيفو",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/avivo/MainCarousel/PromotionsandOffers.png",
+                  "buttons": [
+                     {
+                        "title": "العروض الترويجية والحصرية",
+                        "payload": "/promotions_&_offers"
+                     }
+                  ]
+               },
+               {
+                  "label": "حساب مستوى الصحة",
+                  "description": "حساب مؤشر كتلة الجسم والحصول على جدول التطعيمات في جزء من الثانية!",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/avivo/MainCarousel/VaccinationCalculators.png",
+                  "buttons": [
+                     {
+                        "title": "حساب مستوى الصحة",
+                        "payload": "/health_calculators"
+                     }
+                  ]
+               },
+               {
+                  "label": "تعقيب",
+                  "description": "تقديم أي تعقيبات أو ملاحظات بشأن مجموعة أفيفو",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/avivo/MainCarousel/Feedback.png",
+                  "buttons": [
+                     {
+                        "title": "تعقيب",
+                        "payload": "/feedback"
+                     }
+                  ]
+               }
+            ]
+         }
+      }
+   ],
+   "-L38tnjdW67SW4wvOPy9": [
+      {
+         "name": "utter_feedback_more_help_1",
+         "payload": {
+            "utter_Feedback more help 1": "سعيد لرؤيتك مرة أخرى! ما الذي يمكنني تقديمه لك؟"
+         }
+      },
+      {
+         "name": "action_feedback_more_help_1",
+         "payload": {
+            "type": "carousel",
+            "elements": [
+               {
+                  "label": "تحديد موقع مركز",
+                  "description": "البحث عن أحد مراكز أفيفو ومعرفة المسافة للوصول إليه",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/avivo/MainCarousel/LocateACentre.png",
+                  "buttons": [
+                     {
+                        "title": "تحديد موقع مركز",
+                        "payload": "/locate_a_centre"
+                     }
+                  ]
+               },
+               {
+                  "label": "طلب موعد",
+                  "description": "البحث عن طبيب أو مستشفى وطلب موعد",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/avivo/MainCarousel/RequestAppointment.png",
+                  "buttons": [
+                     {
+                        "title": "طلب موعد",
+                        "payload": "/request_appointment"
+                     }
+                  ]
+               },
+               {
+                  "label": "طلب إعادة الاتصال",
+                  "description": "طلب إعادة الاتصال من أحد وكلاء دعم العملاء",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/avivo/MainCarousel/CallbackRequest.png",
+                  "buttons": [
+                     {
+                        "title": "طلب إعادة الاتصال",
+                        "payload": "/request_for_callback"
+                     }
+                  ]
+               },
+               {
+                  "label": "التغطية التأمينية",
+                  "description": "معرفة ما إذا كانت وثيقة التأمين مقبولة لدى مركز أفيفو أم لا",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/avivo/MainCarousel/InsuranceCoverage.png",
+                  "buttons": [
+                     {
+                        "title": "التغطية التأمينية",
+                        "payload": "/insurance_coverage"
+                     }
+                  ]
+               },
+               {
+                  "label": "العروض الترويجية والحصرية",
+                  "description": "البقاء على اطلاع بأحدث العروض الترويجية والحصرية لمجموعة أفيفو",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/avivo/MainCarousel/PromotionsandOffers.png",
+                  "buttons": [
+                     {
+                        "title": "العروض الترويجية والحصرية",
+                        "payload": "/promotions_&_offers"
+                     }
+                  ]
+               },
+               {
+                  "label": "حساب مستوى الصحة",
+                  "description": "حساب مؤشر كتلة الجسم والحصول على جدول التطعيمات في جزء من الثانية!",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/avivo/MainCarousel/VaccinationCalculators.png",
+                  "buttons": [
+                     {
+                        "title": "حساب مستوى الصحة",
+                        "payload": "/health_calculators"
+                     }
+                  ]
+               },
+               {
+                  "label": "تعقيب",
+                  "description": "تقديم أي تعقيبات أو ملاحظات بشأن مجموعة أفيفو",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/avivo/MainCarousel/Feedback.png",
+                  "buttons": [
+                     {
+                        "title": "تعقيب",
+                        "payload": "/feedback"
+                     }
+                  ]
+               }
+            ]
+         }
+      }
+   ],
+   "-L38u5JxwHgosYp2hxRt": [
+      {
+         "name": "utter_bmi_additional_help",
+         "payload": {
+            "utter_BMI additional help": "سعيد لرؤيتك مرة أخرى! ما الذي يمكنني تقديمه لك؟"
+         }
+      },
+      {
+         "name": "action_bmi_additional_help",
+         "payload": {
+            "type": "carousel",
+            "elements": [
+               {
+                  "label": "طلب موعد",
+                  "description": "البحث عن طبيب أو مستشفى وطلب موعد",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/avivo/MainCarousel/RequestAppointment.png",
+                  "buttons": [
+                     {
+                        "title": "طلب موعد",
+                        "payload": "/request_appointment"
+                     }
+                  ]
+               },
+               {
+                  "label": "تحديد موقع مركز",
+                  "description": "البحث عن أحد مراكز أفيفو ومعرفة المسافة للوصول إليه",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/avivo/MainCarousel/LocateACentre.png",
+                  "buttons": [
+                     {
+                        "title": "تحديد موقع مركز",
+                        "payload": "/locate_a_centre"
+                     }
+                  ]
+               },
+               {
+                  "label": "التغطية التأمينية",
+                  "description": "معرفة ما إذا كانت وثيقة التأمين مقبولة لدى مركز أفيفو أم لا",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/avivo/MainCarousel/InsuranceCoverage.png",
+                  "buttons": [
+                     {
+                        "title": "التغطية التأمينية",
+                        "payload": "/insurance_coverage"
+                     }
+                  ]
+               },
+               {
+                  "label": "طلب إعادة الاتصال",
+                  "description": "طلب إعادة الاتصال من أحد وكلاء دعم العملاء",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/avivo/MainCarousel/CallbackRequest.png",
+                  "buttons": [
+                     {
+                        "title": "طلب إعادة الاتصال",
+                        "payload": "/request_for_callback"
+                     }
+                  ]
+               },
+               {
+                  "label": "العروض الترويجية والحصرية",
+                  "description": "البقاء على اطلاع بأحدث العروض الترويجية والحصرية لمجموعة أفيفو",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/avivo/MainCarousel/PromotionsandOffers.png",
+                  "buttons": [
+                     {
+                        "title": "العروض الترويجية والحصرية",
+                        "payload": "/promotions_&_offers"
+                     }
+                  ]
+               },
+               {
+                  "label": "حساب مستوى الصحة",
+                  "description": "حساب مؤشر كتلة الجسم والحصول على جدول التطعيمات في جزء من الثانية!",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/avivo/MainCarousel/VaccinationCalculators.png",
+                  "buttons": [
+                     {
+                        "title": "حساب مستوى الصحة",
+                        "payload": "/health_calculators"
+                     }
+                  ]
+               },
+               {
+                  "label": "تعقيب",
+                  "description": "تقديم أي تعقيبات أو ملاحظات بشأن مجموعة أفيفو",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/avivo/MainCarousel/Feedback.png",
+                  "buttons": [
+                     {
+                        "title": "تعقيب",
+                        "payload": "/feedback"
+                     }
+                  ]
+               }
+            ]
+         }
+      }
+   ],
+   "-L3WoY6GTuB60GuVKIy9": [
+      {
+         "name": "action_getlocationsfromspecializationdirect",
+         "payload": "https://us-central1-glib-platform-bluelogic.cloudfunctions.net/avivoSpecialization/specialization"
+      }
+   ],
+   "-L3WrqXgc3a0qgwBJp58": [
+      {
+         "name": "action_specializationform",
+         "payload": "https://storage.googleapis.com/glib-forms-bluelogic/avivo_speciality_form.json"
+      }
+   ],
+   "-L3XJ8QutCfUELRHq35U": [
+      {
+         "name": "action_centernamebuttons",
+         "payload": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "{{context['Hospital Name'][0]['val']}} ما هي المعلومات التي تريدها",
+                  "replies": [
+                     {
+                        "title": "احصل على الاتجاهات",
+                        "payload": "/getdirectionsdirect"
+                     },
+                     {
+                        "title": "الحصول على تخصصات",
+                        "payload": "/getspecializationsdirect"
+                     },
+                     {
+                        "title": "الحصول على تأمينات",
+                        "payload": "/getinsurancesdirect"
+                     }
+                  ]
+               }
+            ]
+         }
+      }
+   ],
+   "-L3XNmeG3s4OP6opbQFU": [
+      {
+         "name": "action_getdirectionsdirect",
+         "payload": "https://us-central1-glib-platform-bluelogic.cloudfunctions.net/avivoDistance/directionsDirect"
+      }
+   ],
+   "-L3YP4YKM8ZCEIKgQrOY": [
+      {
+         "name": "utter_more_help_promotions_and_offers",
+         "payload": {
+            "utter_More help Promotions and Offers": "شكراً لك، ما الخدمة التي يمكنني مساعدتك فيها هذا اليوم؟"
+         }
+      },
+      {
+         "name": "action_more_help_promotions_and_offers",
+         "payload": {
+            "type": "carousel",
+            "elements": [
+               {
+                  "label": "طلب موعد",
+                  "description": "البحث عن طبيب أو مستشفى وطلب موعد",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/avivo/MainCarousel/RequestAppointment.png",
+                  "buttons": [
+                     {
+                        "title": "طلب موعد",
+                        "payload": "/request_appointment"
+                     }
+                  ]
+               },
+               {
+                  "label": "تحديد موقع مركز",
+                  "description": "البحث عن أحد مراكز أفيفو ومعرفة المسافة للوصول إليه",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/avivo/MainCarousel/LocateACentre.png",
+                  "buttons": [
+                     {
+                        "title": "تحديد موقع مركز",
+                        "payload": "/locate_a_centre"
+                     }
+                  ]
+               },
+               {
+                  "label": "التغطية التأمينية",
+                  "description": "معرفة ما إذا كانت وثيقة التأمين مقبولة لدى مركز أفيفو أم لا",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/avivo/MainCarousel/InsuranceCoverage.png",
+                  "buttons": [
+                     {
+                        "title": "التغطية التأمينية",
+                        "payload": "/insurance_coverage"
+                     }
+                  ]
+               },
+               {
+                  "label": "طلب إعادة الاتصال",
+                  "description": "طلب إعادة الاتصال من أحد وكلاء دعم العملاء",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/avivo/MainCarousel/CallbackRequest.png",
+                  "buttons": [
+                     {
+                        "title": "طلب إعادة الاتصال",
+                        "payload": "/request_for_callback"
+                     }
+                  ]
+               },
+               {
+                  "label": "العروض الترويجية والحصرية",
+                  "description": "البقاء على اطلاع بأحدث العروض الترويجية والحصرية لمجموعة أفيفو",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/avivo/MainCarousel/PromotionsandOffers.png",
+                  "buttons": [
+                     {
+                        "title": "العروض الترويجية والحصرية",
+                        "payload": "/promotions_&_offers"
+                     }
+                  ]
+               },
+               {
+                  "label": "حساب مستوى الصحة",
+                  "description": "حساب مؤشر كتلة الجسم والحصول على جدول التطعيمات في جزء من الثانية!",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/avivo/MainCarousel/VaccinationCalculators.png",
+                  "buttons": [
+                     {
+                        "title": "حساب مستوى الصحة",
+                        "payload": "/health_calculators"
+                     }
+                  ]
+               },
+               {
+                  "label": "تعقيب",
+                  "description": "تقديم أي تعقيبات أو ملاحظات بشأن مجموعة أفيفو",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/avivo/MainCarousel/Feedback.png",
+                  "buttons": [
+                     {
+                        "title": "تعقيب",
+                        "payload": "/feedback"
+                     }
+                  ]
+               }
+            ]
+         }
+      }
+   ],
+   "-L3ad0Fx2jmEGIIKQEbd": [
+      {
+         "name": "action_getdoctordirect",
+         "payload": "https://us-central1-glib-platform-bluelogic.cloudfunctions.net/avivoGetDoctors/requestAppointmentDoctor"
+      }
+   ],
+   "-L3asNQ2lPpu6Okvxj-G": [
+      {
+         "name": "action_getcenterspecializationsdirect",
+         "payload": "https://us-central1-glib-platform-bluelogic.cloudfunctions.net/avivoSpecialization/centerDirectSpecialization"
+      }
+   ],
+   "-L3aw5l1mFhc1cpej7g1": [
+      {
+         "name": "action_getcenterdirectinsurance",
+         "payload": "https://us-central1-glib-platform-bluelogic.cloudfunctions.net/avivoInsurance/centerDirectInsurance"
+      }
+   ],
+   "-L3azJJ7OEyVlfOEQWC0": [
+      {
+         "name": "action_getinsurancedirect",
+         "payload": "https://us-central1-glib-platform-bluelogic.cloudfunctions.net/avivoInsurance/getInsuranceDirect"
+      }
+   ],
+   "-L4j9zTFQFrURvZ4BML9": [
+      {
+         "name": "utter_job_vacancy",
+         "payload": {
+            "utter_Job Vacancy": ".تهدف أفيفو للتميز في جميع موظفينا"
+         }
+      },
+      {
+         "name": "utter_job_vacancy",
+         "payload": {
+            "utter_Job Vacancy": "hr@avivo-group.com يمكنك تقديم طلب عملك إلى"
+         }
+      },
+      {
+         "name": "action_job_vacancy",
+         "payload": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "هل هناك أي شيء آخر يمكنني مساعدتك فيه؟",
+                  "replies": [
+                     {
+                        "title": "نعم",
+                        "payload": "/yes_promotions_and_offers"
+                     },
+                     {
+                        "title": "لا",
+                        "payload": "/no_promotions_and_offers"
+                     }
+                  ]
+               }
+            ]
+         }
+      }
+   ]
+}

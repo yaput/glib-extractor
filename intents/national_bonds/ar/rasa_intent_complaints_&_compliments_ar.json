@@ -1,0 +1,257 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "هذا بنك جيد",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "اسوأ خدمة عملاء",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "اقوم بالاستثمار فى الصكوك الوطنية منذ أكثر من 10 سنوات",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "ممتاز",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "خدمة سيئة جدا",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "انا احب الصكوك الوطنية جدا",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "شكرا اعزائى الصكوك الوطنية",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "الصكوك الوطنية هي المكان الأكثر أمانا لإيداع الأموال",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "الكثير من الوعود والقليل من التنفيذ",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "خبرة تعليمية ممتازة ، شكرا",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "هذا عديم الفائدة",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "وضع ممتاز للادخار",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "فرص ممتازة للفوز",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "من الصعب جدا الفوز",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "لم يكن الربح مثيرا",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "لا يستحق العناء",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "كل شيء حول هذه الشركة ممتاز",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "أفضل بيئة عمل في الامارات",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "استمروا انتم الأفضل",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "أفضل طريقة لادخار الاموال في الامارات",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "اسوأ تطبيق على الاطلاق",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "تطبيق الصكوك الوطنية سيئ للغاية",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "تصميم التطبيق سيئ للغاية",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "هذا البنك سيئ جدا",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "عمل ممتاز",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "يحدث خطأ في كل مره أقوم فيها بفتح التطبيق",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "التطبيق لا يعمل يظهر علامة التحميل و اشعار يطلب تصليح الخطأ",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "الواجهة سيئة للغاية",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "لا يمكننى تسجيل الدخول الى حسابى",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "العديد من الخصائص لا تعمل",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "اختيار تاريخ الميلاد سيئ للغاية",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "تطبيق غبي",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "سهل الاستخدام و تجربة رائعة للمستخدم",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "لقد اعجبني جدا",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "من السهل جدا الوصول",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "تطبيق جيد",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "مثير للشفقة هذا التطبيق لا يعمل بشكل صحيح",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "التطبيق ممتاز! طريقه جديدة للادخار",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "أحببت تصميم التطبيق وسهوله الاستخدام",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "التحديث الاخير جعل التطبيق لا يستجيب",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "اامل ان اكون جزءا من عائلة الصكوك الوطنية قريبا",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "اعتقد ان الصكوك الوطنية الآن فقط للناس الأغنياء",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "يرجى زيادة الحد الأقصى للسن",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "هراء",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "افضل مكان للادخار و الاستثمار",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "الصكوك الوطنية هي المكان الأكثر أمانا لإيداع الأموال",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "جميل",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "انه مجرد حظ",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "هذا أمر محبط",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "انت مقزز",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

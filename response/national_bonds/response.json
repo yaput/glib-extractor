@@ -1,0 +1,4290 @@
+{
+   "utter_language_selection": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "!مرحبا بكم في شركة الصكوك الوطنية"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "Welcome to National Bonds!"
+            ]
+         }
+      }
+   },
+   "utter_language_processing": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "هلا و غلا"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "Hello there."
+            ]
+         }
+      }
+   },
+   "utter_greeting": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "أهلا بك"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "Hi there!"
+            ]
+         }
+      }
+   },
+   "utter_main_carousel": {
+      "ar": {
+         "content": {
+            "type": "carousel",
+            "elements": [
+               {
+                  "label": "المنتجات و الخدمات",
+                  "description": "تعرف علي منتجاتنا وخدماتنا الحصرية",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/National%20Bonds/Images/MainCarousel/Products&Services.jpg",
+                  "buttons": [
+                     {
+                        "title": "الأفراد",
+                        "payload": "/personal"
+                     },
+                     {
+                        "title": "بريستيج",
+                        "payload": "/prestige"
+                     },
+                     {
+                        "title": "المؤسسات",
+                        "payload": "/business_services"
+                     }
+                  ]
+               },
+               {
+                  "label": "إتصل بنا",
+                  "description": "جميع الخيارات لمساعدتك في الاتصال بنا",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/National%20Bonds/Images/MainCarousel/ContactUs.jpg",
+                  "buttons": [
+                     {
+                        "title": "خريطة الموقع",
+                        "payload": "/locations"
+                     },
+                     {
+                        "title": "راسلنا",
+                        "payload": "/write_to_us"
+                     },
+                     {
+                        "title": "تفاصيل مراكز الإتصال",
+                        "payload": "/call_center"
+                     }
+                  ]
+               },
+               {
+                  "label": "التخطيط المالى",
+                  "description": "إبدأ رحلتك إلى التخطيط المالي اليوم",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/National%20Bonds/Images/MainCarousel/FinancialPlanning.jpg",
+                  "buttons": [
+                     {
+                        "title": "تعرف على المزيد",
+                        "payload": "/view_financial_planning"
+                     }
+                  ]
+               },
+               {
+                  "label": "الآراء و المقترحات",
+                  "description": "لا تتردد في مشاركة آرائك و مقترحاتك معنا",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/National%20Bonds/Images/MainCarousel/Feedback.jpg",
+                  "buttons": [
+                     {
+                        "title": "شاركنا بآرائك و مقترحاتك",
+                        "payload": "/feedback"
+                     }
+                  ]
+               },
+               {
+                  "label": "الأسئلة الشائعة",
+                  "description": "الإجابات علي أي أسئلة لديك حول الصكوك الوطنية",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/National%20Bonds/Images/MainCarousel/FAQs.jpg",
+                  "buttons": [
+                     {
+                        "title": "تفضل بالسؤال",
+                        "payload": "/ask"
+                     }
+                  ]
+               }
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "carousel",
+            "elements": [
+               {
+                  "label": "Products & Services",
+                  "description": "Explore our diverse range of Products & Services.",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/National%20Bonds/Images/MainCarousel/Products&Services.jpg",
+                  "buttons": [
+                     {
+                        "title": "Personal",
+                        "payload": "/personal"
+                     },
+                     {
+                        "title": "Prestige",
+                        "payload": "/prestige"
+                     },
+                     {
+                        "title": "Business Services",
+                        "payload": "/business_services"
+                     }
+                  ]
+               },
+               {
+                  "label": "Contact Us",
+                  "description": "All the information you need, to get in touch with us.",
+                  "image_type": "url",
+                  "image": "https://storage.googleapis.com/blforms/ContactUs.jpg",
+                  "buttons": [
+                     {
+                        "title": "Locations",
+                        "payload": "/locations"
+                     },
+                     {
+                        "title": "Write to Us",
+                        "payload": "/write_to_us"
+                     },
+                     {
+                        "title": "Call Center Details",
+                        "payload": "/call_center"
+                     }
+                  ]
+               },
+               {
+                  "label": "Financial Planning",
+                  "description": "Take your first step towards Financial Planning today.",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/National%20Bonds/Images/MainCarousel/FinancialPlanning.jpg",
+                  "buttons": [
+                     {
+                        "title": "View",
+                        "payload": "/view_financial_planning"
+                     }
+                  ]
+               },
+               {
+                  "label": "Feedback",
+                  "description": "Share your National Bonds experience with us.",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/National%20Bonds/Images/MainCarousel/Feedback.jpg",
+                  "buttons": [
+                     {
+                        "title": "Share Feedback",
+                        "payload": "/feedback"
+                     }
+                  ]
+               },
+               {
+                  "label": "FAQ's",
+                  "description": "Answers to any questions you have about us.",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/National%20Bonds/Images/MainCarousel/FAQs.jpg",
+                  "buttons": [
+                     {
+                        "title": "Ask Me",
+                        "payload": "/ask"
+                     }
+                  ]
+               }
+            ]
+         }
+      }
+   },
+   "utter_location": {
+      "ar": {
+         "content": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "هل تبحث عن موقع مكتب أو منفذ ؟ الرجاء الاختيار من الخيارات أدناه",
+                  "replies": [
+                     {
+                        "title": "المكاتب",
+                        "payload": "/offices"
+                     },
+                     {
+                        "title": "منافذ الخدمة الذاتية",
+                        "payload": "/pos"
+                     }
+                  ]
+               }
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "Which of the following are you looking for?",
+                  "replies": [
+                     {
+                        "title": "Offices",
+                        "payload": "/offices"
+                     },
+                     {
+                        "title": "POS Outlet & Kiosks",
+                        "payload": "/pos"
+                     }
+                  ]
+               }
+            ]
+         }
+      }
+   },
+   "utter_pos_and_kiosks": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "لدينا أكشاك و شاشات الخدمة الذاتية ،و فروع ومنافذ البيع في جميع أنحاء الإمارات"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "Our Sukuk Express Kiosks, POS Outlets and Branches are located at various destinations across the UAE."
+            ]
+         }
+      }
+   },
+   "utter_start_over": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "مرحبا بك 🙂"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "Hi again! 🙂"
+            ]
+         }
+      }
+   },
+   "utter_offices": {
+      "ar": {
+         "content": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "أى من مكاتبنا تبحث عنه؟",
+                  "replies": [
+                     {
+                        "title": "الفرع الرئيسى",
+                        "payload": "/head_office"
+                     },
+                     {
+                        "title": "فرع دبي",
+                        "payload": "/dubai_office"
+                     },
+                     {
+                        "title": "فرع أبو ظبي",
+                        "payload": "/abudhabi_office"
+                     }
+                  ]
+               }
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "Which of our offices would you like to know more about?",
+                  "replies": [
+                     {
+                        "title": "Head Office",
+                        "payload": "/head_office"
+                     },
+                     {
+                        "title": "Dubai Branch",
+                        "payload": "/dubai_office"
+                     },
+                     {
+                        "title": "Abu Dhabi Branch",
+                        "payload": "/abudhabi_office"
+                     }
+                  ]
+               }
+            ]
+         }
+      }
+   },
+   "utter_head_office": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "يقع مكتبنا الرئيسي في دبي بناية الحضيبة"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "Our Head Office is located on the 6th floor in Al Hudaiba Awards Building, Dubai. This is adjacent to the Union Block C, on 2nd December Street."
+            ]
+         }
+      }
+   },
+   "utter_dubai_branch": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "يقع فرع دبي علي طريق الوصل ، منطقه المنارة"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "The Dubai branch is located on Al Wasl Road, Al Manara Area."
+            ]
+         }
+      }
+   },
+   "utter_abu_dhabi_branch": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "في أبو ظبي ، نحن موجودون في برج الخزنة-الدانة"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "Our Abu Dhabi location is Al Khaza Tower-Al Danah on Al Najda Street, 9th Street."
+            ]
+         }
+      }
+   },
+   "utter_view_branches": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "لدينا فروع في دبي و أبوظبي"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "We have branches Dubai and Abu Dhabi."
+            ]
+         }
+      }
+   },
+   "utter_call_center_details": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "تعمل مراكز الاتصال الخاصة بنا من الساعة 9:00 صباحا حتى 5:00 مساء من السبت إلى الخميس"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "Our call center operates from 9:00 am to 5:00 pm, Saturday to Thursday)."
+            ]
+         }
+      }
+   },
+   "utter_write_to_us": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "من فضلك إملئ النموذج ادناه لكى يتمكن موظفونا من الرد عليكم لتقديم المساعدة؟"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "Please enter the required details, so a member of the team can contact you to provide assistance."
+            ]
+         }
+      }
+   },
+   "utter_contform_submitted": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "تم إرسال التفاصيل الخاصة بك إلى قسم خدمة العملاء لدينا"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "I have sent your inquiry across to our Customer Advisor team."
+            ]
+         }
+      }
+   },
+   "utter_feedback_selected": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "رأيك يساعدنا علي التقدم و التحسن يوما بعد يوم"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "Your feedback helps us improve every day!"
+            ]
+         }
+      }
+   },
+   "utter_feedbackform_submitted": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "شكرا لكم لمشاركة آرائكم و مقترحاتكم معنا ،سيقوم أحد موظفونا بالتواصل معكم قريبا"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "Thank you for sharing your feedback with us. We will look into your comments and a member of our team will get in touch with you shortly."
+            ]
+         }
+      }
+   },
+   "utter_financial_planning_selected": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "في وجود الكثير من الخيارات الاستثمارية المتاحة ، التخطيط لأموالك يمكن ان يكون صعبا"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "With so many investment options available, planning your finances can be tough."
+            ]
+         }
+      }
+   },
+   "utter_tips": {
+      "ar": {
+         "content": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "أي من نصائح و إرشادات التخطيط المالي ترغب في الحصول على معلومات عنها؟",
+                  "replies": [
+                     {
+                        "title": "المادة 72",
+                        "payload": "/ruleof72"
+                     },
+                     {
+                        "title": "نصائح الحفاظ على الصحة المالية",
+                        "payload": "/financial_health_tips"
+                     },
+                     {
+                        "title": "إدارة النقد و الميزانية",
+                        "payload": "/cashmanagement"
+                     }
+                  ]
+               }
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "Which of our Financial Planning Tips would you like to know about?",
+                  "replies": [
+                     {
+                        "title": "Rule of 72",
+                        "payload": "/ruleof72"
+                     },
+                     {
+                        "title": "Financial Health Tips",
+                        "payload": "/financial_health_tips"
+                     },
+                     {
+                        "title": "Cash Management & Budgetting",
+                        "payload": "/cashmanagement"
+                     }
+                  ]
+               }
+            ]
+         }
+      }
+   },
+   "utter_cash_management_budgeting": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "إدارة الميزانية تضمن ان يتم استخدام النقدية الخاصة بك لتحقيق أهدافك. وهى تنطوي علي تحديد الأولويات ، وتتبع النفقات اليومية وتجنب الديون"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "Budgeting ensures that your cash is used to fulfill your goals. It involves setting priorities, tracking daily expenses and avoiding debt."
+            ]
+         }
+      }
+   },
+   "utter_financial_health_tips": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "الصحة المالية مصطلح يستخدم لوصف الوضع المالي للشخص"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "Financial Health is a term used to describe a person's financial situation."
+            ]
+         }
+      }
+   },
+   "utter_thumb_rule": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "المادة 72  يجب ان يتم توضيحها لأي شخص يميل إلى التخطيط المالي"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "The Rule of 72 is a must-know for anyone inclined towards Financial Planning."
+            ]
+         }
+      }
+   },
+   "utter_other_fp_options": {
+      "ar": {
+         "content": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "اي من هذه الخيارات ترغب في الحصول على معلومات عنها ؟",
+                  "replies": [
+                     {
+                        "title": "تحديد الأهداف",
+                        "payload": "/goal_settings"
+                     },
+                     {
+                        "title": "نصائح التخطيط المالى",
+                        "payload": "/fp_tips"
+                     },
+                     {
+                        "title": "أدوات التخطيط المالى",
+                        "payload": "/fp_tools"
+                     }
+                  ]
+               }
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "Which of our financial planning options would you like information on?",
+                  "replies": [
+                     {
+                        "title": "Goal Settings",
+                        "payload": "/goal_settings"
+                     },
+                     {
+                        "title": "Financial Planning Tips",
+                        "payload": "/fp_tips"
+                     },
+                     {
+                        "title": "Financial Planning Tools",
+                        "payload": "/fp_tools"
+                     }
+                  ]
+               }
+            ]
+         }
+      }
+   },
+   "utter_information_request": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "برجاء ملء النموذج أدناه حتى نتمكن من إرسال المعلومات اليك"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "Can you fill out the form below so that I can email the information to you?"
+            ]
+         }
+      }
+   },
+   "utter_info_form_filled_in": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "شكرا لك لمشاركة بيانات الإتصال الخاصة بك. سيتم إرسال المعلومات اليك قريبا"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "Thank you for filling in the form. The information will be shared with you shortly!"
+            ]
+         }
+      }
+   },
+   "utter_request_appointment": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "لقد قمت بإرسال طلبك إلى قسم خدمة العملاء"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "I've sent your request to our customer advisors."
+            ]
+         }
+      }
+   },
+   "utter_appt_booked": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "لقد قمت بإرسال بيانات الإتصال الخاصة بك إلى فريقنا. سيقوم أحد وكلاؤنا بالاتصال بك لتأكيد الحجز الخاص بك 🙂"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "I've passed your details to our team. An advisor will contact you to confirm your booking! :slight_smile:"
+            ]
+         }
+      }
+   },
+   "utter_fp_tools": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "نحن نقدم لكم مجموعة هائلة من الادوات مثل الروابط و الآلات الحاسبة والكتب وأشرطة الفيديو لتوجيهكم بخصوص التخطيط المالي"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "Our Financial Planning tools consist of recommended books, calculators, links and videos."
+            ]
+         }
+      }
+   },
+   "utter_calculators": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "هل تود تجربة الحاسبات المالية لدينا؟"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "Which of these Calculators would you like to try?"
+            ]
+         }
+      }
+   },
+   "utter_calculator_carousel": {
+      "ar": {
+         "content": {
+            "type": "carousel",
+            "elements": [
+               {
+                  "label": "الحاسبات الشخصية",
+                  "description": "خطط لمستقبل أمن مع حاسباتنا الشخصية",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/National%20Bonds/Images/Calculator%20Carousel/PersonalCalculators.jpg",
+                  "buttons": [
+                     {
+                        "title": "مدخرات التقاعد",
+                        "payload": "/retirement"
+                     },
+                     {
+                        "title": "مدخرات التعليم",
+                        "payload": "/college_savings"
+                     },
+                     {
+                        "title": "دمج الديون",
+                        "payload": "/debt_consolidation"
+                     }
+                  ]
+               },
+               {
+                  "label": "حاسبات الادخار",
+                  "description": "استخدام حاسبات الادخار لدينا لمعرفة المبلغ الذى عليك البدأ بإدخاره شهريا",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/National%20Bonds/Images/Calculator%20Carousel/SavingsCalculator.jpg",
+                  "buttons": [
+                     {
+                        "title": "الزكاة",
+                        "payload": "/zakat"
+                     },
+                     {
+                        "title": "المدخرات",
+                        "payload": "/savings"
+                     },
+                     {
+                        "title": "حاسبة المليونير",
+                        "payload": "/cool_million"
+                     }
+                  ]
+               }
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "carousel",
+            "elements": [
+               {
+                  "label": "Personal Calculators",
+                  "description": "Plan a secure future with our personal calculators.",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/National%20Bonds/Images/Calculator%20Carousel/PersonalCalculators.jpg",
+                  "buttons": [
+                     {
+                        "title": "Retirement",
+                        "payload": "/retirement"
+                     },
+                     {
+                        "title": "College Savings",
+                        "payload": "/college_savings"
+                     },
+                     {
+                        "title": "Debt Consolidation",
+                        "payload": "/debt_consolidation"
+                     }
+                  ]
+               },
+               {
+                  "label": "Savings Calculators",
+                  "description": "Use our Savings Calculators to find out how much you need to start saving each month.",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/National%20Bonds/Images/Calculator%20Carousel/SavingsCalculator.jpg",
+                  "buttons": [
+                     {
+                        "title": "Zakat",
+                        "payload": "/zakat"
+                     },
+                     {
+                        "title": "Savings",
+                        "payload": "/savings"
+                     },
+                     {
+                        "title": "Cool Million",
+                        "payload": "/cool_million"
+                     }
+                  ]
+               }
+            ]
+         }
+      }
+   },
+   "utter_retirement_calculator": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "حاسبة التقاعد تساعدك علي حساب مقدار المبلغ الذى تحتاج لادخاره شهريا لتقاعد آمنا"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "The retirement calculator will help you calculate how much you need to save for your happy and secure retirement."
+            ]
+         }
+      }
+   },
+   "utter_other_calc": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "هل ترغب بتجربة حاسباتنا الأخرى؟"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "Given below are some other calculators you could try."
+            ]
+         }
+      }
+   },
+   "utter_college_savings_calculator": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "اسمح لنا بمساعدتك في ضبط خطة الإدخار التعليمي الخاصة بك في بضع دقائق فقط مع حاسبة مدخرات التعليم"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "Fine-tune your education savings plan in a couple of minutes with our College Savings Calculator!"
+            ]
+         }
+      }
+   },
+   "utter_debt_consolidate": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "هل فكرت يوما في توحيد ديونك الشخصية ؟"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "Have you ever thought how much you need to save up for a secure future? We suggest opting for debt consolidation. This helps you calculate your future expenses and plan your savings accordingly."
+            ]
+         }
+      }
+   },
+   "utter_savings_calculator": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "إدخار المال يساعدك علي ان تكون مأمن ماليا ، ويوفر لك الأمان في الحالات الطارئة"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "Saving money helps ensure a financially secure tomorrow and provides you with a safety net in case of an emergency."
+            ]
+         }
+      }
+   },
+   "utter_zakat_calculator": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "يمكنني مساعدتك في حساب مبلغ الزكاة السنوية وفقا للشريعة الاسلامية"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "I can help you calculate your annual Zakat payment as per the Islamic law."
+            ]
+         }
+      }
+   },
+   "utter_cool_million": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "أنت لا تعرف متى يمكن لمدخراتك أن تجعلك مليونيرا"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "Use the Cool Million Calculator to find out when your savings may make you a millionaire."
+            ]
+         }
+      }
+   },
+   "utter_goal_settings_carousel": {
+      "ar": {
+         "content": {
+            "type": "carousel",
+            "elements": [
+               {
+                  "label": "التخطيط و الإدارة المالية",
+                  "description": "عرض حلولنا المختلفة للتقاعد ومدخرات التعليم و إدارة الديون",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/National%20Bonds/Images/GoalSettings/Planning&Management.jpg",
+                  "buttons": [
+                     {
+                        "title": "تكافل - حماية",
+                        "payload": "/protection"
+                     },
+                     {
+                        "title": "التخطيط للتقاعد",
+                        "payload": "/retirement_planning_goal"
+                     },
+                     {
+                        "title": "التخطيط لتعليم الابناء",
+                        "payload": "/education"
+                     }
+                  ]
+               },
+               {
+                  "label": "التخطيط و الحماية",
+                  "description": "تعرف علي برنامج الحماية والتخطيط العقاري و حلول الاستثمار",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/National%20Bonds/Images/GoalSettings/Planning&Protection.jpg",
+                  "buttons": [
+                     {
+                        "title": "التخطيط العقارى",
+                        "payload": "/estate_planning"
+                     },
+                     {
+                        "title": "إدارة الديون",
+                        "payload": "/debt_management"
+                     },
+                     {
+                        "title": "حلول الإستثمار",
+                        "payload": "/investment_solutions"
+                     }
+                  ]
+               }
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "carousel",
+            "elements": [
+               {
+                  "label": "Planning & Management",
+                  "description": "Get information on our protection, education & retirement solutions.",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/National%20Bonds/Images/GoalSettings/Planning&Management.jpg",
+                  "buttons": [
+                     {
+                        "title": "Protection - Takaful",
+                        "payload": "/protection"
+                     },
+                     {
+                        "title": "Retirement Planning",
+                        "payload": "/retirement_planning_goal"
+                     },
+                     {
+                        "title": "Children Education",
+                        "payload": "/education"
+                     }
+                  ]
+               },
+               {
+                  "label": "Planning & Protection",
+                  "description": "Learn about our estate planning, debt management & investment solutions.",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/National%20Bonds/Images/GoalSettings/Planning&Protection.jpg",
+                  "buttons": [
+                     {
+                        "title": "Estate Planning",
+                        "payload": "/estate_planning"
+                     },
+                     {
+                        "title": "Debt Management",
+                        "payload": "/debt_management"
+                     },
+                     {
+                        "title": "Investment Solutions",
+                        "payload": "/investment_solutions"
+                     }
+                  ]
+               }
+            ]
+         }
+      }
+   },
+   "utter_goal_settings": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "اي من هذه الخيارات ترغب في المزيد من المعلومات عنها ؟"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "Which of these options would you like information on?"
+            ]
+         }
+      }
+   },
+   "utter_goal_education": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "تظهر الإحصاءات أن تكاليف التعليم تزداد بمعدل 20% سنويا. لذلك من الأفضل تكون لديك خطة طويلة الأجل https://bit.ly/2l9zmZr"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "Statistics show that education costs grow over 20% yearly. It is more beneficial to have a long-term plan https://bit.ly/2l9zmZr"
+            ]
+         }
+      }
+   },
+   "utter_retirement_goals": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "كلما خططت مبكرا للتقاعد ، كلما حصلت على المزيد من المزايا"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "The sooner you plan your retirement, the more advantages it holds."
+            ]
+         }
+      }
+   },
+   "utter_debt_management": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "أحصل علي معلومات عن علامات التحذير من الديون مقدما وتعلم أيضا كيفية القضاء على الديون https://bit.ly/2l9zmZr"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "Potential debts have warning signs! Learn to foresee debts and conquer them here: https://bit.ly/2l9zmZr"
+            ]
+         }
+      }
+   },
+   "utter_protection": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "من المهم ان تبقي نفسك محميا من ظروف الحياة الغير متوقعة"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "Being financially prepared for any situation is important!"
+            ]
+         }
+      }
+   },
+   "utter_estate_planning": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "الإرادة هي حجر الأساس فيما يتعلق بالتخطيط العقاري وتأمين راحة البال"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "A valid will is important when it comes to estate planning"
+            ]
+         }
+      }
+   },
+   "utter_investment_solutions": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "ينصح بعدم وضع  البيض في سله واحده عندما تفكر بالإستثمار"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "Smart investments can reap impressive benefits!"
+            ]
+         }
+      }
+   },
+   "utter_prestige_selected": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "تشمل خدماتنا المتميزة المزايا والتسهيلات الحصرية المختلفة للعملاء الذين يستثمرون 50,000 درهما إماراتيا وما فوق"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "Our Prestige Services include various exclusive benefits and facilities for customers investing AED 50,000 and above."
+            ]
+         }
+      }
+   },
+   "utter_gold": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "إنضم لعضويتنا الذهبية من خلال استثمار 350,000 درهم إماراتي أو أكثر ،عضويتنا الذهبية تقدم لك أولوية الحصول علي فرص الاستثمار و مجموعة من الامتيازات المتنوعة التي تليق بك كشريك مميز"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "Enjoy the most premium services in the region with our Gold Membership, accessible only to our customers with investments above AED 350,000! \n\n\nOur benefits include priority access to investment opportunities and a designated wealth manager."
+            ]
+         }
+      }
+   },
+   "utter_info_form_filled_gold": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "لقد ارسلت بيانات الاتصال بك الى فريق العمل، سيتم إرسال المعلومات اللازمة إليك قريبا"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "Your application form is in process, a member of the team will get in touch with you shortly."
+            ]
+         }
+      }
+   },
+   "utter_callback_requested": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "لقد أرسلت طلبا لمعاودة الإتصال بك"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "I've requested for a callback for you."
+            ]
+         }
+      }
+   },
+   "utter_application_filled_in": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "لقد أرسلت نموذج الطلب الخاص بك إلى فريق العمل لدينا ، سيقوم أحد ممثلينا بالتواصل معكم قريبا"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "I've sent your application form to our team! A member of the team will be in touch with you shortly,"
+            ]
+         }
+      }
+   },
+   "utter_other_options_prestige": {
+      "ar": {
+         "content": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "هل ترغب بالمزيد من المعلومات عن خدمات بريستيج؟",
+                  "replies": [
+                     {
+                        "title": "الذهبية",
+                        "payload": "/gold"
+                     },
+                     {
+                        "title": "الفضية",
+                        "payload": "/silver"
+                     },
+                     {
+                        "title": "البرونزية",
+                        "payload": "/bronze"
+                     }
+                  ]
+               }
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "Which of our exclusive Prestige Services would you like to explore? :slight_smile:",
+                  "replies": [
+                     {
+                        "title": "Gold",
+                        "payload": "/gold"
+                     },
+                     {
+                        "title": "Silver",
+                        "payload": "/silver"
+                     },
+                     {
+                        "title": "Bronze",
+                        "payload": "/bronze"
+                     }
+                  ]
+               }
+            ]
+         }
+      }
+   },
+   "utter_apply_online_form": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "الرجاء ملء نموذج الطلب أدناه ؟"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "Could you please fill out the application form below?"
+            ]
+         }
+      }
+   },
+   "utter_silver": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "انضم إلى عضويتنا الفضية باستثمار يبدأ من 150,000 درهم اماراتي واستمتع بخدماتنا الحصرية"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "Our Silver Facility offers benefits such as a personal relationship manager, special investment opportunities and an annual bonus https://bit.ly/2BevLl1"
+            ]
+         }
+      }
+   },
+   "utter_info_form_filled_silver": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "لقد ارسلت بيانات الاتصال بك الى فريق العمل، سيتم إرسال المعلومات اللازمة إليك قريبا"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "I've passed on your details to our team, the information will be shared with you shortly."
+            ]
+         }
+      }
+   },
+   "utter_bronze": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "انضم إلى العضوية البرونزية من خلال استثمار 50,000 درهم اماراتي واستمتع بتجربة إدارة ثروتك مع المميزات الأخرى"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "Instant cash redemption, exclusive investment opportunities and special customer service! Enjoy all of this with our Bronze Service, available exclusively to customers investing a minimum of AED 50,000 with us."
+            ]
+         }
+      }
+   },
+   "utter_personal_selected": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "لدينا العديد من المنتجات والخدمات والمكافات لتختار من بينها"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "Select from a diverse range of products, services and rewards."
+            ]
+         }
+      }
+   },
+   "utter_promotions_and_offers_selected": {
+      "ar": {
+         "content": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "هل تريد معرفة المزيد عن العروض و المكافآت الحالية؟",
+                  "replies": [
+                     {
+                        "title": "العروض",
+                        "payload": "/promotions"
+                     },
+                     {
+                        "title": "المكافآت",
+                        "payload": "/rewards"
+                     }
+                  ]
+               }
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "Would you like information on our current Promotions or Rewards?",
+                  "replies": [
+                     {
+                        "title": "Promotions",
+                        "payload": "/promotions"
+                     },
+                     {
+                        "title": "Rewards",
+                        "payload": "/rewards"
+                     }
+                  ]
+               }
+            ]
+         }
+      }
+   },
+   "utter_promotions_selected": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "تفقد آخر عروضنا هنا"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "Here are some of our latest Promotions."
+            ]
+         }
+      }
+   },
+   "utter_personal_other_options": {
+      "ar": {
+         "content": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "هل ترغب بالمزيد من المعلومات عن أى من الخدمات الآتية؟",
+                  "replies": [
+                     {
+                        "title": "المنتجات",
+                        "payload": "/personal_products"
+                     },
+                     {
+                        "title": "الخدمات",
+                        "payload": "/personal_services"
+                     },
+                     {
+                        "title": "العروض و المكافآت",
+                        "payload": "/personal_rewards"
+                     }
+                  ]
+               }
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "Which of the following would you like to explore?",
+                  "replies": [
+                     {
+                        "title": "Products",
+                        "payload": "/personal_products"
+                     },
+                     {
+                        "title": "Services",
+                        "payload": "/personal_services"
+                     },
+                     {
+                        "title": "Promotions & Rewards",
+                        "payload": "/personal_rewards"
+                     }
+                  ]
+               }
+            ]
+         }
+      }
+   },
+   "utter_no_promotions": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "نحن نعمل حاليا علي توفير عروض جديدة لنطرحها لكم قريبا"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "We're still working on some fantastic promotions for you."
+            ]
+         }
+      }
+   },
+   "utter_rewards": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "هل ترغب في تجربة برنامج المكافآت الأكثر أثارة ؟"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "What if you could win prizes ranging from AED 50 to a million every year? And what if you could stand a chance to win AED 100,000 every month?"
+            ]
+         }
+      }
+   },
+   "utter_services_selected": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "هل تبحث عن خدمات الأفراد ؟"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "Which of our personal services are you looking for?"
+            ]
+         }
+      }
+   },
+   "utter_redemption_selected": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "توفر لكم الصكوك الوطنية مرونة في استرداد مدخراتكم بعد مرور 30 يوماً، ويعتمد ذلك على خيارات الادخار الخاصة بكم"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "Based on your savings plan, National Bonds lets you commit to only 30 days before redeeming your funds and 90 days if you choose to save with a credit card!"
+            ]
+         }
+      }
+   },
+   "utter_faqs_message": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "لقد قمنا بجمع قائمة من الاسئلة الشائعة يمكنك إستعراضها حسب المواضيع أدناه"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "We have put together a list of commonly asked questions organised by topic below:"
+            ]
+         }
+      }
+   },
+   "utter_other_personal_services": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "كيف يمكننى مساعدتك؟"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "What can I help you with?"
+            ]
+         }
+      }
+   },
+   "utter_sukuk_express": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "أستخدم أجهزة خدمة صكوك اكسبرس التى تعمل على مدار 24 ساعة لزيادة مدخراتك كحد أقصى يصل إلى 20 ألف درهم في اليوم"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "Use one of our 24-hour Sukuk Express Kiosks to issue bonds up to AED 20,000. You can also enjoy a simple top-up service."
+            ]
+         }
+      }
+   },
+   "utter_products": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "الرجاء إختيار المنتج الذي ترغب في معرفة المزيد من المعلومات عنه"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "Please select the product that you would like information on."
+            ]
+         }
+      }
+   },
+   "utter_personal_products_carousel": {
+      "ar": {
+         "content": {
+            "type": "carousel",
+            "elements": [
+               {
+                  "label": "بطاقة الادخار الائتمانية",
+                  "description": "بطاقة إئتمان مصممة حسب إحتياجاتك الشخصية",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/National%20Bonds/Images/PersonalImages/SaverCreditCard.jpg",
+                  "buttons": [
+                     {
+                        "title": "بطاقة الادخار الائتمانية",
+                        "payload": "/saver_credit_card"
+                     }
+                  ]
+               },
+               {
+                  "label": "صكوك الإدخار",
+                  "description": "تعرف علي خطط الإستثمار المتوافقة مع أحكام الشريعة",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/National%20Bonds/Images/PersonalImages/Bonds.jpg",
+                  "buttons": [
+                     {
+                        "title": "صكوك الإدخار",
+                        "payload": "/savings_bonds"
+                     }
+                  ]
+               },
+               {
+                  "label": "تيرم صكوك",
+                  "description": "جميع المعلومات التي تحتاج معرفتها عن تيرم صكوك",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/National%20Bonds/Images/PersonalImages/SukukServices.jpg",
+                  "buttons": [
+                     {
+                        "title": "تيرم صكوك",
+                        "payload": "/termsukuk"
+                     },
+                     {
+                        "title": "تيرم صكوك 3 & 6 أشهر",
+                        "payload": "/term_sukuk_3_and_6_months"
+                     }
+                  ]
+               },
+               {
+                  "label": "خطتى & خطة الرهن",
+                  "description": "تعرف على برنامج خطتى و خطة الرهن",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/National%20Bonds/Images/PersonalImages/Plans&Schemes.jpg",
+                  "buttons": [
+                     {
+                        "title": "خطتى",
+                        "payload": "/myplan_service"
+                     },
+                     {
+                        "title": "خطة الرهن",
+                        "payload": "/pledging_scheme"
+                     }
+                  ]
+               },
+               {
+                  "label": "قسائم الهدايا",
+                  "description": "قسيمة يمكن ان تعطي أحبائك مستقبلا أمنا",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/National%20Bonds/Images/PersonalImages/GiftVouchers.jpg",
+                  "buttons": [
+                     {
+                        "title": "عرض قسائم الهدايا",
+                        "payload": "/giftvoucherspersonal"
+                     }
+                  ]
+               }
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "carousel",
+            "elements": [
+               {
+                  "label": "Bonds",
+                  "description": "Long-term profits with our Shari'a compliant investment opportunities.",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/National%20Bonds/Images/PersonalImages/Bonds.jpg",
+                  "buttons": [
+                     {
+                        "title": "Savings Bonds",
+                        "payload": "/savings_bonds"
+                     }
+                  ]
+               },
+               {
+                  "label": "Sukuk Services",
+                  "description": "Enjoy competitive profits with personalised investment opportunities!",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/National%20Bonds/Images/PersonalImages/SukukServices.jpg",
+                  "buttons": [
+                     {
+                        "title": "TermSukuk",
+                        "payload": "/termsukuk"
+                     },
+                     {
+                        "title": "TermSukuk 3 & 6 Months",
+                        "payload": "/term_sukuk_3_and_6_months"
+                     },
+                     {
+                        "title": "Sukuk Booster",
+                        "payload": "/sukuk_booster"
+                     }
+                  ]
+               },
+               {
+                  "label": "Plans & Schemes",
+                  "description": "Start saving in 3 steps with myPlan or get instant cash with our Pledging Scheme.",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/National%20Bonds/Images/PersonalImages/Plans&Schemes.jpg",
+                  "buttons": [
+                     {
+                        "title": "myPlan",
+                        "payload": "/myplan_service"
+                     },
+                     {
+                        "title": "Pledging Scheme",
+                        "payload": "/pledging_scheme"
+                     }
+                  ]
+               },
+               {
+                  "label": "Gift Vouchers",
+                  "description": "Your loved ones deserve gifts that go a long way!",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/National%20Bonds/Images/PersonalImages/GiftVouchers.jpg",
+                  "buttons": [
+                     {
+                        "title": "Know More",
+                        "payload": "/giftvoucherspersonal"
+                     }
+                  ]
+               },
+               {
+                  "label": "Education Plan",
+                  "description": "Secure your child's future today.",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/National%20Bonds/Images/PersonalImages/EducationPlan.jpg",
+                  "buttons": [
+                     {
+                        "title": "View",
+                        "payload": "/education_plan"
+                     }
+                  ]
+               }
+            ]
+         }
+      }
+   },
+   "utter_faqs_carousel": {
+      "ar": {
+         "content": {
+            "type": "carousel",
+            "elements": [
+               {
+                  "label": "من نحن",
+                  "description": "تعرف علي تاريخ تأسيسنا والتزامانا بالشريعة الإسلامية وسياسة توزيع الأرباح",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/National%20Bonds/Images/FAQ/AboutNationalBonds.jpg",
+                  "buttons": [
+                     {
+                        "title": "من نحن",
+                        "payload": "/about"
+                     },
+                     {
+                        "title": "الأرباح",
+                        "payload": "/profit"
+                     },
+                     {
+                        "title": "التوافق مع أحكام الشريعة",
+                        "payload": "/sharia"
+                     }
+                  ]
+               },
+               {
+                  "label": "منتجاتنا",
+                  "description": "أنضم لعائلة الصكوك الوطنية مع خططنا المخصصة للإدخار",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/National%20Bonds/Images/FAQ/OurProducts.jpg",
+                  "buttons": [
+                     {
+                        "title": "خطتى",
+                        "payload": "/myplan_faqs"
+                     },
+                     {
+                        "title": "الصكوك الإلكترونية",
+                        "payload": "/ebonds"
+                     },
+                     {
+                        "title": "كيفية التقدم",
+                        "payload": "/how_to_apply"
+                     }
+                  ]
+               },
+               {
+                  "label": "خطط الإدخار",
+                  "description": "انضم إلى أحد مخططاتنا الإدخارية لضمان مستقبل مستقل ماديا",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/National%20Bonds/Images/FAQ/Savings.jpg",
+                  "buttons": [
+                     {
+                        "title": "صكوك الإدخار",
+                        "payload": "/saving_bonds_faqs"
+                     },
+                     {
+                        "title": "برنامج إدخار الموظفين",
+                        "payload": "/employee_savings_faqs"
+                     },
+                     {
+                        "title": "خطط إدخار المؤسسات",
+                        "payload": "/corporate_savings_faqs"
+                     }
+                  ]
+               },
+               {
+                  "label": "برنامج المكافآت",
+                  "description": "قم بالإدخار معنا أو قم بشراء قسائم الهدايا و أربح العديد من المكافات مع الصكوك الوطنية",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/National%20Bonds/Images/FAQ/Rewards.jpg",
+                  "buttons": [
+                     {
+                        "title": "الإسترداد",
+                        "payload": "/redemption_faqs"
+                     },
+                     {
+                        "title": "قسائم الهدايا",
+                        "payload": "/gift_vouchers_faqs"
+                     },
+                     {
+                        "title": "برنامج المكافآت",
+                        "payload": "/rewards_program_faqs"
+                     }
+                  ]
+               },
+               {
+                  "label": "الإمتثال الضريبي",
+                  "description": "تعلم كيفية إمتثال الصكوك الوطنية للنظام الضريبي لمكافحة التهرب الضريبي",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/National%20Bonds/Images/FAQ/TaxCompliance.jpg",
+                  "buttons": [
+                     {
+                        "title": "صكوك اكسبريس",
+                        "payload": "/sukuk_express"
+                     },
+                     {
+                        "title": "المعايير الموحدة للإبلاغ الضريبي",
+                        "payload": "/crs"
+                     },
+                     {
+                        "title": "قانون الإلتزام الضريبي للحسابات الأجنبية",
+                        "payload": "/fatca"
+                     }
+                  ]
+               }
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "carousel",
+            "elements": [
+               {
+                  "label": "About National Bonds",
+                  "description": "Learn more about who we are and what we pride ourselves in.",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/National%20Bonds/Images/FAQ/AboutNationalBonds.jpg",
+                  "buttons": [
+                     {
+                        "title": "About Us",
+                        "payload": "/about"
+                     },
+                     {
+                        "title": "Profits",
+                        "payload": "/profit"
+                     },
+                     {
+                        "title": "Shari'a Compliance",
+                        "payload": "/sharia"
+                     }
+                  ]
+               },
+               {
+                  "label": "Our Products",
+                  "description": "Join the National Bonds family and plan for a secured future.",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/National%20Bonds/Images/FAQ/OurProducts.jpg",
+                  "buttons": [
+                     {
+                        "title": "MyPlan",
+                        "payload": "/myplan_faqs"
+                     },
+                     {
+                        "title": "E-Bonds",
+                        "payload": "/ebonds"
+                     },
+                     {
+                        "title": "How To Apply",
+                        "payload": "/how_to_apply"
+                     }
+                  ]
+               },
+               {
+                  "label": "Savings",
+                  "description": "Apply for a savings scheme that offers flexibility and comfort.",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/National%20Bonds/Images/FAQ/Savings.jpg",
+                  "buttons": [
+                     {
+                        "title": "Saving Bonds",
+                        "payload": "/saving_bonds_faqs"
+                     },
+                     {
+                        "title": "Employee Savings",
+                        "payload": "/employee_savings_faqs"
+                     },
+                     {
+                        "title": "Corporate Savings",
+                        "payload": "/corporate_savings_faqs"
+                     }
+                  ]
+               },
+               {
+                  "label": "Rewards",
+                  "description": "Get rewarded for saving and planning for a secure future.",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/National%20Bonds/Images/FAQ/Rewards.jpg",
+                  "buttons": [
+                     {
+                        "title": "Redemption",
+                        "payload": "/redemption_faqs"
+                     },
+                     {
+                        "title": "Gift Vouchers",
+                        "payload": "/gift_vouchers_faqs"
+                     },
+                     {
+                        "title": "Rewards Program",
+                        "payload": "/rewards_program_faqs"
+                     }
+                  ]
+               },
+               {
+                  "label": "Tax Compliance",
+                  "description": "Learn about our commitment to compliance with tax rules and regulations.",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/National%20Bonds/Images/FAQ/TaxCompliance.jpg",
+                  "buttons": [
+                     {
+                        "title": "Sukuk Express",
+                        "payload": "/sukuk_express"
+                     },
+                     {
+                        "title": "CRS Requirements",
+                        "payload": "/crs"
+                     },
+                     {
+                        "title": "FATCA Requirements",
+                        "payload": "/fatca"
+                     }
+                  ]
+               }
+            ]
+         }
+      }
+   },
+   "utter_personal_vouchers": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "قم بإهداء أحبائك بمستقبل آمن ، هديه أفضل من اي شيء آخر"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "Gift your loved ones a happy today and a secure tomorrow!"
+            ]
+         }
+      }
+   },
+   "utter_myplanservice": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "خطتي توفر لك راحة البال والطمأنينة عن طريق اختيار الدفع لنفسك أولاً"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "Ever paid yourself to save? That is what myPlan is. Pay yourself today, enjoy a secure future tomorrow."
+            ]
+         }
+      }
+   },
+   "utter_about_us": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "شركة الصكوك الوطنية (ش.م.خ.) هي شركة مساهمة خاصة تأسست في مارس 2006"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "National Bonds is a private joint stock shareholding company, established in March 2006."
+            ]
+         }
+      }
+   },
+   "utter_termsukuk_personal": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "تيرم صكوك هو فرصة إستثمارية متوافقة مع الشريعة الإسلامية ، ابدأ الإستثمار لسنة أو سنتان أو ثلاث سنوات من 10,000 درهم فقط"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "TermSukuk is a flexible, yet Shari'a compliant investment opportunity where you can start saving with as low as AED 10,000."
+            ]
+         }
+      }
+   },
+   "utter_saving_bonds": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "صكوك الادخار هي الخيار الأفضل الذي يلائم أهدافك ونمط حياتك"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "Save without compromising on your lifestyle! Our Savings Bonds lets you start saving with as little as AED 100."
+            ]
+         }
+      }
+   },
+   "utter_sukuk_3_and_6_months_personal": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "تيرم صكوك 3 و 6 أشهر يقوم على صيغة المضاربة الشرعية"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "TermSukuk for 3 and 6 months is Shari'a compliant on the basis of Mudarba with highly competitive profits rates!"
+            ]
+         }
+      }
+   },
+   "utter_pledging_scheme": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "قم برهن صكوكك اليوم بمعدل ربح تنافسي"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "Pledge your Sukuk today at a competitive profit rate."
+            ]
+         }
+      }
+   },
+   "utter_saver_credit_card": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "بطاقة الادخار الائتمانية الجديدة تمكنك من توظيف نقودك لأجل زيادة مدخراتك. تتمتع هذه البطاقة بالعديد من الميزات التي تم تخصيصها لتتماشى مع متطلباتك"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "The saver credit card makes your money work for you, it is customized by you and holds high profit rates, discounts and various privileges."
+            ]
+         }
+      }
+   },
+   "utter_step_up_bonds": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "تقدم صكوك ستيب أب أعلى العوائد المتوقعة مع اقصى قدر من المرونة في الإستثمار"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "Step Up Bonds hold the highest expected returns with maximum flexibility for investment."
+            ]
+         }
+      }
+   },
+   "utter_more_help_products": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "هل تريد المزيد من المعلومات عن منتجات الأفراد"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "Here is a list of all our personal products."
+            ]
+         }
+      }
+   },
+   "utter_business_carousel": {
+      "ar": {
+         "content": {
+            "type": "carousel",
+            "elements": [
+               {
+                  "label": "برنامج إدخار الموظفين",
+                  "description": "مساعدة الموظفين علي بناء مستقبل أمن مع برنامج إدخار الموظفين",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/National%20Bonds/Images/Business/EmployeeSavingsProgram.jpg",
+                  "buttons": [
+                     {
+                        "title": "إدخار الموظفين",
+                        "payload": "/employee_saving_program"
+                     }
+                  ]
+               },
+               {
+                  "label": "صكوك الدرهم الإماراتى",
+                  "description": "استكشف فرص إستثمار منخفضة المخاطر لشركتك",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/National%20Bonds/Images/Business/DirhamSavingsProgram.jpg",
+                  "buttons": [
+                     {
+                        "title": "صكوك الدرهم الإماراتى",
+                        "payload": "/dirham_saving_program"
+                     }
+                  ]
+               },
+               {
+                  "label": "تيرم صكوك",
+                  "description": "صممت خصيصا لتلائم متطلبات الإستثمار الخاصة بك",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/National%20Bonds/Images/Business/TermSukuk.jpg",
+                  "buttons": [
+                     {
+                        "title": "تيرم صكوك",
+                        "payload": "/termsukuk_business"
+                     }
+                  ]
+               },
+               {
+                  "label": "قسائم الهدايا",
+                  "description": "كافئ موظفيك بقسائم هدايا الشركات",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/National%20Bonds/Images/Business/GiftVouchers-1.jpg",
+                  "buttons": [
+                     {
+                        "title": "قسائم الهدايا",
+                        "payload": "/gift_vouchers"
+                     }
+                  ]
+               }
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "carousel",
+            "elements": [
+               {
+                  "label": "Employee Saving Program",
+                  "description": "Secure your employees finances using our Employee Saving Program.",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/National%20Bonds/Images/Business/EmployeeSavingsProgram.jpg",
+                  "buttons": [
+                     {
+                        "title": "Employee Saving",
+                        "payload": "/employee_saving_program"
+                     }
+                  ]
+               },
+               {
+                  "label": "Dirham Saving Program",
+                  "description": "Discover new low-risk investment opportunities.",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/National%20Bonds/Images/Business/DirhamSavingsProgram.jpg",
+                  "buttons": [
+                     {
+                        "title": "Dirham Saving",
+                        "payload": "/dirham_saving_program"
+                     }
+                  ]
+               },
+               {
+                  "label": "TermSukuk",
+                  "description": "Begin your personalized savings plan with TermSukuk.",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/National%20Bonds/Images/Business/TermSukuk.jpg",
+                  "buttons": [
+                     {
+                        "title": "TermSukuk",
+                        "payload": "/termsukuk_business"
+                     }
+                  ]
+               },
+               {
+                  "label": "Gift Vouchers",
+                  "description": "Reward your employees with special Corporate Gift Vouchers.",
+                  "image_type": "url",
+                  "image": "http://thatsbluelogic.com/projects/National%20Bonds/Images/Business/GiftVouchers-1.jpg",
+                  "buttons": [
+                     {
+                        "title": "Gift Vouchers",
+                        "payload": "/gift_vouchers"
+                     }
+                  ]
+               }
+            ]
+         }
+      }
+   },
+   "utter_business_selected": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "عن أي خدمات أو معلومات تبحث؟"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "Which of the following Business Services would you like to know more about?"
+            ]
+         }
+      }
+   },
+   "utter_sharia_compliance": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "هل تعلم ان خطط الصكوك الوطنية تتوافق مع الشريعة الإسلامية ؟"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "National Bonds is based on a Mudaraba agreement, which is a Shari'a Compliant scheme."
+            ]
+         }
+      }
+   },
+   "utter_idikhari_selected": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "صممت خدمة إدخاري لموظفي حكومة دبي لزيادة الوعي بشان الإدخار و إدارة التمويل الشخصي  https://bit.ly/2tBaMV2"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "The Idhikhari Service is for Dubai Government employees to increase awareness on savings and provide them with personal finance management https://bit.ly/2tBaMV2"
+            ]
+         }
+      }
+   },
+   "utter_info_form_filled_idikhari": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "لقد ارسلت بيانات الاتصال بك الى فريق العمل، سيتم إرسال المعلومات اللازمة إليك قريبا"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "I've passed on your details to the team, the information will be sent to you shortly."
+            ]
+         }
+      }
+   },
+   "utter_other_options_business_services": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "هل تبحث عن المزيد من خدمات المؤسسات؟"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "Which of these business services are you looking for?"
+            ]
+         }
+      }
+   },
+   "utter_how_to_apply": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "يحق للمقيمين و غير المقيمين في دولة الإمارات فوق سن 21 سنة شراء الصكوك الوطنية فى حال توفر الوثائق القانونية المطلوبة"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "UAE residents and non-residents above the age of 21 are eligible to purchase National Bonds as long as the required legal documents are presented."
+            ]
+         }
+      }
+   },
+   "utter_employee_savings_selected": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "صمم برنامج إدخار الموظفين لتشجيعهم على زيادة الانتاجية و لتحفيز الموظفين"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "The Employee Saving Program is designed to boost productivity and motivate employees."
+            ]
+         }
+      }
+   },
+   "utter_dhs_savings_selected": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "برنامج صكوك الدرهم الإماراتى يعد إستثمار بأسعار معقولة للغاية ومخصص للأشخاص الذين يبحثون عن المخططات المالية المتوافقة مع أحكام الشريعة الإسلامية"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "The Dirham Saving Program is an extremely affordable investment meant for people looking for Shari’a compliant schemes."
+            ]
+         }
+      }
+   },
+   "utter_info_form_filled_dhs_savings": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "لقد ارسلت بيانات الاتصال بك الى فريق العمل، سيتم إرسال المعلومات اللازمة إليك قريبا"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "I've passed on your details to the team, the information will be sent to you shortly."
+            ]
+         }
+      }
+   },
+   "utter_e_bonds_faqs": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "الصكوك الوطنية توفر لك خدمة عبر الإنترنت حيث تتلقي الشهادات الخاصة بك في كل مره تقوم باجراء عملية الشراء"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "National Bonds provides an online service where you receive your certificates every time you make a purchase."
+            ]
+         }
+      }
+   },
+   "utter_info_form_filled_emp_savings": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "لقد ارسلت بيانات الاتصال بك الى فريق العمل، سيتم إرسال المعلومات اللازمة إليك قريبا"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "I've passed on your details to the team, the information will be sent to you shortly!"
+            ]
+         }
+      }
+   },
+   "utter_career": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "نشكركم علي تواصلكم معنا"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "Thank you for getting in touch with us!"
+            ]
+         }
+      }
+   },
+   "utter_termsukuk_busines": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "تيرم صكوك توفرلك خطط استثمارية مخصصة وفقا لإحتياجاتك مما يسمح لك بالاستفادة من برنامجنا الرائد للمكافآت  Https://bit.ly/2NmytGF"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "Term Sukuk provides personalized investment plans as per your needs while also allowing you to benefit from a leading Rewards Program: https://bit.ly/2NmytGF"
+            ]
+         }
+      }
+   },
+   "utter_info_form_filled_termsukuk": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "لقد ارسلت بيانات الاتصال بك الى فريق العمل، سيتم إرسال المعلومات اللازمة إليك قريبا"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "I've passed on your details to the team, the information will be sent to you shortly."
+            ]
+         }
+      }
+   },
+   "utter_gift_vouchers_selected": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "اظهر لموظفيك مدى إهتمامك بمستقبلهم ونجاحهم مع قسائم هدايا المؤسسات"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "Show your employees you care about their future and success with our corporate gift vouchers."
+            ]
+         }
+      }
+   },
+   "utter_info_form_filled_gift": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "لقد ارسلت بيانات الاتصال بك الى فريق العمل، سيتم إرسال المعلومات اللازمة إليك قريبا"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "I've passed on your details to the team, the information will be sent to you shortly."
+            ]
+         }
+      }
+   },
+   "utter_fatca": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "قانون الإلتزام الضريبي للحسابات الأجنبية (fatca) هو القانون الاتحادي للولايات المتحدة 2010 الذي يهدف إلى المساعدة في مكافحة التهرب الضريبي في الولايات المتحدة الامريكية"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "The Foreign Account Tax Compliance Act (FATCA) is a 2010 United States federal law which  aims to help counter tax evasion in the US."
+            ]
+         }
+      }
+   },
+   "utter_crs": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "معايير الإفصاح المشترك هى نظام عالمي يتطلب التبادل التلقائي للمعلومات المتعلقة بالحسابات المالية بين المؤسسات للحد من التهرب الضريبي من خلال تعزيز الإبلاغ عن المعلومات"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "The Common Reporting Standard (CRS) is a global system which requires the automatic exchange of financial account information between institutions to reduce tax evasion through enhanced information reporting."
+            ]
+         }
+      }
+   },
+   "utter_bronze_info_form_filled": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "لقد ارسلت بيانات الاتصال بك الى فريق العمل، سيتم إرسال المعلومات اللازمة إليك قريبا"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "I've passed on your details to the team, the information will be sent to you shortly!"
+            ]
+         }
+      }
+   },
+   "utter_faqs_intro": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "يمكنك القيام بتصفح الأسئلة الشائعة حسب الموضوع أدناه"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "Browse through the list of commonly asked questions organised by topic below."
+            ]
+         }
+      }
+   },
+   "utter_gift_vouchers__faqs": {
+      "ar": {
+         "content": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "ما نوع قسائم الهدايا التي تبحث عنها ؟",
+                  "replies": [
+                     {
+                        "title": "الأفراد",
+                        "payload": "/giftvoucherspersonal"
+                     },
+                     {
+                        "title": "المؤسسات",
+                        "payload": "/gift_vouchers"
+                     }
+                  ]
+               }
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "What type of a gift voucher are you looking for?",
+                  "replies": [
+                     {
+                        "title": "Personal",
+                        "payload": "/giftvoucherspersonal"
+                     },
+                     {
+                        "title": "Business",
+                        "payload": "/gift_vouchers"
+                     }
+                  ]
+               }
+            ]
+         }
+      }
+   },
+   "utter_profits_faqs": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "في الصكوك الوطنية ، تعتمد طرق توزيع الأرباح علي مدة إدخارك معنا"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "At National Bonds, our profit distribution methods are based on the duration of your savings with us."
+            ]
+         }
+      }
+   },
+   "utter_main_menu_option": {
+      "ar": {
+         "content": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "هل تود زيارة القائمة الرئيسية؟",
+                  "replies": [
+                     {
+                        "title": "القائمة الرئيسية",
+                        "payload": "/start_over"
+                     },
+                     {
+                        "title": "عرض المنتجات الأخرى",
+                        "payload": "/other_personalproducts"
+                     }
+                  ]
+               }
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "Would you like to visit the main menu?",
+                  "replies": [
+                     {
+                        "title": "Main menu",
+                        "payload": "/start_over"
+                     },
+                     {
+                        "title": "View Other Products",
+                        "payload": "/other_personalproducts"
+                     }
+                  ]
+               }
+            ]
+         }
+      }
+   },
+   "utter_choose_option_saver_credit_card": {
+      "ar": {
+         "content": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "هل تفضل زيارة الموقع أو إرسال بريد إلكتروني للمزيد من المعلومات ؟",
+                  "replies": [
+                     {
+                        "title": "زيارة الموقع",
+                        "payload": "https://nationalbonds.ae/product-details?item=222e7b99-ca2f-6f76-bc2c-ff00005d5b89"
+                     },
+                     {
+                        "title": "إرسال بريد إلكترونى",
+                        "payload": "/moreinfo_savercreditcard_2"
+                     }
+                  ]
+               }
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "You can either visit the website for more information or request for the information to be emailed to you."
+            ]
+         }
+      }
+   },
+   "utter_choose_option_saving_bonds": {
+      "ar": {
+         "content": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "هل تفضل زيارة الموقع أو إرسال بريد إلكتروني للمزيد من المعلومات ؟",
+                  "replies": [
+                     {
+                        "title": "إرسال بريد إلكترونى",
+                        "payload": "/moreinfo_savingbonds_2"
+                     },
+                     {
+                        "title": "زيارة الموقع",
+                        "payload": "https://nationalbonds.ae/product-details?item=4f140599-ca2f-6f76-bc2c-ff00005d5b89"
+                     }
+                  ]
+               }
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "Do you prefer our team emailing you the details?",
+                  "replies": [
+                     {
+                        "title": "Email",
+                        "payload": "/moreinfo_savingbonds_2"
+                     },
+                     {
+                        "title": "Visit Website",
+                        "payload": "https://nationalbonds.ae/product-details?item=4f140599-ca2f-6f76-bc2c-ff00005d5b89"
+                     }
+                  ]
+               }
+            ]
+         }
+      }
+   },
+   "utter_choose_option_stepupbonds": {
+      "ar": {
+         "content": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "هل تفضل زيارة الموقع أو إرسال بريد إلكتروني للمزيد من المعلومات ؟",
+                  "replies": [
+                     {
+                        "title": "إرسال بريد إلكترونى",
+                        "payload": "/moreinfo_stepupbonds_2"
+                     },
+                     {
+                        "title": "زيارة الموقع",
+                        "payload": "https://nationalbonds.ae/product-details?item=1d52469a-ca2f-6f76-bc2c-ff00005d5b89"
+                     }
+                  ]
+               }
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "Do you prefer our team emailing you the details?",
+                  "replies": [
+                     {
+                        "title": "Email",
+                        "payload": "/moreinfo_stepupbonds_2"
+                     },
+                     {
+                        "title": "Visit Website",
+                        "payload": "https://nationalbonds.ae/product-details?item=1d52469a-ca2f-6f76-bc2c-ff00005d5b89"
+                     }
+                  ]
+               }
+            ]
+         }
+      }
+   },
+   "utter_choose_option_termsukuk": {
+      "ar": {
+         "content": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "هل تفضل زيارة الموقع أو إرسال بريد إلكتروني للمزيد من المعلومات ؟",
+                  "replies": [
+                     {
+                        "title": "إرسال بريد إلكترونى",
+                        "payload": "/moreinfo_termsukuk_2"
+                     },
+                     {
+                        "title": "زيارة الموقع",
+                        "payload": "https://nationalbonds.ae/product-details?item=381a0599-ca2f-6f76-bc2c-ff00005d5b89"
+                     }
+                  ]
+               }
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "Do you prefer our team emailing you the details ?",
+                  "replies": [
+                     {
+                        "title": "Email",
+                        "payload": "/moreinfo_termsukuk_2"
+                     },
+                     {
+                        "title": "Visit Website",
+                        "payload": "https://nationalbonds.ae/product-details?item=381a0599-ca2f-6f76-bc2c-ff00005d5b89"
+                     }
+                  ]
+               }
+            ]
+         }
+      }
+   },
+   "utter_choose_option_termsukuk_3&6_months": {
+      "ar": {
+         "content": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "هل تفضل زيارة الموقع أو إرسال بريد إلكتروني للمزيد من المعلومات ؟",
+                  "replies": [
+                     {
+                        "title": "إرسال بريد إلكترونى",
+                        "payload": "/moreinfo_termsukuk3&4_2"
+                     },
+                     {
+                        "title": "زيارة الموقع",
+                        "payload": "https://nationalbonds.ae/product-details?item=45404d9a-ca2f-6f76-bc2c-ff00005d5b89"
+                     }
+                  ]
+               }
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "Do you prefer our team emailing you the details?",
+                  "replies": [
+                     {
+                        "title": "Email",
+                        "payload": "/moreinfo_termsukuk3&4_2"
+                     },
+                     {
+                        "title": "Visit Website",
+                        "payload": "https://nationalbonds.ae/product-details?item=45404d9a-ca2f-6f76-bc2c-ff00005d5b89"
+                     }
+                  ]
+               }
+            ]
+         }
+      }
+   },
+   "utter_choose_option_myplan_service": {
+      "ar": {
+         "content": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "هل تفضل زيارة الموقع أو إرسال بريد إلكتروني للمزيد من المعلومات ؟",
+                  "replies": [
+                     {
+                        "title": "إرسال بريد إلكترونى",
+                        "payload": "/moreinfo_myplan_2"
+                     },
+                     {
+                        "title": "زيارة الموقع",
+                        "payload": "https://nationalbonds.ae/product-details?item=081a0599-ca2f-6f76-bc2c-ff00005d5b89"
+                     }
+                  ]
+               }
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "You can either get more information emailed to you or visit the website for more information."
+            ]
+         }
+      }
+   },
+   "utter_choose_options_pledging_scheme": {
+      "ar": {
+         "content": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "هل تفضل زيارة الموقع أو إرسال بريد إلكتروني للمزيد من المعلومات ؟",
+                  "replies": [
+                     {
+                        "title": "إرسال بريد إلكترونى",
+                        "payload": "/moreinfo_pledging_2"
+                     },
+                     {
+                        "title": "زيارة الموقع",
+                        "payload": "https://nationalbonds.ae/product-details?item=9aca0599-ca2f-6f76-bc2c-ff00005d5b89"
+                     }
+                  ]
+               }
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "Would you prefer to visit the website or receive an email for more information?",
+                  "replies": [
+                     {
+                        "title": "Email",
+                        "payload": "/moreinfo_pledging_2"
+                     },
+                     {
+                        "title": "Visit Website",
+                        "payload": "https://nationalbonds.ae/product-details?item=9aca0599-ca2f-6f76-bc2c-ff00005d5b89"
+                     }
+                  ]
+               }
+            ]
+         }
+      }
+   },
+   "utter_choose_option_gift_vouchers": {
+      "ar": {
+         "content": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "هل تفضل أن يقوم فريقنا بإرسال التفاصيل عبر البريد الكتروني ؟",
+                  "replies": [
+                     {
+                        "title": "إرسال بريد إلكترونى",
+                        "payload": "/moreinfo_giftvouchers_2"
+                     },
+                     {
+                        "title": "زيارة الموقع",
+                        "payload": "https://nationalbonds.ae/product-details?item=c0ca0599-ca2f-6f76-bc2c-ff00005d5b89"
+                     }
+                  ]
+               }
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "Do you prefer our team emailing you the details?",
+                  "replies": [
+                     {
+                        "title": "Email",
+                        "payload": "/moreinfo_giftvouchers_2"
+                     },
+                     {
+                        "title": "Visit Website",
+                        "payload": "https://nationalbonds.ae/product-details?item=c0ca0599-ca2f-6f76-bc2c-ff00005d5b89"
+                     }
+                  ]
+               }
+            ]
+         }
+      }
+   },
+   "utter_info_form_filled_personal_services": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "لقد قمت بإرسال بيانات الاتصال الخاصة بك الى فريق العمل . سيتم إرسال المعلومات اليك قريبا"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "I've passed on your details to the team, the information will be sent to you shortly!"
+            ]
+         }
+      }
+   },
+   "utter_info_form_filled_redemption": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "لقد قمت بإرسال بيانات الاتصال الخاصة بك الى فريق العمل . سيتم إرسال المعلومات اليك قريبا"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "I've passed on your details to the team. The information will be sent to you shortly!"
+            ]
+         }
+      }
+   },
+   "utter_callback_request": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "الرجاء ملء الاستمارة أدناه ، و سيقوم أحد ممثلينا بالاتصال بك للإجابة علي أسئلتك"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "Could you fill out the form below so I can ask someone on the team to get in touch with you?"
+            ]
+         }
+      }
+   },
+   "utter_callback_request_infosubmitted": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "شكرا لك لتقديم بيانات الإتصال الخاصة بك"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "Thank you for submitting your details."
+            ]
+         }
+      }
+   },
+   "utter_other_options_prestige_2nd": {
+      "ar": {
+         "content": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "لإستعراض اى من خدمات بريستيج الرجاء الإختيار من الخيارات أدناه",
+                  "replies": [
+                     {
+                        "title": "العضوية الذهبية",
+                        "payload": "/gold"
+                     },
+                     {
+                        "title": "العضوية الفضية",
+                        "payload": "/silver"
+                     },
+                     {
+                        "title": "العضوية البرونزية",
+                        "payload": "/bronze"
+                     }
+                  ]
+               }
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "Which of these options are you looking for? :slight_smile:",
+                  "replies": [
+                     {
+                        "title": "Gold",
+                        "payload": "/gold"
+                     },
+                     {
+                        "title": "Silver",
+                        "payload": "/silver"
+                     },
+                     {
+                        "title": "Bronze",
+                        "payload": "/bronze"
+                     }
+                  ]
+               }
+            ]
+         }
+      }
+   },
+   "utter_callback_requested_prestige": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "لقد تقدمت بطلب لمعاودة الاتصال بك"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "I've requested for a callback for you!"
+            ]
+         }
+      }
+   },
+   "utter_myplanservice_faqs": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "خطتي توفر لك راحة البال والطمأنينة عن طريق اختيار الدفع لنفسك أولاً"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "Ever paid yourself to save? myPlan is exactly that. Pay yourself today, enjoy a secure future tomorrow."
+            ]
+         }
+      }
+   },
+   "utter_saving_bonds_faqs": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "صكوك الادخار هي الخيار الأفضل الذي يلائم أهدافك ونمط حياتك ، مع صكوك الادخار يمكنك التخطيط لمستقبلك بطريقة سهلة عن طريق شهادات الادخار"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "Our gift vouchers ranging from AED 100 - AED 25,000 allow your loved ones to enjoy the perks of investing with us: https://bit.ly/2MTAfSB"
+            ]
+         }
+      }
+   },
+   "utter_sukuk_express_faq": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "تتيح لك أجهزة خدمة صكوك اكسبرس بالتعاون مع (MBME -The Cube) زيادة مدخراتك في حسابك مع الصكوك الوطنية"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "Use one of our 24-hour Kiosks to issue bonds up to AED 20,000. You can also enjoy a simple top-up service."
+            ]
+         }
+      }
+   },
+   "utter_employee_savings_faqs": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "تم تصميم برنامج إدخار الموظفين لزيادة الإنتاج وتحفيز الموظفين على الإدخار"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "The Employee Saving Program is designed to boost productivity and motivate employees."
+            ]
+         }
+      }
+   },
+   "utter_corporate_savings_faqs": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "برنامج صكوك الدرهم الإماراتى هو خطة استثمار بأسعار معقولة للغاية وهو برنامج ادخار متوافق مع أحكام الشريعة الإسلامية"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "The Dirham Saving Program is an extremely affordable investment meant for people looking for Shari’a compliant schemes."
+            ]
+         }
+      }
+   },
+   "utter_redemption_faqs": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "توفر لكم الصكوك الوطنية مرونة في استرداد مدخراتكم بعد مرور 30 يوماً، ويعتمد ذلك على خيارات الادخار الخاصة بكم. أما المدخرات التي تتم باستخدام بطاقات الائتمان والمدخرات، فيمكن استردادها بعد 90 يوماً"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "Based on your savings plan, National Bonds lets you commit to only 30 days before redeeming your funds and 90 days if you choose to save with a credit card!"
+            ]
+         }
+      }
+   },
+   "utter_rewards_faqs": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "هل انت على استعداد لاختبار برنامج مكافآت الصكوك الوطنية الأكثر إثارة؟"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "What if you could win prizes ranging from AED 50 to a million every year? And what if you could stand a chance to win AED 100,000 every month?"
+            ]
+         }
+      }
+   },
+   "utter_termsukuk_options": {
+      "ar": {
+         "content": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "اي من برامج تيرم صكوك التالية ترغب في استكشافها ؟",
+                  "replies": [
+                     {
+                        "title": "الأفراد",
+                        "payload": "/pterm"
+                     },
+                     {
+                        "title": "المؤسسات",
+                        "payload": "/bterm"
+                     }
+                  ]
+               }
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "Which of the TermSukuk program would you like to explore ?",
+                  "replies": [
+                     {
+                        "title": "Personal",
+                        "payload": "/pterm"
+                     },
+                     {
+                        "title": "Business",
+                        "payload": "/bterm"
+                     }
+                  ]
+               }
+            ]
+         }
+      }
+   },
+   "utter_termsukukpersonal_option": {
+      "ar": {
+         "content": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "هل تريد معرفة المزيد عن اي من خدماتنا التالية ؟",
+                  "replies": [
+                     {
+                        "title": "تيرم صكوك",
+                        "payload": "/ppterm"
+                     },
+                     {
+                        "title": "تيرم صكوك 3 و 6 أشهر",
+                        "payload": "/36term"
+                     },
+                     {
+                        "title": "صكوك اكسبريس",
+                        "payload": "/expterm"
+                     }
+                  ]
+               }
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "Which of the following services are you interested in?",
+                  "replies": [
+                     {
+                        "title": "TermSukuk",
+                        "payload": "/ppterm"
+                     },
+                     {
+                        "title": "TermSukuk 3 & 6 Months",
+                        "payload": "/36term"
+                     },
+                     {
+                        "title": "Sukuk Express",
+                        "payload": "/expterm"
+                     }
+                  ]
+               }
+            ]
+         }
+      }
+   },
+   "utter_sukuk_express_intent": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "تتيح لك أجهزة خدمة صكوك اكسبرس بالتعاون مع (MBME -The Cube) زيادة مدخراتك في حسابك مع الصكوك الوطنية"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "Use one of our 24-hour Kiosks to issue bonds up to AED 20,000. You can also enjoy a simple top-up service."
+            ]
+         }
+      }
+   },
+   "utter_language_switch": {
+      "ar": {
+         "content": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "الرجاء إختياراللغة التي ترغب في المتابعة بها",
+                  "replies": [
+                     {
+                        "title": "English",
+                        "payload": "/english"
+                     },
+                     {
+                        "title": "العربية",
+                        "payload": "/arabic"
+                     }
+                  ]
+               }
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "Please select the language you would like to proceed with.",
+                  "replies": [
+                     {
+                        "title": "English",
+                        "payload": "/english"
+                     },
+                     {
+                        "title": "العربية",
+                        "payload": "/arabic"
+                     }
+                  ]
+               }
+            ]
+         }
+      }
+   },
+   "utter_mobile_app": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "تطبيق الصكوك الوطنية للجوال الخاص بنا يسمح لك بالدخول إلى حسابك اثناء التنقل"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "You can download it on the App Store here: https://apple.co/2BSLzdu"
+            ]
+         }
+      }
+   },
+   "utter_referral_contractor": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "هل تعلم انه يمكنك كسب المال من خلال الانضمام إلى برنامج اتفاقية الوساطة الخاص بنا ؟"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "Earn money by joining our referral program!"
+            ]
+         }
+      }
+   },
+   "utter_goodbye_message": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "لقد سعدت بالتحدث إليك 😃"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "It was great speaking with you! 😃"
+            ]
+         }
+      }
+   },
+   "utter_choose_savings_plan": {
+      "ar": {
+         "content": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "اى من هذه الخدمات تود استعراضها؟",
+                  "replies": [
+                     {
+                        "title": "خدمات الأفراد",
+                        "payload": "/otheroptionspersonal"
+                     },
+                     {
+                        "title": "خدمات المؤسسات",
+                        "payload": "/business_services"
+                     }
+                  ]
+               }
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "What can I help you with?",
+                  "replies": [
+                     {
+                        "title": "Personal Services",
+                        "payload": "/otheroptionspersonal"
+                     },
+                     {
+                        "title": "Business Services",
+                        "payload": "/business_services"
+                     }
+                  ]
+               }
+            ]
+         }
+      }
+   },
+   "utter_goodbye": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "شكرا لزيارتك للصكوك الوطنية"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "Thank you for visiting National Bonds."
+            ]
+         }
+      }
+   },
+   "utter_about_sam": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "انا سام ، الموظف الإفتراضي المعين من قبل الصكوك الوطنية"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "I'm Sam, a digital employee at National Bonds and I'm here to help you."
+            ]
+         }
+      }
+   },
+   "utter_weather": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "الطقس لا يمكن التنبؤ به ، ولكن تأكد من أن خطتك المالية ليست كذلك"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "Weather is unpredictable, but we ensure your financial planning is not."
+            ]
+         }
+      }
+   },
+   "utter_test": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "أتمنى ان تكون سعيدا! انا اعمل على تطوير نفسي يوميا"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "I strive to be better every day. I hope I could live up to your expectations."
+            ]
+         }
+      }
+   },
+   "utter_feeling_sad": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "لا تقلق بشان ذلك ، كل شيء سيكون علي ما يرام في نهاية المطاف"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "Every cloud has a silver lining. Yours is just round the corner, don't worry!"
+            ]
+         }
+      }
+   },
+   "utter_suggestions": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "أي من خياراتنا التالية تبحث عن المشورة بشأنها ؟"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "Which of the following options are you looking for advice on?"
+            ]
+         }
+      }
+   },
+   "utter_happy_birthday": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "كل عام و انت بخير ، اتمنى لك عاما سعيدا و مستقبلا سعيدا"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "Happy Birthday! I wish you a day full of surprises and good cheer."
+            ]
+         }
+      }
+   },
+   "utter_feelings_positive_to_us": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "شكرا لك"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "That's sweet!"
+            ]
+         }
+      }
+   },
+   "utter_rating_thanks": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "شكرا لك على التقييم ، اراك قريبا"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "Thank you for sharing your rating. We look forward to seeing you soon!"
+            ]
+         }
+      }
+   },
+   "utter_user_back": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "مرحبا بك"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "Welcome back! Hope you've been doing well."
+            ]
+         }
+      }
+   },
+   "utter_answer": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "انا ما زلت أتعلم. يمكنك محاولة طرح السؤال بطريقة أخرى أو يمكنك بمنتهى السهولة ان تختار من الخيارات التالية ؟"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "Oops, could you type that differently maybe? Or, simply pick an option from below..."
+            ]
+         }
+      }
+   },
+   "utter_annoying": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "انا آسف لانى جعلتك تشعر بذلك الشعور"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "I'm sorry for annoying you! I'll ask my Manager to fix me."
+            ]
+         }
+      }
+   },
+   "utter_age": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "انا برنامج جديد نسبيا ، ولكن حكمتى تتعدى عمرى بكثير"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "I'm a relatively new program, but I'm wise beyond my years."
+            ]
+         }
+      }
+   },
+   "utter_busy": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "دائما لدي وقت لعملائنا الكرام ، كيف يمكنني ان أساعدك ؟"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "Don't hesitate to reach out to me whenever you want! I'm always happy to help."
+            ]
+         }
+      }
+   },
+   "utter_fallback": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "عذرا ، لم استطع ان افهم ماذا تقصد"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "I'm sorry, I don't understand what you mean."
+            ]
+         }
+      }
+   },
+   "utter_how_are_you": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "الحمد لله ، بخير دامك بخير"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "I'm great as long as my savings are in order."
+            ]
+         }
+      }
+   },
+   "utter_greeting_intent": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "مرحبا بك ، كيف يمكننى أن أساعدك اليوم؟"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "Hi, what can I do for you?"
+            ]
+         }
+      }
+   },
+   "utter_dummy": {
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "This is a sample response..."
+            ]
+         }
+      }
+   },
+   "utter_work_with_nb": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "لقد انضممت مؤخرا إلى فريق عمل الصكوك الوطنية"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "I have just joined the National Bonds team and I'm still learning."
+            ]
+         }
+      }
+   },
+   "utter_cta_options_faqs": {
+      "ar": {
+         "content": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "هل يمكننى مساعدتك بشئ آخر؟",
+                  "replies": [
+                     {
+                        "title": "المزيد من الأسئلة الشائعة",
+                        "payload": "/faqs"
+                     },
+                     {
+                        "title": "القائمة الرئيسية",
+                        "payload": "/start_over"
+                     }
+                  ]
+               }
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "May I help you with anything else?",
+                  "replies": [
+                     {
+                        "title": "More FAQ's",
+                        "payload": "/faqs"
+                     },
+                     {
+                        "title": "Main Menu",
+                        "payload": "/start_over"
+                     }
+                  ]
+               }
+            ]
+         }
+      }
+   },
+   "utter_dp": {
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "Dap response."
+            ]
+         }
+      }
+   },
+   "utter_info_form_filled_in_faqs": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "شكرا لك لمشاركة بيانات الإتصال الخاصة بك. سيتم إرسال المعلومات اليك قريبا"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "Thank you for filling in the form. The information will be shared with you shortly."
+            ]
+         }
+      }
+   },
+   "utter_fillers_give_me_a_moment": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "الرجاء منحى لحظه لجمع المعلومات التي تحتاجها"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "Just a moment, my bot brain is looking for the information you need..."
+            ]
+         }
+      }
+   },
+   "utter_test_response": {
+      "ar": {
+         "content": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "زر الاختبار",
+                  "replies": [
+                     {
+                        "title": "الرد 1",
+                        "payload": "/test1"
+                     },
+                     {
+                        "title": "الرد 2",
+                        "payload": "/test2"
+                     }
+                  ]
+               }
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "Optional text will go here to see if it breaks on any kind of screen small or big just typing some random gibberish",
+                  "replies": [
+                     {
+                        "title": "Reply 1",
+                        "payload": "/test1"
+                     },
+                     {
+                        "title": "Reply 2",
+                        "payload": "/test2"
+                     }
+                  ]
+               }
+            ]
+         }
+      }
+   },
+   "utter_apply_online_webhook": {
+      "en": {
+         "content": {
+            "type": "webhook",
+            "elements": [
+               "https://us-central1-bl-webhoook.cloudfunctions.net/nb/createLead"
+            ]
+         }
+      }
+   },
+   "utter_apply_online_form_pr": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "الرجاء ملء نموذج الطلب أدناه ؟"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "Could you please fill out the application form below?"
+            ]
+         }
+      }
+   },
+   "utter_apply_online_form_bs": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "الرجاء ملء نموذج الطلب أدناه ؟"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "Could you please fill out the application form below?"
+            ]
+         }
+      }
+   },
+   "utter_dummybuttons": {
+      "en": {
+         "content": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "Optional text will go here to see if it breaks on any kind of screen small or big just typing some random gibberish",
+                  "replies": [
+                     {
+                        "title": "Reply 1",
+                        "payload": "/prextra"
+                     },
+                     {
+                        "title": "Reply 2",
+                        "payload": "/bsextra"
+                     },
+                     {
+                        "title": "New Button",
+                        "payload": "/psextra"
+                     }
+                  ]
+               }
+            ]
+         }
+      }
+   },
+   "utter_sukuk_booster": {
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "Sukuk Booster is an impressive investment product with expected returns of up to 16% over 4 years."
+            ]
+         }
+      }
+   },
+   "utter_minimum_amount": {
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "AED 100. You can begin with as low as that! We recommend you to join myPlan for monthly savings and you could save a minimum of AED 1,000 to avoid paying minimum balance fees."
+            ]
+         }
+      }
+   },
+   "utter_personal_saving_intents": {
+      "ar": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "لدينا العديد من المنتجات والخدمات والمكافات لتختار من بينها"
+            ]
+         }
+      },
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "We have super simple, incredible saving opportunities!"
+            ]
+         }
+      }
+   },
+   "utter_education_plan": {
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "A simple 3-step process to secure your child's future. Ensure your child gets the best education, even in the event of unfavourable circumstances."
+            ]
+         }
+      }
+   },
+   "utter_direct_debit": {
+      "en": {
+         "content": {
+            "type": "texts",
+            "elements": [
+               "Save time and avoid late fines! Direct Debit lets you select a date on which all your monthly bills/expenses get paid automatically from your account."
+            ]
+         }
+      }
+   },
+   "utter_temp": {
+      "en": {
+         "content": {
+            "type": "quickreplies",
+            "elements": [
+               {
+                  "text": "Optional text will go here to see if it breaks on any kind of screen small or big just typing some random gibberish",
+                  "replies": [
+                     {
+                        "title": "Reply 1",
+                        "payload": "/sukuk_booster"
+                     },
+                     {
+                        "title": "New Button",
+                        "payload": "/onlineapply_educationplan"
+                     }
+                  ]
+               }
+            ]
+         }
+      }
+   }
+}

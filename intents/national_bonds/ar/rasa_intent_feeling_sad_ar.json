@@ -1,0 +1,87 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "أنا حزين",
+            "intent": "feeling_sad",
+            "entities": []
+         },
+         {
+            "text": "انا حزين",
+            "intent": "feeling_sad",
+            "entities": []
+         },
+         {
+            "text": "انا مكتئب",
+            "intent": "feeling_sad",
+            "entities": []
+         },
+         {
+            "text": "انا اشعر بالحزن",
+            "intent": "feeling_sad",
+            "entities": []
+         },
+         {
+            "text": "انا اشعر بالاكتئاب",
+            "intent": "feeling_sad",
+            "entities": []
+         },
+         {
+            "text": "انا غاضب",
+            "intent": "feeling_sad",
+            "entities": []
+         },
+         {
+            "text": "انا غضبان",
+            "intent": "feeling_sad",
+            "entities": []
+         },
+         {
+            "text": "انا لست سعيدا",
+            "intent": "feeling_sad",
+            "entities": []
+         },
+         {
+            "text": "لا اشعر بالسعادة",
+            "intent": "feeling_sad",
+            "entities": []
+         },
+         {
+            "text": "لقد ممرت بيوم سيئ",
+            "intent": "feeling_sad",
+            "entities": []
+         },
+         {
+            "text": "اريد البكاء",
+            "intent": "feeling_sad",
+            "entities": []
+         },
+         {
+            "text": "انا غير سعيد",
+            "intent": "feeling_sad",
+            "entities": []
+         },
+         {
+            "text": "مزاجى سيئ",
+            "intent": "feeling_sad",
+            "entities": []
+         },
+         {
+            "text": "هذا اليوم محبط جدا",
+            "intent": "feeling_sad",
+            "entities": []
+         },
+         {
+            "text": "اليوم ليس جيدا",
+            "intent": "feeling_sad",
+            "entities": []
+         },
+         {
+            "text": "لماذا انا حزين جدا",
+            "intent": "feeling_sad",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

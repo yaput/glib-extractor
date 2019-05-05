@@ -1,0 +1,97 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "اليوم عيد ميلادى",
+            "intent": "happy_birthday",
+            "entities": []
+         },
+         {
+            "text": "لقد ولدت فى هذا اليوم",
+            "intent": "happy_birthday",
+            "entities": []
+         },
+         {
+            "text": "لقد تمت ولادتى اليوم",
+            "intent": "happy_birthday",
+            "entities": []
+         },
+         {
+            "text": "انا احتفل بعيد ميلادى اليوم",
+            "intent": "happy_birthday",
+            "entities": []
+         },
+         {
+            "text": "عيد ميلاد",
+            "intent": "happy_birthday",
+            "entities": []
+         },
+         {
+            "text": "غدا عيد ميلاد والدى",
+            "intent": "happy_birthday",
+            "entities": []
+         },
+         {
+            "text": "لا يوجد احد فى عيد ميلادى",
+            "intent": "happy_birthday",
+            "entities": []
+         },
+         {
+            "text": "لم يحتفل احد بعيد ميلادى",
+            "intent": "happy_birthday",
+            "entities": []
+         },
+         {
+            "text": "تمنى لى عيد ميلاد سعيد",
+            "intent": "happy_birthday",
+            "entities": []
+         },
+         {
+            "text": "عيد ميلاد عيد ميلاد عيد ميلاد",
+            "intent": "happy_birthday",
+            "entities": []
+         },
+         {
+            "text": "اليوم عيد ميلادى",
+            "intent": "happy_birthday",
+            "entities": []
+         },
+         {
+            "text": "من فضلك تمنى لى عيد ميلاد سعيد",
+            "intent": "happy_birthday",
+            "entities": []
+         },
+         {
+            "text": "ألن تتمنى لى عيد ميلاد سعيد؟",
+            "intent": "happy_birthday",
+            "entities": []
+         },
+         {
+            "text": "اريد هدية اليوم عيد ميلادى",
+            "intent": "happy_birthday",
+            "entities": []
+         },
+         {
+            "text": "انت مدين لى بهدية اليوم عيد ميلادى",
+            "intent": "happy_birthday",
+            "entities": []
+         },
+         {
+            "text": "عيد ميلادددددد",
+            "intent": "happy_birthday",
+            "entities": []
+         },
+         {
+            "text": "تمنى لى عيد ميلاد سعيد",
+            "intent": "happy_birthday",
+            "entities": []
+         },
+         {
+            "text": "اليوم عيد ميلاد والدتى",
+            "intent": "happy_birthday",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

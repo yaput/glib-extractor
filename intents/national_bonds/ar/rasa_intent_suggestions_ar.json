@@ -1,0 +1,97 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "برجاء تقديم المشورة",
+            "intent": "suggestions",
+            "entities": []
+         },
+         {
+            "text": "اريد النصيحة من فضلك",
+            "intent": "suggestions",
+            "entities": []
+         },
+         {
+            "text": "من فضلك اقترح على",
+            "intent": "suggestions",
+            "entities": []
+         },
+         {
+            "text": "من فضلك اعطنى اقتراحك",
+            "intent": "suggestions",
+            "entities": []
+         },
+         {
+            "text": "أعطني بعض النصائح",
+            "intent": "suggestions",
+            "entities": []
+         },
+         {
+            "text": "أعطني بعض الاقتراحات",
+            "intent": "suggestions",
+            "entities": []
+         },
+         {
+            "text": "احتاج إلى نصيحه",
+            "intent": "suggestions",
+            "entities": []
+         },
+         {
+            "text": "ما الذي ينبغي علي فعله؟",
+            "intent": "suggestions",
+            "entities": []
+         },
+         {
+            "text": "ماذا افعل؟",
+            "intent": "suggestions",
+            "entities": []
+         },
+         {
+            "text": "هلى يمكنني ان اطلب المشورة ؟",
+            "intent": "suggestions",
+            "entities": []
+         },
+         {
+            "text": "اي نصائح ؟",
+            "intent": "suggestions",
+            "entities": []
+         },
+         {
+            "text": "هل تعطي نصائح في الحياة",
+            "intent": "suggestions",
+            "entities": []
+         },
+         {
+            "text": "هل يمكن ان تفيدنى برأيك؟",
+            "intent": "suggestions",
+            "entities": []
+         },
+         {
+            "text": "اريد رأيك",
+            "intent": "suggestions",
+            "entities": []
+         },
+         {
+            "text": "انا ابحث عن نصائح",
+            "intent": "suggestions",
+            "entities": []
+         },
+         {
+            "text": "أريد ان أأخذ نصيحتك",
+            "intent": "suggestions",
+            "entities": []
+         },
+         {
+            "text": "أود انت تعطينى نصيحة",
+            "intent": "suggestions",
+            "entities": []
+         },
+         {
+            "text": "أرغب بأن تعطينى نصيحة",
+            "intent": "suggestions",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

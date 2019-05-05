@@ -1,0 +1,297 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "Do you have any offers",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "promotions",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "do you have any promotions",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "what are your latest promotions and offers",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "Offers",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "Promotions & Offers",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "I want the latest promotions",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "give me a list of the latest promotions",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "what are avivos latest promotions",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "i want the latest promotions",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "do you have any discounts",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "are there any offers",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "what are the main offers",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "main offers please",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "latest offers",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "do you have any current concessions",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "Promotions & offers",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "what are the current promotions you are running?",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "i want an idea on current promotions",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "i want a discount on the services for avivo",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "do you have any special doctors visiting this month",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "i want to know if there are any experts visiting this month",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "what are the current promotions & offers",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "give me a list of the latest promotions",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "give me an idea on promotions",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "what are the latest offers the AVIVO group is running",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "give me an idea of the promotions with AVIVO",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "which hospitals are currently running offers and promotions?",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "which hospitals are running discounts",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "give me a list of the discounts you'll are currently runningt",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "latest discounts",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "any special treatments for the month?",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "where can i view current offers?",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "any special discounts?",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "are there any doctors visiting for special sessions?",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "where can i book an appointment for a promotion?",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "what is your deal of the day?",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "what are the current promotions?",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "does avivo have promotions?",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "what are your latest promotions",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "what are the latest promotions",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "i want a discount on my treatment",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "can i get a discount on my bill?",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "Do you have any health care plans",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "do you have a health package for the elderly people?",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "do you have any skin care packages",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "for you have any health packages for ladies",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "packages for new infants",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "Anenatal Packages?",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "What are the anemata package?",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "i want anenatal package",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "help me with anenatal packages?",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "packages for pregnant ladies",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "Concession",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "promotions",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "discounts",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "offers",
+            "intent": "promotions_&_offers",
+            "entities": []
+         },
+         {
+            "text": "health care packages",
+            "intent": "promotions_&_offers",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

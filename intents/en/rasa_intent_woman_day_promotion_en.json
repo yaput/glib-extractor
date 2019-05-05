@@ -1,0 +1,87 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "Which hospitals is woman 34 promotion available in?",
+            "intent": "woman_day_promotion",
+            "entities": []
+         },
+         {
+            "text": "can you tell me the hospital of women 34 clinic",
+            "intent": "woman_day_promotion",
+            "entities": []
+         },
+         {
+            "text": "what is woman 34 campaign",
+            "intent": "woman_day_promotion",
+            "entities": []
+         },
+         {
+            "text": "whats the womens 34 clinic?",
+            "intent": "woman_day_promotion",
+            "entities": []
+         },
+         {
+            "text": "can you tell me about the women 34 campaign?",
+            "intent": "woman_day_promotion",
+            "entities": []
+         },
+         {
+            "text": "where is the womens day promotion",
+            "intent": "woman_day_promotion",
+            "entities": []
+         },
+         {
+            "text": "what is womens day promotion?",
+            "intent": "woman_day_promotion",
+            "entities": []
+         },
+         {
+            "text": "can you tell me about the promotion for womens day please",
+            "intent": "woman_day_promotion",
+            "entities": []
+         },
+         {
+            "text": "i want to know about the promotion for woman day",
+            "intent": "woman_day_promotion",
+            "entities": []
+         },
+         {
+            "text": "please tell me about the womens day camoaign",
+            "intent": "woman_day_promotion",
+            "entities": []
+         },
+         {
+            "text": "campaign for womens day",
+            "intent": "woman_day_promotion",
+            "entities": []
+         },
+         {
+            "text": "I want to know about the womens day campaign",
+            "intent": "woman_day_promotion",
+            "entities": []
+         },
+         {
+            "text": "please tell me about promotion for womans day",
+            "intent": "woman_day_promotion",
+            "entities": []
+         },
+         {
+            "text": "i need to know about menopause symptoms",
+            "intent": "woman_day_promotion",
+            "entities": []
+         },
+         {
+            "text": "can you tell me about symptoms for menopause?",
+            "intent": "woman_day_promotion",
+            "entities": []
+         },
+         {
+            "text": "menopausal symptoms?",
+            "intent": "woman_day_promotion",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

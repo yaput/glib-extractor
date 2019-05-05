@@ -1,0 +1,82 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "هل انت مشغول؟",
+            "intent": "busy",
+            "entities": []
+         },
+         {
+            "text": "أنت مشغول؟",
+            "intent": "busy",
+            "entities": []
+         },
+         {
+            "text": "هل أنت مشغول الآن؟",
+            "intent": "busy",
+            "entities": []
+         },
+         {
+            "text": "هل لديك الكثير لتفعله؟",
+            "intent": "busy",
+            "entities": []
+         },
+         {
+            "text": "هل لديك الكثير من الأشياء لتفعلها ؟",
+            "intent": "busy",
+            "entities": []
+         },
+         {
+            "text": "هل انت مشغول جدا؟",
+            "intent": "busy",
+            "entities": []
+         },
+         {
+            "text": "هل اقوم بإزعاجك؟",
+            "intent": "busy",
+            "entities": []
+         },
+         {
+            "text": "هل أسبب لك الإزعاج؟",
+            "intent": "busy",
+            "entities": []
+         },
+         {
+            "text": "هل اسبب لك ازعاج؟",
+            "intent": "busy",
+            "entities": []
+         },
+         {
+            "text": "هل تعمل الأن؟",
+            "intent": "busy",
+            "entities": []
+         },
+         {
+            "text": "هل انت تعمل الان؟",
+            "intent": "busy",
+            "entities": []
+         },
+         {
+            "text": "تبدو مشغولا",
+            "intent": "busy",
+            "entities": []
+         },
+         {
+            "text": "تبدو مشغولا جدا",
+            "intent": "busy",
+            "entities": []
+         },
+         {
+            "text": "هل انت مستعد؟",
+            "intent": "busy",
+            "entities": []
+         },
+         {
+            "text": "هل انت مستعد الآن؟",
+            "intent": "busy",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

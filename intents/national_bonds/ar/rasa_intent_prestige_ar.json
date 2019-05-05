@@ -1,0 +1,432 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "معلومات عن باقة برستيج",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "اريد معلومات عن باقة برستيج؟",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "عضوية برستيج",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "ما هى فوائد العضوية الذهبية؟",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "اريد معرفة المزيد عن باقة برستيج",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "أريد معرفة المزيد عن فوائد العضوية الذهبية؟",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "هل يمكننى التقدم للحصول على العضوية الذهبية؟",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "هل يمكننى التقديم للحصول على العضوية الذهبية؟",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "أريد التقديم فى العضوية الذهبية؟",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "كيف أقدم للحصول على العضوية الذهبية؟",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "كيفية التقديم للحصول على العضوية الذهبية؟",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "هل يمكننى التقديم فى العضوية الذهبية؟",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "خدمات العضوية الذهبية",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "ما هى خدمات العضوية الذهبية؟",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "معلومات عن العضوية الذهبية",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "المزيد من المعلومات عن العضوية الذهبية",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "أريد معلومات عن العضوية الذهبية؟",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "باقات برستيج المختلفة",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "باقات برستيج",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "معلومات عن العضوية الفضية",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "المزيد من المعلومات عن العضوية الفضية",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "أريد معلومات عن العضوية الفضية؟",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "معلومات عن العضوية البرونزية",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "المزيد من المعلومات عن العضوية البرونزية",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "أريد معلومات عن العضوية البرونزية؟",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "خدمات العضوية الفضية",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "ما هى خدمات العضوية الفضية؟",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "خدمات العضوية البرونزية",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "ما هى خدمات العضوية البرونزية؟",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "هل يمكننى التقدم للحصول على العضوية الفضية؟",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "هل يمكننى التقديم للحصول على العضوية الفضية؟",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "أريد التقديم فى العضوية الفضية؟",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "كيف أقدم للحصول على العضوية الفضية؟",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "كيفية التقديم للحصول على العضوية الفضية؟",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "هل يمكننى التقديم فى العضوية الفضية؟",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "هل يمكننى التقديم على العضوية الذهبية؟",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "هل يمكننى التقديم على العضوية الفضية؟",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "هل يمكننى التقدم للحصول على العضوية البرونزية؟",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "هل يمكننى التقديم للحصول على العضوية البرونزية؟",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "أريد التقديم فى العضوية البرونزية؟",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "كيف أقدم للحصول على العضوية البرونزية؟",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "كيفية التقديم للحصول على العضوية البرونزية؟",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "أريد التقديم فى العضوية البرونزية؟",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "هل يمكننى التقديم على العضوية البرونزية؟",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "نموذج طلب العضوية الذهبية أونلاين",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "نموذج طلب العضوية الذهبية عبر الانترنت",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "نموذج العضوية الذهبية أونلاين",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "نموذج طلب العضوية الفضية أونلاين",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "نموذج طلب العضوية الفضية عبر الانترنت",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "نموذج العضوية الفضية أونلاين",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "نموذج طلب العضوية البرونزية أونلاين",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "نموذج طلب العضوية البرونزية عبر الانترنت",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "نموذج العضوية البرونزية أونلاين",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "الفرص الإستثمارية في حساب برستيج",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "فرص استثمار حساب برستيج",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "فرص الاستثمار فى حساب برستيج",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "ما هى فرص الاستثمار فى حساب برستيج؟",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "ما هى الفرص الاستثمارية لحساب برستيج؟",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "فوائد العضوية الذهبية",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "ما هى فوائد العضوية الذهبية؟",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "فوائد العضوية الفضية",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "ما هى فوائد العضوية الفضية؟",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "فوائد العضوية البرونزية",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "ما هى فوائد العضوية البرونزية؟",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "ما هى باقة برستيج؟",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "ما هى باقات برستيج؟",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "ما هى باقات برستيج المختلفة؟",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "ما هو الحد الأدنى لمبلغ الاستثمار للعضوية البرونزية ؟",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "ما هو الحد الأدنى لمبلغ الاستثمار للعضوية الفضية ؟",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "ما هو الحد الأدنى لمبلغ الاستثمار للعضوية الذهبية ؟",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "ما هو الحد الأدنى لمبلغ الاستثمار فى العضوية البرونزية ؟",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "ما هو الحد الأدنى لمبلغ الاستثمار فى العضوية الفضية ؟",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "ما هو الحد الأدنى لمبلغ الاستثمار فى العضوية الذهبية ؟",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "الحد الأدنى لمبلغ الاستثمار للعضوية البرونزية ؟",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "الحد الأدنى لمبلغ الاستثمار للعضوية الذهبية ؟",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "الحد الأدنى لمبلغ الاستثمار للعضوية الفضية ؟",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "الخدمات المقدمة مع العضوية الذهببية",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "الخدمات المقدمة مع العضوية الفضية",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "الخدمات المقدمة مع العضوية البرونزية",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "ما هى فائدة امتلاك باقات برستيج؟",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "ما هى فائدة الاشتراك فى باقات برستيج؟",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "ما هى فائدة الانضمام الى باقات برستيج؟",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "ما هى فائدة التسجيل فى باقات برستيج؟",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "معلومات عن باقات برستيج",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "اريد معلومات عن باقات برستيج؟",
+            "intent": "prestige",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

@@ -1,0 +1,22 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "sd",
+            "intent": "dummy_arabic",
+            "entities": []
+         },
+         {
+            "text": "dfghb",
+            "intent": "dummy_arabic",
+            "entities": []
+         },
+         {
+            "text": "sf",
+            "intent": "dummy_arabic",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

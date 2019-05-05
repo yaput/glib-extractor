@@ -1,0 +1,217 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "هل يمكنك ان تريني خيارات الادخار الشخصي ؟",
+            "intent": "personal_products&services",
+            "entities": []
+         },
+         {
+            "text": "هل بإمكانى رؤية خيارات الإدخار الشخصي؟",
+            "intent": "personal_products&services",
+            "entities": []
+         },
+         {
+            "text": "اريد معرفة المزيد عن منتجات الإدخار الشخصى",
+            "intent": "personal_products&services",
+            "entities": []
+         },
+         {
+            "text": "اريد رؤية منتجات الادخار الشخصي",
+            "intent": "personal_products&services",
+            "entities": []
+         },
+         {
+            "text": "هل لديك اي خطط ادخار للأفراد",
+            "intent": "personal_products&services",
+            "entities": []
+         },
+         {
+            "text": "هل لديك اي خطط للادخار الشخصي",
+            "intent": "personal_products&services",
+            "entities": []
+         },
+         {
+            "text": "اخبرنى ما هى الخطط المتاحة للأفراد",
+            "intent": "personal_products&services",
+            "entities": []
+         },
+         {
+            "text": "ما هي الخدمات الشخصية المقدمة ؟",
+            "intent": "personal_products&services",
+            "entities": []
+         },
+         {
+            "text": "ما هى الخدمات المقدمة للأشخاص؟",
+            "intent": "personal_products&services",
+            "entities": []
+         },
+         {
+            "text": "ما هى الخدمات المقدمة للأفراد؟",
+            "intent": "personal_products&services",
+            "entities": []
+         },
+         {
+            "text": "خطة الادخار الشخصية",
+            "intent": "personal_products&services",
+            "entities": []
+         },
+         {
+            "text": "خطط الإدخار الشخصي",
+            "intent": "personal_products&services",
+            "entities": []
+         },
+         {
+            "text": "الصكوك الشخصية",
+            "intent": "personal_products&services",
+            "entities": []
+         },
+         {
+            "text": "السندات الشخصية",
+            "intent": "personal_products&services",
+            "entities": []
+         },
+         {
+            "text": "شخصي",
+            "intent": "personal_products&services",
+            "entities": []
+         },
+         {
+            "text": "أريد شراء السندات لنفسي",
+            "intent": "personal_products&services",
+            "entities": []
+         },
+         {
+            "text": "أريد شراء الصكوك لنفسي",
+            "intent": "personal_products&services",
+            "entities": []
+         },
+         {
+            "text": "هل هناك اي خدمات بالنسبة لي ؟",
+            "intent": "personal_products&services",
+            "entities": []
+         },
+         {
+            "text": "هل هناك اي خدمات لي ؟",
+            "intent": "personal_products&services",
+            "entities": []
+         },
+         {
+            "text": "هل هناك اي خدمات متاحة بالنسبة لي ؟",
+            "intent": "personal_products&services",
+            "entities": []
+         },
+         {
+            "text": "أخى يريد أن يستثمر",
+            "intent": "personal_products&services",
+            "entities": []
+         },
+         {
+            "text": "أخى يريد الإستثمار",
+            "intent": "personal_products&services",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكن لأختي ان تبدأ خطة ادخار شخصيه",
+            "intent": "personal_products&services",
+            "entities": []
+         },
+         {
+            "text": "ابي يريد خطط للادخار",
+            "intent": "personal_products&services",
+            "entities": []
+         },
+         {
+            "text": "هل يمكن لأخي التقدم لأي من خدماتك",
+            "intent": "personal_products&services",
+            "entities": []
+         },
+         {
+            "text": "هل يمكن لأخي التقديم فى اى من خدماتكم",
+            "intent": "personal_products&services",
+            "entities": []
+         },
+         {
+            "text": "ما هي المنتجات والخدمات الشخصية التي تقدمها ؟",
+            "intent": "personal_products&services",
+            "entities": []
+         },
+         {
+            "text": "ما هي المنتجات والخدمات الشخصية التي تقدمها الصكوك الوطنية ؟",
+            "intent": "personal_products&services",
+            "entities": []
+         },
+         {
+            "text": "هل يمكنك ان تقول لي ما هي المنتجات الشخصية ؟",
+            "intent": "personal_products&services",
+            "entities": []
+         },
+         {
+            "text": "هل يمكنك ان تخبرنى ما هي المنتجات الشخصية ؟",
+            "intent": "personal_products&services",
+            "entities": []
+         },
+         {
+            "text": "ما هي الخدمات الشخصية ؟",
+            "intent": "personal_products&services",
+            "entities": []
+         },
+         {
+            "text": "أعرض لى الخدمات الشخصية",
+            "intent": "personal_products&services",
+            "entities": []
+         },
+         {
+            "text": "أعرض على الخدمات الشخصية",
+            "intent": "personal_products&services",
+            "entities": []
+         },
+         {
+            "text": "الشخصية والعامة",
+            "intent": "personal_products&services",
+            "entities": []
+         },
+         {
+            "text": "دلنى على الخدمات الشخصية",
+            "intent": "personal_products&services",
+            "entities": []
+         },
+         {
+            "text": "حولنى الى الخدمات الشخصية",
+            "intent": "personal_products&services",
+            "entities": []
+         },
+         {
+            "text": "حولنى الى الخدمات و المنتجات الشخصية",
+            "intent": "personal_products&services",
+            "entities": []
+         },
+         {
+            "text": "خيارات الادخار الشخصي",
+            "intent": "personal_products&services",
+            "entities": []
+         },
+         {
+            "text": "ما هى خيارات الادخار الشخصي",
+            "intent": "personal_products&services",
+            "entities": []
+         },
+         {
+            "text": "ما هى خيارات الادخار الشخصى؟",
+            "intent": "personal_products&services",
+            "entities": []
+         },
+         {
+            "text": "خدمات الأفراد",
+            "intent": "personal_products&services",
+            "entities": []
+         },
+         {
+            "text": "ما هى خدمات الأفراد؟",
+            "intent": "personal_products&services",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

@@ -1,0 +1,52 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "ما هي اللغات التي يتحدثها طاقم العاملين",
+            "intent": "languages",
+            "entities": []
+         },
+         {
+            "text": "هل يتحدث الأطباء اللغة العربية؟",
+            "intent": "languages",
+            "entities": []
+         },
+         {
+            "text": "هل يتحدث الأطباء اللغة الهندية؟",
+            "intent": "languages",
+            "entities": []
+         },
+         {
+            "text": "هل يتحدث الأطباء المتواجدن في أفيفو اللغة الماليالامية؟",
+            "intent": "languages",
+            "entities": []
+         },
+         {
+            "text": "الأطباء الهنود",
+            "intent": "languages",
+            "entities": []
+         },
+         {
+            "text": "هل يستطيع أي أحد تحدث اللغة العربية؟",
+            "intent": "languages",
+            "entities": []
+         },
+         {
+            "text": "ما هي اللغات التي تتحدثها أفيفو؟",
+            "intent": "languages",
+            "entities": []
+         },
+         {
+            "text": "هل لديكم أطباء عرب؟",
+            "intent": "languages",
+            "entities": []
+         },
+         {
+            "text": "اللغة",
+            "intent": "languages",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

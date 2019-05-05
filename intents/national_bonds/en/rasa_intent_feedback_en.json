@@ -1,0 +1,332 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "I want to provide my feedback",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "please help me give my feedback",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "i want to complain",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "i want to make a complaint",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "please help me give a suggestion",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "i have feedback",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "How can i complain",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "i want to provide some tips",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "I have some issues",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "I have a problem",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "I am not satisfied",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "I have problem with the draw",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "complain about the draw",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "Please increase the age limit",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "Lower the age limit",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "Worst app ever seen in my life.",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "Many of the functions don't work.",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "The app is very bad",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "The app is very slow",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "Very bad service",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "your serviceis so bad",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "This sucks",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "i hate you",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "The NB mobile app is useless",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "please make the app better",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "You should increase the age limit so that we can participate.",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "where to write comment",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "i have some comments",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "where can I give my comments",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "i  had a bad experience",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "i had a good experience",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "i had a great experience at national bonds",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "i love national bonds",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "great job national bonds",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "keep up the good work",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "where can i share my experience",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "where can i place my comments",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "i have some comments",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "national bonds is the best",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "you are the worst",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": ":)",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": ":(",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": ":/",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "You are not helping me",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "You are very bad",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "You are useless",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "You are horrible",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "You are pathetic",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "You are a waste of time",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "You are bad",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "You are not helpful",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "You are disgusting",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "You are lame",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "You are good for nothing",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "You are no good",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "You are not good",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "You are so useless",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "Youa re terrible",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "You are very bad",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "You are waste",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "You are a burden on my PC",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "You are a bad",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "You are not a good",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "You're not very good",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "You're the worst ever",
+            "intent": "feedback",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

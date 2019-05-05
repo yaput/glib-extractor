@@ -1,0 +1,102 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "مرحباً",
+            "intent": "greeting_(introduction)",
+            "entities": []
+         },
+         {
+            "text": "مرحباً",
+            "intent": "greeting_(introduction)",
+            "entities": []
+         },
+         {
+            "text": "!مرحباً بك",
+            "intent": "greeting_(introduction)",
+            "entities": []
+         },
+         {
+            "text": "مرحباً",
+            "intent": "greeting_(introduction)",
+            "entities": []
+         },
+         {
+            "text": "مرحباً",
+            "intent": "greeting_(introduction)",
+            "entities": []
+         },
+         {
+            "text": "كيف الحال؟",
+            "intent": "greeting_(introduction)",
+            "entities": []
+         },
+         {
+            "text": "أحتاج لمساعدة",
+            "intent": "greeting_(introduction)",
+            "entities": []
+         },
+         {
+            "text": "ساعدني",
+            "intent": "greeting_(introduction)",
+            "entities": []
+         },
+         {
+            "text": "أحتاج لمساعدة!",
+            "intent": "greeting_(introduction)",
+            "entities": []
+         },
+         {
+            "text": "ساعدني الآن",
+            "intent": "greeting_(introduction)",
+            "entities": []
+         },
+         {
+            "text": "أحتاج لمساعدة",
+            "intent": "greeting_(introduction)",
+            "entities": []
+         },
+         {
+            "text": "هل يمكنك مساعدتي؟",
+            "intent": "greeting_(introduction)",
+            "entities": []
+         },
+         {
+            "text": "أحتاج إلى التحدث مع أحد",
+            "intent": "greeting_(introduction)",
+            "entities": []
+         },
+         {
+            "text": "ساعدني من فضلك",
+            "intent": "greeting_(introduction)",
+            "entities": []
+         },
+         {
+            "text": "مرحباً",
+            "intent": "greeting_(introduction)",
+            "entities": []
+         },
+         {
+            "text": "كيف الحال؟",
+            "intent": "greeting_(introduction)",
+            "entities": []
+         },
+         {
+            "text": "ساعدني",
+            "intent": "greeting_(introduction)",
+            "entities": []
+         },
+         {
+            "text": "أحتاج لمساعدة",
+            "intent": "greeting_(introduction)",
+            "entities": []
+         },
+         {
+            "text": "كيف الحال؟",
+            "intent": "greeting_(introduction)",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

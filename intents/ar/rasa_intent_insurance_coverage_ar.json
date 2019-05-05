@@ -1,0 +1,252 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "لدي وثيقة، أين يمكن قبولها؟",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "أين يمكن قبول وثيقتي؟",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "أريد أن أعرف أين يمكن قبول وثيقتي",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "أين يمكن قبول وثيقتي",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "ما التأمين المقبول في المستشفى العام؟",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "أين يمكن قبول تأميني",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "قائمة وثائق التأمين المقبولة لدى أفيفو",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "أريد أن أعرف أين يمكن قبول وثيقة تأميني",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "ما الوثائق التي تقبلها مجموعة أفيفو",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "ما التأمين الذي تقبله مجموعة أفيفو؟",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "لدي تأمين أورينت، ما الأماكن التي تقبله؟",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "أين يمكن قبول تأميني",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "ما الوثائق التي تقبلها مستشفيات أفيفو؟",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "قدم لي قائمة بالوثائق التي تقبلها أفيفو",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "هل تقبل المستشفى الألماني وثيقة من أورينت للتأمين؟",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "ما التأمينات المختلفة المناسبة لأفيفو",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكنني معرفة التأمين المقبول في المستشفى؟",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكنني معرفة التأمين المقبول في المستشفى؟",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "هل هناك مسؤول عن فحص التأمين؟",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "هل يمكنني التأكد إذا كان تأميني مقبولاً أم لا قبل زيارة المستشفى؟",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "ما الذي يمكنني فعله لمعرفة ما إذا كان تأميني مقبولاً أم لا؟",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "ما الذي يمكنني فعله لمعرفة ما إذا كان تأميني مقبولاً أم لا؟",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "أين يمكن قبول وثيقتي",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "هل وثيقتي مقبولة في جميع أنحاء دولة الإمارات العربية المتحدة؟",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "ما التغطية التي يوفرها تأميني؟",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "ما البطاقات التأمينية التي تأخذونها",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "هل تقبلون تأمين نكست كير",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "هل تقبلون تأمين عناية",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "ما تأمينكم",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "هل تقبلون بطاقة تأميني",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "ما بطاقة التأمين التي تقبلها المستشفى",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "هل تتعاونون مع أي شبكة تأمين",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "هل بطاقة تأميني مقبولة",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "هل يمكنكم إخباري بشأن الموافقة على تأميني",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "هل تم الموافقة على تأميني",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "أريد فحص حالة الموافقة على تأميني",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "حالة الموافقة على التأمين",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "التأمين",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "الوثيقة",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "وثيقة التأمين",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "تم قبول وثيقة التأمين",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "بطاقة التأمين",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "وثيقة التأمين",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "التعاون في التأمين",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "الموافقة على التأمين",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "التأمين",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "وثيقة التأمين",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "بطاقة التأمين",
+            "intent": "insurance_coverage",
+            "entities": []
+         },
+         {
+            "text": "الموافقة على التأمين",
+            "intent": "insurance_coverage",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

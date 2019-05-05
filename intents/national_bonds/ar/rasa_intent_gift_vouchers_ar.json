@@ -1,0 +1,142 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "قسائم هدايا الشركات",
+            "intent": "gift_vouchers",
+            "entities": []
+         },
+         {
+            "text": "قسائم هدايا الاعمال",
+            "intent": "gift_vouchers",
+            "entities": []
+         },
+         {
+            "text": "أريد الاستثمار في قسائم الهدايا ؟",
+            "intent": "gift_vouchers",
+            "entities": []
+         },
+         {
+            "text": "ما هى قسائم الهدايا المختلفة؟",
+            "intent": "gift_vouchers",
+            "entities": []
+         },
+         {
+            "text": "أريد ان أتقدم بطلب للحصول علي قسيمة هدايا ؟",
+            "intent": "gift_vouchers",
+            "entities": []
+         },
+         {
+            "text": "أين يمكنني شراء قسائم الهدايا ؟",
+            "intent": "gift_vouchers",
+            "entities": []
+         },
+         {
+            "text": "قسائم هدايا الصكوك الوطنية",
+            "intent": "gift_vouchers",
+            "entities": []
+         },
+         {
+            "text": "ما هي قسائم الهدايا ؟",
+            "intent": "gift_vouchers",
+            "entities": []
+         },
+         {
+            "text": "ما هي إجراءات قسائم الهدايا ؟",
+            "intent": "gift_vouchers",
+            "entities": []
+         },
+         {
+            "text": "طلب قسائم الهدايا",
+            "intent": "gift_vouchers",
+            "entities": []
+         },
+         {
+            "text": "هل يمكنني شراء القسائم ؟",
+            "intent": "gift_vouchers",
+            "entities": []
+         },
+         {
+            "text": "ما هو الحد الأقصى لقسائم الهدايا ؟",
+            "intent": "gift_vouchers",
+            "entities": []
+         },
+         {
+            "text": "ما هي عمليه الحصول علي قسائم الهدايا",
+            "intent": "gift_vouchers",
+            "entities": []
+         },
+         {
+            "text": "قسائم الهدايا الشخصية",
+            "intent": "gift_vouchers",
+            "entities": []
+         },
+         {
+            "text": "قسائم هدايا الاعمال",
+            "intent": "gift_vouchers",
+            "entities": []
+         },
+         {
+            "text": "قسائم هدايا الشركات",
+            "intent": "gift_vouchers",
+            "entities": []
+         },
+         {
+            "text": "اين يمكننى شراء قسائم الهدايا",
+            "intent": "gift_vouchers",
+            "entities": []
+         },
+         {
+            "text": "شروط واحكام قسائم الهدايا",
+            "intent": "gift_vouchers",
+            "entities": []
+         },
+         {
+            "text": "كيفية اهداء الصكوك للآخرين",
+            "intent": "gift_vouchers",
+            "entities": []
+         },
+         {
+            "text": "كيف اهدى الصكوك للآخرين",
+            "intent": "gift_vouchers",
+            "entities": []
+         },
+         {
+            "text": "هل يمكنني اهداء شخص ما بالصكوك ؟",
+            "intent": "gift_vouchers",
+            "entities": []
+         },
+         {
+            "text": "ابحث عن قسائم الهدايا",
+            "intent": "gift_vouchers",
+            "entities": []
+         },
+         {
+            "text": "أريد ان اعطي هديه",
+            "intent": "gift_vouchers",
+            "entities": []
+         },
+         {
+            "text": "ما هي قسائم الهدايا ؟",
+            "intent": "gift_vouchers",
+            "entities": []
+         },
+         {
+            "text": "ما هي عملية قسائم الهدايا ؟",
+            "intent": "gift_vouchers",
+            "entities": []
+         },
+         {
+            "text": "لماذا تعد قسائم هدايا الصكوك الوطنية الخيار المثالي للمكافات ؟",
+            "intent": "gift_vouchers",
+            "entities": []
+         },
+         {
+            "text": "قسائم الهدايا",
+            "intent": "gift_vouchers",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

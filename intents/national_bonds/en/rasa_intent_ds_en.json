@@ -1,0 +1,17 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "ds",
+            "intent": "ds",
+            "entities": []
+         },
+         {
+            "text": "sd",
+            "intent": "ds",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

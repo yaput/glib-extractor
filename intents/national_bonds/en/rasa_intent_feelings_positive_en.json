@@ -1,0 +1,72 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "I like you",
+            "intent": "feelings_positive",
+            "entities": []
+         },
+         {
+            "text": "I like you a lot",
+            "intent": "feelings_positive",
+            "entities": []
+         },
+         {
+            "text": "I love you",
+            "intent": "feelings_positive",
+            "entities": []
+         },
+         {
+            "text": "I really like you",
+            "intent": "feelings_positive",
+            "entities": []
+         },
+         {
+            "text": "You are special",
+            "intent": "feelings_positive",
+            "entities": []
+         },
+         {
+            "text": "I am in love with you",
+            "intent": "feelings_positive",
+            "entities": []
+         },
+         {
+            "text": "I adore you",
+            "intent": "feelings_positive",
+            "entities": []
+         },
+         {
+            "text": "I find you adorable",
+            "intent": "feelings_positive",
+            "entities": []
+         },
+         {
+            "text": "You are simply adorable",
+            "intent": "feelings_positive",
+            "entities": []
+         },
+         {
+            "text": "you are the best",
+            "intent": "feelings_positive",
+            "entities": []
+         },
+         {
+            "text": "youre awesome",
+            "intent": "feelings_positive",
+            "entities": []
+         },
+         {
+            "text": "youre the best",
+            "intent": "feelings_positive",
+            "entities": []
+         },
+         {
+            "text": "i love you",
+            "intent": "feelings_positive",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

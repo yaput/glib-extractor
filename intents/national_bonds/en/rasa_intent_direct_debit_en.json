@@ -1,0 +1,107 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "What is direct debit",
+            "intent": "direct_debit",
+            "entities": []
+         },
+         {
+            "text": "can you tell me what direct debit is",
+            "intent": "direct_debit",
+            "entities": []
+         },
+         {
+            "text": "i need to learn about direct debit",
+            "intent": "direct_debit",
+            "entities": []
+         },
+         {
+            "text": "what is the minimum amount for direct debit",
+            "intent": "direct_debit",
+            "entities": []
+         },
+         {
+            "text": "can you tell me the minimum amount for direct debit",
+            "intent": "direct_debit",
+            "entities": []
+         },
+         {
+            "text": "i need to know the least amount for direct debit",
+            "intent": "direct_debit",
+            "entities": []
+         },
+         {
+            "text": "direct debit please",
+            "intent": "direct_debit",
+            "entities": []
+         },
+         {
+            "text": "direct debit",
+            "intent": "direct_debit",
+            "entities": []
+         },
+         {
+            "text": "debit direct",
+            "intent": "direct_debit",
+            "entities": []
+         },
+         {
+            "text": "how many chances do i have to pay with direct debit?",
+            "intent": "direct_debit",
+            "entities": []
+         },
+         {
+            "text": "what are the prize chances I can get with direct debit?",
+            "intent": "direct_debit",
+            "entities": []
+         },
+         {
+            "text": "chances to win with direct debit?",
+            "intent": "direct_debit",
+            "entities": []
+         },
+         {
+            "text": "can you tell me what are the chances I'll get to win with direct debit?",
+            "intent": "direct_debit",
+            "entities": []
+         },
+         {
+            "text": "I want to apply online for direct debit",
+            "intent": "direct_debit",
+            "entities": []
+         },
+         {
+            "text": "how can i apply online for direct debit",
+            "intent": "direct_debit",
+            "entities": []
+         },
+         {
+            "text": "how can i apply for direct debit?",
+            "intent": "direct_debit",
+            "entities": []
+         },
+         {
+            "text": "where can i apply for direct debit",
+            "intent": "direct_debit",
+            "entities": []
+         },
+         {
+            "text": "documents required for direct debit?",
+            "intent": "direct_debit",
+            "entities": []
+         },
+         {
+            "text": "I wanna learn about direct debit",
+            "intent": "direct_debit",
+            "entities": []
+         },
+         {
+            "text": "please give me some information on direct debit",
+            "intent": "direct_debit",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

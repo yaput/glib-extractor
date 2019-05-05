@@ -1,0 +1,72 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "i have a comlplain to make",
+            "intent": "complaints",
+            "entities": []
+         },
+         {
+            "text": "unprofessional staff",
+            "intent": "complaints",
+            "entities": []
+         },
+         {
+            "text": "poor customer service",
+            "intent": "complaints",
+            "entities": []
+         },
+         {
+            "text": "false commitments",
+            "intent": "complaints",
+            "entities": []
+         },
+         {
+            "text": "worst healthcare clinic i have ever visited",
+            "intent": "complaints",
+            "entities": []
+         },
+         {
+            "text": "nurses are too busy to take patients calls",
+            "intent": "complaints",
+            "entities": []
+         },
+         {
+            "text": "never calls back",
+            "intent": "complaints",
+            "entities": []
+         },
+         {
+            "text": "today i called sister asher 5 times to get a report on my email and still have not recieved it",
+            "intent": "complaints",
+            "entities": []
+         },
+         {
+            "text": "no response for report",
+            "intent": "complaints",
+            "entities": []
+         },
+         {
+            "text": "i am disappointed",
+            "intent": "complaints",
+            "entities": []
+         },
+         {
+            "text": "your services are the worst",
+            "intent": "complaints",
+            "entities": []
+         },
+         {
+            "text": "doctor bla bla is not good",
+            "intent": "complaints",
+            "entities": []
+         },
+         {
+            "text": "doctors are not good",
+            "intent": "complaints",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

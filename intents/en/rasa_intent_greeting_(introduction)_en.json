@@ -1,0 +1,167 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "Hey there!",
+            "intent": "greeting_(introduction)",
+            "entities": []
+         },
+         {
+            "text": "Howdy",
+            "intent": "greeting_(introduction)",
+            "entities": []
+         },
+         {
+            "text": "How's it going?",
+            "intent": "greeting_(introduction)",
+            "entities": []
+         },
+         {
+            "text": "Help me",
+            "intent": "greeting_(introduction)",
+            "entities": []
+         },
+         {
+            "text": "I need help!",
+            "intent": "greeting_(introduction)",
+            "entities": []
+         },
+         {
+            "text": "I need assistance",
+            "intent": "greeting_(introduction)",
+            "entities": []
+         },
+         {
+            "text": "can you assist me?",
+            "intent": "greeting_(introduction)",
+            "entities": []
+         },
+         {
+            "text": "i need to talk to someone",
+            "intent": "greeting_(introduction)",
+            "entities": []
+         },
+         {
+            "text": "please help me",
+            "intent": "greeting_(introduction)",
+            "entities": []
+         },
+         {
+            "text": "what kind of services you offer",
+            "intent": "greeting_(introduction)",
+            "entities": []
+         },
+         {
+            "text": "i want help",
+            "intent": "greeting_(introduction)",
+            "entities": []
+         },
+         {
+            "text": "I need help",
+            "intent": "greeting_(introduction)",
+            "entities": []
+         },
+         {
+            "text": "help",
+            "intent": "greeting_(introduction)",
+            "entities": []
+         },
+         {
+            "text": "hello",
+            "intent": "greeting_(introduction)",
+            "entities": []
+         },
+         {
+            "text": "hi",
+            "intent": "greeting_(introduction)",
+            "entities": []
+         },
+         {
+            "text": "Whats up?",
+            "intent": "greeting_(introduction)",
+            "entities": []
+         },
+         {
+            "text": "sup?",
+            "intent": "greeting_(introduction)",
+            "entities": []
+         },
+         {
+            "text": "good morning",
+            "intent": "greeting_(introduction)",
+            "entities": []
+         },
+         {
+            "text": "good day",
+            "intent": "greeting_(introduction)",
+            "entities": []
+         },
+         {
+            "text": "good afternoon",
+            "intent": "greeting_(introduction)",
+            "entities": []
+         },
+         {
+            "text": "morning!",
+            "intent": "greeting_(introduction)",
+            "entities": []
+         },
+         {
+            "text": "afternoon!",
+            "intent": "greeting_(introduction)",
+            "entities": []
+         },
+         {
+            "text": "evening",
+            "intent": "greeting_(introduction)",
+            "entities": []
+         },
+         {
+            "text": "help me now",
+            "intent": "greeting_(introduction)",
+            "entities": []
+         },
+         {
+            "text": "i want help",
+            "intent": "greeting_(introduction)",
+            "entities": []
+         },
+         {
+            "text": "please help me",
+            "intent": "greeting_(introduction)",
+            "entities": []
+         },
+         {
+            "text": "Hi avi",
+            "intent": "greeting_(introduction)",
+            "entities": []
+         },
+         {
+            "text": "hi avy",
+            "intent": "greeting_(introduction)",
+            "entities": []
+         },
+         {
+            "text": "hi annapoorani here",
+            "intent": "greeting_(introduction)",
+            "entities": []
+         },
+         {
+            "text": "hi kainush here",
+            "intent": "greeting_(introduction)",
+            "entities": []
+         },
+         {
+            "text": "Hai",
+            "intent": "greeting_(introduction)",
+            "entities": []
+         },
+         {
+            "text": "I am dr fahad",
+            "intent": "greeting_(introduction)",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

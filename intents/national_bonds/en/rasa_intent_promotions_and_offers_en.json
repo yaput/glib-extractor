@@ -1,0 +1,62 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "what are your latest promotions?",
+            "intent": "promotions_and_offers",
+            "entities": []
+         },
+         {
+            "text": "what are the latest offers",
+            "intent": "promotions_and_offers",
+            "entities": []
+         },
+         {
+            "text": "i want an offer'ongoing offer",
+            "intent": "promotions_and_offers",
+            "entities": []
+         },
+         {
+            "text": "i want an offer",
+            "intent": "promotions_and_offers",
+            "entities": []
+         },
+         {
+            "text": "i want discount",
+            "intent": "promotions_and_offers",
+            "entities": []
+         },
+         {
+            "text": "give me discount",
+            "intent": "promotions_and_offers",
+            "entities": []
+         },
+         {
+            "text": "DISCOUNT!",
+            "intent": "promotions_and_offers",
+            "entities": []
+         },
+         {
+            "text": "promotions",
+            "intent": "promotions_and_offers",
+            "entities": []
+         },
+         {
+            "text": "promo",
+            "intent": "promotions_and_offers",
+            "entities": []
+         },
+         {
+            "text": "offers",
+            "intent": "promotions_and_offers",
+            "entities": []
+         },
+         {
+            "text": "discount",
+            "intent": "promotions_and_offers",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

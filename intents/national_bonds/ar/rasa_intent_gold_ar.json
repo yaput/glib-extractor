@@ -1,0 +1,37 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "العضوية الذهبية",
+            "intent": "gold",
+            "entities": []
+         },
+         {
+            "text": "برستيج العضوية الذهبية",
+            "intent": "gold",
+            "entities": []
+         },
+         {
+            "text": "بريستيج العضوية الذهبية",
+            "intent": "gold",
+            "entities": []
+         },
+         {
+            "text": "عضوية بريستيج الذهبية",
+            "intent": "gold",
+            "entities": []
+         },
+         {
+            "text": "عضوية برستيج الذهبية",
+            "intent": "gold",
+            "entities": []
+         },
+         {
+            "text": "عضوية ذهبية",
+            "intent": "gold",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

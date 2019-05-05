@@ -1,0 +1,72 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "هل يمكنني الحصول على شهادة طبية",
+            "intent": "sick_leave_medical_certificates",
+            "entities": []
+         },
+         {
+            "text": "أين يمكنني الحصول على شهادة طبية",
+            "intent": "sick_leave_medical_certificates",
+            "entities": []
+         },
+         {
+            "text": "متى يمكنني الحصول على شهادة طبية",
+            "intent": "sick_leave_medical_certificates",
+            "entities": []
+         },
+         {
+            "text": "إلى من ألجأ من أجل الحصول على شهادة إجازة مرضية",
+            "intent": "sick_leave_medical_certificates",
+            "entities": []
+         },
+         {
+            "text": "من يمكنني اللجوء إليه من أجل الحصول على شهادة إجازة مرضية",
+            "intent": "sick_leave_medical_certificates",
+            "entities": []
+         },
+         {
+            "text": "أريد معرفة من أين أحصل على شهادة إجازة مرضية",
+            "intent": "sick_leave_medical_certificates",
+            "entities": []
+         },
+         {
+            "text": "أين يمكنني الحصول على شهادة إجازة مرضية",
+            "intent": "sick_leave_medical_certificates",
+            "entities": []
+         },
+         {
+            "text": "أحتاج إلى المساعدة في الحصول على شهادة إجازة مرضية",
+            "intent": "sick_leave_medical_certificates",
+            "entities": []
+         },
+         {
+            "text": "ساعدوني في الحصول على شهادة إجازة مرضية",
+            "intent": "sick_leave_medical_certificates",
+            "entities": []
+         },
+         {
+            "text": "من أين أستلم الشهادة الطبية الخاصة بي",
+            "intent": "sick_leave_medical_certificates",
+            "entities": []
+         },
+         {
+            "text": "ن أين أستلم شهادة الإجازة المرضية الخاصة بي",
+            "intent": "sick_leave_medical_certificates",
+            "entities": []
+         },
+         {
+            "text": "إجازة مرضية",
+            "intent": "sick_leave_medical_certificates",
+            "entities": []
+         },
+         {
+            "text": "شهادة مرضية",
+            "intent": "sick_leave_medical_certificates",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

@@ -1,0 +1,82 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "I am sad",
+            "intent": "feeling_sad",
+            "entities": []
+         },
+         {
+            "text": "I am grieving",
+            "intent": "feeling_sad",
+            "entities": []
+         },
+         {
+            "text": "I am depressed",
+            "intent": "feeling_sad",
+            "entities": []
+         },
+         {
+            "text": "I am feeling sad",
+            "intent": "feeling_sad",
+            "entities": []
+         },
+         {
+            "text": "I am feeling depressed",
+            "intent": "feeling_sad",
+            "entities": []
+         },
+         {
+            "text": "I am upset",
+            "intent": "feeling_sad",
+            "entities": []
+         },
+         {
+            "text": "I am unhappy",
+            "intent": "feeling_sad",
+            "entities": []
+         },
+         {
+            "text": "I am having a bad day",
+            "intent": "feeling_sad",
+            "entities": []
+         },
+         {
+            "text": "I want to cry",
+            "intent": "feeling_sad",
+            "entities": []
+         },
+         {
+            "text": "I am not happy",
+            "intent": "feeling_sad",
+            "entities": []
+         },
+         {
+            "text": "my mood is off",
+            "intent": "feeling_sad",
+            "entities": []
+         },
+         {
+            "text": "why is today so depressing",
+            "intent": "feeling_sad",
+            "entities": []
+         },
+         {
+            "text": "today is not a good day",
+            "intent": "feeling_sad",
+            "entities": []
+         },
+         {
+            "text": "i am sad",
+            "intent": "feeling_sad",
+            "entities": []
+         },
+         {
+            "text": "why am i so sad",
+            "intent": "feeling_sad",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

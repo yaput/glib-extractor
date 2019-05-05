@@ -1,0 +1,122 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "can i know more about business services",
+            "intent": "business",
+            "entities": []
+         },
+         {
+            "text": "tell me about business services",
+            "intent": "business",
+            "entities": []
+         },
+         {
+            "text": "business services?",
+            "intent": "business",
+            "entities": []
+         },
+         {
+            "text": "show me some business services",
+            "intent": "business",
+            "entities": []
+         },
+         {
+            "text": "what services do you offer in business",
+            "intent": "business",
+            "entities": []
+         },
+         {
+            "text": "can i know something about business services",
+            "intent": "business",
+            "entities": []
+         },
+         {
+            "text": "corporate saving plans",
+            "intent": "business",
+            "entities": []
+         },
+         {
+            "text": "do you have any business saving options",
+            "intent": "business",
+            "entities": []
+         },
+         {
+            "text": "i would like to know more business saving options",
+            "intent": "business",
+            "entities": []
+         },
+         {
+            "text": "can you give me business saving plans?",
+            "intent": "business",
+            "entities": []
+         },
+         {
+            "text": "Saving schemes for business",
+            "intent": "business",
+            "entities": []
+         },
+         {
+            "text": "saving programs for corporate",
+            "intent": "business",
+            "entities": []
+         },
+         {
+            "text": "business services provided",
+            "intent": "business",
+            "entities": []
+         },
+         {
+            "text": "business bonds",
+            "intent": "business",
+            "entities": []
+         },
+         {
+            "text": "corporate bonds",
+            "intent": "business",
+            "entities": []
+         },
+         {
+            "text": "saving bonds for my business",
+            "intent": "business",
+            "entities": []
+         },
+         {
+            "text": "what can you do for my business",
+            "intent": "business",
+            "entities": []
+         },
+         {
+            "text": "what are the programs for business",
+            "intent": "business",
+            "entities": []
+         },
+         {
+            "text": "schemes for business owner",
+            "intent": "business",
+            "entities": []
+         },
+         {
+            "text": "bonds for business",
+            "intent": "business",
+            "entities": []
+         },
+         {
+            "text": "national Bonds for business",
+            "intent": "business",
+            "entities": []
+         },
+         {
+            "text": "do you have savings program for business",
+            "intent": "business",
+            "entities": []
+         },
+         {
+            "text": "idikhari",
+            "intent": "business",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

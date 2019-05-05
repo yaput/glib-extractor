@@ -1,0 +1,37 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "ما هى العروض الترويجية الحالية؟",
+            "intent": "promotions_and_offers",
+            "entities": []
+         },
+         {
+            "text": "ما هى العروض الحالية",
+            "intent": "promotions_and_offers",
+            "entities": []
+         },
+         {
+            "text": "ما هى العروض الحالية؟",
+            "intent": "promotions_and_offers",
+            "entities": []
+         },
+         {
+            "text": "العروض الحالية",
+            "intent": "promotions_and_offers",
+            "entities": []
+         },
+         {
+            "text": "العروض الترويجية",
+            "intent": "promotions_and_offers",
+            "entities": []
+         },
+         {
+            "text": "العروض الترويجية الحالية ؟",
+            "intent": "promotions_and_offers",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

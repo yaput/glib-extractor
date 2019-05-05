@@ -1,0 +1,367 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "شهادات الادخار",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "استثمار متوافق مع الشريعة",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "ما هى المنتجات المختلفة؟",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "اريد شراء سندات",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "اريد شراء صكوك",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "اريد شراء السندات",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "اريد شراء الصكوك",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "ما هى الخيارات المتاحة؟",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "ما هى الخيارات المختلفة؟",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "من أين يمكننى شراء الصكوك عبر الانترنت؟",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "من اين يمكننى شراء السندات عبر الانترنت؟",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "هل يمكننى شراء الصكوك عبر الانترنت؟",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "هل يمكننى شراء السندات عبر الانترنت؟",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "ما هى الخيارات التى تقدموها",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "ما هى المنتجات التى تقدموها",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "ما هى الخيارات الاخرى المتاحة",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "ما هى المنتجات الاخرى المتاحة",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "انا ابحث عن خطة ادخار جيدة",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "ابحث عن خطة ادخار جيدة",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "خطط الادخار الجيدة",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "مخططات الادخار الجيدة",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "ما هى مخططات الادخار الجيدة",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "ما هى خطط الادخار الجيدة",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "ابحث عن مخطط ادخار جيد",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "ما هى خطط الادخار المختلفة المتاحة؟",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "ما هى خطط الادخار المتاحة؟",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "انا مهتم بخصوص شراء الصكوك",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "انا مهتم بخصوص شراء السندات",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "انا مهتم بشراء خطة الصكوك",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "انا مهتم بشراء خطة السندات",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "هل لديك استثمارات",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "هل لديكم استثمارات",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "اريد معلومات عن الصكوك",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "اريد معلومات اكتر عن الصكوك",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "اريد ان اعرف عن الصكوك",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "اريد ان اعرف اكثر عن الصكوك",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "ما هى صكوك الادخار",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "ما هى صكوك الادخار؟",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "اريد شراء صكوك ادخار",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "اريد شراء سندات ادخار",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "من فضلك اريد شراء صكوك ادخار",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "من فضلك اريد شراء سندات ادخار",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "ما هى خيارات الاستثمار الجيدة المتاحة؟",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "ما هى خيارات الاستثمار المتاحة؟",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "اريد شراء صكوك ادخار",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "اريد شراء صكوك",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "ارغب فى شراء صكوك ادخار",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "ارغب فى شراء صكوك",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "ترشحلى شراء اى صك",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "اى الصكوك اشترى؟",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "اى صك اشترى؟",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "شراء صكوك الادخار",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "اريد شراء صكوك الادخار",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "اريد شراء صكوك ادخار",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "الاستثمار فى الصكوك",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "صكوك الاستثمار",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "اريد اللاستثمار فى الصكوك",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "اريد الاستثمار فى صكوك الادخار",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "هل لديكم عروض للاستثمار؟",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "لديكم عروض استثمار؟",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "هل لديكم خيارت استثمار؟",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "هل لديكم خيارات للاستثمار؟",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "ما هى الصكوك المختلفة؟",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "اريد ان اعرف عن الصكوك المختلفة؟",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "ما هى انواع الصكوك؟",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "أفضل خيارات الصكوك",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "أفضل خيارات صكوك الادخار",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "ما هى افضل خيارات الصكوك؟",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "ما هى أفضل خيارات صكوك الادخار؟",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "ما هو أفضل صك مناسب لى؟",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "أفضل صك يناسبنى؟",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "ما هو أفضل صك يمكننى شراؤه؟",
+            "intent": "generic_bond_questions",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

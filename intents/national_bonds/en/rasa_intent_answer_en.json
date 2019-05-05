@@ -1,0 +1,107 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "I want you to answer me",
+            "intent": "answer",
+            "entities": []
+         },
+         {
+            "text": "Answer me",
+            "intent": "answer",
+            "entities": []
+         },
+         {
+            "text": "Please answer",
+            "intent": "answer",
+            "entities": []
+         },
+         {
+            "text": "Answer!",
+            "intent": "answer",
+            "entities": []
+         },
+         {
+            "text": "Give me the answer",
+            "intent": "answer",
+            "entities": []
+         },
+         {
+            "text": "Give me an answer",
+            "intent": "answer",
+            "entities": []
+         },
+         {
+            "text": "Answer my question",
+            "intent": "answer",
+            "entities": []
+         },
+         {
+            "text": "Can you answer my question?",
+            "intent": "answer",
+            "entities": []
+         },
+         {
+            "text": "Tell me the answer",
+            "intent": "answer",
+            "entities": []
+         },
+         {
+            "text": "Answer it",
+            "intent": "answer",
+            "entities": []
+         },
+         {
+            "text": "I have a question",
+            "intent": "answer",
+            "entities": []
+         },
+         {
+            "text": "I want you to answer my question",
+            "intent": "answer",
+            "entities": []
+         },
+         {
+            "text": "Just answer my question",
+            "intent": "answer",
+            "entities": []
+         },
+         {
+            "text": "Can you answer me?",
+            "intent": "answer",
+            "entities": []
+         },
+         {
+            "text": "Just answer the question",
+            "intent": "answer",
+            "entities": []
+         },
+         {
+            "text": "Answers",
+            "intent": "answer",
+            "entities": []
+         },
+         {
+            "text": "Can you answer a question for me?",
+            "intent": "answer",
+            "entities": []
+         },
+         {
+            "text": "Can you answer?",
+            "intent": "answer",
+            "entities": []
+         },
+         {
+            "text": "I want the answer now",
+            "intent": "answer",
+            "entities": []
+         },
+         {
+            "text": "Just answer my question",
+            "intent": "answer",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

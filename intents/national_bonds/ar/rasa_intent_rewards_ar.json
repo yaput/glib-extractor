@@ -1,0 +1,1427 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "كيف تجرون السحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كيف بيتم السحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "متى يتم إختيار الفائزين؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "أى متى بتختارون الفايزين؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "أى وقت يتم إختيار الفائزين؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "متى بتختارون الفايزين؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "ما هى الأسعار المختلفة؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "شو هى الأسعار المختلفة؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "الأسعار المختلفة؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "عرض الأسعار المختلفة؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "هل يمكننى المشاركة فى السحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكننى المشاركة فى السحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كيف أشترك بالسحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كيف بشارك بالسحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "أقدر أشارك بالسحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "تفاصيل السحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "ما هى تفاصيل السحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "أريد معلومات عن تفاصيل السحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "أريد معرفة تفاصيل السحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "ماهو الحد الأدنى للمبلغ للمشاركة في سحب المليون؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "ما هو أقل مبلغ للمشاركة في سحب المليون؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "أقل مبلغ للمشاركة في سحب المليون؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "الحد الأدنى للمبلغ للمشاركة في سحب المليون؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كيف أقدر أشارك بالسحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كيفية المشاركة بالسحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "ما هى كيفية المشاركة بالسحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كيف بشترك بالسحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "طريقة الإشتراك بالسحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "ما هى طريقة الإشتراك بالسحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "ما هى شروط التأهل للسحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كيف أتأهل للسحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كيف أكون مؤهلا للسحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كيف بتأهل للسحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "مؤهلات السحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "ما الذى يجعلنى مؤهلا للسحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كيف أكون أهلا للسحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "أين يمكننى رؤية الفائزين؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "أين يمكننى رؤية اسماء الفائزين؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "وين بقدر أشوف الفايزين؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "وين بحصل اسماء الفايزين؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "وين بقدر أشوف اسماء الفايزين؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "وين تعلنون عن الفايزين؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "أين يتم الإعلان عن اسماء الفائزين؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "أين تعلنون عن أسماء الفائزين؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كيفية التحقق من الجوائز عبر الإنترنت؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كيف يتم التحقق من الجوائز عبر الإنترنت؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كيفية التحقق من الجوائز أون لاين؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كيف يتم التحقق من الجوائز أون لاين؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كيف بقدر أشوف الجوايز أون لاين؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كيف بقدر أشوف الجوايز على الإنترنت؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "رؤية الجوائز عبر الإنترنت؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "التحقق من الجوائز عبر الإنترنت؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "فى أى شهر سيتم الإعلان عن الفائز القادم؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "الفائز القادم فى أى شهر؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "متى سيتم إجراء السحب القادم؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "متى سيتم السحب القادم؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "ما هو معاد السحب القادم؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "معاد السحب القادم؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "في أى وقت سيتم إجراء السحب القادم؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "متى سيجرى السحب القادم؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كم مرة يتم السحب شهريا؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "عدد مرات إجراء السحب شهريا؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "ماهو عدد مرات السحب كل شهر؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "ما هو عدد مرات السحب شهريا؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "ماهى الإختلافات بين جوائز السحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "ماهو الشئ المختلف بين جوائز السحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "ماهى جوائز السحب المختلفة؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "الإختلافات بين جوائز السحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كم شخص يمكنه الفوز بالسحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كم عدد الأشخاص اللذين يمكنهم الفوز بالسحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كم شخص يمكن أن يفوز بالسحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كم فائز بالشهر؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كم عدد الفائزين كل شهر؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كم شخص يمكن أن يفوز شهريا؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كم شخص يمكنه الفوز شهريا؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كام فايز كل شهر؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكننى كسب المزيد من المال؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كيف أربح مالا أكتر؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكننى أن أربح المزيد من المال؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كيف ممكن أربح أموال أكثر؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكننى أن أكسب مالا أكتر؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكننى أن أربح مالا أكثر؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كيف أربح السحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكننى أن أربح السحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كيف ممكن أربح السحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كيف أفوز بالسحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكننى أن أفوز بالسحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كيفية الفوز بالسحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "ما هى كيفية الفوز بالسحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كيف أربح المليون درهم؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كيف أفوز بالمليون درهم؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكننى الفوز بالمليون درهم؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكننى ربح المليون درهم؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكننى كسب المليون درهم؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كيف أكسب المليون درهم؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "متى يتم السحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "متي سيتم إجراء السحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "متى السحب القادم؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "متى السحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "ما هو معاد إجراء السحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "معاد إجراء السحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "متى بيتم السحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "متى سيتم السحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "سحب المليون درهم",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "سحب المليون",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "جائزة المليون درهم",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "جائزة المليون",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "هل أنا مؤهل للمشاركة فى السحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "هل أنا أهل للمشاركة بالسحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "هل أنا مؤهل للإشتراك فى السحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "شروط و أحكام السحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "ما هى شروط و أحكام السحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "الشروط و الأحكام الخاصة بالسحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "ما هى الشروط و الأحكام الخاصة بالسحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "شروط و أحكام السحب",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "الشروط و الأحكام الخاصة بالسحب",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "من الفائز بالسحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "الفائز بالسحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "من الرابح بالسحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "من الذى ربح السحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "من الذى فاز بالسحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "الرابح بالسحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكننى الحصول على شهادتى الفائزة؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكننى الحصول على شهادتى الرابحة؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كيف ممكن أحصل شهادتى الرابحة؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كيف ممكن أحصل شهادتى الفايزة؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "متى سينعقد السحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "متى سيتم السحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "أى وقت سيتم السحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "معاد السحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "توقيت السحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "ماهى معايير الأهلية للمشاركة فى كل من هذه السحوبات؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "ما هى شروط الإشتراك فى هذه السحوبات؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "ما هى مؤهلات الإشتراك فى هذه السحوبات؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "ما هى مؤهلات الإشتراك فى هذه السحوبات؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كم عدد الفرص التى لدى للفوز بالسحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كم عدد الفرص للفوز بالسحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كم عدد فرص ربح السحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كم فرصة لدى للفوز بالسحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كم مرة يمكننى الفوز بالسحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كم عدد الفرص التى أحصل عليها؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كم عدد الفرص لدى لربح السحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "هل هناك حد أدنى للمدخرات؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "ما هو الحد الأدنى للمدخرات؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "الحد الأدنى للمدخرات؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "هل هناك حد أدنى للمدخرات؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كيف أعرف أننى ربحت الجائزة؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كيف أعرف أنى ربحت السحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كيف أعرنى أنى فزت بالجائزة؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كيف سيتم إعلامى إذا فزت بالسحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كيف سيتم إعلامى إذا ربحت السحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كيف بتخبرونى إذا فزت بالسحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كيف بتخبرونى إذا ربحت السحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كيف بتخبرونى إذا ربحت الجايزة",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "ماهى الجوائز التى يمكننى ربحها من الصكوك الوطنية؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "ماهى جوائز الصكوك الوطنية؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "جوائز الصكوك الوطنية؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "ما هى الجوائز التى يمكننى الفوز بها من الصكوك الوطنية؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكننى الإشتراك؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كيف بشترك؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كيف بيتم الإشتراك؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكننى الإشتراك بالسحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كيف بشارك بالسحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كيف بشترك بالسحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكننى المشاركة بالسحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "مليون درهم",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "المليون درهم",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "جائزة المليون درهم",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كم عدد شهادات الإدخار التى يجب أن أملكها لأكون مؤهلا للفوز بالسحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كم عدد شهادات الإدخار التى يجب أن أملكها لتأهلنى للفوز بالسحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "عدد شهادات الإدخار المطلوبة للتأهيل للفوز بالسحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "ما هو عدد شهادات الإدخار المطلوبة للتأهيل للفوز بالسحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "ما هو عدد شهادات الإدخار المتطلبة للتأهيل للفوز بالسحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كام شهادة إدخار تؤهلنى لربح السحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كم شهادة إدخار تؤهلنى للفوز بالسحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكننى إستبدال شهادات الصكوك الوطنية؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كيف أستبدل شهادات الصكوك الوطنية؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كيفية تبادل شهادات الصكوك الوطنية؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "ما هى كيفية إستبدال شهادات الصكوك الوطنية؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كيف استبدل شهادات الصكوك الوطنية؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "هل هناك حد أدنى للمدة قبل إستبدال شهادات الصكوك الوطنية؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "ما هو الحد الأدنى لإستبدال شهادات الصكوك الوطنية؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "ما هو الحد الأدنى المتطلب قبل إستبدال شهادات الصكوك الوطنية؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "ما هو أقل وقت قبل إستبدال شهادات الصكوك الوطنية؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "الحد الأدنى للوقت قبل إستبدال شهادات الصكوك الوطنية؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "هل تم الإعلان عن الأرباح بعد؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "هل أعلنتم عن الأرباح؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "هل تم الإعلان عن الأرباح؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "الإعلان عن الأرباح؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "متى تعلنون عن الأرباح؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "الإعلان عن الأرباح؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "معاد الإعلان عن الأرباح؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "توقيت الإعلان عن الأرباح؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "هل إنتقلتم إلى السحوبات الإسبوعية؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "هل تم النقل الى السحوبات الاسبوعية؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "متى بتنتقلون للسحوبات الاسبوعية؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "الإنتقال للسحوبات الاسبوعية؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "متى بتبدأون السحوبات الاسبوعية؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "ما هو الحد الأدنى للمبلغ للمشاركة فى سحب المليون؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "الحد الأدنى للمبلغ للمشاركة فى سحب المليون؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "ما هو أقل مبلغ مطلوب للمشاركة فى سحب المليون؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "أقل مبلغ متطلب للمشاركة فى سحب المليون ؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كيف يتم تحديد المكافآت؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كيف يتم تحديد الجوائز؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كيف بتحددون الجوائز؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "على أى أساس يتم تحديد الجوائز؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كيف بيتم تحديد الجوائز؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "يرجى شرح آلية السحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "برجاء شرح آلية السحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "ممكن شرح طريقة السحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "ممكن شرح كيف بيتم السحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "برجاء شرح إجراءات السحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "اريد شرح لكيفية إجراء السحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "شرح كيفية إجراء السحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "شرح آلية إجراء السحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كيف يتم إختيار الفائزين؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كيف بتختارون الفائزين؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كيف تختارون الرابحين؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كيف يتم إختيار الرابحين؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "على أى اساس يتم اختيار الفائزين؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "على أى اساس يتم اختيار الرابحين؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كيف بحصل ورقة المكافآة؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كيف أحصل على ورقة المكافآة؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كيفية الحصول على ورقة المكافآة؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كيف بحصل على ورقة المكافآة؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "ما هو البرنامج الجديد لجوائز الصكوك الوطنية؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "البرنامج الجديد لجوائز الصكوك الوطنية؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "برنامج جوائز الصكوك الوطنية الجديد؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "ما هو برنامج جوائز الصكوك الوطنية الجديد؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "متى بتفعلون برنامج المكافآت الجديد؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "متى سيتم تفعيل برنامج المكافآت الجديد؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "متى سيتم تفعيل برنامج المكافآت الجديد؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "أى وقت سيتم تفعيل برنامج المكافآت الجديد؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "وقت تفعيل برنامج المكافآت الجديد؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "ما هو وقت تفعيل برنامج المكافآت الجديد؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كم عدد المكافآت التى سيتم منحها كجزء من برنامج المكافآت الجديد من الصكوك الوطنية؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كم عدد الجوائز التى ستمنح كجزء من برنامج المكافأت الجديد من الصكوك الوطنية؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "ما هو عدد الجوائز التى سيتم منحها من الصكوك الوطنية كجزء من برنامج المكافآت الجديد؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "ما هو عدد المكافآت الجديد التى ستمنحها الصكوك الوطنية كجزء من برنامج المكافآت الجديد؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "ما المقصود بالمدخرين الدائمين و كيف أصبح واحد منهم؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "ما المقصود بالمدخرين الدائمين و كيف أكون واحدا منهم؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "من هم المدخرين الدائمين و كيف أكون مثلهم؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "ما هو معنى المدخرين الدائمين و كيف أكون واحدا منهم؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كيف يتم السحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "كيف يتم إجراء السحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "ما هى معايير الأهلية للسحوبات؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "ما هى الشروط المؤهلة للسحوبات؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "ما هى الشروط المتطلبة للتأهل للسحوبات؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "شروط التأهل للسحوبات؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "معايير التأهل للسحوبات؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "الشروط المطلوبة للتأهل للسحوبات؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "ما هى جوائز السحوبات؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "ما هى الجوائز المتاحة فى السحوبات؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "الجوائز المتاحة فى السحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "الجوائز المتوفرة فى السحوبات؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "جوائز السحوبات؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "الجوائز المتاحة فى السحب؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "الجوائز المتوفرة فى السحوبات؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "ما الذى يمكننى الفوز به؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "ما هى الجوائز التى يمكننى الفوز بها؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "ما هى الجوائز التى يمكننى ربحها؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "الجوائز التى يمكننى ربحها؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "الجوائز التى يمكننى الفوز بها؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "المكافآت التى يمكننى الفوز بها؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "هل ستتم مراسلتى إذا فزت بالجائزة؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "هل ستراسلونى إذا ربحت؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "هل بتطرشون لى رسالة إذا فزت بالجايزة؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "هل بتطرشون لى رسالة لو ربحت الجايزة؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "بترسلون لى رسالة إذا ربحت الجائزة؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "هل ستقومون بمراسلتى فى حال ربحت الجائزة؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "هل سترسلون إلى رسالة إذا ربحت الجائزة؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "ما هو أقصي مبلغ للفوز؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "ما هو أقصي مبلغ للجائزة؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "ما هو أقصى مبلغ للربح؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "ما هو أعلى مبلغ يمكننى أن اربحه؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "ما هو أكثر مبلغ يمكننى أن أفوز به؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "ما هو أقصي نبلغ يمكننى أن أفوز به؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "ما هو أقصى مبلغ يمكننى أن أربحه؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "أعلى مبلغ للربح؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "أعلى مبلغ للفوز؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "أعلى مبلغ للجائزة؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "أعلى مبلغ للمكافآت؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "ما هو المقصود بالمدخرين بشكل منتظم و كيف أصبح مدخرا بشكل منتظم؟",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "هل هناك حد أدنى لفترة الإحتفاظ بالشهادات قبل إسترداد قيمتها؟",
+            "intent": "rewards",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

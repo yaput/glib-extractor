@@ -1,0 +1,317 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "من يملك الصكوك الوطنية؟",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "من يمتلك الصكوك الوطنية؟",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "من هم ملاك الصكوك الوطنية؟",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "من هم مؤسسين الصكوك الوطنية؟",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "من الذى أسس الصكوك الوطنية؟",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "من هم أصحاب الصكوك الوطنية؟",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "ما هى الصكوك الوطنية؟",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "ماذا تعني الصكوك الوطنية؟",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "أريد معلومات عن الصكوك الوطنية؟",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "أريد معرفة المزيد عن الصكوك الوطنية؟",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "متى تم تأسيس الصكوك الوطنية؟",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "متى تأسست الصكوك الوطنية؟",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "متى تم انشاء الصكوك الوطنية؟",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "متى انشأت الصكوك الوطنية؟",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "ماهو تاريخ انشاء الصكوك الوطنية؟",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "تاريخ انشاء الصكوك الوطنية؟",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "كم عمر الصكوك الوطنية؟",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "منذ متى تعمل الصكوك الوطنية؟",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "فى أى عام بدأت الصكوك الوطنية؟",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "متى بدأت الصكوك الوطنية؟",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "متى بدأ العمل بالصكوك الوطنية؟",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "منذ كم عام تعمل الصكوك الوطنية؟",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "متى تم اطلاق الصكوك الوطنية؟",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "متى تم نشر الصكوك الوطنية؟",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "متى تم الإعلان عن الصكوك الوطنية؟",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "عن الصكوك الوطنية",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "معلومات عن الصكوك الوطنية",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "من نحن",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "من هم الصكوك الوطنية",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "أريد ان اعرف اكثر عن الصكوك الوطنية",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "اريد معلومات عن الصكوك الوطنية",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "تاريخ الصكوك الوطنية",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "نبذة عن الصكوك الوطنية",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "لم اسمع من قبل عن الصكوك الوطنية",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "بحياتى ما سمعت عن الصكوك الوطنية",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "أول مرة اسمع عن الصكوك الوطنية",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "اول مرة اسمع اسم الصكوك الوطنية",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "اعطنى نبذة مختصرة عن الصكوك الوطنية",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "اريد نبذة مختصرة عن الصكوك الوطنية",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "اريد شرح مبسط عن الصكوك الوطنية",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "اريد معلومات سريعة عن الصكوك الوطنية",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "اريد معلومات مختصرة عن الصكوك الوطنية",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "هل الصكوك الوطنية مملوكة من قبل الحكومة؟",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "هل تملك الحكومة الصكوك الوطنية؟",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "هل الصكوك الوطنية من أملاك الحكومة؟",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "هل الصكوك الوطنية ملكا للحكومة؟",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "ماذا تفعل الصكوك الوطنية؟",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "ما هى فائدة الصكوك الوطنية؟",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "ما هى آلية عمل الصكوك الوطنية؟",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "ما الذى تفعله الصكوك الوطنية؟",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "ما هو الهدف من الصكوك الوطنية؟",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "هل الصكوك الوطنية مؤسسة إسلامية؟",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "هل تتماشي الصكوك الوطنية مع الشريعة الإسلامية؟",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "هل تعمل الصكوك الوطنية بنفس الطريقة التي تعمل بها الصكوك البريميوم ؟",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "هل تعمل السندات الوطنية بنفس الطريقة التي تعمل بها السندات البريميوم ؟",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "هل تعد الصكوك الوطنية بنك؟",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "هل تعتبر الصكوك الوطنية بنك؟",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "هل الصكوك الوطنية بنك؟",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "هل يوجد بنك يسمى الصكوك الوطنية؟",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "هل هناك بنك يدعى الصكوك الوطنية؟",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "هل هذا بنك؟",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "ما هى الصكوك الوطنية",
+            "intent": "about_nb",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

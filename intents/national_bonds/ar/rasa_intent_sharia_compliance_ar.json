@@ -1,0 +1,157 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "أريد ان اعرف عن التوافق مع الشريعة الإسلامية",
+            "intent": "sharia_compliance",
+            "entities": []
+         },
+         {
+            "text": "اريد معرفة المزيد عن التوافق مع الشريعة الإسلامية",
+            "intent": "sharia_compliance",
+            "entities": []
+         },
+         {
+            "text": "إذا كانت الصكوك متوافقة مع الشريعة الإسلامية ؟",
+            "intent": "sharia_compliance",
+            "entities": []
+         },
+         {
+            "text": "هل الصكوك متوافقة معالشريعة الإسلامية؟",
+            "intent": "sharia_compliance",
+            "entities": []
+         },
+         {
+            "text": "اذا كانت السندات متوافقة مع الشريعة الإسلامية؟",
+            "intent": "sharia_compliance",
+            "entities": []
+         },
+         {
+            "text": "حدثنى عن التوافق مع الشريعة الإسلامية",
+            "intent": "sharia_compliance",
+            "entities": []
+         },
+         {
+            "text": "هل المعاملات الخاصة بكم متوافقة مع الشريعة الإسلامية",
+            "intent": "sharia_compliance",
+            "entities": []
+         },
+         {
+            "text": "هل معاملاتكم متوافقة مع الشريعة الإسلامية",
+            "intent": "sharia_compliance",
+            "entities": []
+         },
+         {
+            "text": "كيف اتأكد من ان معاملاتكم متوافقة مع الشريعة الإسلامية",
+            "intent": "sharia_compliance",
+            "entities": []
+         },
+         {
+            "text": "ما هى كيفية التأكد من ان معاملاتكم متوافقة مع الشريعة الإسلامية",
+            "intent": "sharia_compliance",
+            "entities": []
+         },
+         {
+            "text": "التوافق مع الشريعة الإسلامية؟",
+            "intent": "sharia_compliance",
+            "entities": []
+         },
+         {
+            "text": "هل استثماراتكم وفقا للاسلام؟",
+            "intent": "sharia_compliance",
+            "entities": []
+         },
+         {
+            "text": "هل استثماراتكم متعلقة بالاسلام؟",
+            "intent": "sharia_compliance",
+            "entities": []
+         },
+         {
+            "text": "هل هذا بنك اسلامى؟",
+            "intent": "sharia_compliance",
+            "entities": []
+         },
+         {
+            "text": "هل هذا مصرف اسلامى؟",
+            "intent": "sharia_compliance",
+            "entities": []
+         },
+         {
+            "text": "هل الصكوك الوطنية تمتثل للقوانين الإسلامية المالية",
+            "intent": "sharia_compliance",
+            "entities": []
+         },
+         {
+            "text": "هل الصكوك الوطنية تمتثل لقوانين الإسلام المالية",
+            "intent": "sharia_compliance",
+            "entities": []
+         },
+         {
+            "text": "هل هذا مصرف للمسلمين",
+            "intent": "sharia_compliance",
+            "entities": []
+         },
+         {
+            "text": "هل هذا بنك للمسلمين",
+            "intent": "sharia_compliance",
+            "entities": []
+         },
+         {
+            "text": "هل يمكننى معرفة المزيد عن الخدمات المتوافقة مع الشريعة الإسلامية ؟",
+            "intent": "sharia_compliance",
+            "entities": []
+         },
+         {
+            "text": "هل يمكن للمسلمين استخدام خدماتكم؟",
+            "intent": "sharia_compliance",
+            "entities": []
+         },
+         {
+            "text": "هل يمكن للمسلمين التمتع بخدماتكم؟",
+            "intent": "sharia_compliance",
+            "entities": []
+         },
+         {
+            "text": "هل كل استثماراتكم متوافقة مع الإسلام؟",
+            "intent": "sharia_compliance",
+            "entities": []
+         },
+         {
+            "text": "هل هناك اى من خدماتكم لا تتبع الشريعة الإسلامية",
+            "intent": "sharia_compliance",
+            "entities": []
+         },
+         {
+            "text": "ما هى كل الخدمات التى لا تتبع الشريعة الإسلامية",
+            "intent": "sharia_compliance",
+            "entities": []
+         },
+         {
+            "text": "ما هى كل خدماتكم التى لا تتبع الشريعة الإسلامية",
+            "intent": "sharia_compliance",
+            "entities": []
+         },
+         {
+            "text": "الشريعة الاسلامية",
+            "intent": "sharia_compliance",
+            "entities": []
+         },
+         {
+            "text": "الشريعة الإسلامية",
+            "intent": "sharia_compliance",
+            "entities": []
+         },
+         {
+            "text": "التوافق مع الشريعة الاسلامية",
+            "intent": "sharia_compliance",
+            "entities": []
+         },
+         {
+            "text": "هل خططكم متوافقة مع الشريعة الاسلامية",
+            "intent": "sharia_compliance",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

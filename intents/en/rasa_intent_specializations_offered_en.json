@@ -1,0 +1,142 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "Do you have an Dental?",
+            "intent": "specializations_offered",
+            "entities": []
+         },
+         {
+            "text": "does your hospital support Dental",
+            "intent": "specializations_offered",
+            "entities": []
+         },
+         {
+            "text": "is there Dental",
+            "intent": "specializations_offered",
+            "entities": []
+         },
+         {
+            "text": "do you offer Dental",
+            "intent": "specializations_offered",
+            "entities": []
+         },
+         {
+            "text": "I need to have a root canal",
+            "intent": "specializations_offered",
+            "entities": []
+         },
+         {
+            "text": "I need a Dental",
+            "intent": "specializations_offered",
+            "entities": []
+         },
+         {
+            "text": "i am having a tooth ache",
+            "intent": "specializations_offered",
+            "entities": []
+         },
+         {
+            "text": "i am having a Dental",
+            "intent": "specializations_offered",
+            "entities": []
+         },
+         {
+            "text": "can you help me with Dental Medicine",
+            "intent": "specializations_offered",
+            "entities": []
+         },
+         {
+            "text": "I am looking for Dental Medicine",
+            "intent": "specializations_offered",
+            "entities": []
+         },
+         {
+            "text": "need Dental Medicine",
+            "intent": "specializations_offered",
+            "entities": []
+         },
+         {
+            "text": "is Rheumatology treated",
+            "intent": "specializations_offered",
+            "entities": []
+         },
+         {
+            "text": "do you treat Rheumatology",
+            "intent": "specializations_offered",
+            "entities": []
+         },
+         {
+            "text": "is Rheumatology diagnosed?",
+            "intent": "specializations_offered",
+            "entities": []
+         },
+         {
+            "text": "is the specialization of Rheumatology there",
+            "intent": "specializations_offered",
+            "entities": []
+         },
+         {
+            "text": "do you have a doctor that will help me with Rheumatology",
+            "intent": "specializations_offered",
+            "entities": []
+         },
+         {
+            "text": "I am looking for a Rheumatology doctor",
+            "intent": "specializations_offered",
+            "entities": []
+         },
+         {
+            "text": "I am looking for a Dermatology",
+            "intent": "specializations_offered",
+            "entities": []
+         },
+         {
+            "text": "i am looking for a dermatologist",
+            "intent": "specializations_offered",
+            "entities": []
+         },
+         {
+            "text": "Do you have a dermatologist?",
+            "intent": "specializations_offered",
+            "entities": []
+         },
+         {
+            "text": "want dermatologist",
+            "intent": "specializations_offered",
+            "entities": []
+         },
+         {
+            "text": "i want dermatologist",
+            "intent": "specializations_offered",
+            "entities": []
+         },
+         {
+            "text": "want a dermatologist",
+            "intent": "specializations_offered",
+            "entities": []
+         },
+         {
+            "text": "I have Dental",
+            "intent": "specializations_offered",
+            "entities": []
+         },
+         {
+            "text": "Neurology technologist",
+            "intent": "specializations_offered",
+            "entities": []
+         },
+         {
+            "text": "Paediatrics",
+            "intent": "specializations_offered",
+            "entities": []
+         },
+         {
+            "text": "Book an appointment with Paediatrics today",
+            "intent": "specializations_offered",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

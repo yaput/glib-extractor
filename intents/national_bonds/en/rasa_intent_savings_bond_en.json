@@ -1,0 +1,172 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "tell me about savings bond",
+            "intent": "savings_bond",
+            "entities": []
+         },
+         {
+            "text": "what is saving bonds",
+            "intent": "savings_bond",
+            "entities": []
+         },
+         {
+            "text": "which is easiest way of saving",
+            "intent": "savings_bond",
+            "entities": []
+         },
+         {
+            "text": "savings bonds",
+            "intent": "savings_bond",
+            "entities": []
+         },
+         {
+            "text": "show me savings bonds",
+            "intent": "savings_bond",
+            "entities": []
+         },
+         {
+            "text": "about savings bonds",
+            "intent": "savings_bond",
+            "entities": []
+         },
+         {
+            "text": "what is SB",
+            "intent": "savings_bond",
+            "entities": []
+         },
+         {
+            "text": "can you explain what is savings bond",
+            "intent": "savings_bond",
+            "entities": []
+         },
+         {
+            "text": "brief me about savings bond",
+            "intent": "savings_bond",
+            "entities": []
+         },
+         {
+            "text": "i want to know about savings bonds",
+            "intent": "savings_bond",
+            "entities": []
+         },
+         {
+            "text": "I want to start a savings bond",
+            "intent": "savings_bond",
+            "entities": []
+         },
+         {
+            "text": "Apply online for saving bonds",
+            "intent": "savings_bond",
+            "entities": []
+         },
+         {
+            "text": "do you have any personal saving options",
+            "intent": "savings_bond",
+            "entities": []
+         },
+         {
+            "text": "Buy saving bonds",
+            "intent": "savings_bond",
+            "entities": []
+         },
+         {
+            "text": "can you brief me savings bond",
+            "intent": "savings_bond",
+            "entities": []
+         },
+         {
+            "text": "i want to apply for savings bonds",
+            "intent": "savings_bond",
+            "entities": []
+         },
+         {
+            "text": "savers plan",
+            "intent": "savings_bond",
+            "entities": []
+         },
+         {
+            "text": "what is the subscription fee of monthly saver plan?",
+            "intent": "savings_bond",
+            "entities": []
+         },
+         {
+            "text": "I want to apply for the monthly saver plan",
+            "intent": "savings_bond",
+            "entities": []
+         },
+         {
+            "text": "whats a saving bonds",
+            "intent": "savings_bond",
+            "entities": []
+         },
+         {
+            "text": "what are savings bonds",
+            "intent": "savings_bond",
+            "entities": []
+         },
+         {
+            "text": "tell me about the saving bonds",
+            "intent": "savings_bond",
+            "entities": []
+         },
+         {
+            "text": "give info on saving bonds",
+            "intent": "savings_bond",
+            "entities": []
+         },
+         {
+            "text": "savings bonds",
+            "intent": "savings_bond",
+            "entities": []
+         },
+         {
+            "text": "saving bonds",
+            "intent": "savings_bond",
+            "entities": []
+         },
+         {
+            "text": "how can i apply for savings bonds",
+            "intent": "savings_bond",
+            "entities": []
+         },
+         {
+            "text": "how can i apply for saving bonds",
+            "intent": "savings_bond",
+            "entities": []
+         },
+         {
+            "text": "what is saving bond?",
+            "intent": "savings_bond",
+            "entities": []
+         },
+         {
+            "text": "can you tell me what saving bonds is",
+            "intent": "savings_bond",
+            "entities": []
+         },
+         {
+            "text": "please tell me about saving bonds",
+            "intent": "savings_bond",
+            "entities": []
+         },
+         {
+            "text": "i want to know about savings bonds",
+            "intent": "savings_bond",
+            "entities": []
+         },
+         {
+            "text": "save bonds",
+            "intent": "savings_bond",
+            "entities": []
+         },
+         {
+            "text": "savin bond",
+            "intent": "savings_bond",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

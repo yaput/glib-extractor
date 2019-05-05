@@ -1,0 +1,247 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "does avivo currently have job vacancies",
+            "intent": "vacancy",
+            "entities": []
+         },
+         {
+            "text": "i want a job",
+            "intent": "vacancy",
+            "entities": []
+         },
+         {
+            "text": "i want to give a job application",
+            "intent": "vacancy",
+            "entities": []
+         },
+         {
+            "text": "job application",
+            "intent": "vacancy",
+            "entities": []
+         },
+         {
+            "text": "how can i submit a job application",
+            "intent": "vacancy",
+            "entities": []
+         },
+         {
+            "text": "help me with a job application",
+            "intent": "vacancy",
+            "entities": []
+         },
+         {
+            "text": "what shall i do to apply for a job",
+            "intent": "vacancy",
+            "entities": []
+         },
+         {
+            "text": "need to apply for a  job",
+            "intent": "vacancy",
+            "entities": []
+         },
+         {
+            "text": "i want to apply for a job",
+            "intent": "vacancy",
+            "entities": []
+         },
+         {
+            "text": "can you help me submit my cv",
+            "intent": "vacancy",
+            "entities": []
+         },
+         {
+            "text": "can you help me submit my resume",
+            "intent": "vacancy",
+            "entities": []
+         },
+         {
+            "text": "careers in avivo",
+            "intent": "vacancy",
+            "entities": []
+         },
+         {
+            "text": "need help for careers with avivo",
+            "intent": "vacancy",
+            "entities": []
+         },
+         {
+            "text": "i am looking for a job",
+            "intent": "vacancy",
+            "entities": []
+         },
+         {
+            "text": "do you have vacancy job?",
+            "intent": "vacancy",
+            "entities": []
+         },
+         {
+            "text": "are you in need of staff",
+            "intent": "vacancy",
+            "entities": []
+         },
+         {
+            "text": "are there any vacant positions",
+            "intent": "vacancy",
+            "entities": []
+         },
+         {
+            "text": "how can i apply",
+            "intent": "vacancy",
+            "entities": []
+         },
+         {
+            "text": "I want to become a part of your company",
+            "intent": "vacancy",
+            "entities": []
+         },
+         {
+            "text": "I want to be a worker with your company",
+            "intent": "vacancy",
+            "entities": []
+         },
+         {
+            "text": "I want to work in your ccompany",
+            "intent": "vacancy",
+            "entities": []
+         },
+         {
+            "text": "I want to work in your hospital",
+            "intent": "vacancy",
+            "entities": []
+         },
+         {
+            "text": "I want to get a job in your company",
+            "intent": "vacancy",
+            "entities": []
+         },
+         {
+            "text": "I am looking for a job in your company",
+            "intent": "vacancy",
+            "entities": []
+         },
+         {
+            "text": "I want a job",
+            "intent": "vacancy",
+            "entities": []
+         },
+         {
+            "text": "I want to get a job",
+            "intent": "vacancy",
+            "entities": []
+         },
+         {
+            "text": "sumbit cv",
+            "intent": "vacancy",
+            "entities": []
+         },
+         {
+            "text": "submit resume",
+            "intent": "vacancy",
+            "entities": []
+         },
+         {
+            "text": "do you have any internships?",
+            "intent": "vacancy",
+            "entities": []
+         },
+         {
+            "text": "internship",
+            "intent": "vacancy",
+            "entities": []
+         },
+         {
+            "text": "internship in HR",
+            "intent": "vacancy",
+            "entities": []
+         },
+         {
+            "text": "HR internship",
+            "intent": "vacancy",
+            "entities": []
+         },
+         {
+            "text": "human resource internship",
+            "intent": "vacancy",
+            "entities": []
+         },
+         {
+            "text": "internship with human resources",
+            "intent": "vacancy",
+            "entities": []
+         },
+         {
+            "text": "are the applications accepted by HR for a job application?",
+            "intent": "vacancy",
+            "entities": []
+         },
+         {
+            "text": "about career details",
+            "intent": "vacancy",
+            "entities": []
+         },
+         {
+            "text": "career info",
+            "intent": "vacancy",
+            "entities": []
+         },
+         {
+            "text": "career information",
+            "intent": "vacancy",
+            "entities": []
+         },
+         {
+            "text": "Contact Hr for career details",
+            "intent": "vacancy",
+            "entities": []
+         },
+         {
+            "text": "Any Vacancy for General Practitioner Keralite",
+            "intent": "vacancy",
+            "entities": []
+         },
+         {
+            "text": "Can I get hr mail \ud83c\udd94",
+            "intent": "vacancy",
+            "entities": []
+         },
+         {
+            "text": "Human resources number",
+            "intent": "vacancy",
+            "entities": []
+         },
+         {
+            "text": "cv",
+            "intent": "vacancy",
+            "entities": []
+         },
+         {
+            "text": "careers",
+            "intent": "vacancy",
+            "entities": []
+         },
+         {
+            "text": "HR",
+            "intent": "vacancy",
+            "entities": []
+         },
+         {
+            "text": "submit resume",
+            "intent": "vacancy",
+            "entities": []
+         },
+         {
+            "text": "job",
+            "intent": "vacancy",
+            "entities": []
+         },
+         {
+            "text": "vacant positions",
+            "intent": "vacancy",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

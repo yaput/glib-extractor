@@ -1,0 +1,207 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "I want someone to call me back asap",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "I want a call back",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "can someone call me back",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "i need a call back request",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "please get someone to call me back asap",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "call me back please",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "give me a call on 054535632 asap",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "i want someone to call me back right now.",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "Please give me a call asap",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "where shall i call",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "i'd like to speak to a member of the team",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "i want to talk to someone from the team",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "how do i contact a member of the team",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "can i get a call back",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "can i request for a call back",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "get someone to call me back asap please",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "Can someone give me back a call",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "i need to have a word with a member of the team",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "i need a call back",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "i would like to receive a call from an agent",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "how do i get in touch with an agent",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "may i get in touch with a customer support agent",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "how can i get in touch with a customer support agent",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "help me get in touch with an agent",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "please help me get in touch with a customer support person",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "i would like to have a phone call with someone from the team",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "i want to have a word with someone from the team",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "can you help me receive a call?",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "do you have customer support?",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "how do i get in touch with an agent",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "can you direct me to customer support",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "please guide me to customer support",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "What happened to my approval?",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "I need my approval",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "what is the status of my appointment",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "i have placed an appointment now what?",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "Call Back",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "callback",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "Team member",
+            "intent": "callback_request",
+            "entities": []
+         },
+         {
+            "text": "Approval status",
+            "intent": "callback_request",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

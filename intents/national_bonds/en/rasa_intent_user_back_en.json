@@ -1,0 +1,57 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "I am back",
+            "intent": "user_back",
+            "entities": []
+         },
+         {
+            "text": "I am here",
+            "intent": "user_back",
+            "entities": []
+         },
+         {
+            "text": "Back",
+            "intent": "user_back",
+            "entities": []
+         },
+         {
+            "text": "I have returned",
+            "intent": "user_back",
+            "entities": []
+         },
+         {
+            "text": "I have come again",
+            "intent": "user_back",
+            "entities": []
+         },
+         {
+            "text": "I got back",
+            "intent": "user_back",
+            "entities": []
+         },
+         {
+            "text": "Okay m back",
+            "intent": "user_back",
+            "entities": []
+         },
+         {
+            "text": "see who's back",
+            "intent": "user_back",
+            "entities": []
+         },
+         {
+            "text": "guess who's back",
+            "intent": "user_back",
+            "entities": []
+         },
+         {
+            "text": "do you see who's back",
+            "intent": "user_back",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

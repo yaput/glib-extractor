@@ -1,0 +1,107 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "do you have arabic doctors?",
+            "intent": "languages",
+            "entities": []
+         },
+         {
+            "text": "what languages the doctors speak",
+            "intent": "languages",
+            "entities": []
+         },
+         {
+            "text": "what are the languages spoken my staff",
+            "intent": "languages",
+            "entities": []
+         },
+         {
+            "text": "is arabic spoken by doctors?",
+            "intent": "languages",
+            "entities": []
+         },
+         {
+            "text": "Is hindi spoken by doctors?",
+            "intent": "languages",
+            "entities": []
+         },
+         {
+            "text": "Is malyalam spoken by doctors at AVIVO?",
+            "intent": "languages",
+            "entities": []
+         },
+         {
+            "text": "hindi doctors",
+            "intent": "languages",
+            "entities": []
+         },
+         {
+            "text": "can somebody speak in arabic",
+            "intent": "languages",
+            "entities": []
+         },
+         {
+            "text": "what languages does AVIVO speak?",
+            "intent": "languages",
+            "entities": []
+         },
+         {
+            "text": "what language can your doctors speak",
+            "intent": "languages",
+            "entities": []
+         },
+         {
+            "text": "do you have arabic speaking doctors",
+            "intent": "languages",
+            "entities": []
+         },
+         {
+            "text": "do you have french speaking doctors",
+            "intent": "languages",
+            "entities": []
+         },
+         {
+            "text": "what languages can your doctors speak",
+            "intent": "languages",
+            "entities": []
+         },
+         {
+            "text": "Languages",
+            "intent": "languages",
+            "entities": []
+         },
+         {
+            "text": "speak language",
+            "intent": "languages",
+            "entities": []
+         },
+         {
+            "text": "speak arabic",
+            "intent": "languages",
+            "entities": []
+         },
+         {
+            "text": "speak tagalog",
+            "intent": "languages",
+            "entities": []
+         },
+         {
+            "text": "spoken",
+            "intent": "languages",
+            "entities": []
+         },
+         {
+            "text": "Arabic",
+            "intent": "languages",
+            "entities": []
+         },
+         {
+            "text": "language",
+            "intent": "languages",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

@@ -1,0 +1,157 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "هل هناك تطبيق للصكوك الوطنية ؟",
+            "intent": "mobile_app",
+            "entities": []
+         },
+         {
+            "text": "تطبيق اى فون للصكوك الوطنية",
+            "intent": "mobile_app",
+            "entities": []
+         },
+         {
+            "text": "هل يوجد تطبيق للصكوك الوطنية",
+            "intent": "mobile_app",
+            "entities": []
+         },
+         {
+            "text": "تطبيق الهاتف المحمول للصكوك الوطنية",
+            "intent": "mobile_app",
+            "entities": []
+         },
+         {
+            "text": "تطبيق الهاتف الجوال للصكوك الوطنية",
+            "intent": "mobile_app",
+            "entities": []
+         },
+         {
+            "text": "تطبيق الجوال للصكوك الوطنية",
+            "intent": "mobile_app",
+            "entities": []
+         },
+         {
+            "text": "تطبيق للأى فون",
+            "intent": "mobile_app",
+            "entities": []
+         },
+         {
+            "text": "تطبيق للجوال",
+            "intent": "mobile_app",
+            "entities": []
+         },
+         {
+            "text": "هل لديكم تطبيق للجوال",
+            "intent": "mobile_app",
+            "entities": []
+         },
+         {
+            "text": "تطبيق للمحمول",
+            "intent": "mobile_app",
+            "entities": []
+         },
+         {
+            "text": "هل لديكم تطبيق للهاتف",
+            "intent": "mobile_app",
+            "entities": []
+         },
+         {
+            "text": "أين يمكنني تحميل التطبيق المحمول",
+            "intent": "mobile_app",
+            "entities": []
+         },
+         {
+            "text": "أين يمكنني تحميل التطبيق الجوال",
+            "intent": "mobile_app",
+            "entities": []
+         },
+         {
+            "text": "تطبيق اندرويد للصكوك الوطنية",
+            "intent": "mobile_app",
+            "entities": []
+         },
+         {
+            "text": "اريد تحميل التطبيق",
+            "intent": "mobile_app",
+            "entities": []
+         },
+         {
+            "text": "رابط للتطبيق المحمول",
+            "intent": "mobile_app",
+            "entities": []
+         },
+         {
+            "text": "رابط للتطبيق الجوال",
+            "intent": "mobile_app",
+            "entities": []
+         },
+         {
+            "text": "أين اجد التطبيق المحمول",
+            "intent": "mobile_app",
+            "entities": []
+         },
+         {
+            "text": "تطبيق",
+            "intent": "mobile_app",
+            "entities": []
+         },
+         {
+            "text": "هل هناك أى طريقة للتحقق من الخدمات عبر الجوال",
+            "intent": "mobile_app",
+            "entities": []
+         },
+         {
+            "text": "هل هناك أى طريقة للتحقق من الخدمات عبر الهاتف",
+            "intent": "mobile_app",
+            "entities": []
+         },
+         {
+            "text": "هل هناك أى طريقة للتحقق من الخدمات من خلال الهاتف",
+            "intent": "mobile_app",
+            "entities": []
+         },
+         {
+            "text": "هل هناك أى طريقة للتحقق من الخدمات من خلال الجوال",
+            "intent": "mobile_app",
+            "entities": []
+         },
+         {
+            "text": "هل لديكم تطبيق منفصل للهواتف النقالة ؟",
+            "intent": "mobile_app",
+            "entities": []
+         },
+         {
+            "text": "هل لديكم تطبيق منفصل للهواتف الجوالة ؟",
+            "intent": "mobile_app",
+            "entities": []
+         },
+         {
+            "text": "هل لديكم تطبيق منفصل للهواتف المحمولة ؟",
+            "intent": "mobile_app",
+            "entities": []
+         },
+         {
+            "text": "هل لديكم تطبيق للموبايل؟",
+            "intent": "mobile_app",
+            "entities": []
+         },
+         {
+            "text": "هل لديكم تطبيق على البلاي ستور؟",
+            "intent": "mobile_app",
+            "entities": []
+         },
+         {
+            "text": "هل لديكم تطبيق على متجر الألعاب؟",
+            "intent": "mobile_app",
+            "entities": []
+         },
+         {
+            "text": "هل يمكنني تحميل التطبيق الخاص بكم من متجر التطبيقات",
+            "intent": "mobile_app",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

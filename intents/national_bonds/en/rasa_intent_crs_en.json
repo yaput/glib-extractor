@@ -1,0 +1,157 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "what is crs",
+            "intent": "crs",
+            "entities": []
+         },
+         {
+            "text": "What is the full form of CRS",
+            "intent": "crs",
+            "entities": []
+         },
+         {
+            "text": "What is CRS?",
+            "intent": "crs",
+            "entities": []
+         },
+         {
+            "text": "Does NB implement CRS?",
+            "intent": "crs",
+            "entities": []
+         },
+         {
+            "text": "What is the full form of CRS",
+            "intent": "crs",
+            "entities": []
+         },
+         {
+            "text": "Where can I find information and advice on CRS?",
+            "intent": "crs",
+            "entities": []
+         },
+         {
+            "text": "Which countries are participating in the CRS?",
+            "intent": "crs",
+            "entities": []
+         },
+         {
+            "text": "If I am considered as CRS Reportable, would National Bonds deduct tax from my account?",
+            "intent": "crs",
+            "entities": []
+         },
+         {
+            "text": "am i crs applicable",
+            "intent": "crs",
+            "entities": []
+         },
+         {
+            "text": "Why is National Bonds reporting my Information to foreign countries?",
+            "intent": "crs",
+            "entities": []
+         },
+         {
+            "text": "I am a UAE National living in UAE, why are my details disclosed for CRS?",
+            "intent": "crs",
+            "entities": []
+         },
+         {
+            "text": "I am an Expat living in UAE for the last few years, how will I know if I am a tax resident of another Country?",
+            "intent": "crs",
+            "entities": []
+         },
+         {
+            "text": "I believe I am not reportable for CRS. Why is National Bonds asking me for supporting documents?",
+            "intent": "crs",
+            "entities": []
+         },
+         {
+            "text": "I'm not reportable to crs",
+            "intent": "crs",
+            "entities": []
+         },
+         {
+            "text": "What information will National Bonds report to UAE Central Bank regarding CRS?",
+            "intent": "crs",
+            "entities": []
+         },
+         {
+            "text": "What additional information should I provide to National Bonds for CRS requirements?",
+            "intent": "crs",
+            "entities": []
+         },
+         {
+            "text": "How often I need to provide this information for CRS?",
+            "intent": "crs",
+            "entities": []
+         },
+         {
+            "text": "What information is required to determine my Reportable Status?",
+            "intent": "crs",
+            "entities": []
+         },
+         {
+            "text": "Common Reporting Standard",
+            "intent": "crs",
+            "entities": []
+         },
+         {
+            "text": "Is National Bonds implementing CRS requirements?",
+            "intent": "crs",
+            "entities": []
+         },
+         {
+            "text": "Is National Bonds implementing CRS requirements?",
+            "intent": "crs",
+            "entities": []
+         },
+         {
+            "text": "UAE does not levy tax on individuals. Why are we required to submit this information?",
+            "intent": "crs",
+            "entities": []
+         },
+         {
+            "text": "i want to know about CRS",
+            "intent": "crs",
+            "entities": []
+         },
+         {
+            "text": "tell me about crs",
+            "intent": "crs",
+            "entities": []
+         },
+         {
+            "text": "crs",
+            "intent": "crs",
+            "entities": []
+         },
+         {
+            "text": "what is the impact of crs on me",
+            "intent": "crs",
+            "entities": []
+         },
+         {
+            "text": "pls give information on crs",
+            "intent": "crs",
+            "entities": []
+         },
+         {
+            "text": "i need information on crs",
+            "intent": "crs",
+            "entities": []
+         },
+         {
+            "text": "please tell me about crs",
+            "intent": "crs",
+            "entities": []
+         },
+         {
+            "text": "i need help with crs",
+            "intent": "crs",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

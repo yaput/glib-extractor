@@ -1,0 +1,132 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "What is sukuk express?",
+            "intent": "sukuk_express",
+            "entities": []
+         },
+         {
+            "text": "What is the MBME kiosk?",
+            "intent": "sukuk_express",
+            "entities": []
+         },
+         {
+            "text": "What is the use of sukuk?",
+            "intent": "sukuk_express",
+            "entities": []
+         },
+         {
+            "text": "What is a One-Time Password ?",
+            "intent": "sukuk_express",
+            "entities": []
+         },
+         {
+            "text": "What is my OPT?",
+            "intent": "sukuk_express",
+            "entities": []
+         },
+         {
+            "text": "How do I generate the One-Time Password ?",
+            "intent": "sukuk_express",
+            "entities": []
+         },
+         {
+            "text": "How can i get my OTP?",
+            "intent": "sukuk_express",
+            "entities": []
+         },
+         {
+            "text": "What happens if the OTP has expired?",
+            "intent": "sukuk_express",
+            "entities": []
+         },
+         {
+            "text": "What should I do if I encounter any problem during my purchase transaction through the MBME Kiosk?",
+            "intent": "sukuk_express",
+            "entities": []
+         },
+         {
+            "text": "What can i do with sukuk express?",
+            "intent": "sukuk_express",
+            "entities": []
+         },
+         {
+            "text": "MBME kiosk",
+            "intent": "sukuk_express",
+            "entities": []
+         },
+         {
+            "text": "apply for sukuk express",
+            "intent": "sukuk_express",
+            "entities": []
+         },
+         {
+            "text": "sukuk express online",
+            "intent": "sukuk_express",
+            "entities": []
+         },
+         {
+            "text": "where is sukukexpress located",
+            "intent": "sukuk_express",
+            "entities": []
+         },
+         {
+            "text": "what is express sukuk",
+            "intent": "sukuk_express",
+            "entities": []
+         },
+         {
+            "text": "sukuk expres",
+            "intent": "sukuk_express",
+            "entities": []
+         },
+         {
+            "text": "how to top up savings",
+            "intent": "sukuk_express",
+            "entities": []
+         },
+         {
+            "text": "how to topup savings?",
+            "intent": "sukuk_express",
+            "entities": []
+         },
+         {
+            "text": "sukuk kiosk",
+            "intent": "sukuk_express",
+            "entities": []
+         },
+         {
+            "text": "is there a way to top up my savings",
+            "intent": "sukuk_express",
+            "entities": []
+         },
+         {
+            "text": "how to top up my savings",
+            "intent": "sukuk_express",
+            "entities": []
+         },
+         {
+            "text": "saving top up",
+            "intent": "sukuk_express",
+            "entities": []
+         },
+         {
+            "text": "topup savings",
+            "intent": "sukuk_express",
+            "entities": []
+         },
+         {
+            "text": "where can i topup my savings",
+            "intent": "sukuk_express",
+            "entities": []
+         },
+         {
+            "text": "any emergency sukuk service",
+            "intent": "sukuk_express",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

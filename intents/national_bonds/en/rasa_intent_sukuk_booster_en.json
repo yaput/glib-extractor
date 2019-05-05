@@ -1,0 +1,127 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "What is sukuk booster?",
+            "intent": "sukuk_booster",
+            "entities": []
+         },
+         {
+            "text": "can you tell me about sukuk booster",
+            "intent": "sukuk_booster",
+            "entities": []
+         },
+         {
+            "text": "how can i boost my savings",
+            "intent": "sukuk_booster",
+            "entities": []
+         },
+         {
+            "text": "tell me about sukuk boost",
+            "intent": "sukuk_booster",
+            "entities": []
+         },
+         {
+            "text": "boosting sukuk",
+            "intent": "sukuk_booster",
+            "entities": []
+         },
+         {
+            "text": "boosting my sukuk plan",
+            "intent": "sukuk_booster",
+            "entities": []
+         },
+         {
+            "text": "what is the way to boost sukuk plan",
+            "intent": "sukuk_booster",
+            "entities": []
+         },
+         {
+            "text": "can you tell me how i can get a high return rate",
+            "intent": "sukuk_booster",
+            "entities": []
+         },
+         {
+            "text": "what is the way in which i can get a high return rate",
+            "intent": "sukuk_booster",
+            "entities": []
+         },
+         {
+            "text": "please inform me on getting high returns",
+            "intent": "sukuk_booster",
+            "entities": []
+         },
+         {
+            "text": "is there a trick to get high returns",
+            "intent": "sukuk_booster",
+            "entities": []
+         },
+         {
+            "text": "what should i do to increase my reutrns",
+            "intent": "sukuk_booster",
+            "entities": []
+         },
+         {
+            "text": "minimum price for sukuk booster",
+            "intent": "sukuk_booster",
+            "entities": []
+         },
+         {
+            "text": "how much is the least amount of money i can put in sukuk booster",
+            "intent": "sukuk_booster",
+            "entities": []
+         },
+         {
+            "text": "possibility of redeeming funds from sukuk booster",
+            "intent": "sukuk_booster",
+            "entities": []
+         },
+         {
+            "text": "take out money from sukuk booster",
+            "intent": "sukuk_booster",
+            "entities": []
+         },
+         {
+            "text": "is sukuk booster sharia compliant",
+            "intent": "sukuk_booster",
+            "entities": []
+         },
+         {
+            "text": "is it in line with sharia law? the booster?",
+            "intent": "sukuk_booster",
+            "entities": []
+         },
+         {
+            "text": "is the booster for sukuk made keeping in mind the shari'a law",
+            "intent": "sukuk_booster",
+            "entities": []
+         },
+         {
+            "text": "is sukuk booster sharia compliant?",
+            "intent": "sukuk_booster",
+            "entities": []
+         },
+         {
+            "text": "is the booster compliant with sharia?",
+            "intent": "sukuk_booster",
+            "entities": []
+         },
+         {
+            "text": "can you tell if the booster is in line with sharia?",
+            "intent": "sukuk_booster",
+            "entities": []
+         },
+         {
+            "text": "what is the minimum i can invest with sukuk booster?",
+            "intent": "sukuk_booster",
+            "entities": []
+         },
+         {
+            "text": "minimum investment for sukuk booster?",
+            "intent": "sukuk_booster",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

@@ -1,0 +1,442 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "What are the different prizes?",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "Can i take part in the Draw?",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "Draw details",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "What is the minimum amount to be part of million draw",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "How can I participate in the draw?",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "How can i qualify for the draw?",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "What are the different Draw prizes?",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "How many people can win in a draw?",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "How can i win more money?",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "How to win in the draw",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "How to win a million dirham?",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "When does the draw take place?",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "1 million AED draw",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "Am i eligible for the draw?",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "terms and conditions of the draw",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "Who won the draw?",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "How do I receive my winning certificate?",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "Where will the draws be held?",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "What are the eligibility criteria to enter into each of these draws",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "how many chances do I get?",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "Is there a minimum holding requirement?",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "How do I know if I have won a reward?",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "What are the prizes I can receive from National Bonds ?",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "How can i participate?",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "millions dirhams",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "one million",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "What are the prizes I can receive from National Bonds ?",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "How many savings certificates should I hold to be eligible for the draws?",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "Has the profits been announced yet?",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "have you moved to weekly draws",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "What is the minimum amount to be part of million draw",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "How are the rewards decided upon?",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "Kindly explain the mechanism of the draw ?",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "How can i participate?",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "Tell me how will I collect this paper for my reward",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "What is the new National Bonds Reward Program?",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "When is the New Reward Program effective from?",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "How many rewards will be given away as part of the New Rewards Program from National Bonds?",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "What are the eligibility criteria for the draws",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "what are the prizes of the draw",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "what all can i win",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "will they message me if I won a reward",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "what is the maximum price we can win",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "Sorry I mean the rewards structure",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "Rewards structure",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "can you tell me about the rewards program",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "can you tell me about the rewards programme",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "rewards",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "reward",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "when will i get my 1 million",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "when will i get my prize money",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "i need my prize money soon please",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "How many winners do you have every month?",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "Who won this month?",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "Who is this month's winner",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "Where can I check the names of the winners?",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "tell me where to check winners",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "please tell me where i can see the winners",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "how much winners each month?",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "how many winners do you have each month?",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "can you tell me the numbers of winners you have",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "can you tell me what is the link i can check winners on?",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "what is the link i can check winners on?",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "which link should i check for winners?",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "where can i check winners?",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "who won this month?",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "can you tell me who won last month",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "who is the winner for march?",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "who is the winner for april?",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "who won in april",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "who all won the draw in april?",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "who is winning the draw this month?",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "when are your draws held?",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "how often do you hold draws",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "how often do you host draws?",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "when is the next draw?",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "tell me when the next draw is",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "please tell me when is the next draw?",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "I want to know when the next draw is  next draw date",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "date of next draw",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "whens was the last draw",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "how often are the lucky drawers held",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "how often are draws held?",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "how does the draw take place",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "When will be the next draw?",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "How to check online prize ?",
+            "intent": "rewards",
+            "entities": []
+         },
+         {
+            "text": "How many times will there be draw in a month?",
+            "intent": "rewards",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

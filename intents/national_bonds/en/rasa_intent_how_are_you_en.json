@@ -1,0 +1,127 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "How are you?",
+            "intent": "how_are_you",
+            "entities": []
+         },
+         {
+            "text": "how are you",
+            "intent": "how_are_you",
+            "entities": []
+         },
+         {
+            "text": "how are you doing",
+            "intent": "how_are_you",
+            "entities": []
+         },
+         {
+            "text": "how you doing?",
+            "intent": "how_are_you",
+            "entities": []
+         },
+         {
+            "text": "how you doin",
+            "intent": "how_are_you",
+            "entities": []
+         },
+         {
+            "text": "how do you do",
+            "intent": "how_are_you",
+            "entities": []
+         },
+         {
+            "text": "whats up?",
+            "intent": "how_are_you",
+            "entities": []
+         },
+         {
+            "text": "how are you doing",
+            "intent": "how_are_you",
+            "entities": []
+         },
+         {
+            "text": "how is everything",
+            "intent": "how_are_you",
+            "entities": []
+         },
+         {
+            "text": "waddup",
+            "intent": "how_are_you",
+            "entities": []
+         },
+         {
+            "text": "whats up",
+            "intent": "how_are_you",
+            "entities": []
+         },
+         {
+            "text": "wat up",
+            "intent": "how_are_you",
+            "entities": []
+         },
+         {
+            "text": "waddup?!",
+            "intent": "how_are_you",
+            "entities": []
+         },
+         {
+            "text": "sup?",
+            "intent": "how_are_you",
+            "entities": []
+         },
+         {
+            "text": "sup",
+            "intent": "how_are_you",
+            "entities": []
+         },
+         {
+            "text": "how are you doing",
+            "intent": "how_are_you",
+            "entities": []
+         },
+         {
+            "text": "how are you",
+            "intent": "how_are_you",
+            "entities": []
+         },
+         {
+            "text": "how arre youu",
+            "intent": "how_are_you",
+            "entities": []
+         },
+         {
+            "text": "how's it going",
+            "intent": "how_are_you",
+            "entities": []
+         },
+         {
+            "text": "what is up",
+            "intent": "how_are_you",
+            "entities": []
+         },
+         {
+            "text": "whats up",
+            "intent": "how_are_you",
+            "entities": []
+         },
+         {
+            "text": "are you doing well?",
+            "intent": "how_are_you",
+            "entities": []
+         },
+         {
+            "text": "are you alright?",
+            "intent": "how_are_you",
+            "entities": []
+         },
+         {
+            "text": "is everything ok?",
+            "intent": "how_are_you",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

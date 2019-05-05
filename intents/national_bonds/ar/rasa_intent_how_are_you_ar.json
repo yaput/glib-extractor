@@ -1,0 +1,117 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "كيف حالك؟",
+            "intent": "how_are_you",
+            "entities": []
+         },
+         {
+            "text": "كيف حالك",
+            "intent": "how_are_you",
+            "entities": []
+         },
+         {
+            "text": "كيفك",
+            "intent": "how_are_you",
+            "entities": []
+         },
+         {
+            "text": "شخبارك",
+            "intent": "how_are_you",
+            "entities": []
+         },
+         {
+            "text": "شو الأخبار",
+            "intent": "how_are_you",
+            "entities": []
+         },
+         {
+            "text": "السلام عليكم",
+            "intent": "how_are_you",
+            "entities": []
+         },
+         {
+            "text": "سلام عليكم",
+            "intent": "how_are_you",
+            "entities": []
+         },
+         {
+            "text": "السلام عليكم و رحمة الله و بركاته",
+            "intent": "how_are_you",
+            "entities": []
+         },
+         {
+            "text": "كيف أخبارك؟",
+            "intent": "how_are_you",
+            "entities": []
+         },
+         {
+            "text": "كيف الأخبار",
+            "intent": "how_are_you",
+            "entities": []
+         },
+         {
+            "text": "كل شي تمام",
+            "intent": "how_are_you",
+            "entities": []
+         },
+         {
+            "text": "امورك طيبة",
+            "intent": "how_are_you",
+            "entities": []
+         },
+         {
+            "text": "أمورك بخير",
+            "intent": "how_are_you",
+            "entities": []
+         },
+         {
+            "text": "هل انت بخير؟",
+            "intent": "how_are_you",
+            "entities": []
+         },
+         {
+            "text": "هل انت بخير",
+            "intent": "how_are_you",
+            "entities": []
+         },
+         {
+            "text": "انت بخير",
+            "intent": "how_are_you",
+            "entities": []
+         },
+         {
+            "text": "انت تمام",
+            "intent": "how_are_you",
+            "entities": []
+         },
+         {
+            "text": "انت كويس",
+            "intent": "how_are_you",
+            "entities": []
+         },
+         {
+            "text": "كل شي تمام",
+            "intent": "how_are_you",
+            "entities": []
+         },
+         {
+            "text": "كل شي على ما يرام",
+            "intent": "how_are_you",
+            "entities": []
+         },
+         {
+            "text": "كل شي بخير",
+            "intent": "how_are_you",
+            "entities": []
+         },
+         {
+            "text": "كيف صحتك",
+            "intent": "how_are_you",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

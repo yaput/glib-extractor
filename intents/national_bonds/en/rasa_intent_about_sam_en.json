@@ -1,0 +1,127 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "Are you real?",
+            "intent": "about_sam",
+            "entities": []
+         },
+         {
+            "text": "Are you a human ?",
+            "intent": "about_sam",
+            "entities": []
+         },
+         {
+            "text": "are you a machine ?",
+            "intent": "about_sam",
+            "entities": []
+         },
+         {
+            "text": "are you a robot?",
+            "intent": "about_sam",
+            "entities": []
+         },
+         {
+            "text": "what is your name?",
+            "intent": "about_sam",
+            "entities": []
+         },
+         {
+            "text": "how old are you ?",
+            "intent": "about_sam",
+            "entities": []
+         },
+         {
+            "text": "who are you?",
+            "intent": "about_sam",
+            "entities": []
+         },
+         {
+            "text": "where do you stay?",
+            "intent": "about_sam",
+            "entities": []
+         },
+         {
+            "text": "are you a chatbot?",
+            "intent": "about_sam",
+            "entities": []
+         },
+         {
+            "text": "who am i speaking to?",
+            "intent": "about_sam",
+            "entities": []
+         },
+         {
+            "text": "what are you?",
+            "intent": "about_sam",
+            "entities": []
+         },
+         {
+            "text": "are you alive?",
+            "intent": "about_sam",
+            "entities": []
+         },
+         {
+            "text": "tell me about yourself",
+            "intent": "about_sam",
+            "entities": []
+         },
+         {
+            "text": "do I know you?",
+            "intent": "about_sam",
+            "entities": []
+         },
+         {
+            "text": "do you work for national bonds",
+            "intent": "about_sam",
+            "entities": []
+         },
+         {
+            "text": "who are you",
+            "intent": "about_sam",
+            "entities": []
+         },
+         {
+            "text": "are you real",
+            "intent": "about_sam",
+            "entities": []
+         },
+         {
+            "text": "are you a robot",
+            "intent": "about_sam",
+            "entities": []
+         },
+         {
+            "text": "what are you",
+            "intent": "about_sam",
+            "entities": []
+         },
+         {
+            "text": "what is your name",
+            "intent": "about_sam",
+            "entities": []
+         },
+         {
+            "text": "artificial intelligence",
+            "intent": "about_sam",
+            "entities": []
+         },
+         {
+            "text": "Are you an agent?",
+            "intent": "about_sam",
+            "entities": []
+         },
+         {
+            "text": "You are not fake",
+            "intent": "about_sam",
+            "entities": []
+         },
+         {
+            "text": "You are fake",
+            "intent": "about_sam",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

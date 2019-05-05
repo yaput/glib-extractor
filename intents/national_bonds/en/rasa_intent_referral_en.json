@@ -1,0 +1,92 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "can I earn some money by referring national bonds to someone?",
+            "intent": "referral",
+            "entities": []
+         },
+         {
+            "text": "referral money",
+            "intent": "referral",
+            "entities": []
+         },
+         {
+            "text": "i want to apply for Referral Contractors",
+            "intent": "referral",
+            "entities": []
+         },
+         {
+            "text": "referral incentives",
+            "intent": "referral",
+            "entities": []
+         },
+         {
+            "text": "refer my friend",
+            "intent": "referral",
+            "entities": []
+         },
+         {
+            "text": "earn money by Referral",
+            "intent": "referral",
+            "entities": []
+         },
+         {
+            "text": "recommending new clients to National bonds",
+            "intent": "referral",
+            "entities": []
+         },
+         {
+            "text": "earn cash by referring",
+            "intent": "referral",
+            "entities": []
+         },
+         {
+            "text": "refer national bonds to family member",
+            "intent": "referral",
+            "entities": []
+         },
+         {
+            "text": "i want to recommend new clients to National Bonds",
+            "intent": "referral",
+            "entities": []
+         },
+         {
+            "text": "can i become an Independent Contractor",
+            "intent": "referral",
+            "entities": []
+         },
+         {
+            "text": "can i become a Referral Contractors",
+            "intent": "referral",
+            "entities": []
+         },
+         {
+            "text": "will i get some cash if i refer anyone?",
+            "intent": "referral",
+            "entities": []
+         },
+         {
+            "text": "how to apply for referral money",
+            "intent": "referral",
+            "entities": []
+         },
+         {
+            "text": "i want to collect my referred cash",
+            "intent": "referral",
+            "entities": []
+         },
+         {
+            "text": "how many people can i refer in total",
+            "intent": "referral",
+            "entities": []
+         },
+         {
+            "text": "is there a limit to refer people",
+            "intent": "referral",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

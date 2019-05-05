@@ -1,0 +1,87 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "fuck off",
+            "intent": "swear_words",
+            "entities": []
+         },
+         {
+            "text": "piss off",
+            "intent": "swear_words",
+            "entities": []
+         },
+         {
+            "text": "dick",
+            "intent": "swear_words",
+            "entities": []
+         },
+         {
+            "text": "dick head",
+            "intent": "swear_words",
+            "entities": []
+         },
+         {
+            "text": "you are full of shit",
+            "intent": "swear_words",
+            "entities": []
+         },
+         {
+            "text": "you piece of shit",
+            "intent": "swear_words",
+            "entities": []
+         },
+         {
+            "text": "you are just a ball of crap",
+            "intent": "swear_words",
+            "entities": []
+         },
+         {
+            "text": "fuck you",
+            "intent": "swear_words",
+            "entities": []
+         },
+         {
+            "text": "fuck this shit",
+            "intent": "swear_words",
+            "entities": []
+         },
+         {
+            "text": "Gandu",
+            "intent": "swear_words",
+            "entities": []
+         },
+         {
+            "text": "Chutiya",
+            "intent": "swear_words",
+            "entities": []
+         },
+         {
+            "text": "you're a pain in the ass",
+            "intent": "swear_words",
+            "entities": []
+         },
+         {
+            "text": "go fuck yourself",
+            "intent": "swear_words",
+            "entities": []
+         },
+         {
+            "text": "gigantic pain in the ass",
+            "intent": "swear_words",
+            "entities": []
+         },
+         {
+            "text": "asshole",
+            "intent": "swear_words",
+            "entities": []
+         },
+         {
+            "text": "go to hell",
+            "intent": "swear_words",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

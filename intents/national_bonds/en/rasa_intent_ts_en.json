@@ -1,0 +1,22 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "Dap",
+            "intent": "ts",
+            "entities": []
+         },
+         {
+            "text": "Dep",
+            "intent": "ts",
+            "entities": []
+         },
+         {
+            "text": "dop",
+            "intent": "ts",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

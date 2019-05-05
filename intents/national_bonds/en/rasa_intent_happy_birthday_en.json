@@ -1,0 +1,117 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "its my birthday today",
+            "intent": "happy_birthday",
+            "entities": []
+         },
+         {
+            "text": "i was born today",
+            "intent": "happy_birthday",
+            "entities": []
+         },
+         {
+            "text": "i am celebrating my birthday today",
+            "intent": "happy_birthday",
+            "entities": []
+         },
+         {
+            "text": "bday",
+            "intent": "happy_birthday",
+            "entities": []
+         },
+         {
+            "text": "i have dads bday tomorrow",
+            "intent": "happy_birthday",
+            "entities": []
+         },
+         {
+            "text": "there is no one on my birthday",
+            "intent": "happy_birthday",
+            "entities": []
+         },
+         {
+            "text": "I am born today",
+            "intent": "happy_birthday",
+            "entities": []
+         },
+         {
+            "text": "i want to be wished happy birthday",
+            "intent": "happy_birthday",
+            "entities": []
+         },
+         {
+            "text": "wish me happy birthday",
+            "intent": "happy_birthday",
+            "entities": []
+         },
+         {
+            "text": "birthday birthday birthday",
+            "intent": "happy_birthday",
+            "entities": []
+         },
+         {
+            "text": "Wish me its my birthday",
+            "intent": "happy_birthday",
+            "entities": []
+         },
+         {
+            "text": "It's my birthday!",
+            "intent": "happy_birthday",
+            "entities": []
+         },
+         {
+            "text": "today is my birthday",
+            "intent": "happy_birthday",
+            "entities": []
+         },
+         {
+            "text": "please wish me its me birthday",
+            "intent": "happy_birthday",
+            "entities": []
+         },
+         {
+            "text": "Wont you wish me happy birthday?",
+            "intent": "happy_birthday",
+            "entities": []
+         },
+         {
+            "text": "treat me its my birthday!",
+            "intent": "happy_birthday",
+            "entities": []
+         },
+         {
+            "text": "Its my birthday you owe me a treat",
+            "intent": "happy_birthday",
+            "entities": []
+         },
+         {
+            "text": "Birthdayyyyyyy",
+            "intent": "happy_birthday",
+            "entities": []
+         },
+         {
+            "text": "Its my birthday today",
+            "intent": "happy_birthday",
+            "entities": []
+         },
+         {
+            "text": "Today is my birthday",
+            "intent": "happy_birthday",
+            "entities": []
+         },
+         {
+            "text": "wish me today",
+            "intent": "happy_birthday",
+            "entities": []
+         },
+         {
+            "text": "its my mothers birthday",
+            "intent": "happy_birthday",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

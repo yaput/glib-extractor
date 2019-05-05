@@ -1,0 +1,107 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "What is the education plan",
+            "intent": "education_plan",
+            "entities": []
+         },
+         {
+            "text": "can you tell me about education plan",
+            "intent": "education_plan",
+            "entities": []
+         },
+         {
+            "text": "whats the education plan",
+            "intent": "education_plan",
+            "entities": []
+         },
+         {
+            "text": "please tell me about education plan",
+            "intent": "education_plan",
+            "entities": []
+         },
+         {
+            "text": "i need to know about education plan",
+            "intent": "education_plan",
+            "entities": []
+         },
+         {
+            "text": "give me information on education plan",
+            "intent": "education_plan",
+            "entities": []
+         },
+         {
+            "text": "i need to apply for the education plan",
+            "intent": "education_plan",
+            "entities": []
+         },
+         {
+            "text": "what information can you give me on the education plan",
+            "intent": "education_plan",
+            "entities": []
+         },
+         {
+            "text": "Will i be eligible for rewards if i am a part of the education program?",
+            "intent": "education_plan",
+            "entities": []
+         },
+         {
+            "text": "does education program have takaful?",
+            "intent": "education_plan",
+            "entities": []
+         },
+         {
+            "text": "what are the 3 steps of education program?",
+            "intent": "education_plan",
+            "entities": []
+         },
+         {
+            "text": "educstion plan apply",
+            "intent": "education_plan",
+            "entities": []
+         },
+         {
+            "text": "application for education program",
+            "intent": "education_plan",
+            "entities": []
+         },
+         {
+            "text": "what are the benefits of the education plan?",
+            "intent": "education_plan",
+            "entities": []
+         },
+         {
+            "text": "benefits of educational plan",
+            "intent": "education_plan",
+            "entities": []
+         },
+         {
+            "text": "plan education benefits?",
+            "intent": "education_plan",
+            "entities": []
+         },
+         {
+            "text": "what is the monthly installment plan for education?",
+            "intent": "education_plan",
+            "entities": []
+         },
+         {
+            "text": "monthly education plans?",
+            "intent": "education_plan",
+            "entities": []
+         },
+         {
+            "text": "can you tell me what the study plans are?",
+            "intent": "education_plan",
+            "entities": []
+         },
+         {
+            "text": "i need to know what are the plans for study",
+            "intent": "education_plan",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

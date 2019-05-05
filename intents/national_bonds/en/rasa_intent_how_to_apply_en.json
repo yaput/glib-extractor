@@ -1,0 +1,292 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "How can I apply for National Bonds?",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "Where can i apply for NB?",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "Can i buy national bonds?",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "What is the minimum age to purchase bonds?",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "minimum age to buy bonds?",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "How many NB can i buy?",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "who all can Buy national bonds?",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "Am i eligible for purchasing bonds?",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "How do I access my National Bonds account online?",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "National bonds purchase limit",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "What is the minimum balance required?",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "is there a minimum balance required?",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "Are there any subscription fees applicable for purchasing bonds?",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "is there any fees while purchasing bonds?",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "What identification do I need to apply for National Bonds?",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "what are the document required for purchasing bonds?",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "Can a non resident of UAE purchase bonds?",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "what is the minimum balance fee?",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "How many bonds can i purchase?",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "where can i purchase bonds?",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "Can my father purchase bonds in my behalf?",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "What is the age requirements for purchasing bonds?",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "What identification do I need to apply for National Bonds?",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "I want to make National bonds application can you teach me?",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "How we can do this saving program?",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "How can I apply for the national bonds? Can you tell me what is the procedure",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "Do i need to have resident permit of dubai in order to invest?",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "When do I receive my National Bonds certificates?",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "how will i receive my national bond certificate?",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "How many National Bonds can I buy?",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "Are there any Minimum balance requirement and fee?",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "When will the minimum balance fee be deducted?",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "Are there any subscription fees applicable for purchasing bonds?",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "Are there any subscription fees applicable for purchasing bonds?",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "How do I access my National Bonds account online?",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "When do I receive my National Bonds Saving certificates?",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "How can I avoid the minimum balance fee?",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "How many National Bonds can I buy?",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "What identification do I need to apply for National Bonds?",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "Who can buy National Bonds?",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "How can I apply for National Bonds?",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "how can i apply for nb",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "How can I apply for National Bonds?",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "Who can buy National Bonds?",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "What identification do I need to apply for National Bonds?",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "How can I avoid the minimum balance fee?",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "How many National Bonds can I buy?",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "When do I receive my National Bonds Saving certificates?",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "How do I access my National Bonds account online?",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "Are there any subscription fees applicable for purchasing bonds?",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "When will the minimum balance fee be deducted?",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "Are there any Minimum balance requirement and fee?",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "can i buy in aed?",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "can i buy bonds in aed",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "how can i pay",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "can i pay online",
+            "intent": "how_to_apply",
+            "entities": []
+         },
+         {
+            "text": "can i pay for my bonds online",
+            "intent": "how_to_apply",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

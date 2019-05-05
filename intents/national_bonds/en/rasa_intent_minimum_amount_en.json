@@ -1,0 +1,112 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "what is the minimum amount to start saving with national bonds?",
+            "intent": "minimum_amount",
+            "entities": []
+         },
+         {
+            "text": "can you tell me the minimum amount to save with national bonds",
+            "intent": "minimum_amount",
+            "entities": []
+         },
+         {
+            "text": "minimum money to invest with national bonds",
+            "intent": "minimum_amount",
+            "entities": []
+         },
+         {
+            "text": "i want to know how much i need to start saving",
+            "intent": "minimum_amount",
+            "entities": []
+         },
+         {
+            "text": "what is the least amount i need to save",
+            "intent": "minimum_amount",
+            "entities": []
+         },
+         {
+            "text": "how much minimum i need to save",
+            "intent": "minimum_amount",
+            "entities": []
+         },
+         {
+            "text": "how much do i need to start saving",
+            "intent": "minimum_amount",
+            "entities": []
+         },
+         {
+            "text": "how much money do i need to begin saving",
+            "intent": "minimum_amount",
+            "entities": []
+         },
+         {
+            "text": "i want to start saving, how much do i need?",
+            "intent": "minimum_amount",
+            "entities": []
+         },
+         {
+            "text": "can you tell me how much i need to save?",
+            "intent": "minimum_amount",
+            "entities": []
+         },
+         {
+            "text": "how much do i need to begin saving with national bonds?",
+            "intent": "minimum_amount",
+            "entities": []
+         },
+         {
+            "text": "i want to know the minimum amount i need to begin saving",
+            "intent": "minimum_amount",
+            "entities": []
+         },
+         {
+            "text": "i want to start saving how much money do i need",
+            "intent": "minimum_amount",
+            "entities": []
+         },
+         {
+            "text": "how much do I need to start saving",
+            "intent": "minimum_amount",
+            "entities": []
+         },
+         {
+            "text": "i wanna know how much I need to begin saving",
+            "intent": "minimum_amount",
+            "entities": []
+         },
+         {
+            "text": "I want to begin my saving journey, how much money do i need to get started?",
+            "intent": "minimum_amount",
+            "entities": []
+         },
+         {
+            "text": "could you tell me what the minimum amount is to invest with national bonds?",
+            "intent": "minimum_amount",
+            "entities": []
+         },
+         {
+            "text": "i want to invest how much is the least i can invest",
+            "intent": "minimum_amount",
+            "entities": []
+         },
+         {
+            "text": "i want to know the minimum about to get started",
+            "intent": "minimum_amount",
+            "entities": []
+         },
+         {
+            "text": "what is the minimum amt to start investing",
+            "intent": "minimum_amount",
+            "entities": []
+         },
+         {
+            "text": "please tell me the least amount to begin investing",
+            "intent": "minimum_amount",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

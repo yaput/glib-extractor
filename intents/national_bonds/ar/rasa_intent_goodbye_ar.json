@@ -1,0 +1,187 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "سلام",
+            "intent": "goodbye",
+            "entities": []
+         },
+         {
+            "text": "السلام عليكم",
+            "intent": "goodbye",
+            "entities": []
+         },
+         {
+            "text": "مع السلامة",
+            "intent": "goodbye",
+            "entities": []
+         },
+         {
+            "text": "شكرا",
+            "intent": "goodbye",
+            "entities": []
+         },
+         {
+            "text": "شكرا لك",
+            "intent": "goodbye",
+            "entities": []
+         },
+         {
+            "text": "مشكور",
+            "intent": "goodbye",
+            "entities": []
+         },
+         {
+            "text": "سعدت بالتحدث اليك",
+            "intent": "goodbye",
+            "entities": []
+         },
+         {
+            "text": "سعدت بالدردشة معك",
+            "intent": "goodbye",
+            "entities": []
+         },
+         {
+            "text": "متشكر جدا",
+            "intent": "goodbye",
+            "entities": []
+         },
+         {
+            "text": "جزاك الله خيرا",
+            "intent": "goodbye",
+            "entities": []
+         },
+         {
+            "text": "جزاك الله كل خير",
+            "intent": "goodbye",
+            "entities": []
+         },
+         {
+            "text": "باى",
+            "intent": "goodbye",
+            "entities": []
+         },
+         {
+            "text": "باى باى",
+            "intent": "goodbye",
+            "entities": []
+         },
+         {
+            "text": "شكرا على المساعدة",
+            "intent": "goodbye",
+            "entities": []
+         },
+         {
+            "text": "شكرا لك لمساعدتى",
+            "intent": "goodbye",
+            "entities": []
+         },
+         {
+            "text": "شكرا لتقديم المساعدة",
+            "intent": "goodbye",
+            "entities": []
+         },
+         {
+            "text": "شكرا لمساعدتى",
+            "intent": "goodbye",
+            "entities": []
+         },
+         {
+            "text": "كان لطيفا جدا منك",
+            "intent": "goodbye",
+            "entities": []
+         },
+         {
+            "text": "اراك لاحقا",
+            "intent": "goodbye",
+            "entities": []
+         },
+         {
+            "text": "اشوفك مرة ثانية",
+            "intent": "goodbye",
+            "entities": []
+         },
+         {
+            "text": "اشوفك بعدين",
+            "intent": "goodbye",
+            "entities": []
+         },
+         {
+            "text": "وداعا",
+            "intent": "goodbye",
+            "entities": []
+         },
+         {
+            "text": "الوداع",
+            "intent": "goodbye",
+            "entities": []
+         },
+         {
+            "text": "نتحدث لاحقا",
+            "intent": "goodbye",
+            "entities": []
+         },
+         {
+            "text": "نتكلم فى وقت تانى",
+            "intent": "goodbye",
+            "entities": []
+         },
+         {
+            "text": "نتحدث وقت اخر",
+            "intent": "goodbye",
+            "entities": []
+         },
+         {
+            "text": "حسنا لقد انتهيت",
+            "intent": "goodbye",
+            "entities": []
+         },
+         {
+            "text": "لقد انتهيت من التحدث اليك",
+            "intent": "goodbye",
+            "entities": []
+         },
+         {
+            "text": "لقد انتهيت من الدردشة معك",
+            "intent": "goodbye",
+            "entities": []
+         },
+         {
+            "text": "اريد انهاء المحادثة",
+            "intent": "goodbye",
+            "entities": []
+         },
+         {
+            "text": "لا اريد شيئا اخر",
+            "intent": "goodbye",
+            "entities": []
+         },
+         {
+            "text": "شكرا على المساعدة",
+            "intent": "goodbye",
+            "entities": []
+         },
+         {
+            "text": "انتهيت من الدردشة",
+            "intent": "goodbye",
+            "entities": []
+         },
+         {
+            "text": "انتهيت من الحديث",
+            "intent": "goodbye",
+            "entities": []
+         },
+         {
+            "text": "وداعا",
+            "intent": "goodbye",
+            "entities": []
+         },
+         {
+            "text": "مساء الخير",
+            "intent": "goodbye",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

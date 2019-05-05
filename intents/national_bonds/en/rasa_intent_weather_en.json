@@ -1,0 +1,112 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "its very hot today",
+            "intent": "weather",
+            "entities": []
+         },
+         {
+            "text": "its raining today",
+            "intent": "weather",
+            "entities": []
+         },
+         {
+            "text": "its so cold",
+            "intent": "weather",
+            "entities": []
+         },
+         {
+            "text": "how is the weather today",
+            "intent": "weather",
+            "entities": []
+         },
+         {
+            "text": "i'm sweating it very hot today",
+            "intent": "weather",
+            "entities": []
+         },
+         {
+            "text": "looks like its gonna rain",
+            "intent": "weather",
+            "entities": []
+         },
+         {
+            "text": "how hot is it today",
+            "intent": "weather",
+            "entities": []
+         },
+         {
+            "text": "the weather is not good today",
+            "intent": "weather",
+            "entities": []
+         },
+         {
+            "text": "the weather is terrible",
+            "intent": "weather",
+            "entities": []
+         },
+         {
+            "text": "pleasant weather",
+            "intent": "weather",
+            "entities": []
+         },
+         {
+            "text": "its rainy",
+            "intent": "weather",
+            "entities": []
+         },
+         {
+            "text": "whats the weather like",
+            "intent": "weather",
+            "entities": []
+         },
+         {
+            "text": "climate is very hot",
+            "intent": "weather",
+            "entities": []
+         },
+         {
+            "text": "very sunny",
+            "intent": "weather",
+            "entities": []
+         },
+         {
+            "text": "extremely hot",
+            "intent": "weather",
+            "entities": []
+         },
+         {
+            "text": "what is typical weather?",
+            "intent": "weather",
+            "entities": []
+         },
+         {
+            "text": "what is the temperature today",
+            "intent": "weather",
+            "entities": []
+         },
+         {
+            "text": "can i know the temperature",
+            "intent": "weather",
+            "entities": []
+         },
+         {
+            "text": "how much degrees is it today?",
+            "intent": "weather",
+            "entities": []
+         },
+         {
+            "text": "is temperature very high?",
+            "intent": "weather",
+            "entities": []
+         },
+         {
+            "text": "can you tell if temperatue is very low",
+            "intent": "weather",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

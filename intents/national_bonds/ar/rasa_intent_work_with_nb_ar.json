@@ -1,0 +1,127 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "متى بدأت العمل مع الصكوك الوطنية؟",
+            "intent": "work_with_nb",
+            "entities": []
+         },
+         {
+            "text": "منذ متى بدأت العمل مع الصكوك الوطنية؟",
+            "intent": "work_with_nb",
+            "entities": []
+         },
+         {
+            "text": "منذ متى و انت جزء من فريق العمل بالصكوك الوطنية؟",
+            "intent": "work_with_nb",
+            "entities": []
+         },
+         {
+            "text": "متى أنضممت للصكوك الوطنية؟",
+            "intent": "work_with_nb",
+            "entities": []
+         },
+         {
+            "text": "منذ متى و انت فردا من فريق العمل بالصكوك الوطنية؟",
+            "intent": "work_with_nb",
+            "entities": []
+         },
+         {
+            "text": "متى تم تعيينك؟",
+            "intent": "work_with_nb",
+            "entities": []
+         },
+         {
+            "text": "متى تم تعيينك بالصكوك الوطنية؟",
+            "intent": "work_with_nb",
+            "entities": []
+         },
+         {
+            "text": "كيف صرت جزءا من فريق العمل بالصكوك الوطنية؟",
+            "intent": "work_with_nb",
+            "entities": []
+         },
+         {
+            "text": "كيف أصبحت جزءا من فريق العمل بالصكوك الوطنية؟",
+            "intent": "work_with_nb",
+            "entities": []
+         },
+         {
+            "text": "هل تعمل لدى هذه المؤسسة منذ فترة؟",
+            "intent": "work_with_nb",
+            "entities": []
+         },
+         {
+            "text": "هل تعمل لدى هذه الشركة منذ فترة؟",
+            "intent": "work_with_nb",
+            "entities": []
+         },
+         {
+            "text": "هل تعمل لدى الصكوك الوطنية منذ فترة؟",
+            "intent": "work_with_nb",
+            "entities": []
+         },
+         {
+            "text": "متى تم توظيفك هنا؟",
+            "intent": "work_with_nb",
+            "entities": []
+         },
+         {
+            "text": "متى تم تعيينك هنا؟",
+            "intent": "work_with_nb",
+            "entities": []
+         },
+         {
+            "text": "متى توظفت بالصكوك الوطنية؟",
+            "intent": "work_with_nb",
+            "entities": []
+         },
+         {
+            "text": "منذ متى و انت تعمل هنا ؟",
+            "intent": "work_with_nb",
+            "entities": []
+         },
+         {
+            "text": "متى بدأت تداوم هنا؟",
+            "intent": "work_with_nb",
+            "entities": []
+         },
+         {
+            "text": "متى بديت دوامك بالصكوك الوطنية؟",
+            "intent": "work_with_nb",
+            "entities": []
+         },
+         {
+            "text": "منذ و انت تعمل هنا؟",
+            "intent": "work_with_nb",
+            "entities": []
+         },
+         {
+            "text": "منذ متى و انت تعمل بالصكوك الوطنية؟",
+            "intent": "work_with_nb",
+            "entities": []
+         },
+         {
+            "text": "منذ متى و انت تعمل لدى الصكوك الوطنية؟",
+            "intent": "work_with_nb",
+            "entities": []
+         },
+         {
+            "text": "متى تم توظيفك بالصكوك الوطنية؟",
+            "intent": "work_with_nb",
+            "entities": []
+         },
+         {
+            "text": "متى تم تعيينك بالصكوك الوطنية؟",
+            "intent": "work_with_nb",
+            "entities": []
+         },
+         {
+            "text": "متى تم توظيفك بهذه الشركة؟",
+            "intent": "work_with_nb",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

@@ -1,0 +1,237 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "Financial Health Tips",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "Rule of 72",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "Cash Management Budgeting",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "financial calculators",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "financial tools",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "zakat calculator",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "i want to find out my zakat",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "savings calculator",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "retirement calculator",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "i want financial tips",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "Children Education Planning",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "Estate planning",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "help me with my finance",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "help me achieve my financial goals",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "i want to try the calculator",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "i want a financial goal",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "help me plan my money",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "money management tips",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "money management tricks",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "help me create a budget",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "i need help with my money",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "i want to plan my education",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "help me plan my retirement",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "tips on saving money",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "I need complete details on a retirement plan",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "do you have any tips for me to save money",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "how much to save for college",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "how can i manage my debt",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "how can i manage my money",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "how to manage money",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "do i need to consolidate my debt",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "can you advice me on making investments",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "I would like to make good investments",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "do you have financial options I can choose from",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "I want healthy financial tips",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "I want financial tools",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "I want to calculate my financial assets",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "can you provide me with financial saving options",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "can you help me get  out of debt",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "do you have debt management?",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "please give me debt management options",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "can you help me gets rid of my debt",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "i need financial management",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "i need help budgeting",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "i need to get financial independence",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "any personal advice for saving?",
+            "intent": "financial_planning",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

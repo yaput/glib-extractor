@@ -1,0 +1,87 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "Main menu",
+            "intent": "main_menu",
+            "entities": []
+         },
+         {
+            "text": "take me back to main menu",
+            "intent": "main_menu",
+            "entities": []
+         },
+         {
+            "text": "go back to main menu",
+            "intent": "main_menu",
+            "entities": []
+         },
+         {
+            "text": "homepage",
+            "intent": "main_menu",
+            "entities": []
+         },
+         {
+            "text": "show me the sarting options",
+            "intent": "main_menu",
+            "entities": []
+         },
+         {
+            "text": "start from begaining",
+            "intent": "main_menu",
+            "entities": []
+         },
+         {
+            "text": "restart",
+            "intent": "main_menu",
+            "entities": []
+         },
+         {
+            "text": "go back to the begaining",
+            "intent": "main_menu",
+            "entities": []
+         },
+         {
+            "text": "back to start",
+            "intent": "main_menu",
+            "entities": []
+         },
+         {
+            "text": "back to the main page",
+            "intent": "main_menu",
+            "entities": []
+         },
+         {
+            "text": "start over",
+            "intent": "main_menu",
+            "entities": []
+         },
+         {
+            "text": "refresh",
+            "intent": "main_menu",
+            "entities": []
+         },
+         {
+            "text": "show the main options again",
+            "intent": "main_menu",
+            "entities": []
+         },
+         {
+            "text": "what are the services provided ?",
+            "intent": "main_menu",
+            "entities": []
+         },
+         {
+            "text": "I wanna start over",
+            "intent": "main_menu",
+            "entities": []
+         },
+         {
+            "text": "main",
+            "intent": "main_menu",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

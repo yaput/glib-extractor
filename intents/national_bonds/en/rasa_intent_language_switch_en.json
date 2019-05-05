@@ -1,0 +1,177 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "I want to switch my language",
+            "intent": "language_switch",
+            "entities": []
+         },
+         {
+            "text": "change language",
+            "intent": "language_switch",
+            "entities": []
+         },
+         {
+            "text": "help me change my language",
+            "intent": "language_switch",
+            "entities": []
+         },
+         {
+            "text": "language change",
+            "intent": "language_switch",
+            "entities": []
+         },
+         {
+            "text": "change language",
+            "intent": "language_switch",
+            "entities": []
+         },
+         {
+            "text": "i want to change my language",
+            "intent": "language_switch",
+            "entities": []
+         },
+         {
+            "text": "help me change from arabic to english",
+            "intent": "language_switch",
+            "entities": []
+         },
+         {
+            "text": "help me change from english to arabic",
+            "intent": "language_switch",
+            "entities": []
+         },
+         {
+            "text": "i wanna change my language",
+            "intent": "language_switch",
+            "entities": []
+         },
+         {
+            "text": "Could you help me change my language",
+            "intent": "language_switch",
+            "entities": []
+         },
+         {
+            "text": "Change to english",
+            "intent": "language_switch",
+            "entities": []
+         },
+         {
+            "text": "Change to Arabic",
+            "intent": "language_switch",
+            "entities": []
+         },
+         {
+            "text": "Change my language to English",
+            "intent": "language_switch",
+            "entities": []
+         },
+         {
+            "text": "Change my language to Arabic",
+            "intent": "language_switch",
+            "entities": []
+         },
+         {
+            "text": "swap my language",
+            "intent": "language_switch",
+            "entities": []
+         },
+         {
+            "text": "change language settings",
+            "intent": "language_switch",
+            "entities": []
+         },
+         {
+            "text": "i wanna now talk in arabic",
+            "intent": "language_switch",
+            "entities": []
+         },
+         {
+            "text": "can i now talk in arabic",
+            "intent": "language_switch",
+            "entities": []
+         },
+         {
+            "text": "can i now talk in english",
+            "intent": "language_switch",
+            "entities": []
+         },
+         {
+            "text": "pls change language",
+            "intent": "language_switch",
+            "entities": []
+         },
+         {
+            "text": "change my language now",
+            "intent": "language_switch",
+            "entities": []
+         },
+         {
+            "text": "change to english",
+            "intent": "language_switch",
+            "entities": []
+         },
+         {
+            "text": "translate the language to english",
+            "intent": "language_switch",
+            "entities": []
+         },
+         {
+            "text": "عربى",
+            "intent": "language_switch",
+            "entities": []
+         },
+         {
+            "text": "اريد اللغة العربية",
+            "intent": "language_switch",
+            "entities": []
+         },
+         {
+            "text": "do you speak arabic",
+            "intent": "language_switch",
+            "entities": []
+         },
+         {
+            "text": "change to arabic",
+            "intent": "language_switch",
+            "entities": []
+         },
+         {
+            "text": "do you understand arabic",
+            "intent": "language_switch",
+            "entities": []
+         },
+         {
+            "text": "change to arabic",
+            "intent": "language_switch",
+            "entities": []
+         },
+         {
+            "text": "change to english",
+            "intent": "language_switch",
+            "entities": []
+         },
+         {
+            "text": "change lang to english",
+            "intent": "language_switch",
+            "entities": []
+         },
+         {
+            "text": "can you speak other languages?",
+            "intent": "language_switch",
+            "entities": []
+         },
+         {
+            "text": "what are the languages you speak?",
+            "intent": "language_switch",
+            "entities": []
+         },
+         {
+            "text": "can you speak arabic",
+            "intent": "language_switch",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

@@ -1,0 +1,162 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "اريد معلومات عن صكوك الادخار",
+            "intent": "savings_bond",
+            "entities": []
+         },
+         {
+            "text": "ما هى صكوك الادخار",
+            "intent": "savings_bond",
+            "entities": []
+         },
+         {
+            "text": "ما هى اسهل طرق الادخار",
+            "intent": "savings_bond",
+            "entities": []
+         },
+         {
+            "text": "صكوك الادخار",
+            "intent": "savings_bond",
+            "entities": []
+         },
+         {
+            "text": "نبذة عن صكوك الادخار",
+            "intent": "savings_bond",
+            "entities": []
+         },
+         {
+            "text": "معلومات عن صكوك الادخار",
+            "intent": "savings_bond",
+            "entities": []
+         },
+         {
+            "text": "ما هى صكوك الادخار",
+            "intent": "savings_bond",
+            "entities": []
+         },
+         {
+            "text": "هل يمكن ان تشرح لى ما هى صكوك الادخار",
+            "intent": "savings_bond",
+            "entities": []
+         },
+         {
+            "text": "اريد نبذة مختصرة عن صكوك الادخار",
+            "intent": "savings_bond",
+            "entities": []
+         },
+         {
+            "text": "اريد المزيد من المعلومات عن صكوك الادخار",
+            "intent": "savings_bond",
+            "entities": []
+         },
+         {
+            "text": "اريد البدأ بصكوك الادخار",
+            "intent": "savings_bond",
+            "entities": []
+         },
+         {
+            "text": "التقدم عبر الانترنت لشراء صكوك ادخار",
+            "intent": "savings_bond",
+            "entities": []
+         },
+         {
+            "text": "شراء صكوك ادخار اونلاين",
+            "intent": "savings_bond",
+            "entities": []
+         },
+         {
+            "text": "شراء شهادات ادخار عبر الانترنت",
+            "intent": "savings_bond",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكنني التقدم للإنضمام إلى برنامج الإدخار بالدرهم؟",
+            "intent": "savings_bond",
+            "entities": []
+         },
+         {
+            "text": "هل لديكم خيارات للادخار الشخصي",
+            "intent": "savings_bond",
+            "entities": []
+         },
+         {
+            "text": "شراء صكوك ادخار",
+            "intent": "savings_bond",
+            "entities": []
+         },
+         {
+            "text": "شراء شهادات ادخار",
+            "intent": "savings_bond",
+            "entities": []
+         },
+         {
+            "text": "ما هي رسوم الاشتراك في خطة الادخار الشهرية ؟",
+            "intent": "savings_bond",
+            "entities": []
+         },
+         {
+            "text": "أريد ان أتقدم بطلب للحصول علي صكوك ادخار",
+            "intent": "savings_bond",
+            "entities": []
+         },
+         {
+            "text": "أريد ان أتقدم بطلب للحصول علي شهادات ادخار",
+            "intent": "savings_bond",
+            "entities": []
+         },
+         {
+            "text": "أريد ان أتقدم بطلب للحصول علي سندات ادخار",
+            "intent": "savings_bond",
+            "entities": []
+         },
+         {
+            "text": "خطط المدخرين",
+            "intent": "savings_bond",
+            "entities": []
+         },
+         {
+            "text": "أريد ان أتقدم بطلب للحصول علي خطة الإدخار الشهرية",
+            "intent": "savings_bond",
+            "entities": []
+         },
+         {
+            "text": "اريد التقدم للحصول على خطة ادخار شهرية",
+            "intent": "savings_bond",
+            "entities": []
+         },
+         {
+            "text": "ما هى صكوك الادخار",
+            "intent": "savings_bond",
+            "entities": []
+         },
+         {
+            "text": "ما هى شهادات الادخار",
+            "intent": "savings_bond",
+            "entities": []
+         },
+         {
+            "text": "صكوك الادخار",
+            "intent": "savings_bond",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكنني التقدم  للحصول علي صكوك ادخار؟",
+            "intent": "savings_bond",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكنني التقدم  للحصول علي شهادات ادخار؟",
+            "intent": "savings_bond",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكنني التقدم  للحصول علي سندات ادخار؟",
+            "intent": "savings_bond",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

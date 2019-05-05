@@ -1,0 +1,102 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "i am looking for a particular specialization",
+            "intent": "specialization",
+            "entities": []
+         },
+         {
+            "text": "i want a doctor in a specialization",
+            "intent": "specialization",
+            "entities": []
+         },
+         {
+            "text": "i want a specialized doctor",
+            "intent": "specialization",
+            "entities": []
+         },
+         {
+            "text": "what specializations in the hospital do you have",
+            "intent": "specialization",
+            "entities": []
+         },
+         {
+            "text": "what specializations do you have",
+            "intent": "specialization",
+            "entities": []
+         },
+         {
+            "text": "i want a doctor in a particular specialization",
+            "intent": "specialization",
+            "entities": []
+         },
+         {
+            "text": "i am looking for a specialist",
+            "intent": "specialization",
+            "entities": []
+         },
+         {
+            "text": "i want a specialist",
+            "intent": "specialization",
+            "entities": []
+         },
+         {
+            "text": "help me find a specialist",
+            "intent": "specialization",
+            "entities": []
+         },
+         {
+            "text": "help me find a doctor in a specialization",
+            "intent": "specialization",
+            "entities": []
+         },
+         {
+            "text": "can you help me get a doctor under  particular specialization",
+            "intent": "specialization",
+            "entities": []
+         },
+         {
+            "text": "can you tell me what specializations the hospital has",
+            "intent": "specialization",
+            "entities": []
+         },
+         {
+            "text": "pediatrician",
+            "intent": "specialization",
+            "entities": []
+         },
+         {
+            "text": "book an appointment with a pediatrician today",
+            "intent": "specialization",
+            "entities": []
+         },
+         {
+            "text": "please book me for pediatrician",
+            "intent": "specialization",
+            "entities": []
+         },
+         {
+            "text": "specialisation",
+            "intent": "specialization",
+            "entities": []
+         },
+         {
+            "text": "specializations",
+            "intent": "specialization",
+            "entities": []
+         },
+         {
+            "text": "specialization",
+            "intent": "specialization",
+            "entities": []
+         },
+         {
+            "text": "specialist",
+            "intent": "specialization",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

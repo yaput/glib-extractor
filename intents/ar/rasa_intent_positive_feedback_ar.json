@@ -1,0 +1,62 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "الموظفين كانو رائعين",
+            "intent": "positive_feedback",
+            "entities": []
+         },
+         {
+            "text": "كنت سعيدا بخدماتكم",
+            "intent": "positive_feedback",
+            "entities": []
+         },
+         {
+            "text": "الموظفين كانو جادين",
+            "intent": "positive_feedback",
+            "entities": []
+         },
+         {
+            "text": "كانت الخدمة رائعة",
+            "intent": "positive_feedback",
+            "entities": []
+         },
+         {
+            "text": "أفضل عيادة",
+            "intent": "positive_feedback",
+            "entities": []
+         },
+         {
+            "text": "أفضل الأطباء",
+            "intent": "positive_feedback",
+            "entities": []
+         },
+         {
+            "text": "أفضل أطباء",
+            "intent": "positive_feedback",
+            "entities": []
+         },
+         {
+            "text": "أفضل مستشفى",
+            "intent": "positive_feedback",
+            "entities": []
+         },
+         {
+            "text": "قام الموظفون بعمل جيد",
+            "intent": "positive_feedback",
+            "entities": []
+         },
+         {
+            "text": "لطيف جدا",
+            "intent": "positive_feedback",
+            "entities": []
+         },
+         {
+            "text": "الممرضات كانو رائعين",
+            "intent": "positive_feedback",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

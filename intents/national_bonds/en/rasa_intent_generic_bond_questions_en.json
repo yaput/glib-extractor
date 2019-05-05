@@ -1,0 +1,132 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "saving certificates",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "Shari’a compliant investment",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "What are the different products ?",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "I want to purchase bonds",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "where to buy bonds online",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "what products do you offer",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "i am looking for a good saving scheme",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "tell me your plans for savings",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "i am interested in buying your bonds plan",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "i want to purchase bonds",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "do you have investments",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "tell me something about the bond",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "what are saving bonds?",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "i am looking to purchase bonds",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "what are the good investment options",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "i want to buy a bond",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "which bond to buy?",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "purchase saving bonds",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "invest in bonds",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "i want to invest in bonds",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "do you have investment offers?",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "do you have investment options?",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "what are the different bonds",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "best bond options",
+            "intent": "generic_bond_questions",
+            "entities": []
+         },
+         {
+            "text": "which bond is best for me",
+            "intent": "generic_bond_questions",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

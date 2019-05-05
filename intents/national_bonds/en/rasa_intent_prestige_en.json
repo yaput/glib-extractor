@@ -1,0 +1,262 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "Information on the prestige package",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "Prestige membership",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "What are the benefits of gold member?",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "Can i apply for gold membership?",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "gold member services",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "Information on gold membership",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "different prestige packages",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "Information on silver membership",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "Information on bronze membership",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "silver member services",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "bronze member services",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "Can i apply for silver membership?",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "Can i apply for bronze membership?",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "What are the benefits of silver membership?",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "What are the benefits of bronze member?",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "How to apply for gold membership?",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "How to apply for silver membership?",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "How to apply for bronze membership?",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "Online gold membership form",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "Online silver membership form",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "Online bronze membership form",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "investment opportunities of prestige account",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "Benefits of gold membership",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "Benefits of silver membership",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "Benefits of bronze membership",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "What is the prestige package?",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "What is the minimum investment amount for bronze membership?",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "What is the minimum investment amount for silver membership?",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "What is the minimum investment amount for gold membership?",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "Services offered with gold membership",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "Services offered with silver membership",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "Services offered with bronze membership",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "is there any benefits of having pretige pakage",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "prestige",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "Prestige",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "Can you tell me about your prestige product?",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "prestige products",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "what are your prestige products",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "prestige",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "prestige services",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "prestige packages",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "gold membership",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "gold",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "silver",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "bronze",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "gold member",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "gold membership details",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "silver membership details",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "bronze membership details",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "i need to know about the gold members",
+            "intent": "prestige",
+            "entities": []
+         },
+         {
+            "text": "i wanna know about silver membership",
+            "intent": "prestige",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

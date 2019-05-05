@@ -1,0 +1,97 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "I'd like a medical certificate",
+            "intent": "sick_leave_medical_certificates",
+            "entities": []
+         },
+         {
+            "text": "can i get a medical certificate",
+            "intent": "sick_leave_medical_certificates",
+            "entities": []
+         },
+         {
+            "text": "where can i get a medical certificate",
+            "intent": "sick_leave_medical_certificates",
+            "entities": []
+         },
+         {
+            "text": "who can i approach for a sick leave certificate",
+            "intent": "sick_leave_medical_certificates",
+            "entities": []
+         },
+         {
+            "text": "i want to know where to get a medical certificate",
+            "intent": "sick_leave_medical_certificates",
+            "entities": []
+         },
+         {
+            "text": "where can i get a sick leave certificate",
+            "intent": "sick_leave_medical_certificates",
+            "entities": []
+         },
+         {
+            "text": "i need help with getting a sick leave certificate",
+            "intent": "sick_leave_medical_certificates",
+            "entities": []
+         },
+         {
+            "text": "help me get a sick leave certificate",
+            "intent": "sick_leave_medical_certificates",
+            "entities": []
+         },
+         {
+            "text": "where shall i collect my medical certificate",
+            "intent": "sick_leave_medical_certificates",
+            "entities": []
+         },
+         {
+            "text": "i would like to get my medical history",
+            "intent": "sick_leave_medical_certificates",
+            "entities": []
+         },
+         {
+            "text": "how can i get my medical history",
+            "intent": "sick_leave_medical_certificates",
+            "entities": []
+         },
+         {
+            "text": "i would like to get my clinical history",
+            "intent": "sick_leave_medical_certificates",
+            "entities": []
+         },
+         {
+            "text": "can i get my clinical history",
+            "intent": "sick_leave_medical_certificates",
+            "entities": []
+         },
+         {
+            "text": "I need a medical certificate",
+            "intent": "sick_leave_medical_certificates",
+            "entities": []
+         },
+         {
+            "text": "Medical Certificate",
+            "intent": "sick_leave_medical_certificates",
+            "entities": []
+         },
+         {
+            "text": "SIck leave",
+            "intent": "sick_leave_medical_certificates",
+            "entities": []
+         },
+         {
+            "text": "medical history",
+            "intent": "sick_leave_medical_certificates",
+            "entities": []
+         },
+         {
+            "text": "cinical history",
+            "intent": "sick_leave_medical_certificates",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

@@ -1,0 +1,107 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "do you have a credit card",
+            "intent": "credit_card",
+            "entities": []
+         },
+         {
+            "text": "are there credit card",
+            "intent": "credit_card",
+            "entities": []
+         },
+         {
+            "text": "can i get a credit card",
+            "intent": "credit_card",
+            "entities": []
+         },
+         {
+            "text": "bank card",
+            "intent": "credit_card",
+            "entities": []
+         },
+         {
+            "text": "apply for credit card",
+            "intent": "credit_card",
+            "entities": []
+         },
+         {
+            "text": "i want credit card",
+            "intent": "credit_card",
+            "entities": []
+         },
+         {
+            "text": "What is the charges of the credit card?",
+            "intent": "credit_card",
+            "entities": []
+         },
+         {
+            "text": "is the credit card free?",
+            "intent": "credit_card",
+            "entities": []
+         },
+         {
+            "text": "what is the saver credit card?",
+            "intent": "credit_card",
+            "entities": []
+         },
+         {
+            "text": "what is the benefits of the saver credit card?",
+            "intent": "credit_card",
+            "entities": []
+         },
+         {
+            "text": "How can i apply for the saver credit card?",
+            "intent": "credit_card",
+            "entities": []
+         },
+         {
+            "text": "what is the benefits of the saver credit card?",
+            "intent": "credit_card",
+            "entities": []
+         },
+         {
+            "text": "How can i apply for the saver credit card?",
+            "intent": "credit_card",
+            "entities": []
+         },
+         {
+            "text": "Does national bond have credit card",
+            "intent": "credit_card",
+            "entities": []
+         },
+         {
+            "text": "i need to know about the credit card",
+            "intent": "credit_card",
+            "entities": []
+         },
+         {
+            "text": "credit card",
+            "intent": "credit_card",
+            "entities": []
+         },
+         {
+            "text": "sohoula credit card",
+            "intent": "credit_card",
+            "entities": []
+         },
+         {
+            "text": "sohoula card",
+            "intent": "credit_card",
+            "entities": []
+         },
+         {
+            "text": "enquire about the credit card",
+            "intent": "credit_card",
+            "entities": []
+         },
+         {
+            "text": "how much cost is for the credit card",
+            "intent": "credit_card",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

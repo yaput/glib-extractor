@@ -1,0 +1,142 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "what is myPlan",
+            "intent": "myplanservice",
+            "entities": []
+         },
+         {
+            "text": "What is myPlan?",
+            "intent": "myplanservice",
+            "entities": []
+         },
+         {
+            "text": "How can i join myPlan program?",
+            "intent": "myplanservice",
+            "entities": []
+         },
+         {
+            "text": "Apply for myPlan",
+            "intent": "myplanservice",
+            "entities": []
+         },
+         {
+            "text": "Different myPlan",
+            "intent": "myplanservice",
+            "entities": []
+         },
+         {
+            "text": "What are the fees of myplan?",
+            "intent": "myplanservice",
+            "entities": []
+         },
+         {
+            "text": "Subscription of MyPlan",
+            "intent": "myplanservice",
+            "entities": []
+         },
+         {
+            "text": "I want to sign up for myplan",
+            "intent": "myplanservice",
+            "entities": []
+         },
+         {
+            "text": "what do I have to do to join the myplan program",
+            "intent": "myplanservice",
+            "entities": []
+         },
+         {
+            "text": "How can I join the my plan program",
+            "intent": "myplanservice",
+            "entities": []
+         },
+         {
+            "text": "I want a myPlan program",
+            "intent": "myplanservice",
+            "entities": []
+         },
+         {
+            "text": "I want to apply for the myPlan program",
+            "intent": "myplanservice",
+            "entities": []
+         },
+         {
+            "text": "I want the my plan option",
+            "intent": "myplanservice",
+            "entities": []
+         },
+         {
+            "text": "what is the myplan service",
+            "intent": "myplanservice",
+            "entities": []
+         },
+         {
+            "text": "myplan",
+            "intent": "myplanservice",
+            "entities": []
+         },
+         {
+            "text": "my plan service",
+            "intent": "myplanservice",
+            "entities": []
+         },
+         {
+            "text": "my plan",
+            "intent": "myplanservice",
+            "entities": []
+         },
+         {
+            "text": "whats my plan",
+            "intent": "myplanservice",
+            "entities": []
+         },
+         {
+            "text": "Can I save monthly with national bonds",
+            "intent": "myplanservice",
+            "entities": []
+         },
+         {
+            "text": "what is the monthly saving program",
+            "intent": "myplanservice",
+            "entities": []
+         },
+         {
+            "text": "what is the monthly program",
+            "intent": "myplanservice",
+            "entities": []
+         },
+         {
+            "text": "tell me what the monthly saving programme?",
+            "intent": "myplanservice",
+            "entities": []
+         },
+         {
+            "text": "what are regular savings?",
+            "intent": "myplanservice",
+            "entities": []
+         },
+         {
+            "text": "can you tell me what a regular savings program is?",
+            "intent": "myplanservice",
+            "entities": []
+         },
+         {
+            "text": "are there automated savings?",
+            "intent": "myplanservice",
+            "entities": []
+         },
+         {
+            "text": "are there monthly savings?",
+            "intent": "myplanservice",
+            "entities": []
+         },
+         {
+            "text": "what are the monthly savings?",
+            "intent": "myplanservice",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

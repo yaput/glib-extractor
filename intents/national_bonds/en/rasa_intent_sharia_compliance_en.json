@@ -1,0 +1,87 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "i want to know about shari'a compliance",
+            "intent": "sharia_compliance",
+            "entities": []
+         },
+         {
+            "text": "if your bonds shari'a compliant?",
+            "intent": "sharia_compliance",
+            "entities": []
+         },
+         {
+            "text": "tell me about shari'a compliant",
+            "intent": "sharia_compliance",
+            "entities": []
+         },
+         {
+            "text": "are your transactions shari'a compliant",
+            "intent": "sharia_compliance",
+            "entities": []
+         },
+         {
+            "text": "who makes sure that your transactions are shari'a compliant",
+            "intent": "sharia_compliance",
+            "entities": []
+         },
+         {
+            "text": "shari'a compliant?",
+            "intent": "sharia_compliance",
+            "entities": []
+         },
+         {
+            "text": "is you investments according to islam?",
+            "intent": "sharia_compliance",
+            "entities": []
+         },
+         {
+            "text": "is your investment related to islam",
+            "intent": "sharia_compliance",
+            "entities": []
+         },
+         {
+            "text": "is this a islamic bank?",
+            "intent": "sharia_compliance",
+            "entities": []
+         },
+         {
+            "text": "does national bonds comply with Islamic laws of finance",
+            "intent": "sharia_compliance",
+            "entities": []
+         },
+         {
+            "text": "is this a bank for muslims",
+            "intent": "sharia_compliance",
+            "entities": []
+         },
+         {
+            "text": "Can I know about shari'a compliance services ?",
+            "intent": "sharia_compliance",
+            "entities": []
+         },
+         {
+            "text": "can muslims use your services?",
+            "intent": "sharia_compliance",
+            "entities": []
+         },
+         {
+            "text": "are all your investments according to islam?",
+            "intent": "sharia_compliance",
+            "entities": []
+         },
+         {
+            "text": "is any of your services does not follow shari'a",
+            "intent": "sharia_compliance",
+            "entities": []
+         },
+         {
+            "text": "which all of your services doesnt follow shari'a",
+            "intent": "sharia_compliance",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

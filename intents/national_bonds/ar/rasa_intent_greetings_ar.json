@@ -1,0 +1,307 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "مرحبا",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "أهلا بك",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "كيف حالك؟",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "أهلا",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "هلا",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "السلام عليكم",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "سعدت بلقائك",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "سعدت برؤيتك",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "هل يوجد أحد هنا ؟",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "هل من أحد هنا؟",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "هل يتواجد أى شخص هنا؟",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "صباح الخير",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "مساء الخير",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "كيفك",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "هاى",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "فى حد هنا",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "فى حد موجود",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "لدى سؤال؟",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "عندى سؤال؟",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "أريد السؤال؟",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "هلا و الله",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "كيف الحال",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "ممكن أسأل سؤال؟",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "هل يمكننى أن اسأل سؤال؟",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "عندى سؤال؟",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "ممكن أسأل؟",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "هل يمكنك الرد على؟",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "هل يمكنك الرد عليا؟",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "ممكن ترد على؟",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "ممكن ترد على سؤالى؟",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "هل يمكنك الرد على سؤالى؟",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "ممكن ترد عليا؟",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "كلمنى",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "تحدث إلى",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "سولف معى",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "أحكى معى",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "مرحبا ناشيونال بوندز",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "مرحبا نابكو",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "مرحبا نابوكو",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "هلا نابوكو",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "هلا نابكو",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "هلا ناشيونال بوندز",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "سلام",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "السلام",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "سلام عليكم",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "مرحبا الصكوك الوطنية",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "مرحبا بالصكوك الوطنية",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "هلا الصكوك الوطنية",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "هلا بالصكوك الوطنية",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "لدى مشكلة مع السحوبات",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "لدى مشكلة مع الجوائز",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "لدى مشكلة مع السحب الجوائز",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "لدى مشكلة مع سحوبات الجوائز",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "هلا و غلا",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "هلا بالزين",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "مراحب",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "مرحبتين",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "شخبارك",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "شخباركم",
+            "intent": "greetings",
+            "entities": []
+         },
+         {
+            "text": "عساك طيب",
+            "intent": "greetings",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

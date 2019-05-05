@@ -1,0 +1,127 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "Are there any job vacancies?",
+            "intent": "career",
+            "entities": []
+         },
+         {
+            "text": "vacant jobs?",
+            "intent": "career",
+            "entities": []
+         },
+         {
+            "text": "any vacant post available?",
+            "intent": "career",
+            "entities": []
+         },
+         {
+            "text": "can I apply for a job?",
+            "intent": "career",
+            "entities": []
+         },
+         {
+            "text": "Job vacancies?",
+            "intent": "career",
+            "entities": []
+         },
+         {
+            "text": "any job opportunity?",
+            "intent": "career",
+            "entities": []
+         },
+         {
+            "text": "Are there any job opportunities?",
+            "intent": "career",
+            "entities": []
+         },
+         {
+            "text": "any jobs available?",
+            "intent": "career",
+            "entities": []
+         },
+         {
+            "text": "any job offering",
+            "intent": "career",
+            "entities": []
+         },
+         {
+            "text": "I want to apply for job",
+            "intent": "career",
+            "entities": []
+         },
+         {
+            "text": "any work opportunity",
+            "intent": "career",
+            "entities": []
+         },
+         {
+            "text": "i want a job",
+            "intent": "career",
+            "entities": []
+         },
+         {
+            "text": "career options",
+            "intent": "career",
+            "entities": []
+         },
+         {
+            "text": "Career opportunities",
+            "intent": "career",
+            "entities": []
+         },
+         {
+            "text": "Career aspects",
+            "intent": "career",
+            "entities": []
+         },
+         {
+            "text": "Jobs in NB",
+            "intent": "career",
+            "entities": []
+         },
+         {
+            "text": "national bonds jobs",
+            "intent": "career",
+            "entities": []
+         },
+         {
+            "text": "I am looking for jobs",
+            "intent": "career",
+            "entities": []
+         },
+         {
+            "text": "I want to submit my CV",
+            "intent": "career",
+            "entities": []
+         },
+         {
+            "text": "Is there any job available?",
+            "intent": "career",
+            "entities": []
+         },
+         {
+            "text": "i am looking for a job in your company",
+            "intent": "career",
+            "entities": []
+         },
+         {
+            "text": "I want to work in your company",
+            "intent": "career",
+            "entities": []
+         },
+         {
+            "text": "does national bonds currently have job vacancies",
+            "intent": "career",
+            "entities": []
+         },
+         {
+            "text": "How to work with national bonds",
+            "intent": "career",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

@@ -1,0 +1,67 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "لا",
+            "intent": "no",
+            "entities": []
+         },
+         {
+            "text": "غير مهتم",
+            "intent": "no",
+            "entities": []
+         },
+         {
+            "text": "إلغاء",
+            "intent": "no",
+            "entities": []
+         },
+         {
+            "text": "خروج",
+            "intent": "no",
+            "entities": []
+         },
+         {
+            "text": "توقف",
+            "intent": "no",
+            "entities": []
+         },
+         {
+            "text": "الخروج من المحادثة",
+            "intent": "no",
+            "entities": []
+         },
+         {
+            "text": "إغلاق",
+            "intent": "no",
+            "entities": []
+         },
+         {
+            "text": "اريد الخروج",
+            "intent": "no",
+            "entities": []
+         },
+         {
+            "text": "لا اريد الإستكمال",
+            "intent": "no",
+            "entities": []
+         },
+         {
+            "text": "لا اريد",
+            "intent": "no",
+            "entities": []
+         },
+         {
+            "text": "لا ارغب",
+            "intent": "no",
+            "entities": []
+         },
+         {
+            "text": "غير موافق",
+            "intent": "no",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

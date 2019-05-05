@@ -1,0 +1,112 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "dirham saving",
+            "intent": "dirham_saving",
+            "entities": []
+         },
+         {
+            "text": "apply for dirham saving program",
+            "intent": "dirham_saving",
+            "entities": []
+         },
+         {
+            "text": "can you tell  me about dirham saving program",
+            "intent": "dirham_saving",
+            "entities": []
+         },
+         {
+            "text": "tell me about dirham saving scheme",
+            "intent": "dirham_saving",
+            "entities": []
+         },
+         {
+            "text": "dirham saving plan",
+            "intent": "dirham_saving",
+            "entities": []
+         },
+         {
+            "text": "dirham saving program",
+            "intent": "dirham_saving",
+            "entities": []
+         },
+         {
+            "text": "dirham saving bonds",
+            "intent": "dirham_saving",
+            "entities": []
+         },
+         {
+            "text": "bonds for dirham saving",
+            "intent": "dirham_saving",
+            "entities": []
+         },
+         {
+            "text": "benefits of dirham saving",
+            "intent": "dirham_saving",
+            "entities": []
+         },
+         {
+            "text": "what is dirham savings?",
+            "intent": "dirham_saving",
+            "entities": []
+         },
+         {
+            "text": "where to apply for dirham saving program",
+            "intent": "dirham_saving",
+            "entities": []
+         },
+         {
+            "text": "dirham saving services",
+            "intent": "dirham_saving",
+            "entities": []
+         },
+         {
+            "text": "how to apply for dirham savings",
+            "intent": "dirham_saving",
+            "entities": []
+         },
+         {
+            "text": "show me application form of dirham savings",
+            "intent": "dirham_saving",
+            "entities": []
+         },
+         {
+            "text": "dirham saving application form?",
+            "intent": "dirham_saving",
+            "entities": []
+         },
+         {
+            "text": "AED saving program",
+            "intent": "dirham_saving",
+            "entities": []
+         },
+         {
+            "text": "programme to save dhiram",
+            "intent": "dirham_saving",
+            "entities": []
+         },
+         {
+            "text": "whats dhirams saving programme",
+            "intent": "dirham_saving",
+            "entities": []
+         },
+         {
+            "text": "dhiram saving",
+            "intent": "dirham_saving",
+            "entities": []
+         },
+         {
+            "text": "DHIRAM program",
+            "intent": "dirham_saving",
+            "entities": []
+         },
+         {
+            "text": "dirham saving program",
+            "intent": "dirham_saving",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

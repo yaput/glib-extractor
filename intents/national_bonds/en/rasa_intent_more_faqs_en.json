@@ -1,0 +1,37 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "more faqs",
+            "intent": "more_faqs",
+            "entities": []
+         },
+         {
+            "text": "more FAQ's",
+            "intent": "more_faqs",
+            "entities": []
+         },
+         {
+            "text": "more faq's",
+            "intent": "more_faqs",
+            "entities": []
+         },
+         {
+            "text": "more questions",
+            "intent": "more_faqs",
+            "entities": []
+         },
+         {
+            "text": "I have more questions",
+            "intent": "more_faqs",
+            "entities": []
+         },
+         {
+            "text": "questions",
+            "intent": "more_faqs",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

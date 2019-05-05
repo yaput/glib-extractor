@@ -1,0 +1,52 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "نعم",
+            "intent": "yes",
+            "entities": []
+         },
+         {
+            "text": "موافق",
+            "intent": "yes",
+            "entities": []
+         },
+         {
+            "text": "بالطبع",
+            "intent": "yes",
+            "entities": []
+         },
+         {
+            "text": "لما لا",
+            "intent": "yes",
+            "entities": []
+         },
+         {
+            "text": "اكيد",
+            "intent": "yes",
+            "entities": []
+         },
+         {
+            "text": "نعم من فضلك",
+            "intent": "yes",
+            "entities": []
+         },
+         {
+            "text": "نعم بالطبع",
+            "intent": "yes",
+            "entities": []
+         },
+         {
+            "text": "حسنا",
+            "intent": "yes",
+            "entities": []
+         },
+         {
+            "text": "نعم بالتأكيد",
+            "intent": "yes",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

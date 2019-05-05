@@ -1,0 +1,17 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "Hi",
+            "intent": "ger",
+            "entities": []
+         },
+         {
+            "text": "Hello",
+            "intent": "ger",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

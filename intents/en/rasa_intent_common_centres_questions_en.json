@@ -1,0 +1,132 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "how can i get to national hospital",
+            "intent": "common_centres_questions",
+            "entities": []
+         },
+         {
+            "text": "how far away is national hospital",
+            "intent": "common_centres_questions",
+            "entities": []
+         },
+         {
+            "text": "direct me to national hospital",
+            "intent": "common_centres_questions",
+            "entities": []
+         },
+         {
+            "text": "where is national hospital",
+            "intent": "common_centres_questions",
+            "entities": []
+         },
+         {
+            "text": "take me to national hospital",
+            "intent": "common_centres_questions",
+            "entities": []
+         },
+         {
+            "text": "guide me to national hospital",
+            "intent": "common_centres_questions",
+            "entities": []
+         },
+         {
+            "text": "how far is national hospital?",
+            "intent": "common_centres_questions",
+            "entities": []
+         },
+         {
+            "text": "do you have national hospital in dubai?",
+            "intent": "common_centres_questions",
+            "entities": []
+         },
+         {
+            "text": "is dermalase clinic in jumeirah?",
+            "intent": "common_centres_questions",
+            "entities": []
+         },
+         {
+            "text": "where is New National Medical Centre 1",
+            "intent": "common_centres_questions",
+            "entities": []
+         },
+         {
+            "text": "how can i get to New National Medical Centre Branch 1",
+            "intent": "common_centres_questions",
+            "entities": []
+         },
+         {
+            "text": "location of New National Medical Centre",
+            "intent": "common_centres_questions",
+            "entities": []
+         },
+         {
+            "text": "how can I get to nnmc",
+            "intent": "common_centres_questions",
+            "entities": []
+         },
+         {
+            "text": "national hospital abu dhabi please",
+            "intent": "common_centres_questions",
+            "entities": []
+         },
+         {
+            "text": "national hospital pls",
+            "intent": "common_centres_questions",
+            "entities": []
+         },
+         {
+            "text": "National Hospital Abu Dhabi pl;s",
+            "intent": "common_centres_questions",
+            "entities": []
+         },
+         {
+            "text": "new national medical centre",
+            "intent": "common_centres_questions",
+            "entities": []
+         },
+         {
+            "text": "what is the contact information of national hospital",
+            "intent": "common_centres_questions",
+            "entities": []
+         },
+         {
+            "text": "can I get the contact number for national hospital",
+            "intent": "common_centres_questions",
+            "entities": []
+         },
+         {
+            "text": "can you please pass on the number of national hospital",
+            "intent": "common_centres_questions",
+            "entities": []
+         },
+         {
+            "text": "I need contact details of national hospital",
+            "intent": "common_centres_questions",
+            "entities": []
+         },
+         {
+            "text": "I need the phone umber of national hospital",
+            "intent": "common_centres_questions",
+            "entities": []
+         },
+         {
+            "text": "what is the phone number of national hospital",
+            "intent": "common_centres_questions",
+            "entities": []
+         },
+         {
+            "text": "I mean that the above stated email id is of reem medical?",
+            "intent": "common_centres_questions",
+            "entities": []
+         },
+         {
+            "text": "nnmc",
+            "intent": "common_centres_questions",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

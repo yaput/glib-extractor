@@ -1,0 +1,142 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "I don't understand",
+            "intent": "intents_before_the_introduction_form",
+            "entities": []
+         },
+         {
+            "text": "why do i have to fill out the form",
+            "intent": "intents_before_the_introduction_form",
+            "entities": []
+         },
+         {
+            "text": "is there a reason why I have to fill out this fom",
+            "intent": "intents_before_the_introduction_form",
+            "entities": []
+         },
+         {
+            "text": "can you tell me why I have to fill out the form",
+            "intent": "intents_before_the_introduction_form",
+            "entities": []
+         },
+         {
+            "text": "why should I fill out the form",
+            "intent": "intents_before_the_introduction_form",
+            "entities": []
+         },
+         {
+            "text": "is this form necessary",
+            "intent": "intents_before_the_introduction_form",
+            "entities": []
+         },
+         {
+            "text": "is it necessary to do this",
+            "intent": "intents_before_the_introduction_form",
+            "entities": []
+         },
+         {
+            "text": "is it important to fill out this form",
+            "intent": "intents_before_the_introduction_form",
+            "entities": []
+         },
+         {
+            "text": "i don't understand why I need to fill out this form",
+            "intent": "intents_before_the_introduction_form",
+            "entities": []
+         },
+         {
+            "text": "i don't understand why I need to do this",
+            "intent": "intents_before_the_introduction_form",
+            "entities": []
+         },
+         {
+            "text": "why is the form mandatory",
+            "intent": "intents_before_the_introduction_form",
+            "entities": []
+         },
+         {
+            "text": "is this mandatory",
+            "intent": "intents_before_the_introduction_form",
+            "entities": []
+         },
+         {
+            "text": "is it mandatory to fill the form",
+            "intent": "intents_before_the_introduction_form",
+            "entities": []
+         },
+         {
+            "text": "why is this form so important",
+            "intent": "intents_before_the_introduction_form",
+            "entities": []
+         },
+         {
+            "text": "what is the importance of this form",
+            "intent": "intents_before_the_introduction_form",
+            "entities": []
+         },
+         {
+            "text": "is this form important",
+            "intent": "intents_before_the_introduction_form",
+            "entities": []
+         },
+         {
+            "text": "why is this important",
+            "intent": "intents_before_the_introduction_form",
+            "entities": []
+         },
+         {
+            "text": "is this compulsory",
+            "intent": "intents_before_the_introduction_form",
+            "entities": []
+         },
+         {
+            "text": "is it compulsory to fill this out",
+            "intent": "intents_before_the_introduction_form",
+            "entities": []
+         },
+         {
+            "text": "is it compulsory to do this?",
+            "intent": "intents_before_the_introduction_form",
+            "entities": []
+         },
+         {
+            "text": "i don't understand why this is important",
+            "intent": "intents_before_the_introduction_form",
+            "entities": []
+         },
+         {
+            "text": "i don't understand why this form is compulsory",
+            "intent": "intents_before_the_introduction_form",
+            "entities": []
+         },
+         {
+            "text": "i don't get the point of this form",
+            "intent": "intents_before_the_introduction_form",
+            "entities": []
+         },
+         {
+            "text": "is this form necessary",
+            "intent": "intents_before_the_introduction_form",
+            "entities": []
+         },
+         {
+            "text": "is this important",
+            "intent": "intents_before_the_introduction_form",
+            "entities": []
+         },
+         {
+            "text": "don't uderstand",
+            "intent": "intents_before_the_introduction_form",
+            "entities": []
+         },
+         {
+            "text": "do not understand",
+            "intent": "intents_before_the_introduction_form",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

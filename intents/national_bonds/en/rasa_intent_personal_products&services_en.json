@@ -1,0 +1,127 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "can you show me options for personal savings?",
+            "intent": "personal_products&services",
+            "entities": []
+         },
+         {
+            "text": "i need to see the personal savings products",
+            "intent": "personal_products&services",
+            "entities": []
+         },
+         {
+            "text": "do you have any saving plans for individuals",
+            "intent": "personal_products&services",
+            "entities": []
+         },
+         {
+            "text": "tell me what plans do you have for individuals",
+            "intent": "personal_products&services",
+            "entities": []
+         },
+         {
+            "text": "what are the personal services offered?",
+            "intent": "personal_products&services",
+            "entities": []
+         },
+         {
+            "text": "personal saving plan",
+            "intent": "personal_products&services",
+            "entities": []
+         },
+         {
+            "text": "personal bonds",
+            "intent": "personal_products&services",
+            "entities": []
+         },
+         {
+            "text": "i want to purchase bonds for myself",
+            "intent": "personal_products&services",
+            "entities": []
+         },
+         {
+            "text": "is there any services for me?",
+            "intent": "personal_products&services",
+            "entities": []
+         },
+         {
+            "text": "my brother wants to invest",
+            "intent": "personal_products&services",
+            "entities": []
+         },
+         {
+            "text": "how can my sister start a personal savings plan",
+            "intent": "personal_products&services",
+            "entities": []
+         },
+         {
+            "text": "my dad want savings plan",
+            "intent": "personal_products&services",
+            "entities": []
+         },
+         {
+            "text": "can my brother apply for any of yours services",
+            "intent": "personal_products&services",
+            "entities": []
+         },
+         {
+            "text": "Personal",
+            "intent": "personal_products&services",
+            "entities": []
+         },
+         {
+            "text": "what are the personal products and services you offer?",
+            "intent": "personal_products&services",
+            "entities": []
+         },
+         {
+            "text": "can you tell me what the personal products are?",
+            "intent": "personal_products&services",
+            "entities": []
+         },
+         {
+            "text": "what are your personal services?",
+            "intent": "personal_products&services",
+            "entities": []
+         },
+         {
+            "text": "give me your personal services",
+            "intent": "personal_products&services",
+            "entities": []
+         },
+         {
+            "text": "personal and general",
+            "intent": "personal_products&services",
+            "entities": []
+         },
+         {
+            "text": "guide me to personal",
+            "intent": "personal_products&services",
+            "entities": []
+         },
+         {
+            "text": "take me to personal",
+            "intent": "personal_products&services",
+            "entities": []
+         },
+         {
+            "text": "personal products",
+            "intent": "personal_products&services",
+            "entities": []
+         },
+         {
+            "text": "what are your personal products?",
+            "intent": "personal_products&services",
+            "entities": []
+         },
+         {
+            "text": "personal services",
+            "intent": "personal_products&services",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

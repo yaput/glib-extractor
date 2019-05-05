@@ -1,0 +1,82 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "can i cancel my appointment",
+            "intent": "cancel_appointment",
+            "entities": []
+         },
+         {
+            "text": "how can i cancel an appointment",
+            "intent": "cancel_appointment",
+            "entities": []
+         },
+         {
+            "text": "i want to cancel my booking",
+            "intent": "cancel_appointment",
+            "entities": []
+         },
+         {
+            "text": "please cancel my doctor's appointment",
+            "intent": "cancel_appointment",
+            "entities": []
+         },
+         {
+            "text": "how to cancel my appointment",
+            "intent": "cancel_appointment",
+            "entities": []
+         },
+         {
+            "text": "please help me cancel my doctor's appointment",
+            "intent": "cancel_appointment",
+            "entities": []
+         },
+         {
+            "text": "can you cancel a doctor's appointment for me",
+            "intent": "cancel_appointment",
+            "entities": []
+         },
+         {
+            "text": "i want to change my appointment",
+            "intent": "cancel_appointment",
+            "entities": []
+         },
+         {
+            "text": "can i change my appointment",
+            "intent": "cancel_appointment",
+            "entities": []
+         },
+         {
+            "text": "how can i change my booking",
+            "intent": "cancel_appointment",
+            "entities": []
+         },
+         {
+            "text": "i want to change my booking timing",
+            "intent": "cancel_appointment",
+            "entities": []
+         },
+         {
+            "text": "help me cancel my appointment",
+            "intent": "cancel_appointment",
+            "entities": []
+         },
+         {
+            "text": "cancel booking",
+            "intent": "cancel_appointment",
+            "entities": []
+         },
+         {
+            "text": "cancel doctor's appointment",
+            "intent": "cancel_appointment",
+            "entities": []
+         },
+         {
+            "text": "change",
+            "intent": "cancel_appointment",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

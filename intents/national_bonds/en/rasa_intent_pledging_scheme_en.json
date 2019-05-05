@@ -1,0 +1,122 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "what is the pledging scheme",
+            "intent": "pledging_scheme",
+            "entities": []
+         },
+         {
+            "text": "am I eligibility for pledging scheme",
+            "intent": "pledging_scheme",
+            "entities": []
+         },
+         {
+            "text": "Document required for pledging scheme",
+            "intent": "pledging_scheme",
+            "entities": []
+         },
+         {
+            "text": "apply for pledging scheme",
+            "intent": "pledging_scheme",
+            "entities": []
+         },
+         {
+            "text": "what are the benefits of pledging",
+            "intent": "pledging_scheme",
+            "entities": []
+         },
+         {
+            "text": "how can I pledge my savings",
+            "intent": "pledging_scheme",
+            "entities": []
+         },
+         {
+            "text": "how can I join the pledging scheme",
+            "intent": "pledging_scheme",
+            "entities": []
+         },
+         {
+            "text": "I want to pledge my sukuk",
+            "intent": "pledging_scheme",
+            "entities": []
+         },
+         {
+            "text": "what are the procedures to pledge my sukuk",
+            "intent": "pledging_scheme",
+            "entities": []
+         },
+         {
+            "text": "what is this pledging scheme about",
+            "intent": "pledging_scheme",
+            "entities": []
+         },
+         {
+            "text": "can you tell me more about the pledging scheme",
+            "intent": "pledging_scheme",
+            "entities": []
+         },
+         {
+            "text": "I'll like to learn more about the pledging scheme",
+            "intent": "pledging_scheme",
+            "entities": []
+         },
+         {
+            "text": "how can I enroll in the pledging scheme",
+            "intent": "pledging_scheme",
+            "entities": []
+         },
+         {
+            "text": "I want to get the pledging scheme",
+            "intent": "pledging_scheme",
+            "entities": []
+         },
+         {
+            "text": "I want a pledging scheme",
+            "intent": "pledging_scheme",
+            "entities": []
+         },
+         {
+            "text": "what are the conditions for joining the pledging scheme",
+            "intent": "pledging_scheme",
+            "entities": []
+         },
+         {
+            "text": "I want to subscribe to the pledging scheme",
+            "intent": "pledging_scheme",
+            "entities": []
+         },
+         {
+            "text": "how can i pledge my sukuk?",
+            "intent": "pledging_scheme",
+            "entities": []
+         },
+         {
+            "text": "how to pledge my sukuk",
+            "intent": "pledging_scheme",
+            "entities": []
+         },
+         {
+            "text": "i want to pledge my sukuk",
+            "intent": "pledging_scheme",
+            "entities": []
+         },
+         {
+            "text": "whats pledging scheme",
+            "intent": "pledging_scheme",
+            "entities": []
+         },
+         {
+            "text": "how can i pledge",
+            "intent": "pledging_scheme",
+            "entities": []
+         },
+         {
+            "text": "how to pledge sukuk",
+            "intent": "pledging_scheme",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

@@ -1,0 +1,72 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "no",
+            "intent": "no",
+            "entities": []
+         },
+         {
+            "text": "nah",
+            "intent": "no",
+            "entities": []
+         },
+         {
+            "text": "nope",
+            "intent": "no",
+            "entities": []
+         },
+         {
+            "text": "not interested",
+            "intent": "no",
+            "entities": []
+         },
+         {
+            "text": "cancel",
+            "intent": "no",
+            "entities": []
+         },
+         {
+            "text": "exit",
+            "intent": "no",
+            "entities": []
+         },
+         {
+            "text": "stop",
+            "intent": "no",
+            "entities": []
+         },
+         {
+            "text": "exit conversation",
+            "intent": "no",
+            "entities": []
+         },
+         {
+            "text": "close",
+            "intent": "no",
+            "entities": []
+         },
+         {
+            "text": "quit",
+            "intent": "no",
+            "entities": []
+         },
+         {
+            "text": "I quit",
+            "intent": "no",
+            "entities": []
+         },
+         {
+            "text": "I want to quit",
+            "intent": "no",
+            "entities": []
+         },
+         {
+            "text": "dont want",
+            "intent": "no",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

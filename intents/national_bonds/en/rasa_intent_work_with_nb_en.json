@@ -1,0 +1,97 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "how long have you been working with national bonds",
+            "intent": "work_with_nb",
+            "entities": []
+         },
+         {
+            "text": "have you been a part of the team for long?",
+            "intent": "work_with_nb",
+            "entities": []
+         },
+         {
+            "text": "how long have you been on the team",
+            "intent": "work_with_nb",
+            "entities": []
+         },
+         {
+            "text": "when did you join national bonds",
+            "intent": "work_with_nb",
+            "entities": []
+         },
+         {
+            "text": "when did you get hired",
+            "intent": "work_with_nb",
+            "entities": []
+         },
+         {
+            "text": "how did you become a staff at national bonds",
+            "intent": "work_with_nb",
+            "entities": []
+         },
+         {
+            "text": "have you been working at this company for long?",
+            "intent": "work_with_nb",
+            "entities": []
+         },
+         {
+            "text": "how long have you been working with this company",
+            "intent": "work_with_nb",
+            "entities": []
+         },
+         {
+            "text": "when were you employed here",
+            "intent": "work_with_nb",
+            "entities": []
+         },
+         {
+            "text": "when did you start working at national bonds",
+            "intent": "work_with_nb",
+            "entities": []
+         },
+         {
+            "text": "have you been with national bonds for a long time",
+            "intent": "work_with_nb",
+            "entities": []
+         },
+         {
+            "text": "have you been with this company for long",
+            "intent": "work_with_nb",
+            "entities": []
+         },
+         {
+            "text": "when did you get employed here",
+            "intent": "work_with_nb",
+            "entities": []
+         },
+         {
+            "text": "how long have you worked here",
+            "intent": "work_with_nb",
+            "entities": []
+         },
+         {
+            "text": "you have worked here for how long?",
+            "intent": "work_with_nb",
+            "entities": []
+         },
+         {
+            "text": "you have been working at National bonds for how long now?",
+            "intent": "work_with_nb",
+            "entities": []
+         },
+         {
+            "text": "you have been an employee here for how long?",
+            "intent": "work_with_nb",
+            "entities": []
+         },
+         {
+            "text": "you have been employed for how long?",
+            "intent": "work_with_nb",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

@@ -1,0 +1,62 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "You are annoying me so much",
+            "intent": "annoying",
+            "entities": []
+         },
+         {
+            "text": "You are incredibly annoying",
+            "intent": "annoying",
+            "entities": []
+         },
+         {
+            "text": "You're annoying",
+            "intent": "annoying",
+            "entities": []
+         },
+         {
+            "text": "You are annoying me!",
+            "intent": "annoying",
+            "entities": []
+         },
+         {
+            "text": "I am annoyed!",
+            "intent": "annoying",
+            "entities": []
+         },
+         {
+            "text": "you annoy me",
+            "intent": "annoying",
+            "entities": []
+         },
+         {
+            "text": "you are irritating",
+            "intent": "annoying",
+            "entities": []
+         },
+         {
+            "text": "so irritating you are",
+            "intent": "annoying",
+            "entities": []
+         },
+         {
+            "text": "you are such annoying",
+            "intent": "annoying",
+            "entities": []
+         },
+         {
+            "text": "you are too annoying",
+            "intent": "annoying",
+            "entities": []
+         },
+         {
+            "text": "you are very annoying",
+            "intent": "annoying",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

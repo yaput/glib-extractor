@@ -1,0 +1,72 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "what is your name?",
+            "intent": "name",
+            "entities": []
+         },
+         {
+            "text": "can i know your name",
+            "intent": "name",
+            "entities": []
+         },
+         {
+            "text": "what name can i call you",
+            "intent": "name",
+            "entities": []
+         },
+         {
+            "text": "what can i refer to you as",
+            "intent": "name",
+            "entities": []
+         },
+         {
+            "text": "please give me a name to call you",
+            "intent": "name",
+            "entities": []
+         },
+         {
+            "text": "do you have a name",
+            "intent": "name",
+            "entities": []
+         },
+         {
+            "text": "can you tell me your name",
+            "intent": "name",
+            "entities": []
+         },
+         {
+            "text": "please tell me your name",
+            "intent": "name",
+            "entities": []
+         },
+         {
+            "text": "tell me what to call you",
+            "intent": "name",
+            "entities": []
+         },
+         {
+            "text": "can i give you a name",
+            "intent": "name",
+            "entities": []
+         },
+         {
+            "text": "do you have a nickname",
+            "intent": "name",
+            "entities": []
+         },
+         {
+            "text": "your name",
+            "intent": "name",
+            "entities": []
+         },
+         {
+            "text": "name",
+            "intent": "name",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

@@ -1,0 +1,322 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "I need to request for an appointment.",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "I want to find a doctor",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "I want to book an appointment",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "help me find a doctor",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "can you help me find a doctor?",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "i need help with finding a doctor",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "please get me a doctor",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "give me an idea of the different doctors",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "i wanna book an appointment",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "book a doctor's appointment",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "I want to book a specific doctor",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "how can i book a doctor's appointment?",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "I need prescriptions",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "what doctor do i need for my symptoms?",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "what kind of doctor can help me?",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "what time does general medicine open?",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "is the clinic open 24/7?",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "Should I book an appointment?",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "can i see a doctor without an appointment?",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "how can i book an appointment?",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "what are the ways in which i can book an appointment",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "i need help to book an appointment",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "is it possible for you to help me to book an appointment?",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "what are the current available appointments for general medicine?",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "i want an appointment with doctor",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "can you book an appointment for me with doctor",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "can you please get me a doctor's appouintment",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "please book an appointment for me",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "book an appointment",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "how i can \u00a0i book an appointment with doctor",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "doctor's appointment",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "help  me book an appointment",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "i have a doctor's appointment",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "I need a doctor",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "I have requested for an appointment",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "What\u00a0are the timings for doctor",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "what are the doctor's timings",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "What time is doctor in",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "what time can i see a doctor",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "When can i see doctor",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "When is doctor avaliable",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "i want to know doctors availability",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "give me the doctors availability",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "Where can i see a doctor?",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "where can i meet a physician?",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "what are your timings",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "timings",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "your timings",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "Book an Appointment",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "Request appointment",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "doctors availability",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "meet a doctor",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "consult a doctor",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "Fix an appointment",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "Doctor Availability",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "doctor's appointment",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "visit a doctor",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "find doctor",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "doc availability",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "see a doctor",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "doctors time",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "Doctor",
+            "intent": "request_appointment",
+            "entities": []
+         },
+         {
+            "text": "Dr",
+            "intent": "request_appointment",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

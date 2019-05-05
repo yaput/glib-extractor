@@ -1,0 +1,172 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "أريد تغيير اللغة",
+            "intent": "language_switch",
+            "entities": []
+         },
+         {
+            "text": "أريد ان أغير لغتي",
+            "intent": "language_switch",
+            "entities": []
+         },
+         {
+            "text": "تغيير اللغة",
+            "intent": "language_switch",
+            "entities": []
+         },
+         {
+            "text": "ساعدنى فى تغيير اللغة",
+            "intent": "language_switch",
+            "entities": []
+         },
+         {
+            "text": "تغيير اللغة",
+            "intent": "language_switch",
+            "entities": []
+         },
+         {
+            "text": "أريد تغيير اللغة",
+            "intent": "language_switch",
+            "entities": []
+         },
+         {
+            "text": "ساعدنى فى تغيير اللغة من العربية الى الإنجليزية",
+            "intent": "language_switch",
+            "entities": []
+         },
+         {
+            "text": "ساعدنى فى تغيير اللغة من الإنجليزية الى العربية",
+            "intent": "language_switch",
+            "entities": []
+         },
+         {
+            "text": "أريد تغيير اللغة",
+            "intent": "language_switch",
+            "entities": []
+         },
+         {
+            "text": "هل يمكنك مساعدتى فى تغيير اللغة",
+            "intent": "language_switch",
+            "entities": []
+         },
+         {
+            "text": "التغيير الى الانجليزية",
+            "intent": "language_switch",
+            "entities": []
+         },
+         {
+            "text": "التغيير الى العربية",
+            "intent": "language_switch",
+            "entities": []
+         },
+         {
+            "text": "غير لغتى الى الانجليزية",
+            "intent": "language_switch",
+            "entities": []
+         },
+         {
+            "text": "غير لغتى الى العربية",
+            "intent": "language_switch",
+            "entities": []
+         },
+         {
+            "text": "غير لغتى",
+            "intent": "language_switch",
+            "entities": []
+         },
+         {
+            "text": "إعدادات تغيير اللغة",
+            "intent": "language_switch",
+            "entities": []
+         },
+         {
+            "text": "اريد التحدث بالعربية الآن",
+            "intent": "language_switch",
+            "entities": []
+         },
+         {
+            "text": "هل يمكننى التحدث بالعربية الآن",
+            "intent": "language_switch",
+            "entities": []
+         },
+         {
+            "text": "هل يمكننى التحدث بالانجليزية الآن",
+            "intent": "language_switch",
+            "entities": []
+         },
+         {
+            "text": "من فضلك غير لغتى",
+            "intent": "language_switch",
+            "entities": []
+         },
+         {
+            "text": "غير اللغة الآن",
+            "intent": "language_switch",
+            "entities": []
+         },
+         {
+            "text": "التغيير الى الإنجليزية",
+            "intent": "language_switch",
+            "entities": []
+         },
+         {
+            "text": "ترجم اللغة الى الانجليزية",
+            "intent": "language_switch",
+            "entities": []
+         },
+         {
+            "text": "هل تتحدث العربية",
+            "intent": "language_switch",
+            "entities": []
+         },
+         {
+            "text": "التغيير الى العربية",
+            "intent": "language_switch",
+            "entities": []
+         },
+         {
+            "text": "هل تفهم العربية",
+            "intent": "language_switch",
+            "entities": []
+         },
+         {
+            "text": "غير اللغة الى الانجليزية",
+            "intent": "language_switch",
+            "entities": []
+         },
+         {
+            "text": "هل يمكنك التحدث بالغات أخرى؟",
+            "intent": "language_switch",
+            "entities": []
+         },
+         {
+            "text": "ما هى اللغات التى تتحدثها؟",
+            "intent": "language_switch",
+            "entities": []
+         },
+         {
+            "text": "هل تتحدث العربية",
+            "intent": "language_switch",
+            "entities": []
+         },
+         {
+            "text": "اريد اللغة الانجليزية",
+            "intent": "language_switch",
+            "entities": []
+         },
+         {
+            "text": "اريد الكتابة بالانجليزية",
+            "intent": "language_switch",
+            "entities": []
+         },
+         {
+            "text": "اللغة الانجليزية",
+            "intent": "language_switch",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

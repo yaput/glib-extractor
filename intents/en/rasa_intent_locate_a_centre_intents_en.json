@@ -1,0 +1,267 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "i want to find a hospital",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "can you help me find a clinic?",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "help me find a dermalase clinic",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "i want to find a primacare clinic",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "please help me find directions to a clinic",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "direct me to a clinic",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "find me the nearest hospital",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "find a hospital",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "avivo clinic",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "how far is the nearest clinic",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "i want to find the nearest clinic",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "I'm located in jumeirah find me a hospital",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "find me a hospital in jumeirah",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "Help me find a hospital",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "do you have aesthetics clinics?",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "i want a dermalase clinic",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "do you have a list of clinics?",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "do you have clinics in abu dhabi",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "tell me where avivo hospitals are located",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "give me a list of hospitals",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "i want to know what the closest clinic is from me",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "can you tell me how long it will take for me to reach the nearest clinic?",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "how far is the closest clinic?",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "what are the different areas your hospitals are located in",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "what are the emirates that Avivo is based in?",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "where all is avivo based?",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "can you give me a list of areas that avivo clinics are  located in?",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "Can i know where you are located please",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "can i get your location",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "where are you located",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "how can i get to the hospital",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "how can i find the hospital",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "please give me directions",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "can i get directions to the hospital",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "directions please",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "location please",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "I am looking for a clinic",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "find a hospital",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "locate a clinic",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "looking for a clinic",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "locating a centre",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "looking for a centre",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "locating a hospital",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "looking for a hospital",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "how much time to reach",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "address",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "what is your address?",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "where are you located?",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "directions",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "nearest clinic",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "direct me",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "Locate",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

@@ -1,0 +1,112 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "I want of know the status of my lab report",
+            "intent": "lab_report_request",
+            "entities": []
+         },
+         {
+            "text": "can i get my lab report",
+            "intent": "lab_report_request",
+            "entities": []
+         },
+         {
+            "text": "how can i get my lab test report",
+            "intent": "lab_report_request",
+            "entities": []
+         },
+         {
+            "text": "how can i get my lab report",
+            "intent": "lab_report_request",
+            "entities": []
+         },
+         {
+            "text": "what is the status of my lab test",
+            "intent": "lab_report_request",
+            "entities": []
+         },
+         {
+            "text": "is my lab test report ready",
+            "intent": "lab_report_request",
+            "entities": []
+         },
+         {
+            "text": "can you tell me if my lab report is ready for collection",
+            "intent": "lab_report_request",
+            "entities": []
+         },
+         {
+            "text": "i wan to collect my lab tests",
+            "intent": "lab_report_request",
+            "entities": []
+         },
+         {
+            "text": "how can i get my lab test results",
+            "intent": "lab_report_request",
+            "entities": []
+         },
+         {
+            "text": "i want my lab results",
+            "intent": "lab_report_request",
+            "entities": []
+         },
+         {
+            "text": "when are my lab test results ready",
+            "intent": "lab_report_request",
+            "entities": []
+         },
+         {
+            "text": "are my lab results ready",
+            "intent": "lab_report_request",
+            "entities": []
+         },
+         {
+            "text": "YESTERDAY I GAVE SAMPLE FOR TEST HOW WE GET THE REPORT",
+            "intent": "lab_report_request",
+            "entities": []
+         },
+         {
+            "text": "I gave my blood sample for test, how to collect the report",
+            "intent": "lab_report_request",
+            "entities": []
+         },
+         {
+            "text": "how can i collect report for blood test?",
+            "intent": "lab_report_request",
+            "entities": []
+         },
+         {
+            "text": "how can i collect my blood test report?",
+            "intent": "lab_report_request",
+            "entities": []
+         },
+         {
+            "text": "how to collect report?",
+            "intent": "lab_report_request",
+            "entities": []
+         },
+         {
+            "text": "lab reports",
+            "intent": "lab_report_request",
+            "entities": []
+         },
+         {
+            "text": "lab test report",
+            "intent": "lab_report_request",
+            "entities": []
+         },
+         {
+            "text": "laboratory tests",
+            "intent": "lab_report_request",
+            "entities": []
+         },
+         {
+            "text": "laboratory report",
+            "intent": "lab_report_request",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

@@ -1,0 +1,42 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "هل لديكم خدمة منازل؟",
+            "intent": "home_services",
+            "entities": []
+         },
+         {
+            "text": "هل يمكنكم القدوم إلى المنزل من أجل العلاج؟",
+            "intent": "home_services",
+            "entities": []
+         },
+         {
+            "text": "هل يمكن لطبيب زيارة منزلي؟",
+            "intent": "home_services",
+            "entities": []
+         },
+         {
+            "text": "أريد طبيباً في المنزل.",
+            "intent": "home_services",
+            "entities": []
+         },
+         {
+            "text": "هل يمكنكم إرسال طبيب إلى منزلي",
+            "intent": "home_services",
+            "entities": []
+         },
+         {
+            "text": "أرغب في الاستفادة من خدماتكم المنزلية",
+            "intent": "home_services",
+            "entities": []
+         },
+         {
+            "text": "الخدمة المنزلية",
+            "intent": "home_services",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

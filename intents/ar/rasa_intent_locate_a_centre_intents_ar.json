@@ -1,0 +1,342 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "ساعدني في تحديد موقع مركز",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "أريد البحث عن مستشفى",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "أريد البحث عن عيادة",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "أريد البحث عن عيادة",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "هل يمكنك مساعدتي في البحث عن عيادة؟",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "يرجى مساعدتي للبحث عن عيادة؟",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "أريد البحث عن مستشفى",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "ساعدني في الوصول لعيادة ديرمالاز",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "أريد الوصول لعيادة بريما كير",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "أحتاج إلى الوصول لمركز تشخيص",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "ساعدني في الوصول لاتجاهات عيادة",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "قدم لي اتجاهات مركز أفيفو",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "وجهني إلى عيادة",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "ابحث لي عن أقرب مستشفى",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "أريد البحث عن أقرب مستشفى",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "ساعدني في البحث عن أقرب مستشفى",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "عيادة أفيفو",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "بحث عن مستشفى",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "عيادة بريما كير",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "ساعدني في البحث عن مركز تشخيص",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "مركز تشخيص",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "كم تبعد أقرب عيادة",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "أين توجد أقرب عيادة؟",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "أريد البحث عن أقرب عيادة",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "أنا في الجميرا ابحث لي عن مستشفى",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "ابحث لي عن مستشفى في الجميرا",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "ابحث لي عن مستشفى في أبوظبي",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "ساعدني في البحث عن مستشفى",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "هل يوجد لديكم عيادات تجميل؟",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "أريد عيادة ديرمالاز",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "هل لديكم قائمة بالعيادات؟",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "هل لديكم عيادات في دبي؟",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "هل لديكم عيادات في أبوظبي",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "هل لديكم عيادات في رأس الخيمة",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "هل لديكم عيادات في رأس الخيمة",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "أخبرني عن مواقع مستشفيات أفيفو",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "قدم لي قائمة بالمستشفيات",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "أريد أن أعرف أقرب عيادة مني",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "هل يمكن أن تخبرني عن المسافة التي سأستغرقها للوصول إلى أقرب عيادة؟",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "ما المناطق المختلفة التي توجد بها مستشفياتكم",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "ما مواقع مراكز أفيفو المختلفة؟",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "ما الإمارات التي توجد بها أفيفو؟",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "أين توجد أفيفو؟",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "هل يمكنكم تقديم قائمة بالمناطق التي توجد فيها عيادات أفيفو؟",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "هل يمكنني معرفة موقعكم من فضلكم",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "ما موقعكم من فضلكم",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "هل يمكنني الحصول على موقعكم",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "أي يوجد موقعكم",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "كيف أصل إلى المستشفى",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "كيف أعثر على المستشفى",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "هل يمكنني الحصول على الاتجاهات للمستشفى",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "الاتجاهات من فضلك",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "الموقع من فضلك",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "بحث عن مستشفى",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "تحديد موقع عيادة",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "الاتجاهات",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "كم يستغرق من الوقت للوصول إلى",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "أقرب عيادة",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "مركز أفيفو",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "وجهني",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "بحث",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "اعثر على",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "حددْ موقع",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "انصحني",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "توجيهات",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "مركز أفيفو",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         },
+         {
+            "text": "كم يلزم من الوقت للوصول",
+            "intent": "locate_a_centre_intents",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

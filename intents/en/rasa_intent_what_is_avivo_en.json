@@ -1,0 +1,67 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "what is avivo",
+            "intent": "what_is_avivo",
+            "entities": []
+         },
+         {
+            "text": "can you define avivo",
+            "intent": "what_is_avivo",
+            "entities": []
+         },
+         {
+            "text": "what is the definition of avivo",
+            "intent": "what_is_avivo",
+            "entities": []
+         },
+         {
+            "text": "can you tell me what avivo means",
+            "intent": "what_is_avivo",
+            "entities": []
+         },
+         {
+            "text": "what does avivo mean",
+            "intent": "what_is_avivo",
+            "entities": []
+         },
+         {
+            "text": "what is the meaning of avivo",
+            "intent": "what_is_avivo",
+            "entities": []
+         },
+         {
+            "text": "tell me what avivo means",
+            "intent": "what_is_avivo",
+            "entities": []
+         },
+         {
+            "text": "meaning",
+            "intent": "what_is_avivo",
+            "entities": []
+         },
+         {
+            "text": "mean",
+            "intent": "what_is_avivo",
+            "entities": []
+         },
+         {
+            "text": "define",
+            "intent": "what_is_avivo",
+            "entities": []
+         },
+         {
+            "text": "definition",
+            "intent": "what_is_avivo",
+            "entities": []
+         },
+         {
+            "text": "means",
+            "intent": "what_is_avivo",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

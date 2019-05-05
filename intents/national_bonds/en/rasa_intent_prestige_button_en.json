@@ -1,0 +1,27 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "prestige",
+            "intent": "prestige_button",
+            "entities": []
+         },
+         {
+            "text": "Prestige",
+            "intent": "prestige_button",
+            "entities": []
+         },
+         {
+            "text": "select prestige",
+            "intent": "prestige_button",
+            "entities": []
+         },
+         {
+            "text": "prestige option",
+            "intent": "prestige_button",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

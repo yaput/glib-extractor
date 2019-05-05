@@ -1,0 +1,37 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "كيف يمكنني الوصول الى المستشفى الوطني",
+            "intent": "common_centres_questions",
+            "entities": []
+         },
+         {
+            "text": "وجهني إلى المستشفى الوطني",
+            "intent": "common_centres_questions",
+            "entities": []
+         },
+         {
+            "text": "اين المستشفى الوطني",
+            "intent": "common_centres_questions",
+            "entities": []
+         },
+         {
+            "text": "أخذني إلى المستشفى الوطني",
+            "intent": "common_centres_questions",
+            "entities": []
+         },
+         {
+            "text": "خذني إلى المستشفى الوطني",
+            "intent": "common_centres_questions",
+            "entities": []
+         },
+         {
+            "text": "هل عيادة ديرمالاس في جميرا؟",
+            "intent": "common_centres_questions",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

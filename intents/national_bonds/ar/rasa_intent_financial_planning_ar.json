@@ -1,0 +1,357 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "نصائح الصحة المالية",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "نصائح عن الصحة المالية",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "المادة 72",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "إدارة الميزانية",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "الحاسبات المالية",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "ادوات التخطيط المالى",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "حاسبة الزكاة",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "اريد معرفة الزكاة الواجبة على",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "حاسبات الادخار",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "حاسبة المدخرات",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "حاسبة التقاعد",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "أريد نصائح مالية",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "التخطيط لتعليم الأطفال",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "تخطيط تعليم الأطفال",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "التخطيط العقاري",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "اريد مساعدة فى ادارة اموالى",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "ساعدنى فى تحقيق اهدافى المالية",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "اريد تجربة الحاسبة",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "أريد هدفا ماليا",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "ساعدنى فى التخطيط لأموالى",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "نصائح لادارة الأموال",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "نصائح فى الادارة المالية",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "حيل ادارة الأموال",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "حيل لادارة الاموال",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "ساعدنى فى انشاء ميزانية",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "اريد مساعدة فى التخطيط لادارة اموالى",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "اريد خطة لتعليمى",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "ساعدنى فى التخطيط لتقاعدى",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "نصائح حول ادخار الاموال",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "كيفيه ادخار الاموال",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "اريد تفاصيل كاملة عن خطة التقاعد",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكننى ادخار اموالى",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "هل لديك اى نصائح تساعدنى فى ادخار اموالى",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "اريد ان ابدأ بالادخار",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "اريد البدأ بالادخار",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكننى ان ابدأ الادخار",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكننى ان ابدأ بالادخار",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "اريد مساعدة بخصوص المدخرات",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "من فضلك ساعدنى فى ادخار اموالى",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "هل يمكنك مساعدتى فى الادخار",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "كم على ان ادخر للكلية",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "كم على ان ادخر للجامعة",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكننى ادارة الديون",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكننى ادارة مديوناتى",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "كيف يمكننى ادارة اموالى",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "كيفية ادارة الاموال",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "هل على توحيد ديونى",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "هل يمكنك اعطائى نصائح بخصوص الاستثمار",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "أود ان أقوم باستثمارات جيده",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "اريد ان استثمر استثمارات جيدة",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "هل لديكم خيارات مالية يمكنني الاختيار من بينها",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "اريد نصائح للصحة المالية",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "اريد أدوات للتخطيط المالى",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "أريد أدوات مالية",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "أريد أن أحسب أصولي المالية",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "هل يمكنك ان توفر لي خيارات للادخار المالي",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "هل يمكنك مساعدتي في الخروج من الديون",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "هل يمكنك مساعدتي في تسديد الديون",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "هل لديكم إدارة الديون ؟",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "هل تديرون الديون؟",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "من فضلك أعطني خيارات لادارة الديون",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "هل يمكنك مساعدتى فى التخلص من الديون",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "انا بحاجه إلى الادارة المالية",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "انا بحاجه إلى مساعدة في الميزانية",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "انا بحاجه الى الحصول علي استقلال مالي",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "اريد ان استقل ماليا",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "هل هناك اى نصائح للادخار الشخصي؟",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "احتاج الى ادخار بعض المال هل هناك اى وسائل جيدة للادخار؟",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "كيف ادخر اموالى",
+            "intent": "financial_planning",
+            "entities": []
+         },
+         {
+            "text": "كيف ادخر اموالى؟",
+            "intent": "financial_planning",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

@@ -1,0 +1,277 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "Where are the branches?",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "where is the company located?",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "where is the bank located?",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "Can I have your location?",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "Where can I find you?",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "What is your location?",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "What place is your company located?",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "What country does your company operate in?",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "Where are you situated?",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "where is the company situated?",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "where is the company from?",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "what are the branches of National bonds?",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "where is NB located?",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "where is National bond located?",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "where can I find Nation bonds?",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "Where is the dubai office?",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "Where is the national bond abu dhabi office?",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "where are the offices located?",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "Where are the Kiosk located?",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "Where can i find the Kiosk?",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "Where are POS outlet at?",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "where is the sales office?",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "Are you located in Al Ain?",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "Where are you located in dubai?",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "Locations of the kiosk",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "what are your timing?",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "till what time are you open?",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "when do you open ?",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "what are your working hours?",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "when can I visit you?",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "what is the operating hours?",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "when do you close?",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "what is the company timings?",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "office timings?",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "how many hours are you guys open?",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "What is the office timmings?",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "Till when is the office open?",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "What is the visiting hours?",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "what time can i visit?",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "timings of service center",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "is the office open on a friday?",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "Is the office open today?",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "What is timing of dubai branch?",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "timing of abu dhabi branch",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "What is the office operating hour",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "Head office timings",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "abu dhabi office timings",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "is the dubai office open now?",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "are the office open today?",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "Are you located in Al Ain?",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "outlet",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "outlets",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "offices",
+            "intent": "location_&_timings",
+            "entities": []
+         },
+         {
+            "text": "locations",
+            "intent": "location_&_timings",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

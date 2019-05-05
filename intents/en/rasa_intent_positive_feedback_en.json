@@ -1,0 +1,77 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "I was pleased with your services",
+            "intent": "positive_feedback",
+            "entities": []
+         },
+         {
+            "text": "your staff was professional",
+            "intent": "positive_feedback",
+            "entities": []
+         },
+         {
+            "text": "the staff was great",
+            "intent": "positive_feedback",
+            "entities": []
+         },
+         {
+            "text": "the nurses were professional",
+            "intent": "positive_feedback",
+            "entities": []
+         },
+         {
+            "text": "the staff did a good job",
+            "intent": "positive_feedback",
+            "entities": []
+         },
+         {
+            "text": "service was great",
+            "intent": "positive_feedback",
+            "entities": []
+         },
+         {
+            "text": "services were great",
+            "intent": "positive_feedback",
+            "entities": []
+         },
+         {
+            "text": "very pleasant",
+            "intent": "positive_feedback",
+            "entities": []
+         },
+         {
+            "text": "best clinic",
+            "intent": "positive_feedback",
+            "entities": []
+         },
+         {
+            "text": "best doctors",
+            "intent": "positive_feedback",
+            "entities": []
+         },
+         {
+            "text": "best hospital",
+            "intent": "positive_feedback",
+            "entities": []
+         },
+         {
+            "text": "very pleseant",
+            "intent": "positive_feedback",
+            "entities": []
+         },
+         {
+            "text": "great job",
+            "intent": "positive_feedback",
+            "entities": []
+         },
+         {
+            "text": "your stuff is great",
+            "intent": "positive_feedback",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

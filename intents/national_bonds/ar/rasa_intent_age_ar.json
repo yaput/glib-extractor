@@ -1,0 +1,102 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "كم عمرك؟",
+            "intent": "age",
+            "entities": []
+         },
+         {
+            "text": "عند كام سنة ؟",
+            "intent": "age",
+            "entities": []
+         },
+         {
+            "text": "ما هو عمرك؟",
+            "intent": "age",
+            "entities": []
+         },
+         {
+            "text": "سنك كام؟",
+            "intent": "age",
+            "entities": []
+         },
+         {
+            "text": "كم تبلغ من العمر؟",
+            "intent": "age",
+            "entities": []
+         },
+         {
+            "text": "اريد معرفة عمرك",
+            "intent": "age",
+            "entities": []
+         },
+         {
+            "text": "اريد معرفة سنك",
+            "intent": "age",
+            "entities": []
+         },
+         {
+            "text": "كم تبلغ من العمر؟",
+            "intent": "age",
+            "entities": []
+         },
+         {
+            "text": "عمرك",
+            "intent": "age",
+            "entities": []
+         },
+         {
+            "text": "العمر",
+            "intent": "age",
+            "entities": []
+         },
+         {
+            "text": "هل انت 10 سنوات؟",
+            "intent": "age",
+            "entities": []
+         },
+         {
+            "text": "هل عمرك 10 سنوات ؟",
+            "intent": "age",
+            "entities": []
+         },
+         {
+            "text": "كم عمر منصتك ؟",
+            "intent": "age",
+            "entities": []
+         },
+         {
+            "text": "كم عمر هذا البوت",
+            "intent": "age",
+            "entities": []
+         },
+         {
+            "text": "هل يمكننى معرفة عمرك",
+            "intent": "age",
+            "entities": []
+         },
+         {
+            "text": "كم عمرك",
+            "intent": "age",
+            "entities": []
+         },
+         {
+            "text": "كم تبلغ من العمر",
+            "intent": "age",
+            "entities": []
+         },
+         {
+            "text": "ما عمرك",
+            "intent": "age",
+            "entities": []
+         },
+         {
+            "text": "اخبرنى كم عمرك",
+            "intent": "age",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

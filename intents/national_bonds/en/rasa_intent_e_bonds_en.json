@@ -1,0 +1,117 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "What are e bonds?",
+            "intent": "e_bonds",
+            "entities": []
+         },
+         {
+            "text": "Is there extra charge for e bonds?",
+            "intent": "e_bonds",
+            "entities": []
+         },
+         {
+            "text": "What is the fee for e bounds?",
+            "intent": "e_bonds",
+            "entities": []
+         },
+         {
+            "text": "What are the requirements to receive E-bonds?",
+            "intent": "e_bonds",
+            "entities": []
+         },
+         {
+            "text": "can I opt for E bonds?",
+            "intent": "e_bonds",
+            "entities": []
+         },
+         {
+            "text": "Am i eligible for e bonds?",
+            "intent": "e_bonds",
+            "entities": []
+         },
+         {
+            "text": "I want more information on e bonds",
+            "intent": "e_bonds",
+            "entities": []
+         },
+         {
+            "text": "i need to know more about e bonds",
+            "intent": "e_bonds",
+            "entities": []
+         },
+         {
+            "text": "How is e bonds different?",
+            "intent": "e_bonds",
+            "entities": []
+         },
+         {
+            "text": "benefits of e bonds?",
+            "intent": "e_bonds",
+            "entities": []
+         },
+         {
+            "text": "Why should i use e bonds?",
+            "intent": "e_bonds",
+            "entities": []
+         },
+         {
+            "text": "Do I need to purchase saving certificates online for E-bonds?",
+            "intent": "e_bonds",
+            "entities": []
+         },
+         {
+            "text": "Do i have to pay extra for e bonds?",
+            "intent": "e_bonds",
+            "entities": []
+         },
+         {
+            "text": "Where can i access these e bonds?",
+            "intent": "e_bonds",
+            "entities": []
+         },
+         {
+            "text": "I want to apply for e bonds",
+            "intent": "e_bonds",
+            "entities": []
+         },
+         {
+            "text": "I have questions on e bonds?",
+            "intent": "e_bonds",
+            "entities": []
+         },
+         {
+            "text": "I dont understand what e bonds are?",
+            "intent": "e_bonds",
+            "entities": []
+         },
+         {
+            "text": "Online form of bonds",
+            "intent": "e_bonds",
+            "entities": []
+         },
+         {
+            "text": "faqs",
+            "intent": "e_bonds",
+            "entities": []
+         },
+         {
+            "text": "faq",
+            "intent": "e_bonds",
+            "entities": []
+         },
+         {
+            "text": "show me faq",
+            "intent": "e_bonds",
+            "entities": []
+         },
+         {
+            "text": "What are these bonds you are talking about?",
+            "intent": "e_bonds",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

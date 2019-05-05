@@ -1,0 +1,87 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "employee saving program",
+            "intent": "employee_savings",
+            "entities": []
+         },
+         {
+            "text": "employee saving plan",
+            "intent": "employee_savings",
+            "entities": []
+         },
+         {
+            "text": "bonds for employee",
+            "intent": "employee_savings",
+            "entities": []
+         },
+         {
+            "text": "benefits of employee saving program",
+            "intent": "employee_savings",
+            "entities": []
+         },
+         {
+            "text": "can i apply for employee savings",
+            "intent": "employee_savings",
+            "entities": []
+         },
+         {
+            "text": "bonds for employee",
+            "intent": "employee_savings",
+            "entities": []
+         },
+         {
+            "text": "financial management for employee",
+            "intent": "employee_savings",
+            "entities": []
+         },
+         {
+            "text": "i am looking for employee saving plans",
+            "intent": "employee_savings",
+            "entities": []
+         },
+         {
+            "text": "saving bonds for employee",
+            "intent": "employee_savings",
+            "entities": []
+         },
+         {
+            "text": "saving plan for  employee",
+            "intent": "employee_savings",
+            "entities": []
+         },
+         {
+            "text": "tell me more about employee saving program",
+            "intent": "employee_savings",
+            "entities": []
+         },
+         {
+            "text": "is there a saving plan for employees?",
+            "intent": "employee_savings",
+            "entities": []
+         },
+         {
+            "text": "employee saving application form",
+            "intent": "employee_savings",
+            "entities": []
+         },
+         {
+            "text": "i want to apply for employee saving",
+            "intent": "employee_savings",
+            "entities": []
+         },
+         {
+            "text": "what do i get in employee savings program",
+            "intent": "employee_savings",
+            "entities": []
+         },
+         {
+            "text": "what all benefits do i get if i apply for emplyee savings",
+            "intent": "employee_savings",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

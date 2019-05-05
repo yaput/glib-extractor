@@ -1,0 +1,152 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "I feel sad",
+            "intent": "emotions_sad",
+            "entities": []
+         },
+         {
+            "text": "i feel down",
+            "intent": "emotions_sad",
+            "entities": []
+         },
+         {
+            "text": "i feel like crying",
+            "intent": "emotions_sad",
+            "entities": []
+         },
+         {
+            "text": "i don't feel good",
+            "intent": "emotions_sad",
+            "entities": []
+         },
+         {
+            "text": "i am bored",
+            "intent": "emotions_sad",
+            "entities": []
+         },
+         {
+            "text": "i feel lonely",
+            "intent": "emotions_sad",
+            "entities": []
+         },
+         {
+            "text": "i feel lonely, can you keep me company",
+            "intent": "emotions_sad",
+            "entities": []
+         },
+         {
+            "text": "i am so sad",
+            "intent": "emotions_sad",
+            "entities": []
+         },
+         {
+            "text": "I think i am upset",
+            "intent": "emotions_sad",
+            "entities": []
+         },
+         {
+            "text": "i think i feel lost",
+            "intent": "emotions_sad",
+            "entities": []
+         },
+         {
+            "text": "i am confused",
+            "intent": "emotions_sad",
+            "entities": []
+         },
+         {
+            "text": "i feel hopeless",
+            "intent": "emotions_sad",
+            "entities": []
+         },
+         {
+            "text": "i am afraid",
+            "intent": "emotions_sad",
+            "entities": []
+         },
+         {
+            "text": "i feel afraid",
+            "intent": "emotions_sad",
+            "entities": []
+         },
+         {
+            "text": "i am hurt",
+            "intent": "emotions_sad",
+            "entities": []
+         },
+         {
+            "text": "i feel indifferent",
+            "intent": "emotions_sad",
+            "entities": []
+         },
+         {
+            "text": "i'm afraid",
+            "intent": "emotions_sad",
+            "entities": []
+         },
+         {
+            "text": "i'm hopeless",
+            "intent": "emotions_sad",
+            "entities": []
+         },
+         {
+            "text": "i'm depressed",
+            "intent": "emotions_sad",
+            "entities": []
+         },
+         {
+            "text": "i'm angry",
+            "intent": "emotions_sad",
+            "entities": []
+         },
+         {
+            "text": "i'm lonely",
+            "intent": "emotions_sad",
+            "entities": []
+         },
+         {
+            "text": "I hate my life",
+            "intent": "emotions_sad",
+            "entities": []
+         },
+         {
+            "text": "sad",
+            "intent": "emotions_sad",
+            "entities": []
+         },
+         {
+            "text": "depressed",
+            "intent": "emotions_sad",
+            "entities": []
+         },
+         {
+            "text": "upset",
+            "intent": "emotions_sad",
+            "entities": []
+         },
+         {
+            "text": "angry",
+            "intent": "emotions_sad",
+            "entities": []
+         },
+         {
+            "text": "pissed off",
+            "intent": "emotions_sad",
+            "entities": []
+         },
+         {
+            "text": "annoyed",
+            "intent": "emotions_sad",
+            "entities": []
+         },
+         {
+            "text": "feeling bad",
+            "intent": "emotions_sad",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

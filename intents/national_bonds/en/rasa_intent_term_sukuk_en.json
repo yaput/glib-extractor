@@ -1,0 +1,127 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "What is term sukuk",
+            "intent": "term_sukuk",
+            "entities": []
+         },
+         {
+            "text": "What is benefits of term sukuk",
+            "intent": "term_sukuk",
+            "entities": []
+         },
+         {
+            "text": "information on term sukuk plan",
+            "intent": "term_sukuk",
+            "entities": []
+         },
+         {
+            "text": "Can i purchase termsukuk plan for my business",
+            "intent": "term_sukuk",
+            "entities": []
+         },
+         {
+            "text": "apply for termsukuk saving plan",
+            "intent": "term_sukuk",
+            "entities": []
+         },
+         {
+            "text": "purchase personal sukuk",
+            "intent": "term_sukuk",
+            "entities": []
+         },
+         {
+            "text": "i want to buy corporate sukuk",
+            "intent": "term_sukuk",
+            "entities": []
+         },
+         {
+            "text": "benefits of sukuk",
+            "intent": "term_sukuk",
+            "entities": []
+         },
+         {
+            "text": "investment period for sukuk",
+            "intent": "term_sukuk",
+            "entities": []
+         },
+         {
+            "text": "can i buy sukuk",
+            "intent": "term_sukuk",
+            "entities": []
+         },
+         {
+            "text": "what is islamic bonds",
+            "intent": "term_sukuk",
+            "entities": []
+         },
+         {
+            "text": "benefits of investing in sukuk",
+            "intent": "term_sukuk",
+            "entities": []
+         },
+         {
+            "text": "how long should in invest in sukuk",
+            "intent": "term_sukuk",
+            "entities": []
+         },
+         {
+            "text": "3 months termsukuk",
+            "intent": "term_sukuk",
+            "entities": []
+         },
+         {
+            "text": "duration of term sukuk investment",
+            "intent": "term_sukuk",
+            "entities": []
+         },
+         {
+            "text": "6 months sukuk",
+            "intent": "term_sukuk",
+            "entities": []
+         },
+         {
+            "text": "termsukuk for business",
+            "intent": "term_sukuk",
+            "entities": []
+         },
+         {
+            "text": "term sukuk for business",
+            "intent": "term_sukuk",
+            "entities": []
+         },
+         {
+            "text": "minimum holding period for termsukuk",
+            "intent": "term_sukuk",
+            "entities": []
+         },
+         {
+            "text": "termsukuk for business",
+            "intent": "term_sukuk",
+            "entities": []
+         },
+         {
+            "text": "what is termsukuk",
+            "intent": "term_sukuk",
+            "entities": []
+         },
+         {
+            "text": "i wanna know about term sukuk",
+            "intent": "term_sukuk",
+            "entities": []
+         },
+         {
+            "text": "tell me about term sukuk",
+            "intent": "term_sukuk",
+            "entities": []
+         },
+         {
+            "text": "term sukuk",
+            "intent": "term_sukuk",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

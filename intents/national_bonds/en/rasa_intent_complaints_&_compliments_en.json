@@ -1,0 +1,257 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "This is a good bank",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "Worst customer care",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "More than 10 years invested in National bonds no luck",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "Excellent!",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "Very bad service",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "I love National Bonds very much.",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "Thank you Dear National Bonds",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "National Bonds is the most safest place we can deposit money",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "So many promises and very little payback.",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "Excellent learning! Thanks",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "this is useless",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "Excellent savings mode",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "wonderful winning chances",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "very difficult to win",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "Profit was not exciting",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "Not worth it",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "everything about this company is great",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "Best work environment in UAE",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "Keep It Up",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "Best way to save money in UAE",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "Worst app ever seen in my life.",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "The national bond app is very bad",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "app design is very poor",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "This bank is very bad",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "excellent work",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "error every time you open the app",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "Not working, its Always loading and pls fix",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "Interface is so bad.",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "I cannot login to my account",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "Many of the functions don't work.",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "Selection of Date of birth is a horror.",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "What a stupid app",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "Easy to use and great UI",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "Like it very much",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "very easy to access",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "Good application",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "Pathetic This app doesn't work properly.",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "Excellent App! A new way to make savings",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "Loved the app design and usability.",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "Your last update made my app unresponsive.",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "I think national bonds are now only for rich people",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "Hope to be a part of the national bond family soon",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "Please increase the age limit.",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "Nonsense",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "Best please to save and invest!",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "National Bonds is the most safest place we can deposit money.",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "nice",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "its all luck",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "this is frustrating",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         },
+         {
+            "text": "you suck!",
+            "intent": "complaints_&_compliments",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

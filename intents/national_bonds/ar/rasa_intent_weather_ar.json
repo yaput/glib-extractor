@@ -1,0 +1,127 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "الجو حار جدا اليوم",
+            "intent": "weather",
+            "entities": []
+         },
+         {
+            "text": "انها تمطر اليوم",
+            "intent": "weather",
+            "entities": []
+         },
+         {
+            "text": "الجو بارد جدا",
+            "intent": "weather",
+            "entities": []
+         },
+         {
+            "text": "كيف حالة الطقس اليوم",
+            "intent": "weather",
+            "entities": []
+         },
+         {
+            "text": "انا اتعرق من شدة الحرارة اليوم",
+            "intent": "weather",
+            "entities": []
+         },
+         {
+            "text": "يبدو وكأنها ستمطر",
+            "intent": "weather",
+            "entities": []
+         },
+         {
+            "text": "كم درجة الحرارة اليوم",
+            "intent": "weather",
+            "entities": []
+         },
+         {
+            "text": "الطقس ليس جيدًا اليوم",
+            "intent": "weather",
+            "entities": []
+         },
+         {
+            "text": "الجو فظيع",
+            "intent": "weather",
+            "entities": []
+         },
+         {
+            "text": "الطقس لطيفا",
+            "intent": "weather",
+            "entities": []
+         },
+         {
+            "text": "الجو ماطر",
+            "intent": "weather",
+            "entities": []
+         },
+         {
+            "text": "ما هى حالة الطقس",
+            "intent": "weather",
+            "entities": []
+         },
+         {
+            "text": "المناخ حار جدا",
+            "intent": "weather",
+            "entities": []
+         },
+         {
+            "text": "مشمس جدا",
+            "intent": "weather",
+            "entities": []
+         },
+         {
+            "text": "حار للغاية",
+            "intent": "weather",
+            "entities": []
+         },
+         {
+            "text": "ما هو الطقس المعتاد؟",
+            "intent": "weather",
+            "entities": []
+         },
+         {
+            "text": "ما هو الطقس المعتاد؟",
+            "intent": "weather",
+            "entities": []
+         },
+         {
+            "text": "ما هي درجة الحرارة اليوم",
+            "intent": "weather",
+            "entities": []
+         },
+         {
+            "text": "هل يمكنني معرفة درجة الحرارة؟",
+            "intent": "weather",
+            "entities": []
+         },
+         {
+            "text": "كم درجة الحرارة اليوم؟",
+            "intent": "weather",
+            "entities": []
+         },
+         {
+            "text": "هل درجة الحرارة مرتفعة جدا؟",
+            "intent": "weather",
+            "entities": []
+         },
+         {
+            "text": "هل يمكنك معرفة ما إذا كانت درجة الحرارة منخفضة للغاية",
+            "intent": "weather",
+            "entities": []
+         },
+         {
+            "text": "الجو مشوب",
+            "intent": "weather",
+            "entities": []
+         },
+         {
+            "text": "الجو شوب",
+            "intent": "weather",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

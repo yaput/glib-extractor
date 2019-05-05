@@ -1,0 +1,237 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "i would like to speak with customer care",
+            "intent": "customer_care",
+            "entities": []
+         },
+         {
+            "text": "can i speak to a customer care agent",
+            "intent": "customer_care",
+            "entities": []
+         },
+         {
+            "text": "i would rather speak to a customer care agent",
+            "intent": "customer_care",
+            "entities": []
+         },
+         {
+            "text": "how much is check up",
+            "intent": "customer_care",
+            "entities": []
+         },
+         {
+            "text": "can i know how much check up costs",
+            "intent": "customer_care",
+            "entities": []
+         },
+         {
+            "text": "what is your price for check up",
+            "intent": "customer_care",
+            "entities": []
+         },
+         {
+            "text": "how much for you charge for check up",
+            "intent": "customer_care",
+            "entities": []
+         },
+         {
+            "text": "how much is consultation",
+            "intent": "customer_care",
+            "entities": []
+         },
+         {
+            "text": "how much do you charge for consultation",
+            "intent": "customer_care",
+            "entities": []
+         },
+         {
+            "text": "what are your consultation charges",
+            "intent": "customer_care",
+            "entities": []
+         },
+         {
+            "text": "consutation price",
+            "intent": "customer_care",
+            "entities": []
+         },
+         {
+            "text": "price for consultation",
+            "intent": "customer_care",
+            "entities": []
+         },
+         {
+            "text": "consultation charges",
+            "intent": "customer_care",
+            "entities": []
+         },
+         {
+            "text": "how much for check up",
+            "intent": "customer_care",
+            "entities": []
+         },
+         {
+            "text": "how much check up",
+            "intent": "customer_care",
+            "entities": []
+         },
+         {
+            "text": "price for check up",
+            "intent": "customer_care",
+            "entities": []
+         },
+         {
+            "text": "check up price",
+            "intent": "customer_care",
+            "entities": []
+         },
+         {
+            "text": "how much do you charge for check up",
+            "intent": "customer_care",
+            "entities": []
+         },
+         {
+            "text": "check up charges",
+            "intent": "customer_care",
+            "entities": []
+         },
+         {
+            "text": "how much you are charging for vitamin D test",
+            "intent": "customer_care",
+            "entities": []
+         },
+         {
+            "text": "how much you charge for check up",
+            "intent": "customer_care",
+            "entities": []
+         },
+         {
+            "text": "how much consultation fee",
+            "intent": "customer_care",
+            "entities": []
+         },
+         {
+            "text": "I want to know the price",
+            "intent": "customer_care",
+            "entities": []
+         },
+         {
+            "text": "can you tell me the price for ultrasound",
+            "intent": "customer_care",
+            "entities": []
+         },
+         {
+            "text": "can you tell me price for consultation",
+            "intent": "customer_care",
+            "entities": []
+         },
+         {
+            "text": "how much price for check up",
+            "intent": "customer_care",
+            "entities": []
+         },
+         {
+            "text": "can you share a landline number to talk to your reception",
+            "intent": "customer_care",
+            "entities": []
+         },
+         {
+            "text": "can I get a number to speak to the reception",
+            "intent": "customer_care",
+            "entities": []
+         },
+         {
+            "text": "how much",
+            "intent": "customer_care",
+            "entities": []
+         },
+         {
+            "text": "Hi i want to know consultation fees for non medical insurance patients",
+            "intent": "customer_care",
+            "entities": []
+         },
+         {
+            "text": "what is consultation fee",
+            "intent": "customer_care",
+            "entities": []
+         },
+         {
+            "text": "what is the consultation fees?",
+            "intent": "customer_care",
+            "entities": []
+         },
+         {
+            "text": "what is your maternity package?",
+            "intent": "customer_care",
+            "entities": []
+         },
+         {
+            "text": "do you have maternity packages?",
+            "intent": "customer_care",
+            "entities": []
+         },
+         {
+            "text": "what is the cost of a maternity package?",
+            "intent": "customer_care",
+            "entities": []
+         },
+         {
+            "text": "maternity packages",
+            "intent": "customer_care",
+            "entities": []
+         },
+         {
+            "text": "price of maternity package",
+            "intent": "customer_care",
+            "entities": []
+         },
+         {
+            "text": "may i know the charges?",
+            "intent": "customer_care",
+            "entities": []
+         },
+         {
+            "text": "Can i get your mail id for booking vaccination",
+            "intent": "customer_care",
+            "entities": []
+         },
+         {
+            "text": "could you give me email address for booking a vaccination",
+            "intent": "customer_care",
+            "entities": []
+         },
+         {
+            "text": "where can i book a vaccination",
+            "intent": "customer_care",
+            "entities": []
+         },
+         {
+            "text": "check up",
+            "intent": "customer_care",
+            "entities": []
+         },
+         {
+            "text": "consultation",
+            "intent": "customer_care",
+            "entities": []
+         },
+         {
+            "text": "customer care",
+            "intent": "customer_care",
+            "entities": []
+         },
+         {
+            "text": "charges",
+            "intent": "customer_care",
+            "entities": []
+         },
+         {
+            "text": "price",
+            "intent": "customer_care",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

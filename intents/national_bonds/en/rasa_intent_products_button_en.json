@@ -1,0 +1,27 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "products",
+            "intent": "products_button",
+            "entities": []
+         },
+         {
+            "text": "Products",
+            "intent": "products_button",
+            "entities": []
+         },
+         {
+            "text": "Product",
+            "intent": "products_button",
+            "entities": []
+         },
+         {
+            "text": "product",
+            "intent": "products_button",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

@@ -1,0 +1,137 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "أنا أختبرك",
+            "intent": "test",
+            "entities": []
+         },
+         {
+            "text": "انا اختبرك",
+            "intent": "test",
+            "entities": []
+         },
+         {
+            "text": "انا اجرى عليك اختبار",
+            "intent": "test",
+            "entities": []
+         },
+         {
+            "text": "سأختبرك",
+            "intent": "test",
+            "entities": []
+         },
+         {
+            "text": "انا اختبر الشات بوت",
+            "intent": "test",
+            "entities": []
+         },
+         {
+            "text": "انا اختبر المحادثة",
+            "intent": "test",
+            "entities": []
+         },
+         {
+            "text": "انا اختبر المحادثة الإفتراضية",
+            "intent": "test",
+            "entities": []
+         },
+         {
+            "text": "اختبار الشات بوت",
+            "intent": "test",
+            "entities": []
+         },
+         {
+            "text": "اختبار البوت",
+            "intent": "test",
+            "entities": []
+         },
+         {
+            "text": "اختبار المحادثة",
+            "intent": "test",
+            "entities": []
+         },
+         {
+            "text": "اختبار الدردشة",
+            "intent": "test",
+            "entities": []
+         },
+         {
+            "text": "اختبار",
+            "intent": "test",
+            "entities": []
+         },
+         {
+            "text": "تجربة",
+            "intent": "test",
+            "entities": []
+         },
+         {
+            "text": "مجرد اختبار",
+            "intent": "test",
+            "entities": []
+         },
+         {
+            "text": "انا اختبرك فقط",
+            "intent": "test",
+            "entities": []
+         },
+         {
+            "text": "مجرد متجربة",
+            "intent": "test",
+            "entities": []
+         },
+         {
+            "text": "وقت الاختبار",
+            "intent": "test",
+            "entities": []
+         },
+         {
+            "text": "سأختبرك الأن",
+            "intent": "test",
+            "entities": []
+         },
+         {
+            "text": "سأجرى عليك اختبار الان",
+            "intent": "test",
+            "entities": []
+         },
+         {
+            "text": "اريد أن اختبرك؟",
+            "intent": "test",
+            "entities": []
+         },
+         {
+            "text": "ماذا اذا كنت اود اختبارك؟",
+            "intent": "test",
+            "entities": []
+         },
+         {
+            "text": "ارغب فى اختبارك؟",
+            "intent": "test",
+            "entities": []
+         },
+         {
+            "text": "اجرى بعض الاختبارات",
+            "intent": "test",
+            "entities": []
+         },
+         {
+            "text": "مجرد بعض الاختبارات",
+            "intent": "test",
+            "entities": []
+         },
+         {
+            "text": "سأختبرك فقط",
+            "intent": "test",
+            "entities": []
+         },
+         {
+            "text": "مجرد اختبار للدردشة",
+            "intent": "test",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

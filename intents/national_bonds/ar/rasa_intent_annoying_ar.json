@@ -1,0 +1,67 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "انت تزعجنى للغاية",
+            "intent": "annoying",
+            "entities": []
+         },
+         {
+            "text": "انت مزعج جدا",
+            "intent": "annoying",
+            "entities": []
+         },
+         {
+            "text": "انت مزعج للغاية",
+            "intent": "annoying",
+            "entities": []
+         },
+         {
+            "text": "انت مزعج",
+            "intent": "annoying",
+            "entities": []
+         },
+         {
+            "text": "انت تزعجنى",
+            "intent": "annoying",
+            "entities": []
+         },
+         {
+            "text": "لقد ازعجتنى",
+            "intent": "annoying",
+            "entities": []
+         },
+         {
+            "text": "انت تزعجنى جدا",
+            "intent": "annoying",
+            "entities": []
+         },
+         {
+            "text": "انت تغضبنى جدا",
+            "intent": "annoying",
+            "entities": []
+         },
+         {
+            "text": "انت ثتير اعصابي",
+            "intent": "annoying",
+            "entities": []
+         },
+         {
+            "text": "انت شئ مزعج",
+            "intent": "annoying",
+            "entities": []
+         },
+         {
+            "text": "انت شئ مزعج جدا",
+            "intent": "annoying",
+            "entities": []
+         },
+         {
+            "text": "انت غبي",
+            "intent": "annoying",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

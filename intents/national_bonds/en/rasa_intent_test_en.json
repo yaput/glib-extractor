@@ -1,0 +1,72 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "I am testing you",
+            "intent": "test",
+            "entities": []
+         },
+         {
+            "text": "I am testing chatbot",
+            "intent": "test",
+            "entities": []
+         },
+         {
+            "text": "Can I test you",
+            "intent": "test",
+            "entities": []
+         },
+         {
+            "text": "I want to test you",
+            "intent": "test",
+            "entities": []
+         },
+         {
+            "text": "just testing",
+            "intent": "test",
+            "entities": []
+         },
+         {
+            "text": "just testing you",
+            "intent": "test",
+            "entities": []
+         },
+         {
+            "text": "testing chatbot",
+            "intent": "test",
+            "entities": []
+         },
+         {
+            "text": "i am just testing you",
+            "intent": "test",
+            "entities": []
+         },
+         {
+            "text": "testing time",
+            "intent": "test",
+            "entities": []
+         },
+         {
+            "text": "i am about to test you",
+            "intent": "test",
+            "entities": []
+         },
+         {
+            "text": "what if i test you?",
+            "intent": "test",
+            "entities": []
+         },
+         {
+            "text": "i will just test you",
+            "intent": "test",
+            "entities": []
+         },
+         {
+            "text": "i do testing stuff",
+            "intent": "test",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

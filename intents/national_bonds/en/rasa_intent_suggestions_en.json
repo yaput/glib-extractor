@@ -1,0 +1,77 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "Please advise",
+            "intent": "suggestions",
+            "entities": []
+         },
+         {
+            "text": "Please suggest",
+            "intent": "suggestions",
+            "entities": []
+         },
+         {
+            "text": "Give me some advise",
+            "intent": "suggestions",
+            "entities": []
+         },
+         {
+            "text": "Give me some suggestions",
+            "intent": "suggestions",
+            "entities": []
+         },
+         {
+            "text": "I need advice",
+            "intent": "suggestions",
+            "entities": []
+         },
+         {
+            "text": "What should I do?",
+            "intent": "suggestions",
+            "entities": []
+         },
+         {
+            "text": "can i ask for a advice",
+            "intent": "suggestions",
+            "entities": []
+         },
+         {
+            "text": "any advices?",
+            "intent": "suggestions",
+            "entities": []
+         },
+         {
+            "text": "do you give life advices",
+            "intent": "suggestions",
+            "entities": []
+         },
+         {
+            "text": "can i get a opinion?",
+            "intent": "suggestions",
+            "entities": []
+         },
+         {
+            "text": "i want your opinion",
+            "intent": "suggestions",
+            "entities": []
+         },
+         {
+            "text": "i am looking for advices",
+            "intent": "suggestions",
+            "entities": []
+         },
+         {
+            "text": "i want to take your advice",
+            "intent": "suggestions",
+            "entities": []
+         },
+         {
+            "text": "i would love if you give me an advice",
+            "intent": "suggestions",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

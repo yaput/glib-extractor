@@ -1,0 +1,217 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "What is FATCA?",
+            "intent": "fatca",
+            "entities": []
+         },
+         {
+            "text": "FATCA law",
+            "intent": "fatca",
+            "entities": []
+         },
+         {
+            "text": "Does NB follow FATCA",
+            "intent": "fatca",
+            "entities": []
+         },
+         {
+            "text": "will I be affected form FATCA",
+            "intent": "fatca",
+            "entities": []
+         },
+         {
+            "text": "Foreign account tax policy",
+            "intent": "fatca",
+            "entities": []
+         },
+         {
+            "text": "Who all is FATCA implied to?",
+            "intent": "fatca",
+            "entities": []
+         },
+         {
+            "text": "What does FATCA mean?",
+            "intent": "fatca",
+            "entities": []
+         },
+         {
+            "text": "Is FATCA only for US personals?",
+            "intent": "fatca",
+            "entities": []
+         },
+         {
+            "text": "Is FATCA valid in the UAE?",
+            "intent": "fatca",
+            "entities": []
+         },
+         {
+            "text": "information on national bank FATCA law",
+            "intent": "fatca",
+            "entities": []
+         },
+         {
+            "text": "will FATCA law affect me?",
+            "intent": "fatca",
+            "entities": []
+         },
+         {
+            "text": "Who all will be affected by FATCA?",
+            "intent": "fatca",
+            "entities": []
+         },
+         {
+            "text": "what is this fatca?",
+            "intent": "fatca",
+            "entities": []
+         },
+         {
+            "text": "FAQs on FATCA",
+            "intent": "fatca",
+            "entities": []
+         },
+         {
+            "text": "US tax payers",
+            "intent": "fatca",
+            "entities": []
+         },
+         {
+            "text": "are the national bonds impacted from FATCA",
+            "intent": "fatca",
+            "entities": []
+         },
+         {
+            "text": "is CRS same as FATCA?",
+            "intent": "fatca",
+            "entities": []
+         },
+         {
+            "text": "How should i report foreign tax payment",
+            "intent": "fatca",
+            "entities": []
+         },
+         {
+            "text": "What is the full form of FATCA",
+            "intent": "fatca",
+            "entities": []
+         },
+         {
+            "text": "Foreign Account Tax Compliance Act",
+            "intent": "fatca",
+            "entities": []
+         },
+         {
+            "text": "What is FATCA",
+            "intent": "fatca",
+            "entities": []
+         },
+         {
+            "text": "What is the impact of FATCA",
+            "intent": "fatca",
+            "entities": []
+         },
+         {
+            "text": "when will fatca become effective",
+            "intent": "fatca",
+            "entities": []
+         },
+         {
+            "text": "Is National Bonds implementing FATCA requirements?",
+            "intent": "fatca",
+            "entities": []
+         },
+         {
+            "text": "Is National Bonds the only Financial Institution implementing FATCA in UAE?",
+            "intent": "fatca",
+            "entities": []
+         },
+         {
+            "text": "How will you determine if my account with National Bonds is impacted by FATCA?",
+            "intent": "fatca",
+            "entities": []
+         },
+         {
+            "text": "How will I know if I am impacted by FATCA?",
+            "intent": "fatca",
+            "entities": []
+         },
+         {
+            "text": "I purchased USD Bonds from National Bonds. Does this mean that I am impacted by FATCA?",
+            "intent": "fatca",
+            "entities": []
+         },
+         {
+            "text": "I am not a Citizen of USA. Would FATCA still apply to me?",
+            "intent": "fatca",
+            "entities": []
+         },
+         {
+            "text": "im not a us citizen will fatca apply",
+            "intent": "fatca",
+            "entities": []
+         },
+         {
+            "text": "What are implications for me if I am considered Reportable Person as per FATCA?",
+            "intent": "fatca",
+            "entities": []
+         },
+         {
+            "text": "What information will National Bonds report to UAE Central Bank regarding FATCA",
+            "intent": "fatca",
+            "entities": []
+         },
+         {
+            "text": "FATCA Foreign Account Tax Compliance Act (FATCA)",
+            "intent": "fatca",
+            "entities": []
+         },
+         {
+            "text": "What is FATCA?",
+            "intent": "fatca",
+            "entities": []
+         },
+         {
+            "text": "What is the impact of FATCA and when will it become effective?",
+            "intent": "fatca",
+            "entities": []
+         },
+         {
+            "text": "Is National Bonds implementing FATCA requirements?",
+            "intent": "fatca",
+            "entities": []
+         },
+         {
+            "text": "Is National Bonds the only Financial Institution implementing FATCA in UAE?",
+            "intent": "fatca",
+            "entities": []
+         },
+         {
+            "text": "How will I know if I am impacted by FATCA?",
+            "intent": "fatca",
+            "entities": []
+         },
+         {
+            "text": "I am not a Citizen of USA. Would FATCA still apply to me?",
+            "intent": "fatca",
+            "entities": []
+         },
+         {
+            "text": "What are implications for me if I am considered Reportable Person as per FATCA?",
+            "intent": "fatca",
+            "entities": []
+         },
+         {
+            "text": "What information should I provide to National Bonds?",
+            "intent": "fatca",
+            "entities": []
+         },
+         {
+            "text": "Where can I obtain more details about FATCA?",
+            "intent": "fatca",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

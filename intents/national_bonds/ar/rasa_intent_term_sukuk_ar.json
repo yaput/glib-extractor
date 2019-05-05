@@ -1,0 +1,132 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "ما هو تيرم صكوك",
+            "intent": "term_sukuk",
+            "entities": []
+         },
+         {
+            "text": "ما هى فوائد تيرم صكوك",
+            "intent": "term_sukuk",
+            "entities": []
+         },
+         {
+            "text": "معلومات عن خطة تيرم صكوك",
+            "intent": "term_sukuk",
+            "entities": []
+         },
+         {
+            "text": "هل يمكنني شراء خطة تيرم صكوك خاصة بعملى",
+            "intent": "term_sukuk",
+            "entities": []
+         },
+         {
+            "text": "هل يمكنني شراء خطة تيرم صكوك خاصة بشركتى",
+            "intent": "term_sukuk",
+            "entities": []
+         },
+         {
+            "text": "هل يمكنني شراء خطة تيرم صكوك خاصة بمؤسستى",
+            "intent": "term_sukuk",
+            "entities": []
+         },
+         {
+            "text": "التقدم بطلب للحصول علي خطة ادخار تيرم صكوك",
+            "intent": "term_sukuk",
+            "entities": []
+         },
+         {
+            "text": "التقدم بطلب للحصول علي خطة  تيرم صكوك الادخارية",
+            "intent": "term_sukuk",
+            "entities": []
+         },
+         {
+            "text": "شراء صكوك شخصية",
+            "intent": "term_sukuk",
+            "entities": []
+         },
+         {
+            "text": "اريد شراء صكوك للمؤسسات",
+            "intent": "term_sukuk",
+            "entities": []
+         },
+         {
+            "text": "فوائد الصكوك",
+            "intent": "term_sukuk",
+            "entities": []
+         },
+         {
+            "text": "مدة استثمار الصكوك",
+            "intent": "term_sukuk",
+            "entities": []
+         },
+         {
+            "text": "مدة الاستثمار الخاصة بالصكوك",
+            "intent": "term_sukuk",
+            "entities": []
+         },
+         {
+            "text": "هل يمكننى شراء صكوك",
+            "intent": "term_sukuk",
+            "entities": []
+         },
+         {
+            "text": "ما هى الصكوك الاسلامية",
+            "intent": "term_sukuk",
+            "entities": []
+         },
+         {
+            "text": "فوائد الاستثمار فى الصكوك",
+            "intent": "term_sukuk",
+            "entities": []
+         },
+         {
+            "text": "ما هى مدة الاستثمار فى الصكوك",
+            "intent": "term_sukuk",
+            "entities": []
+         },
+         {
+            "text": "ثلاثة شهور تيرم صكوك",
+            "intent": "term_sukuk",
+            "entities": []
+         },
+         {
+            "text": "ثلاثة اشهر تيرم صكوك",
+            "intent": "term_sukuk",
+            "entities": []
+         },
+         {
+            "text": "مدة استثمار تيرم صكوك",
+            "intent": "term_sukuk",
+            "entities": []
+         },
+         {
+            "text": "ستة شهور تيرم صكوك",
+            "intent": "term_sukuk",
+            "entities": []
+         },
+         {
+            "text": "ستة اشهر تيرم صكوك",
+            "intent": "term_sukuk",
+            "entities": []
+         },
+         {
+            "text": "تيرم صكوك للمؤسسات",
+            "intent": "term_sukuk",
+            "entities": []
+         },
+         {
+            "text": "الحد الأدنى لفترة الاستثمار فى تيرم صكوك",
+            "intent": "term_sukuk",
+            "entities": []
+         },
+         {
+            "text": "تيرم صكوك",
+            "intent": "term_sukuk",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

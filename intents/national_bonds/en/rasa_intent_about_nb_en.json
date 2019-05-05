@@ -1,0 +1,152 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "Who owns National bonds?",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "what is National bonds?",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "when was National bonds founded?",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "how old is NB?",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "when did NB start?",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "when was national bonds launched?",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "about national bonds",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "tell me about national bonds",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "i want to know more about national bonds",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "history of national bonds",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "i never heard of national bonds",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "brief me on national bonds",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "when did national bonds start?",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "Is national bonds owned by the government ?",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "What is NB?",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "How old is national bonds?",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "When was NB launched?",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "Who owns NB?",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "What does NB do?",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "What are national bonds into?",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "Is national bond islamic ?",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "do these National Bonds work the same way as Premium Bonds?",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "who is the owner of national bonds",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "is national bond a bank?",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "is this a bank?",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "What is national bonds",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "what is national bonds",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "can you tell me what national bonds is?",
+            "intent": "about_nb",
+            "entities": []
+         },
+         {
+            "text": "What is national bonds",
+            "intent": "about_nb",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

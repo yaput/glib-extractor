@@ -1,0 +1,157 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "I want to provide my feedback",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "please help me give my feedback",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "i want to complain",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "i want to make a complaint",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "please help me place a complaint",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "i wanna complain",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "i dont like the service i wanna complain",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "please help me complain",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "i want a suggestion",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "i have feedback",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "id like to give my feedback",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "i have a suggestion",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "i want to give feedback",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "id like to provide some tips",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "i need to give some tips to improve service",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "i have issues regarding certain services",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "i have an issue with a particular doctor",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "i have a problem with a doctor",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "i want to complian about a hospital",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "i want to give my feedback for Avivo",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "help me give my feedback",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "can you guide me on how to place a complaint",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "what action is taken against a complaint",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "what happens when one places a complaint",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "how can one provide feedback?",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "Feedback",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "Complaint",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "Suggestion",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "suggest",
+            "intent": "feedback",
+            "entities": []
+         },
+         {
+            "text": "tips",
+            "intent": "feedback",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}

@@ -1,0 +1,87 @@
+{
+   "rasa_nlu_data": {
+      "common_examples": [
+         {
+            "text": "Apply to step up bonds",
+            "intent": "step_up_bonds",
+            "entities": []
+         },
+         {
+            "text": "investment period of step up bonds",
+            "intent": "step_up_bonds",
+            "entities": []
+         },
+         {
+            "text": "tell me about step up bonds",
+            "intent": "step_up_bonds",
+            "entities": []
+         },
+         {
+            "text": "brief me about step up bonds",
+            "intent": "step_up_bonds",
+            "entities": []
+         },
+         {
+            "text": "how to apply for step up bonds",
+            "intent": "step_up_bonds",
+            "entities": []
+         },
+         {
+            "text": "i want to apply for step up bonds",
+            "intent": "step_up_bonds",
+            "entities": []
+         },
+         {
+            "text": "more about step up bonds",
+            "intent": "step_up_bonds",
+            "entities": []
+         },
+         {
+            "text": "what are step up bonds",
+            "intent": "step_up_bonds",
+            "entities": []
+         },
+         {
+            "text": "what is step up bonds",
+            "intent": "step_up_bonds",
+            "entities": []
+         },
+         {
+            "text": "i need info on step up bonds",
+            "intent": "step_up_bonds",
+            "entities": []
+         },
+         {
+            "text": "give info on stepup bonds",
+            "intent": "step_up_bonds",
+            "entities": []
+         },
+         {
+            "text": "whats stepup bonds",
+            "intent": "step_up_bonds",
+            "entities": []
+         },
+         {
+            "text": "step-up bonds",
+            "intent": "step_up_bonds",
+            "entities": []
+         },
+         {
+            "text": "give some information on step up",
+            "intent": "step_up_bonds",
+            "entities": []
+         },
+         {
+            "text": "give some information on stepup bonds",
+            "intent": "step_up_bonds",
+            "entities": []
+         },
+         {
+            "text": "want to apply for a stepup bond",
+            "intent": "step_up_bonds",
+            "entities": []
+         }
+      ],
+      "entity_synonyms": []
+   }
+}
